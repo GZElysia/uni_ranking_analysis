@@ -1,0 +1,1502 @@
+Rank,Institution Name,Country,Year,Classification_SIZE,Classification_FOCUS,Research Intensity,Age,Status,Academic Reputation,Employer Reputation,Faculty Student,Citations per Faculty,International Faculty,International Students,International Research Network,Employment Outcomes,Sustainability,Overall
+1,Massachusetts Institute of Technology (MIT),United States of America,2026,M,CO,VH,,,100,100,100,100,100,91.6,94.1,100,93.8,100
+2,Imperial College London,United Kingdom,2026,L,FO,VH,,,99.6,100,99.3,95,100,100,97.5,95.9,98.3,99.4
+3,Stanford University,United States of America,2026,L,FC,VH,,,100,100,100,99.7,94.2,73.5,96.5,100,95.4,98.9
+4,University of Oxford,United Kingdom,2026,L,FC,VH,,,100,100,100,91,98.8,98.6,100,100,77.9,97.9
+5,Harvard University,United States of America,2026,L,FC,VH,,,100,100,98.3,100,79.1,81.4,99.4,100,77.8,97.7
+6,University of Cambridge,United Kingdom,2026,L,FC,VH,,,100,100,100,88.6,100,93.1,99.2,100,78.4,97.2
+7,ETH Zurich (Swiss Federal Institute of Technology),Switzerland,2026,L,FO,VH,,,99.7,96.3,71.7,98.8,100,99.3,95.8,95,99.6,96.7
+8,National University of Singapore (NUS),Singapore,2026,XL,FC,VH,,,99.9,98.2,71.5,95.9,100,96.9,92.4,100,90,95.9
+9,UCL (University College London),United Kingdom,2026,XL,FC,VH,,,99.9,99.4,94.8,80.9,99.6,100,99.9,89.3,98.5,95.8
+10,California Institute of Technology (Caltech),United States of America,2026,S,FO,VH,,,98.3,99.2,100,100,100,90.7,61.8,49.1,79.2,94.3
+11,The University of Hong Kong,"Hong Kong SAR, China",2026,L,FC,VH,,,99.3,82.5,85.3,96.6,100,100,82.3,99.8,84.8,94.2
+12,"Nanyang Technological University, Singapore (NTU Singapore)",Singapore,2026,L,FC,VH,,,97.1,91.4,83.9,94.6,100,93.1,86.9,87.7,87.2,93.7
+13,University of Chicago,United States of America,2026,L,FC,VH,,,99.8,99.3,97.3,78.1,86.1,92.8,87.7,99.8,73.3,93
+14,Peking University,China (Mainland),2026,XL,FC,VH,,,99.9,99.6,96.2,99.2,59.9,37.3,83.2,97,70.6,92.6
+15,University of Pennsylvania,United States of America,2026,L,FC,VH,,,98.9,98.7,99.9,72,96.9,76.3,89.4,100,95,92.5
+16,Cornell University,United States of America,2026,L,FC,VH,,,99.5,98.8,64.3,98,57.6,75.7,93,99.3,76.8,91.6
+17,Tsinghua University,China (Mainland),2026,XL,FC,VH,,,99.9,99.7,97.1,99.6,39.5,31.9,80.4,97,68.7,91.2
+17,"University of California, Berkeley (UCB)",United States of America,2026,XL,FC,VH,,,100,100,29.4,97.2,95.6,70.6,96.7,99.8,98.8,91.2
+19,The University of Melbourne,Australia,2026,XL,FC,VH,,,99.7,97.4,20.5,94.8,96.7,100,96.9,98.3,98.2,90.8
+20,The University of New South Wales,Australia,2026,XL,FC,VH,,,96.3,93.5,29.9,96.9,100,99.9,97.6,98.7,97,90.7
+21,Yale University,United States of America,2026,L,FC,VH,,,100,100,100,64.8,86.7,72.7,92.9,99.8,82.4,90.4
+22,?cole Polytechnique F¨¦d¨¦rale de Lausanne,Switzerland,2026,M,FO,VH,,,92.7,88,90,93.1,100,100,83.6,47.3,85.3,90.2
+22,Technical University of Munich,Germany,2026,XL,FO,VH,,,92,99.7,70.5,92.6,86.3,98.9,95.9,57.3,87.8,90.2
+24,Johns Hopkins University,United States of America,2026,L,FC,VH,,,93.2,79.2,100,85.8,70.8,94.2,97.4,84.1,93,89.7
+25,Princeton University,United States of America,2026,M,CO,VH,,,100,99.8,67.3,100,12.7,70,82.6,98.9,76,89.4
+25,The University of Sydney,Australia,2026,XL,FC,VH,,,98.9,94.2,15.7,94.3,99.9,100,95.5,95.8,97.6,89.4
+27,McGill University,Canada,2026,L,FC,VH,,,98.1,93.5,67.3,72.4,88.6,93.5,92.9,98.9,96.3,88.9
+28,PSL University,France,2026,L,CO,VH,,,82.6,98.5,98.6,85.1,69.6,75.5,99.7,97.5,87.8,88.6
+29,University of Toronto,Canada,2026,XL,FC,VH,,,100,99.1,45.7,68.8,97.9,97.9,97,99.4,100,88.5
+30,Fudan University,China (Mainland),2026,XL,FC,VH,,,93.7,95.1,84.8,92.8,88.5,46.4,75.5,73.3,83.1,88.4
+31,King's College London (KCL),United Kingdom,2026,XL,FC,VH,,,96.2,91.8,74.4,70.2,99.5,99,98.4,76.4,96.5,88.3
+32,Australian National University,Australia,2026,L,FC,VH,,,97.9,82.6,40.9,91.7,100,99,93.1,67.1,91.8,87.4
+32,The Chinese University of Hong Kong,"Hong Kong SAR, China",2026,L,FC,VH,,,94.2,67.3,75.9,95,100,93.3,68.2,91.2,84.1,87.4
+34,University of Edinburgh,United Kingdom,2026,XL,FC,VH,,,99.6,98.2,77.3,54.3,99.7,99.9,99.5,69.7,98.3,87.2
+35,The University of Manchester,United Kingdom,2026,XL,FC,VH,,,98.6,98.8,58.2,56.8,95.3,99.5,99.4,91.9,98.2,86.4
+36,Monash University,Australia,2026,XL,FC,VH,,,95.7,87.5,11.3,93,100,100,94.7,86.7,91.7,85.8
+36,The University of Tokyo,Japan,2026,L,FC,VH,,,100,99.9,92.4,69.9,15.9,44,88.8,100,92.3,85.8
+38,Columbia University,United States of America,2026,XL,FC,VH,,,99.9,99.9,100,44.5,48.5,98.1,98.4,100,77.9,85.6
+38,Seoul National University,Republic of Korea,2026,L,FC,VH,,,99.7,99.1,85.6,81.2,13.2,27.5,77.6,100,90.8,85.6
+40,University of British Columbia,Canada,2026,XL,FC,VH,,,99.6,96.5,34.7,70.9,98.5,79.8,96.6,84.9,98.5,85.5
+41,Institut Polytechnique de Paris,France,2026,M,CO,VH,,,58.1,99.8,94.8,97.3,99.9,99.2,93,99.1,77.9,85.4
+42,Northwestern University,United States of America,2026,L,FC,VH,,,92.2,89.4,99.1,71.2,57.7,67.2,86.5,99.5,74.4,85.1
+42,The University of Queensland,Australia,2026,XL,FC,VH,,,94.3,79.5,26.5,94.2,100,100,97,66.6,92.5,85.1
+44,The Hong Kong University of Science and Technology,"Hong Kong SAR, China",2026,M,FO,VH,,,89.4,69.7,67.5,100,100,99.3,49.5,76.6,79.7,84.8
+45,University of Michigan-Ann Arbor,United States of America,2026,XL,FC,VH,,,99.3,98.5,85.7,54.5,73.9,56.1,96,99.1,77.2,84.7
+46,"University of California, Los Angeles (UCLA)",United States of America,2026,XL,FC,VH,,,100,100,43.6,84.3,50.8,31.8,93.5,98,78,84.4
+47,Delft University of Technology,Netherlands,2026,L,CO,VH,,,86.2,90.4,49.1,84.6,100,94.8,93.8,66,96.3,84.3
+47,Shanghai Jiao Tong University,China (Mainland),2026,XL,FC,VH,,,92.7,93.8,64.5,100,40.9,19.1,77.7,88.2,82.5,84.3
+49,Zhejiang University,China (Mainland),2026,XL,FC,VH,,,87,97.2,53,100,94.1,23.5,94,74.4,63,84
+50,Yonsei University,Republic of Korea,2026,L,FC,VH,,,91.6,97.8,84.3,67.9,30.5,74.3,78,94.4,87.7,82.9
+51,University of Bristol,United Kingdom,2026,XL,FC,VH,,,87.3,89.4,36.7,83.2,90.7,95.7,95.3,63.1,97,82.5
+52,Carnegie Mellon University,United States of America,2026,L,FC,VH,,,80.1,94.4,51.1,98.6,52.4,98.7,79.2,79.9,66.2,82.3
+53,The University of Amsterdam,Netherlands,2026,XL,FC,VH,,,92.5,72.6,27.5,87.2,98.8,95.8,95.1,90.3,64,81.5
+54,The Hong Kong Polytechnic University,"Hong Kong SAR, China",2026,L,CO,VH,,,81.2,47.5,77.1,98.7,100,98.8,82.8,74.1,80.8,81.2
+55,New York University (NYU),United States of America,2026,XL,FC,VH,,,98.6,99.9,89,31.7,33.1,99.7,93.5,99.5,91.3,81.1
+56,London School of Economics and Political Science (LSE),United Kingdom,2026,L,FO,VH,,,80.6,99.4,47.2,64,100,100,76.4,99.9,92.7,80.5
+57,Kyoto University,Japan,2026,L,FC,VH,,,99.7,99.3,94.3,50.9,22.9,29.2,85.5,85.9,84,80.2
+58,Ludwig-Maximilians-Universit?t M¨¹nchen,Germany,2026,XL,FC,VH,,,97.1,95.5,41,62.3,80.3,53.2,95.5,76.8,87,80.1
+58,Universiti Malaya (UM),Malaysia,2026,L,FC,VH,,,92.3,96.7,74.2,47.4,69.2,86.8,92.9,77.7,84.7,80.1
+60,KU Leuven,Belgium,2026,XL,FC,VH,,,93,63.5,9.6,94.7,95.8,65.1,99.5,83.5,94.7,79.7
+61,Korea University,Republic of Korea,2026,L,FC,VH,,,89.2,95.4,77,68.2,24.5,64,67.7,93.6,85.9,79.6
+62,Duke University,United States of America,2026,L,FC,VH,,,92.9,91,100,47.1,28.3,62,90.8,95.6,77.6,79
+63,City University of Hong Kong,"Hong Kong SAR, China",2026,M,CO,VH,,,75.5,46.7,94.8,100,100,100,64.5,48.5,75.2,78.9
+63,National Taiwan University (NTU),Taiwan,2026,L,FC,VH,,,97.7,94.2,38.8,70.9,25.3,59.2,67.1,100,88.4,78.9
+65,The University of Auckland,New Zealand,2026,XL,FC,VH,,,91.7,55.2,17.6,79.1,100,95.5,88.8,96.9,95.7,77.5
+66,"University of California, San Diego (UCSD)",United States of America,2026,XL,FC,VH,,,94,80.2,54.4,80.3,43.8,47,94,40.8,72.3,76.9
+67,King Fahd University of Petroleum & Minerals,Saudi Arabia,2026,M,FO,VH,,,53.5,75.6,92.4,93.2,100,76.2,81,97.8,62.7,76.5
+68,University of Texas at Austin,United States of America,2026,XL,FC,VH,,,97.6,96.8,10.7,85.4,9.1,19.1,90.5,93.9,70.6,76.4
+69,Brown University,United States of America,2026,M,FC,VH,,,72.4,64.3,84.5,82.2,91,67,80.1,81.9,72.6,76.2
+70,Universit¨¦ Paris-Saclay,France,2026,XL,CO,VH,,,75.3,99.4,99.9,42.4,45.9,72.7,98.5,82.9,92.7,75.9
+70,University of Illinois at Urbana-Champaign,United States of America,2026,XL,FC,VH,,,91.7,91.5,8.6,81.6,14.2,70.1,91.3,92.5,75.9,75.9
+72,Lund University,Sweden,2026,L,FC,VH,,,80.1,64.1,68.1,56.6,98.8,82,97.1,96.1,98.8,75.7
+72,Sorbonne University (merged from Paris IV & UPMC),France,2026,XL,FC,VH,,,93.2,62.1,56.4,68.8,35.5,66.8,99.4,84.2,89.2,75.7
+74,The University of Warwick,United Kingdom,2026,L,FC,VH,,,82.7,93,48.3,43.6,99.5,99.2,93.8,75.3,84.6,75.2
+75,"Trinity College Dublin, The University of Dublin",Ireland,2026,L,FC,VH,,,82.5,68.1,28.7,66,100,94.9,89.4,95.3,73.8,73.9
+76,University of Birmingham,United Kingdom,2026,XL,FC,VH,,,81.1,75.7,49.9,56.1,96.7,93.4,96.3,54.7,92.8,73.8
+77,The University of Western Australia,Australia,2026,L,FC,VH,,,69,56.5,15.1,99.2,100,100,93.2,82.6,83.7,73.7
+78,KTH Royal Institute of Technology,Sweden,2026,L,FO,VH,,,60.2,62.1,68.3,88.2,95.6,81.8,91.7,72.7,89.8,73.6
+79,University of Glasgow,United Kingdom,2026,XL,FC,VH,,,88.3,73.5,50.3,44.8,98,99.1,97,44.5,95.4,73.4
+80,Ruprecht-Karls-Universit?t Heidelberg,Germany,2026,L,FO,VH,,,87.1,72.2,99.8,41.4,66.2,71.4,94.7,34.6,85.5,73
+81,University of Washington,United States of America,2026,XL,FC,VH,,,90.1,74.8,49.2,69.2,14.7,45.8,95,79.9,74.9,72.7
+82,Adelaide University,Australia,2026,XL,CO,VH,,,78.3,62.7,30.5,69.8,100,97.5,96.7,70.4,86.1,72.6
+82,Pennsylvania State University,United States of America,2026,XL,FC,VH,,,86.1,85.8,29.1,67.2,37.4,38.2,97.4,79.2,95.4,72.6
+84,Universidad de Buenos Aires,Argentina,2026,XL,FC,VH,,,98.1,95.8,82,2.3,72.3,78.5,75.8,99.9,66.1,72.3
+85,Tokyo Institute of Technology,Japan,2026,M,FO,VH,,,85,95.7,87.6,54.2,29.8,43.4,67.8,33.5,74.2,72.1
+86,University of Leeds,United Kingdom,2026,XL,FC,VH,,,81.8,82.1,39.7,48.8,89.7,96.3,99.2,62.9,76.4,72
+87,University of Southampton,United Kingdom,2026,L,FC,VH,,,62.6,55.9,40.1,87.8,96.8,98.6,97.4,58.6,95.1,71.2
+88,Boston University,United States of America,2026,L,FC,VH,,,75.3,86.7,40.6,61.9,40,92.8,84.9,86.9,73.7,71.1
+88,Freie Universit?t Berlin,Germany,2026,L,FC,VH,,,88.3,66.4,8.3,84.3,73.8,56,94.4,46.9,65.4,71.1
+88,Purdue University,United States of America,2026,XL,FC,VH,,,74.3,92.7,16.4,62.4,96.4,55.3,91,81,88.4,71.1
+91,The University of Osaka,Japan,2026,L,FC,VH,,,90.5,90,45.6,65.8,25.2,21.1,72,51.4,79.5,71
+92,The University of Sheffield,United Kingdom,2026,L,FC,VH,,,73,61.7,50.3,68.4,81.6,98,96.8,47.9,94.3,70.9
+93,Uppsala University,Sweden,2026,L,FC,VH,,,74.7,48.1,66.3,55.9,99.7,82.9,95.9,82.9,94.4,70.3
+94,Durham University,United Kingdom,2026,L,FC,VH,,,74.1,91.9,37.3,42.9,99.2,94.5,90.9,53.6,95.2,70.1
+94,University of Alberta,Canada,2026,XL,FC,VH,,,70.9,53,44.6,71.5,99.4,78.6,94.5,77.1,90.7,70.1
+96,University of Technology Sydney,Australia,2026,L,CO,VH,,,58.7,66.7,11.8,99.3,97.6,91.7,89.7,52.3,92,69.9
+97,The University of Nottingham,United Kingdom,2026,XL,FC,VH,,,75.4,78.4,44.5,48.6,92.7,78.5,97.4,53.7,92.9,69.4
+98,Karlsruhe Institute of Technology (KIT),Germany,2026,L,FO,VH,,,57.1,87.4,48.9,77.1,83.8,56.9,86.9,61.5,79.5,69.1
+98,Politecnico di Milano,Italy,2026,XL,CO,VH,,,83.4,90.1,9.3,53.9,74.4,69.3,87,72,72.9,69.1
+100,University of Zurich (UZH),Switzerland,2026,L,FO,VH,,,71,43.5,95.2,52.3,100,57.8,93.5,90.8,69.8,68.5
+101,University of Copenhagen,Denmark,2026,XL,FC,VH,,,85.5,41.7,99.6,36.6,87.3,26.5,98,94.4,76.3,68.4
+102,Pohang University of Science And Technology (POSTECH),Republic of Korea,2026,S,FO,VH,,,61.3,83.3,99.9,98.3,31.6,4.2,29.6,16,64.3,67.9
+103,Nanjing University,China (Mainland),2026,XL,FC,VH,,,72.1,61.2,37.2,99,82.9,15.9,69.5,39.7,59.5,67.7
+103,Utrecht University,Netherlands,2026,XL,FC,VH,,,79.3,49.2,39.5,77.9,63.4,30.5,97.8,73.2,75.1,67.7
+105,Lomonosov Moscow State University,Russian Federation,2026,L,FC,VH,,,83.7,87.9,99.9,7.3,25.5,96,87,98.3,48.8,67.6
+105,Rheinisch-Westf?lische Technische Hochschule Aachen,Germany,2026,L,FC,VH,,,57.7,95.7,10.7,79.7,59.6,93,86,55.9,82.9,67.6
+107,Technical University of Denmark,Denmark,2026,M,FO,VH,,,44.8,36.2,98.4,90.9,100,95.9,87.1,60.5,68,67.5
+108,Universidade de S?o Paulo (USP),Brazil,2026,XL,FC,VH,,,97.3,81,30.5,40.3,9.2,3.5,95.3,98.8,89,67.3
+109,Tohoku University,Japan,2026,L,FC,VH,,,84.5,86.5,98.2,35.5,20.5,19.4,70.1,36.5,82,66.7
+110,Queen Mary University of London (QMUL),United Kingdom,2026,L,FC,VH,,,63.6,47.1,31,83.4,99.9,99.9,91.9,40.1,82.4,66.6
+110,University of Wisconsin-Madison,United States of America,2026,XL,FC,VH,,,85.7,63.1,84.3,28.1,57.7,37,88.9,91,72.5,66.6
+112,Qatar University,Qatar,2026,M,FC,VH,,,43.3,56.5,73.8,73.3,100,98.6,89.6,98.9,72.2,66.5
+113,University of St Andrews,United Kingdom,2026,M,FO,VH,,,61.5,74.9,63.8,51.3,98.8,99.7,87.7,28.9,86.2,66.4
+114,Aalto University,Finland,2026,L,FO,VH,,,57.5,56.1,35.1,79.6,97.2,60,80.9,97.1,88.3,66.3
+114,"University of California, Davis",United States of America,2026,XL,FC,VH,,,72.7,70.1,28.3,66.5,86.5,61.9,90.8,38,79.8,66.3
+116,Pontificia Universidad Cat¨®lica de Chile,Chile,2026,L,FC,VH,,,98,98.6,35.1,14.2,42,7.8,81.2,99.9,80,66.1
+116,University of Helsinki,Finland,2026,L,CO,VH,,,74.5,37.7,66.9,62.7,78.5,13.1,96.1,94.2,95.6,66.1
+118,University College Dublin,Ireland,2026,L,FC,VH,,,66.5,57.6,19.7,62,99.5,89.6,89,92.2,91.7,66
+119,Leiden University,Netherlands,2026,XL,FC,VH,,,80.4,46.3,30.3,64.9,89.7,68.4,94.3,61.2,58.6,65.7
+119,Rice University,United States of America,2026,M,CO,VH,,,50.6,51,74.9,81.6,91.3,96.6,66.3,45.7,81.5,65.7
+119,University of Oslo,Norway,2026,L,FC,VH,,,67.8,27.7,78.4,67.7,95.8,46,96.8,86.6,72.3,65.7
+119,University of Waterloo,Canada,2026,XL,CO,VH,,,53,74.2,8.8,88.3,81.5,76.6,83.5,72,90.5,65.7
+123,Georgia Institute of Technology,United States of America,2026,XL,CO,VH,,,76,92.8,32.4,54.2,21.5,60.4,79,67.5,66.1,65.5
+123,Indian Institute of Technology Delhi (IITD),India,2026,M,FO,VH,,,67.9,95,21.9,93.1,3.2,1.9,66.9,50.5,79.9,65.5
+125,RMIT University,Australia,2026,XL,CO,VH,,,55.1,60.3,7.2,91.3,100,95.2,83.1,49.9,87.9,65.3
+126,Sungkyunkwan University,Republic of Korea,2026,L,FC,VH,,,68.4,75.6,83.8,62.3,24.2,57.6,49.5,44.2,74.7,65.2
+126,Universiti Kebangsaan Malaysia (UKM),Malaysia,2026,L,FC,VH,,,76.2,76.4,78.7,30.1,50.1,94.7,86.1,35.5,74.7,65.2
+128,Sapienza University of Rome,Italy,2026,XL,FC,VH,,,90.7,66.4,7.8,62.9,4,14.8,95.9,91.5,81.9,64.9
+129,Indian Institute of Technology Bombay (IITB),India,2026,L,FO,VH,,,73.3,96.7,16.1,82.9,6.5,1.6,46.6,72.6,75.2,64.8
+130,Humboldt-Universit?t zu Berlin,Germany,2026,XL,FC,VH,,,94.3,75.3,10.5,43.4,75.7,47.6,95,27.5,58.4,64.5
+131,Aarhus University,Denmark,2026,L,FC,VH,,,68.3,41.7,42.4,74.1,96.7,25.5,96.3,79.4,73.2,64.3
+132,University of Bath,United Kingdom,2026,L,CO,VH,,,48.9,81.6,20.5,75.9,95.6,86.8,85.3,50.7,83.8,64.2
+132,University of Science and Technology of China,China (Mainland),2026,L,CO,VH,,,57.6,50.6,98.1,99.4,14.9,7.8,74.4,42.8,55.3,64.2
+134,Universiti Putra Malaysia (UPM),Malaysia,2026,L,FC,VH,,,75.7,73.4,66.8,38.3,45.2,98.4,86.8,23.2,68.9,64.1
+134,Universiti Sains Malaysia (USM),Malaysia,2026,L,FC,VH,,,77.6,79.8,47.6,38.4,34.7,99.3,92.5,29.1,74.5,64.1
+136,Universidad Nacional Aut¨®noma de M¨¦xico (UNAM),Mexico,2026,XL,FC,VH,,,99.2,95.9,47.1,4.1,10,5.4,93.6,97.9,82.2,64
+137,Newcastle University,United Kingdom,2026,L,FC,VH,,,62.9,68.7,49.5,49.1,92.5,81,95.8,40.5,90.9,63.9
+138,Alma Mater Studiorum - University of Bologna,Italy,2026,XL,FC,VH,,,90.6,67.5,6,51.9,29.9,26.5,95.6,67.4,83.2,63.3
+138,Macquarie University,Australia,2026,L,FC,VH,,,47.7,56.7,13.6,85.8,100,97.3,91,62.2,90.6,63.3
+140,Eindhoven University of Technology,Netherlands,2026,M,FO,VH,,,40.5,77.3,43.6,81.9,100,95.7,74.3,33.1,74.1,63.2
+140,Erasmus University Rotterdam,Netherlands,2026,L,FO,VH,,,49.4,74.8,20.7,75.7,81.8,81.6,81.8,94,62.2,63.2
+140,"University of North Carolina, Chapel Hill",United States of America,2026,L,FC,VH,,,72.2,55.5,85.6,47.9,31.1,25,89.5,74,83.9,63.2
+143,King Saud University,Saudi Arabia,2026,XL,FC,VH,,,54.8,57.7,55.7,65.6,100,29.2,96.8,99.4,63.1,63.1
+144,Texas A&M University,United States of America,2026,XL,FC,VH,,,72.9,81.5,6.2,75.5,28,20.7,93,63.8,61,63
+145,Technische Universit?t Berlin,Germany,2026,L,CO,VH,,,64.6,79.4,70.6,34.3,64.2,84.5,89,47.6,68.3,62.8
+146,University of Southern California,United States of America,2026,XL,FC,VH,,,61.2,69.6,19.6,66.2,15.8,81.2,87.8,98,92.1,62.6
+147,Stockholm University,Sweden,2026,L,CO,VH,,,65.1,29.5,28.3,73.6,83,79.4,96.7,90.5,72.1,62.5
+147,University of Groningen,Netherlands,2026,XL,FC,VH,,,67.2,41.6,56.2,53,95.4,89.4,93.4,53.5,67.6,62.5
+147,University of Liverpool,United Kingdom,2026,L,FC,VH,,,60.7,48.8,37.3,61.7,92.4,91.1,97,47.8,92.4,62.5
+150,University of Cape Town,South Africa,2026,L,FC,VH,,,58.2,62.3,14.6,75.4,66.1,27.9,97.7,97.7,92.1,62.3
+151,Western University,Canada,2026,L,FC,VH,,,42.3,53.5,5.2,93.5,100,68.7,83.6,98,94,62
+152,University of Vienna,Austria,2026,XL,FC,VH,,,82.3,46.4,31,22.2,100,96.6,96.3,92.8,71.8,61.9
+153,Universiti Teknologi Malaysia (UTM),Malaysia,2026,L,CO,VH,,,64,72.1,58.8,57.8,15.5,91.4,90.6,19.9,69.2,61.6
+153,Wageningen University & Research,Netherlands,2026,L,CO,VH,,,55,34.4,99.5,54.8,72,90.7,97.2,32.9,91.2,61.6
+155,University of Exeter,United Kingdom,2026,L,FC,VH,,,57.9,58.5,42,55.8,94.8,77.8,95.8,40.9,93.9,61.5
+155,University of Geneva,Switzerland,2026,L,FC,VH,,,55.3,34.8,47.4,70.3,100,98.6,92.1,63.1,66.5,61.5
+157,Lancaster University,United Kingdom,2026,L,FC,VH,,,51.2,45.8,36.1,77.5,96.4,93.3,87,38.2,89.2,61.4
+158,University of Basel,Switzerland,2026,M,FC,VH,,,34,20.7,70.2,94.2,100,91.4,90.4,74.9,88.4,61.3
+159,Hanyang University,Republic of Korea,2026,L,FC,VH,,,58.2,81.9,81.7,42.9,23.7,70.1,65.5,54.5,82.8,61.2
+160,University of Barcelona,Spain,2026,XL,FC,VH,,,84.9,48.9,19,47.8,39.9,40.8,96.4,77,84.7,61
+161,Michigan State University,United States of America,2026,XL,FC,VH,,,67.3,62.9,13.9,61.2,67.2,21.1,97.6,75.6,94.2,60.9
+162,Ghent University,Belgium,2026,XL,FC,VH,,,68.2,39.1,84.5,32.4,83.4,33.8,99.2,84.9,94,60.8
+163,King Abdul Aziz University (KAU),Saudi Arabia,2026,XL,FC,VH,,,67.5,76.6,41.4,47.8,83.1,9.2,95,44.9,77.5,60.7
+164,Nagoya University,Japan,2026,L,FC,VH,,,74.2,71.5,84.2,38.2,22.6,27.6,66,39.2,74.1,60.3
+165,Chalmers University of Technology,Sweden,2026,M,FO,VH,,,34.6,56.6,59.5,80.9,100,74.3,77,53.3,82.7,60.2
+166,Al-Farabi Kazakh National University,Kazakhstan,2026,L,FC,HI,,,60.7,86.3,99.6,2.1,80.9,83.2,75.7,66.2,62.8,59.8
+167,Washington University in St. Louis,United States of America,2026,L,FC,VH,,,46.5,25.7,99.8,62.6,93.1,81.8,74.8,55.1,85.8,59.6
+168,University of Montreal,Canada,2026,XL,FC,VH,,,66.1,44,79.5,26.3,91.5,66.4,88.7,65.4,89.9,59.5
+169,University of York,United Kingdom,2026,L,FC,VH,,,56.8,42.3,55.8,53.8,92.4,75.4,96,41,93.2,59.4
+170,Hokkaido University,Japan,2026,L,FC,VH,,,71.5,68.8,76.8,42.7,28.2,20.5,77.5,26.4,78.5,59.3
+170,Kyushu University,Japan,2026,L,FC,VH,,,71.3,72.1,87.1,34.2,24.5,39,76.4,20.9,74.8,59.3
+172,Universitat Aut¨®noma de Barcelona,Spain,2026,XL,FC,VH,,,76.4,42.1,15.2,76.2,26.5,27.2,93.7,30.4,90.3,59.2
+173,Arizona State University,United States of America,2026,XL,CO,VH,,,63.9,63.3,9.5,61.5,72.5,53.2,95.2,42.2,85.8,59.1
+173,McMaster University,Canada,2026,L,FC,VH,,,52.5,43.6,61.8,56.6,94.6,66.3,84.3,60,86.6,59.1
+173,Universidad de Chile,Chile,2026,XL,FC,VH,,,91.9,92,10.9,18.2,12.2,8.1,77.9,97.6,69.5,59.1
+176,National Tsing Hua University,Taiwan,2026,M,CO,VH,,,67,77.1,34.2,73.5,26.7,37.3,42.1,25.4,57.8,59
+177,Khalifa University of Science and Technology,United Arab Emirates,2026,S,SP,VH,,,34.3,42.8,83.2,83.9,100,83,81.1,12.6,68.1,58.8
+177,Tongji University,China (Mainland),2026,XL,FC,VH,,,45.2,41.2,31.2,99.6,92.6,47.4,74.6,33.4,77.2,58.8
+179,"University of California, Santa Barbara (UCSB)",United States of America,2026,L,CO,VH,,,65.3,32.4,9.3,99,81.3,27.5,75.4,25.6,65.2,58.7
+180,Indian Institute of Technology Madras (IITM),India,2026,M,CO,VH,,,56.8,85.8,21.3,90.2,3.1,3.2,45.6,45.8,73,58.4
+181,Cardiff University,United Kingdom,2026,L,FC,VH,,,60.1,54.4,48.2,42.2,87.2,70.1,93.4,33.5,88.9,57.8
+182,Emory University,United States of America,2026,L,FC,VH,,,34.5,37.7,92.8,85.7,70,49.6,85,42.4,63.5,57.7
+183,Curtin University,Australia,2026,L,CO,VH,,,46.3,39.3,17.7,89.6,100,54.3,94.2,37.9,82,57.6
+184,University of Bern,Switzerland,2026,M,FC,VH,,,38,26,49,99.3,100,52.9,95.5,37.2,68.9,57.5
+184,University of Wollongong,Australia,2026,L,FC,VH,,,41.6,33.1,21.1,95.6,99.5,82.2,88.6,25.8,86.1,57.5
+186,Wuhan University,China (Mainland),2026,XL,FC,VH,,,53.6,46.7,21.3,98,47.1,10.7,77.8,58.9,60.8,57.3
+187,Tecnol¨®gico de Monterrey (ITESM),Mexico,2026,XL,FC,HI,,,69.9,93.9,69.4,4.8,24.5,18.3,74.6,97.4,73.8,57.1
+187,University Complutense Madrid,Spain,2026,XL,FC,VH,,,78.5,73.9,41.6,12.8,18.2,32.9,92.7,97.3,80.4,57.1
+189,UNIVERSITAS INDONESIA,Indonesia,2026,XL,FC,VH,,,69.9,89.3,68.8,3.9,86.6,10.9,59.6,87.2,60.9,57
+190,Ohio State University,United States of America,2026,XL,FC,VH,,,71.1,63,53.1,33.8,37.4,20.6,93.7,66,69.2,56.9
+191,"Queen's University, Ontario",Canada,2026,L,FC,VH,,,50.9,75.7,7.9,56.3,75.6,35.5,79,92.3,86.6,56.8
+191,Universit¨¦ Catholique de Louvain (UCL),Belgium,2026,L,FC,VH,,,61.7,36,6.4,59.5,94.5,63.1,91.6,82,81.3,56.8
+193,Universit?t Hamburg,Germany,2026,L,FO,VH,,,64,51.7,25.6,54.6,58.8,31.3,93.8,49.9,94.1,56.5
+194,University of Reading,United Kingdom,2026,L,CO,VH,,,45.7,46.8,20.2,63,95,85.8,93.3,57.6,92.4,56.2
+194,Vrije Universiteit Amsterdam,Netherlands,2026,L,FC,VH,,,53.3,28.8,23.3,80.7,82.9,57.6,90.1,56.4,68.8,56.2
+196,Waseda University,Japan,2026,XL,CO,VH,,,73.6,97.2,29.5,7.3,35.2,43.7,63.1,90.7,74.3,56.1
+197,University of Otago,New Zealand,2026,L,FC,VH,,,60,36,14.8,63.2,100,39.6,76.5,68.7,88.2,55.8
+197,Vienna University of Technology,Austria,2026,M,FO,VH,,,47.6,56.3,18.5,71.1,91.8,95.9,71.9,29.1,59,55.8
+199,National Yang Ming Chiao Tung University,Taiwan,2026,L,FC,VH,,,42.1,68.5,55.4,71.8,29.1,31.9,54.1,75.8,74.1,55.7
+199,Queen's University Belfast,United Kingdom,2026,L,FC,VH,,,49.6,43.4,30.3,57.5,100,98.8,95.4,19.5,89.5,55.7
+201,Universit?t Freiburg,Germany,2026,L,FC,VH,,,56.8,35.3,31.1,66.4,78.7,44.2,89.5,47.2,85.6,55.6
+202,University of Gothenburg,Sweden,2026,L,FC,VH,,,46.4,24.6,73,45.4,94.1,85.8,93.7,71,92.9,55.5
+203,National Cheng Kung University (NCKU),Taiwan,2026,L,FC,VH,,,66.4,79.4,33.8,39.8,28.6,24.4,58,56.3,79.7,55.2
+203,University of Twente,Netherlands,2026,M,CO,VH,,,29.3,40.5,56,77,100,95.2,85.4,32.6,79.6,55.2
+205,Ecole Normale Sup¨¦rieure de Lyon,France,2026,S,CO,VH,,,41.7,25.7,98.8,89.2,61.5,23.9,73.1,17.9,50.2,55.1
+206,Universidad Aut¨®noma de Madrid,Spain,2026,XL,FC,VH,,,73.1,71.5,39.7,26.5,22.3,29.6,92.5,52.5,72.5,55
+207,Deakin University,Australia,2026,XL,FC,VH,,,42.3,32.6,5.9,86.2,97.2,83.3,86.8,43.6,86.7,54.9
+207,Rheinische Friedrich-Wilhelms-Universit?t Bonn,Germany,2026,L,FC,VH,,,67.7,35.5,76.5,24.9,51.4,56.4,96.2,50,86.4,54.9
+207,"University of Maryland, College Park",United States of America,2026,XL,FC,VH,,,57.2,51.8,44.2,60.5,28,24.9,92.9,59.7,70.7,54.9
+210,University of Minnesota (System),United States of America,2026,XL,FC,VH,,,68.6,49.4,37.2,49.2,6.5,15.4,91.2,67.2,91.1,54.8
+211,University of Calgary,Canada,2026,XL,FC,VH,,,47.6,50.5,24.4,54.6,87.4,76.9,86.2,61.5,86,54.7
+212,Universidad de Los Andes Colombia,Colombia,2026,L,FC,HI,,,81.5,90.5,17.6,10.8,28.7,3.3,54.7,98.4,75.9,54.6
+212,University of Florida,United States of America,2026,XL,FC,VH,,,58.9,55.8,75.1,34.7,31.4,18.1,98.2,67.9,74.9,54.6
+212,University of Lausanne,Switzerland,2026,L,FO,VH,,,37,40.2,49,69,100,67,83.5,61.1,70.3,54.6
+215,Eberhard Karls Universit?t T¨¹bingen,Germany,2026,L,FC,VH,,,61,36.1,85.7,32.2,88.2,40.5,93.6,36.5,64.5,54.5
+215,Indian Institute of Technology Kharagpur (IITKGP),India,2026,L,CO,VH,,,42.5,78.6,10.6,97,,1.3,70.1,47.7,77.8,54.5
+215,Keio University,Japan,2026,XL,FC,VH,,,65.5,93.8,65.2,9.4,15.2,19.6,55.6,95.8,68.9,54.5
+218,Technische Universit?t Dresden,Germany,2026,L,FC,VH,,,47.2,49.2,74.9,58.6,40.4,42,95.3,12.5,87.9,54.3
+219,Indian Institute of Science (IISc) Bangalore,India,2026,M,SP,VH,,,56.6,46.4,39.1,99.9,5.6,2.1,45.4,15.1,66.3,54.2
+219,University of Ottawa,Canada,2026,XL,FC,VH,,,35.8,38.7,5.4,84.8,96.1,85.5,92.3,50,86.8,54.2
+221,Chulalongkorn University,Thailand,2026,XL,FC,VH,,,82,52.7,44.8,12.5,32,6.2,80.6,96.4,80,53.9
+222,Indian Institute of Technology Kanpur (IITK),India,2026,M,FO,VH,,,49.4,82.7,16.1,84.1,3.1,1.4,42.1,47.6,74.7,53.7
+223,Tel Aviv University,Israel,2026,L,FC,VH,,,43.6,31,6.1,99.7,48.9,15.3,78.3,94.2,77,53.6
+224,Universitas Gadjah Mada,Indonesia,2026,XL,FC,VH,,,70.2,84.7,65.4,3,63,8.9,46.3,75.9,66,53.5
+225,Loughborough University,United Kingdom,2026,L,CO,VH,,,42.8,64.5,26.9,50.6,94.6,71.1,81.4,33.2,87.9,53.3
+226,Queensland University of Technology,Australia,2026,XL,CO,VH,,,51.6,38.8,11.6,70.9,96.6,44.8,83.4,25.6,88.5,53.2
+227,The University of Newcastle,Australia,2026,L,FC,VH,,,36,30.5,29.7,95.2,100,36.2,81.8,20.8,84.8,53.1
+227,Universit¨¦ Libre de Bruxelles (ULB),Belgium,2026,L,FC,VH,,,43.3,46.8,4.6,60.3,99.2,89.6,90.9,74.8,65.2,53.1
+229,United Arab Emirates University,United Arab Emirates,2026,M,FC,VH,,,43.3,58.1,55.1,35.1,100,39.1,88.9,87.9,68.6,53
+230,Massey University,New Zealand,2026,M,CO,VH,,,42.1,24.1,57.3,50.5,99.4,98.9,82.2,60.7,83.7,52.9
+230,University of Lisbon,Portugal,2026,XL,FC,VH,,,57.1,46.3,15.5,51.4,14.3,58.6,98.4,97.3,79.3,52.9
+232,Universit?t Erlangen-N¨¹rnberg,Germany,2026,L,FC,VH,,,37.9,46.2,5.2,96.7,39.5,60.6,86.7,27.1,75.4,52.2
+233,La Trobe University,Australia,2026,L,CO,VH,,,33.4,29,13.2,87.8,95.6,97.4,82.1,28,82.2,52.1
+233,Universidade Estadual de Campinas (Unicamp),Brazil,2026,XL,FC,VH,,,81.7,50.9,22.1,37.2,15.1,4,84.5,32.5,79.5,52.1
+233,University of Padova,Italy,2026,XL,FC,VH,,,73.5,40.2,13.5,54.4,15.5,18.8,95.5,29.6,85,52.1
+236,University of Rochester,United States of America,2026,M,FC,VH,,,27.1,32.4,98.2,56.6,80.5,96.2,63.7,51.2,72.3,51.9
+237,American University of Beirut (AUB),Lebanon,2026,M,FC,VH,,,41.5,58.1,52.3,37.8,71.4,45.2,68.7,98.7,77.7,51.6
+237,University of Porto,Portugal,2026,XL,FC,VH,,,52.5,41.5,13.6,73.6,9.2,38.2,94.3,61.2,77.3,51.6
+239,Maastricht University,Netherlands,2026,L,FO,VH,,,32.8,33.7,18.6,71.7,99.9,100,85.6,49.6,80.2,51.4
+240,Hebrew University of Jerusalem,Israel,2026,L,FC,VH,,,42.9,36.4,74.6,41.9,81.9,33.5,74.2,97.1,65.5,51.3
+240,Victoria University of Wellington,New Zealand,2026,L,CO,VH,,,57.2,32.2,15.7,44.3,100,56.7,70.1,77.6,83.3,51.3
+242,Politecnico di Torino,Italy,2026,XL,FO,VH,,,50.3,64.6,4.5,68.1,7.3,57.9,79.1,37.8,73.6,51.2
+243,Georg-August-Universit?t G?ttingen,Germany,2026,L,FC,VH,,,57.3,35.6,87,25.8,59.2,37.9,95.2,51.2,61,51.1
+244,Hamad Bin Khalifa University,Qatar,2026,S,FO,VH,,,14.3,6.8,100,100,100,100,75.7,6.8,38.5,50.9
+244,Hong Kong Baptist University,"Hong Kong SAR, China",2026,M,CO,VH,,,28.3,21.7,67.3,82.3,99.4,100,38.2,23,67.5,50.9
+246,University College Cork,Ireland,2026,L,FC,VH,,,43.4,48.1,22.5,52.7,86.2,75,68.8,49.5,83.8,50.7
+247,Beijing Normal University,China (Mainland),2026,L,CO,VH,,,47.6,29.6,30.3,98.6,9,32.9,77.1,18.2,55.5,50.6
+247,Dartmouth College,United States of America,2026,M,FC,VH,,,30.7,54.3,79.9,56.9,13.5,58.5,46.2,87.7,82.2,50.6
+247,"University of Massachusetts, Amherst",United States of America,2026,L,CO,VH,,,48.1,40,15.8,62.4,77.9,46.3,78.8,44.2,84.5,50.6
+250,Vanderbilt University,United States of America,2026,L,FC,VH,,,32.3,41.8,100,50.6,48.4,50.9,77.9,57.5,61.8,50.4
+251,Universiti Teknologi Petronas (UTP),Malaysia,2026,S,SP,VH,,,29.7,41,44.6,95,87,29.5,72.1,5.2,50,50.2
+251,University of Strathclyde,United Kingdom,2026,L,CO,VH,,,37.5,40.5,17.8,57.2,99.2,89,84.5,46,84.6,50.2
+253,Taylor's University (Malaysia),Malaysia,2026,M,CO,VH,,,40.2,85.2,69.7,21,73,100,53.5,5.2,57.8,50
+253,Technische Universit?t Darmstadt,Germany,2026,L,CO,VH,,,28.2,41.9,9.8,82.2,67.8,92.8,73.8,53.5,78.6,50
+255,Bandung Institute of Technology (ITB),Indonesia,2026,L,CO,VH,,,58.5,85.3,54.7,5.4,94.7,8,39.8,68.6,59.2,49.9
+256,Harbin Institute of Technology,China (Mainland),2026,XL,FO,VH,,,33.3,47.9,42,99.8,12.9,9.2,73.6,35.2,48.1,49.8
+257,Tianjin University,China (Mainland),2026,L,CO,VH,,,26.3,37.6,51.6,99.9,29.9,33.5,72.5,38.7,56.2,49.7
+257,Universit¨¦ Paris 1 Panth¨¦on-Sorbonne,France,2026,XL,FO,VH,,,78,62.2,6.8,4.8,39,61.2,70.8,84.3,61.8,49.7
+259,Beijing Institute of Technology,China (Mainland),2026,XL,FO,VH,,,34.3,46.7,42.7,96.4,12.3,15.5,75.3,22.5,58.8,49.5
+259,Universidad Nacional de Colombia,Colombia,2026,XL,FC,HI,,,81.1,90.9,6.7,6.9,8.1,2.2,62.6,57.3,69.3,49.5
+261,University of Canterbury,New Zealand,2026,L,CO,VH,,,48.8,34.7,12.1,48.2,100,48.1,60.9,87.4,88.2,49.4
+262,University of Aberdeen,United Kingdom,2026,M,FC,VH,,,40.1,34.8,44.9,42.9,95.8,87.2,89.7,30,87.8,49.3
+262,University of Navarra,Spain,2026,L,FC,HI,,,40.8,78.2,50.6,25.3,26.8,84,58.3,80.5,66.1,49.3
+262,University of Surrey,United Kingdom,2026,L,CO,VH,,,29.7,30,33.4,74.4,98,88.7,86.6,30.7,60.4,49.3
+265,Charles University,Czechia,2026,XL,FC,VH,,,58.5,55.5,37,14.3,33.5,61.7,97.2,73.2,76.9,49
+265,Universitat Pompeu Fabra,Spain,2026,M,FO,VH,,,43.7,39.5,19.1,70.6,84.7,40,75.8,23,66.4,49
+267,Norwegian University of Science And Technology,Norway,2026,XL,FC,VH,,,45.9,33.4,30.7,45.1,87.4,17.7,95.2,90.5,80.3,48.9
+268,Griffith University,Australia,2026,L,FC,VH,,,37.7,16.6,13.3,75.1,100,70.7,93.4,26.6,91.7,48.7
+269,Middle East Technical University,T¨¹rkiye,2026,L,CO,VH,,,44.8,88.7,12.8,34.4,18,31,79.2,82.2,71.8,48.5
+269,UCSI University,Malaysia,2026,M,FO,VH,,,40.7,70.4,87.7,8.6,92.9,99,50,13.3,61.6,48.5
+271,University of Warsaw,Poland,2026,XL,CO,VH,,,61,62.8,59.5,10,13.5,15.7,85.9,74.4,74,48.3
+272,American University of Sharjah (AUS),United Arab Emirates,2026,M,CO,VH,,,31.7,65.1,24.6,43.8,100,100,50.6,60.6,54.4,48.2
+272,North Carolina State University,United States of America,2026,XL,CO,VH,,,36.4,47.9,12.2,72.9,67.5,25.6,79.8,37.7,86.7,48.2
+272,Universit?t zu K?ln,Germany,2026,L,FO,VH,,,45,50.5,23.6,43.8,39.3,47.1,92.6,64.5,88.9,48.2
+275,University of Virginia,United States of America,2026,L,FC,VH,,,46.5,47.9,68.2,36.5,5.3,19.2,82.6,91.9,68.9,48.1
+276,Sun Yat-sen University,China (Mainland),2026,XL,FC,VH,,,45.4,39,53.4,72.6,4.1,6.8,78.4,38.8,56.7,48
+276,University of Milan,Italy,2026,XL,FC,VH,,,65.9,27,10.2,56.6,10.8,13.4,85.1,63.1,76.4,48
+278,University of Sussex,United Kingdom,2026,L,FC,VH,,,33.8,21,21.4,60.7,99,89.5,86.3,53.6,90,47.9
+279,Radboud University Nijmegen,Netherlands,2026,L,FC,VH,,,38.6,20.3,34.8,73.2,83.5,30.1,92.5,34.9,67.7,47.6
+280,University of Antwerp,Belgium,2026,L,FC,VH,,,35,18.8,42.8,57.7,96.4,45.5,95.2,60.3,80.6,47.4
+281,University of Pittsburgh,United States of America,2026,L,FC,VH,,,45.4,26.4,98.1,41.7,9.9,23,90.4,59.7,60.2,47.3
+281,University of Waikato,New Zealand,2026,M,CO,VH,,,28.2,18.8,16.2,82.1,99.5,79.7,49,58.4,84.8,47.3
+283,Dalhousie University,Canada,2026,L,FC,VH,,,27.1,23.9,15.8,76.2,100,79.4,79.9,39.8,85.3,47.2
+284,University of Galway / Ollscoil na Gaillimhe,Ireland,2026,L,FC,VH,,,37.3,40.2,68.6,24,96.7,62.7,72.9,61.2,82.5,47.1
+285,Georgetown University,United States of America,2026,L,FC,VH,,,38.2,60.6,74.2,21.7,22.8,51.1,67.4,96,69.1,47
+285,University of Macau,"Macao SAR, China",2026,L,CO,VH,,,18.5,17.9,11.7,99.9,100,100,55.1,56.8,52.2,47
+287,Heriot-Watt University,United Kingdom,2026,M,CO,VH,,,25.7,34.8,27.3,61.8,100,97,75.7,37,77.2,46.8
+287,Universitas Airlangga,Indonesia,2026,XL,FC,VH,,,52.2,88.3,69.6,2.5,77.3,10.8,52.9,24,56.6,46.8
+287,University of Arizona,United States of America,2026,XL,FC,VH,,,49.3,40.4,42.8,47.4,25.4,15.2,93.5,54.1,66.9,46.8
+287,University of Bergen,Norway,2026,L,FC,VH,,,40.5,13.7,67.2,42.5,96.9,37.9,91,69.5,65.1,46.8
+291,University of The Witwatersrand,South Africa,2026,L,FC,VH,,,36.8,50.9,14,40.2,86.8,9.4,96.7,99.5,85.6,46.4
+292,Swansea University,United Kingdom,2026,L,FC,VH,,,34.7,54.7,28.6,43,76.9,80.5,79.7,13.7,84.4,46.2
+293,"University of California, Irvine",United States of America,2026,XL,FC,VH,,,46.6,37.1,26.8,53.1,39.5,64.2,81.9,28,64.9,46.1
+294,Case Western Reserve University,United States of America,2026,M,FC,VH,,,22.4,20.5,88.6,66.3,47.6,76.7,58.3,40.9,70.8,46
+294,Swinburne University of Technology,Australia,2026,L,CO,VH,,,18.8,19.3,14.7,95,87.8,94.7,74,22.8,73.4,46
+294,University of Notre Dame,United States of America,2026,L,CO,VH,,,38,43.6,70.8,36.7,28.9,32.7,75.4,75.4,72.5,46
+294,Vrije Universiteit Brussel (VUB),Belgium,2026,L,FC,VH,,,33.3,22.1,75.6,27.7,96.8,72.1,92.2,63.2,80,46
+298,Istanbul Technical University,T¨¹rkiye,2026,L,FO,VH,,,39.6,85.3,11.5,35.3,10.4,36.5,76.2,79.7,68.5,45.8
+299,University of Colorado Boulder,United States of America,2026,XL,CO,VH,,,49,36.8,52.1,36,38.6,8.5,85.6,48.9,90.3,45.6
+300,Universit¨¦ Paris Cit¨¦,France,2026,XL,FO,VH,,,37.7,13.9,11,92.5,24.8,61,99.5,22.8,55.7,45.5
+301,Universidad Carlos III de Madrid,Spain,2026,L,FO,VH,,,45.2,65.3,50.5,8.1,73.8,75.2,67.8,26.3,77.3,45.4
+302,Stellenbosch University,South Africa,2026,L,FC,VH,,,36.7,44.8,5,67.5,25.4,14.5,93.6,88.9,61,45.2
+303,Jagiellonian University,Poland,2026,XL,FO,VH,,,49.9,54.4,75.3,10.4,8,30,88.6,61.5,71.6,45.1
+303,University of Southern Denmark,Denmark,2026,L,CO,VH,,,29.2,24.9,31.9,68.4,91.7,46.4,77.4,27,85,45.1
+305,Xi'an Jiaotong University,China (Mainland),2026,XL,FC,VH,,,28.5,44.2,15.9,97.8,5.5,6.8,82.9,34.9,55.8,45
+306,Aalborg University,Denmark,2026,L,FC,VH,,,26.4,25,27.7,77.2,89,29.4,91.7,25.4,79.1,44.9
+306,Indiana University Bloomington,United States of America,2026,XL,FC,VH,,,44.7,50.3,34.4,31.2,51.7,18.4,86.5,77,66,44.9
+308,Simon Fraser University,Canada,2026,L,CO,VH,,,34.9,20.7,7.6,59.6,99.1,86.1,78.4,34,85.2,44.7
+308,University of Johannesburg,South Africa,2026,L,CO,VH,,,25.5,25.9,46.5,45.2,98.5,60.1,99.1,69.6,74.8,44.7
+310,"City St George¡¯s, University of London",United Kingdom,2026,L,FO,VH,,,26.9,32.3,9.2,57.8,92.4,97.9,77.2,65.8,62.3,44.5
+310,Link?ping University,Sweden,2026,L,CO,VH,,,25.4,32.2,50.2,55.2,85.8,46.3,81.5,50.8,68.2,44.5
+310,Ulsan National Institute of Science and Technology,Republic of Korea,2026,S,FO,VH,,,21.8,16.3,92.5,99.5,37.4,15.5,26.7,3.9,57.5,44.5
+310,Universit?t Stuttgart,Germany,2026,L,FO,VH,,,33.4,46.1,11,64.2,44.8,60.9,69.7,35.8,74.2,44.5
+314,University of Miami,United States of America,2026,L,FC,VH,,,24.5,40.3,57.9,48.4,87.8,25.1,85.2,59.6,64.6,44.3
+314,University of Tasmania,Australia,2026,M,CO,VH,,,22.5,12.2,34.3,72.8,87.1,91.7,80.4,25,84,44.3
+316,Goethe Universit?t Frankfurt am Main,Germany,2026,L,FC,VH,,,52.1,38.6,27,31.7,54.9,30,87.7,28.7,82.9,44
+317,L.N. Gumilyov Eurasian National University,Kazakhstan,2026,L,FO,VH,,,40.1,85.8,94.7,2,84.6,25.8,31.4,7.5,46.6,43.9
+317,Universidade Federal do Rio de Janeiro,Brazil,2026,XL,FC,VH,,,73,36.2,18.2,13.8,10.3,2.3,81,89.9,70.9,43.9
+319,Huazhong University of Science and Technology,China (Mainland),2026,XL,FC,VH,,,30.9,33.4,11.6,100,7.1,5.2,80.3,33.5,55.7,43.8
+320,Bauman Moscow State Technical University,Russian Federation,2026,L,CO,VH,,,41.1,63.8,99.9,2,81,85.8,14.2,10.1,47.6,43.5
+321,Universit¨¦ Grenoble Alpes,France,2026,XL,FC,VH,,,55.3,19.2,10.4,51.8,30.9,47.9,94.1,31.8,60,43.4
+322,University of Tehran,Iran (Islamic Republic of),2026,XL,CO,VH,,,31,41.8,4.2,91.1,2.5,3.3,86.8,58.1,45.5,43.3
+323,Koc University,T¨¹rkiye,2026,M,FC,VH,,,36,77.5,21,52.6,30.1,22.2,50.4,10.8,62.4,43.1
+324,Sichuan University,China (Mainland),2026,XL,FC,VH,,,30.8,34.5,14,99.9,9.7,9.2,72.9,21,45.3,43
+324,University of Jordan,Jordan,2026,XL,FC,HI,,,47.9,59.8,28.9,7.3,33.8,64.5,69.2,90.1,64.1,43
+326,University of Leicester,United Kingdom,2026,L,FC,VH,,,29.6,17.7,40.1,44.2,90.6,90.6,91.1,31,81.2,42.9
+327,Universidade Nova de Lisboa,Portugal,2026,L,FC,VH,,,40.1,42.6,18.1,37.6,27.2,77.7,84.1,59.4,66.9,42.8
+328,Rutgers University ¨C New Brunswick,United States of America,2026,XL,CO,VH,,,47.7,45.8,53.4,16.5,24.1,38.8,75.3,44.6,87.5,42.6
+328,University of Delhi,India,2026,L,FO,VH,,,46.9,41.9,6.9,47.1,1.8,2.8,83,98.9,71.2,42.6
+328,University of Sharjah,United Arab Emirates,2026,L,CO,VH,,,28.5,34.9,9.3,52.2,100,100,84.8,19.3,58.8,42.6
+331,Kyung Hee University,Republic of Korea,2026,L,FC,VH,,,34.6,43,86.2,25.9,19.8,68.5,66.8,21.6,74.9,42.5
+331,Satbayev University (previously Kazakh Technical University named after K.I. Satpaev),Kazakhstan,2026,M,FO,VH,,,40.6,58.8,94.2,1.7,89.2,53.7,25.7,33,48.7,42.5
+333,York University,Canada,2026,XL,CO,VH,,,33.4,31.7,5,37.8,87.3,78.9,73.5,82.2,84.5,42.4
+334,Indian Institute of Technology Guwahati (IITG),India,2026,M,CO,VH,,,25.4,62,10.2,96.9,8.1,1.6,53.1,8.7,43,42.3
+334,Sultan Qaboos University,Oman,2026,M,FC,VH,,,28.9,25.9,62.3,39.5,100,6,80.9,70,69.6,42.3
+334,Tufts University,United States of America,2026,L,FC,VH,,,23.8,21.2,65.6,52.5,42.9,48.3,67,69.3,86.3,42.3
+334,Universidad Polit¨¦cnica de Madrid,Spain,2026,XL,CO,VH,,,43,67.8,24.8,19.6,4.3,45.2,81.9,69.4,70.7,42.3
+334,University of Illinois Chicago (UIC),United States of America,2026,L,FC,VH,,,48.8,40.3,33.1,39.2,11,28.4,82.3,36.4,66.9,42.3
+339,Indian Institute of Technology Roorkee (IITR),India,2026,M,FO,VH,,,26.8,52.2,9.5,96.6,2,3.6,54.5,19.5,57.5,42.2
+339,Shandong University,China (Mainland),2026,XL,FC,VH,,,22.8,39,21.8,97.1,11.2,5.7,72.8,26.8,57.5,42.2
+341,Xiamen University,China (Mainland),2026,XL,FC,VH,,,34.3,24.2,25,83.9,10.8,9.3,64.7,54.4,54.1,42.1
+342,University of Oulu,Finland,2026,M,FC,VH,,,23,21.8,29.5,74.5,80.9,19.7,87.9,30.6,75.2,42
+343,Southern University of Science and Technology (SUSTech),China (Mainland),2026,M,FO,VH,,,14.9,9.4,87.5,100,42.7,2.8,47.2,1.3,65.5,41.8
+343,University of Pisa,Italy,2026,L,FC,VH,,,51.6,26.3,12.8,59.6,5,10.5,84.6,25.1,72.8,41.8
+345,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,2026,M,FO,VH,,,36.7,48.6,50.6,46.8,31.3,35.3,45.6,25.4,56.8,41.7
+345,Pontificia Universidad Cat¨®lica del Per¨² (PUCP),Peru,2026,L,FO,VH,,,63.1,66.7,50,2.3,4.2,1.9,44.4,50.6,59.7,41.7
+347,Cairo University,Egypt,2026,XL,FC,VH,,,60.8,52.7,13.8,6,4.2,14.4,88.9,98,66.6,41.6
+347,Tilburg University,Netherlands,2026,L,SP,VH,,,20.5,37.1,16.8,67.1,99,77.4,61.1,23.1,50.6,41.6
+347,University of Coimbra,Portugal,2026,L,FC,VH,,,39.2,24.9,14.9,61.4,13.1,33.3,92.2,47.6,75.8,41.6
+350,Technion - Israel Institute of Technology,Israel,2026,L,FO,VH,,,32.2,35.6,67.3,33.3,91.1,10.6,57.5,65.9,53.2,41.5
+350,Universit?t Innsbruck,Austria,2026,L,FC,VH,,,27.7,12.3,76.9,17.7,100,100,73.9,69.9,74.7,41.5
+350,University of M¨¹nster,Germany,2026,L,FC,VH,,,42.3,41.5,79.6,15.5,35.6,8.4,82.5,45.3,74.6,41.5
+350,University of Tsukuba,Japan,2026,L,FC,VH,,,49.9,32.9,58.9,30,18.1,31.1,68.4,18.1,73.4,41.5
+354,Quaid-i-azam University,Pakistan,2026,M,CO,VH,,,24,47.6,5.3,97.5,9.8,3.1,67.5,27.8,46.9,41.3
+355,Nankai University,China (Mainland),2026,XL,FC,VH,,,27.1,24.4,28.8,93.9,17.8,5,56.1,47.3,44.9,41.2
+355,National Technical University of Athens,Greece,2026,L,FO,VH,,,28.2,51.2,5.9,80.9,,9.6,72,51.4,49.3,41.2
+355,Universit¨¤ degli Studi di Roma - Tor Vergata,Italy,2026,L,CO,VH,,,40.7,25.2,14.9,65.5,19.7,58.8,71.7,8.5,70.3,41.2
+358,George Washington University,United States of America,2026,L,FC,VH,,,31.7,45.8,30.3,43.4,13,39.2,78.7,85.8,60,41.1
+358,Mahidol University,Thailand,2026,L,FC,VH,,,59.4,38.8,82.4,9,8.5,9.1,67.9,17.4,61.2,41.1
+358,University of Victoria,Canada,2026,L,CO,VH,,,25.6,17.3,6.2,78.7,97.2,46,61.3,21.2,79.9,41.1
+358,Virginia Polytechnic Institute (Virginia Tech),United States of America,2026,XL,FC,VH,,,34.5,39.4,26.3,38.7,81.6,27.9,86.1,41.1,68.2,41.1
+362,University of Chinese Academy of Sciences (UCAS),China (Mainland),2026,XL,FC,VH,,,30.9,11.9,100,75.1,,3.9,93.7,15.6,,40.9
+362,University of Pretoria,South Africa,2026,XL,FC,VH,,,32.3,55.1,6.2,31.2,57.2,17.4,97.6,84.8,80.1,40.9
+362,University of Tartu,Estonia,2026,M,FC,VH,,,28.6,23.7,94.6,19.1,62.1,20.8,89,89.2,64.2,40.9
+362,University of the Philippines,Philippines,2026,XL,FC,HI,,,50.6,71.1,42.7,3.2,2.4,1.2,66.4,80.8,68.9,40.9
+366,University of Turku,Finland,2026,L,FC,VH,,,36.3,20.2,63.2,39.6,46.2,8.9,89.2,46.1,74.4,40.6
+367,RUDN University,Russian Federation,2026,XL,FC,VH,,,28.4,61.2,94,3.9,10.9,95.3,88.3,14.3,58.9,40.5
+367,Sciences Po Paris,France,2026,L,SP,VH,,,24.6,51.5,81.1,4.7,61.8,98.2,29.6,98,54.5,40.5
+367,Universiti Brunei Darussalam (UBD),Brunei Darussalam,2026,S,CO,VH,,,29.9,20.5,94.2,22.5,100,43.5,53,58.2,52.4,40.5
+370,Daegu Gyeongbuk Institute of Science and Technology (DGIST),Republic of Korea,2026,S,FO,VH,,,17,28.1,82.3,100,5.1,7.3,15.8,2.5,42.8,40.4
+371,Bogazici University,T¨¹rkiye,2026,M,CO,VH,,,36.2,85.8,5.1,23.7,28.2,7.5,49,88.7,68.5,40.3
+371,National University of Sciences And Technology (NUST) Islamabad,Pakistan,2026,L,FC,VH,,,29.3,76.3,66.7,32.3,5.7,5,76.6,3.4,63.3,40.3
+371,Pontificia Universidad Javeriana,Colombia,2026,L,FC,HI,,,60.5,61.8,37.8,2.7,3.8,3.7,38.7,83.1,58.6,40.3
+374,Oxford Brookes University,United Kingdom,2026,L,CO,HI,,,38.7,62.3,14.8,12.4,80.8,89.8,61.8,26,59.8,40
+375,Saint Petersburg State University,Russian Federation,2026,L,FC,VH,,,42.2,43.6,65.8,7.9,6.7,52.2,83.7,80.1,44.6,39.9
+375,Sharif University of Technology,Iran (Islamic Republic of),2026,M,FO,VH,,,17.8,48.2,8.2,99.2,2.6,1.6,68.4,38.7,38.7,39.9
+377,South China University of Technology,China (Mainland),2026,XL,FO,VH,,,18.8,20.8,29.4,99.3,15.9,10.5,64.8,40.4,50.1,39.8
+378,University of Saskatchewan,Canada,2026,L,FC,VH,,,16,10.2,21.1,71.9,82.4,65.4,77.3,44.3,83.6,39.6
+379,University of Liege,Belgium,2026,L,FC,VH,,,24.4,16.9,10.8,63.2,62.1,65.6,95.2,32.9,79.7,39.5
+379,University of Naples - Federico II,Italy,2026,XL,FC,VH,,,47.8,32.8,6.8,59.5,2.9,1.2,94.9,12.5,57.5,39.5
+381,The American University in Cairo,Egypt,2026,M,CO,VH,,,40.8,46.9,39,12.2,98,7.1,46.8,88.6,51.6,39.4
+381,University of East Anglia (UEA),United Kingdom,2026,L,FC,VH,,,24.7,15,24,55.5,81.9,49.3,86.8,31.8,91.1,39.4
+381,University of Luxembourg,Luxembourg,2026,M,FO,VH,,,13.2,8.2,87.2,39.5,100,100,68.1,58.8,42.4,39.4
+384,Northeastern University,United States of America,2026,XL,CO,VH,,,28,31.3,23.3,33.7,63.3,95.8,66.3,54.3,80.2,39.3
+385,Brunel University of London,United Kingdom,2026,L,CO,VH,,,17.6,25.2,12.2,51.8,99.5,100,76.7,28.8,80.4,39.1
+385,Gwangju Institute of Science and Technology (GIST),Republic of Korea,2026,S,SP,VH,,,21.3,12.4,56.7,99.9,15.7,18.5,28.9,2.2,55.3,39.1
+387,Flinders University,Australia,2026,L,FC,VH,,,19.6,9.7,11.3,64.3,97.9,97.3,77.3,15.5,81.6,39
+388,Beihang University (former BUAA),China (Mainland),2026,L,CO,VH,,,18.3,23.5,57.8,91.6,9.5,8.3,50.1,20.9,36.7,38.5
+388,"Birkbeck College, University of London",United Kingdom,2026,M,CO,VH,,,15.5,5.9,19.1,79.6,98.9,98.7,60.1,17.7,45.6,38.5
+390,National and Kapodistrian University of Athens,Greece,2026,XL,FC,VH,,,34.9,38.9,3,45.1,12.7,27.2,79.7,88.9,64.3,38.4
+391,Abu Dhabi University,United Arab Emirates,2026,S,FO,VH,,,24.6,49.8,23.9,35.9,100,99.9,34.5,10.1,49.6,38.3
+392,Sejong University,Republic of Korea,2026,L,CO,VH,,,16.3,19.4,16.3,92.2,32.4,50.7,77.8,1.8,61.3,38.2
+392,"Southeast University, China",China (Mainland),2026,XL,FC,VH,,,21.1,20.8,24.5,93.6,31.6,6.1,76.9,9.6,45,38.2
+392,Universitat Polit¨¨cnica de Catalunya,Spain,2026,L,CO,VH,,,40.8,32.8,42.5,27,16.7,31,84,35.7,77,38.2
+395,Aston University,United Kingdom,2026,L,CO,VH,,,18.1,27.1,12,56.7,97.9,63.4,81.8,28.3,67.6,38.1
+395,Ruhr-Universit?t Bochum,Germany,2026,XL,FC,VH,,,29.1,11.8,3.9,65.8,59.3,55.6,90,21.4,72.5,38.1
+397,Lappeenranta-Lahti University of Technology LUT,Finland,2026,M,SP,VH,,,8.7,15.7,11.9,95.9,70.1,58.1,54.4,10.4,72.2,37.7
+397,University of Kent,United Kingdom,2026,L,CO,VH,,,20.2,13.8,16.2,58.3,96.4,49.2,88,44,65.5,37.7
+399,IPB University (aka Bogor Agricultural University),Indonesia,2026,L,FO,VH,,,35.1,56,82.9,3,73.7,6,26.2,45.3,63.2,37.6
+400,Western Sydney University,Australia,2026,XL,FC,VH,,,26.3,22.5,7.4,44.5,100,67.7,87.3,11.8,82.6,37.5
+401,Ume? University,Sweden,2026,L,FC,VH,,,27.2,20.2,80.7,25,77.2,37.5,76.9,11.9,77.1,37.4
+401,University of Granada,Spain,2026,XL,FC,VH,,,59.3,24.3,11.2,26.3,9.9,31.7,96.4,13.1,58.4,37.4
+401,University of Limerick,Ireland,2026,L,FC,HI,,,27.9,36.6,23.6,34.5,93.2,48.4,71.6,14.7,75.9,37.4
+404,Sabanci University,T¨¹rkiye,2026,S,CO,VH,,,26.5,62.6,40,39.2,51.2,28,35.5,12.8,50.1,37.2
+404,University of Florence,Italy,2026,XL,FC,VH,,,45.1,16.9,7,49.7,11.2,20.8,86.1,36.9,72.9,37.2
+406,Institut National des Sciences Appliqu¨¦es de Lyon (INSA),France,2026,M,FO,VH,,,9.4,38,42.7,69,34.4,77.5,58.7,17.8,39.1,37.1
+407,Lincoln University,New Zealand,2026,S,SP,VH,,,13.3,10.7,32.4,62.6,100,99.6,25.4,45.1,62,37
+408,University of Turin,Italy,2026,XL,FC,VH,,,48.1,14.3,5.1,42.5,5.2,10.1,90,61.4,78.7,36.9
+409,Universit¨¤? Cattolica del Sacro Cuore,Italy,2026,L,FO,VH,,,33.1,43.1,28.7,40.3,17.1,13.9,72.4,42.7,62,36.8
+410,Auckland University of Technology,New Zealand,2026,L,CO,VH,,,29.6,22.5,13.7,33.2,100,100,50.4,23.4,74,36.7
+410,Dublin City University,Ireland,2026,L,FC,HI,,,29.2,37.5,27.8,22,80.8,43.2,78,40.2,79.7,36.7
+410,Sunway University,Malaysia,2026,M,CO,VH,,,20.9,53.3,56.9,25.2,57.1,66.9,61.4,5.1,61.2,36.7
+410,University at Buffalo SUNY,United States of America,2026,L,FC,VH,,,26.3,19.1,10.7,53,51.5,52.5,74.1,43.7,82.7,36.7
+410,University of Southern Queensland,Australia,2026,M,CO,VH,,,11,8.2,7.9,90.1,78.5,48.7,82.2,11,65.5,36.7
+415,Bilkent University,T¨¹rkiye,2026,M,CO,VH,,,33.8,73.3,14.5,27.7,61.6,7.6,40.5,27,51.7,36.6
+416,Czech Technical University In Prague,Czechia,2026,L,SP,VH,,,26.8,51.3,89.4,6.2,28.7,56,69.4,23.1,53.6,36.5
+416,Julius-Maximilians-Universit?t W¨¹rzburg,Germany,2026,L,FC,VH,,,21.4,9.9,8.9,87,60.1,19.7,78.3,17,50.2,36.5
+416,Universit?t Mannheim,Germany,2026,M,FO,VH,,,20.3,76.3,4.6,42.4,55.7,41.2,25.7,45,51.3,36.5
+419,University of Aveiro,Portugal,2026,L,CO,VH,,,18.6,15.5,13.1,94.7,5.2,24.8,85.5,3.3,64.7,36.4
+420,National Taipei University of Technology,Taiwan,2026,M,FO,VH,,,18.2,57.6,28.6,58.8,25.6,31.7,25.6,29.2,58.9,36.3
+420,Universit¨¦ de Strasbourg,France,2026,XL,FC,VH,,,50.1,16.3,7.3,31.5,41.7,45.4,90.7,29.8,47.3,36.3
+422,Universitat Politecnica de Valencia,Spain,2026,XL,CO,VH,,,38,27.6,35.3,31.2,7.7,41.5,85.8,22.4,79.5,36.2
+423,Murdoch University,Australia,2026,M,CO,VH,,,13,8.7,7.4,73.9,89.6,82.5,75.1,24.9,53.4,36.1
+423,Tampere University,Finland,2026,L,FC,VH,,,29.2,24.7,24.8,47.7,61.6,13.9,84,42.1,49.2,36.1
+423,Universit¨¤? degli Studi di Pavia,Italy,2026,L,FC,VH,,,29.4,12.9,13.5,72.3,8.4,24.6,80.4,20.4,74.9,36.1
+423,Washington State University,United States of America,2026,L,FC,VH,,,28.7,39.9,23.1,42.7,50.7,9.2,77.9,15.5,78.5,36.1
+427,Graz University of Technology,Austria,2026,M,FO,VH,,,21.9,22.1,99.2,18.8,86.6,71.3,52.3,15.2,42.6,36
+428,Aix-Marseille University,France,2026,XL,FC,VH,,,51,15.9,11,29.7,22.8,29,99,29,63.2,35.9
+428,University of Dundee,United Kingdom,2026,M,FC,VH,,,25.5,21.3,44.8,20.6,92,84.4,78.7,13.9,78.6,35.9
+430,Masaryk University,Czechia,2026,XL,CO,VH,,,32.3,37.3,13.1,18.8,34.5,76.8,79.8,58.8,77,35.7
+430,Universitat de Valencia,Spain,2026,XL,FC,VH,,,49.7,17.2,17.3,31,2.7,39.4,91.4,16.5,74.1,35.7
+430,Universit¨¦ de Montpellier,France,2026,XL,FO,VH,,,26.7,4.9,11.7,72.3,29,42.8,99.4,18.8,55.3,35.7
+433,East China Normal University,China (Mainland),2026,XL,CO,VH,,,19.9,16.4,20.2,82.1,46.7,15.7,69.2,14.5,47.7,35.6
+433,Leibniz Universit?t Hannover,Germany,2026,L,FO,VH,,,29.6,37.2,19.9,33.7,54.7,33.3,80.5,20.3,78.7,35.6
+435,National Taiwan Normal University,Taiwan,2026,M,CO,VH,,,47.8,28.2,68.3,9.6,19.7,39.6,24.1,29,68.2,35.4
+436,Prince Mohammad Bin Fahd University,Saudi Arabia,2026,S,SP,VH,,,22.5,33.6,33.1,54.7,100,29.6,32.3,3.3,37.4,35.2
+436,Universitat Ramon Llull,Spain,2026,L,CO,HI,,,17.5,72.5,10.3,15.5,80.4,68,31.3,81.2,56.7,35.2
+438,IE University,Spain,2026,M,FO,HI,,,12.7,70.4,47.6,3.8,94,100,6.4,70.4,53,35.1
+439,National Sun Yat-sen University,Taiwan,2026,M,CO,VH,,,36.8,32.1,35.6,38,35.5,16.5,46.4,14.7,67,35
+440,Ajman University,United Arab Emirates,2026,S,FO,VH,,,27.8,51.3,15.7,10.2,100,100,65.2,12.8,46.2,34.9
+440,James Cook University,Australia,2026,M,FC,VH,,,21,11,27.5,60.3,46.9,37.6,83.8,11.2,81.9,34.9
+440,Macau University of Science and Technology,"Macao SAR, China",2026,L,CO,VH,,,7.4,10.9,4.8,79.5,100,100,23.9,36.8,52,34.9
+440,"National Research University Higher School of Economics (HSE, Moscow)",Russian Federation,2026,XL,CO,VH,,,28.1,52.9,92,2.7,10.2,24,84.7,19.4,57.6,34.9
+440,Universit?t Konstanz,Germany,2026,M,CO,VH,,,25.5,18.7,50.3,33.4,91.5,26.8,63.7,23,69.9,34.9
+440,"University of California, Riverside",United States of America,2026,L,FC,VH,,,21.4,21.1,10,64.2,80.9,30.4,75.4,7,55.6,34.9
+446,Vilnius University,Lithuania,2026,L,FC,HI,,,26.9,28,73.1,6.2,28.4,28.5,80.2,91.3,70.3,34.8
+447,Belarusian State University,Belarus,2026,L,CO,HI,,,32.5,51.5,91.8,1.7,4.9,71.1,34.4,61.3,,34.6
+448,Universit?t Bayreuth,Germany,2026,M,CO,VH,,,14.1,22.3,64.6,39.2,63.6,39.7,82.3,16.2,69.9,34.5
+449,Iowa State University,United States of America,2026,L,CO,VH,,,26.4,21.6,10.8,61,6.7,17.8,78.9,50.6,65,34.4
+450,Kazan Federal University,Russian Federation,2026,L,FC,VH,,,27.2,19.5,98.1,3.8,14,97.7,86.7,19.6,55.3,34.3
+450,"Universidade Estadual Paulista ""J¨²lio de Mesquita Filho"" (UNESP)",Brazil,2026,XL,FC,VH,,,53.3,36.8,20.1,22.2,7.4,5.3,73.6,1.6,58.5,34.3
+452,Johannes Gutenberg Universit?t Mainz,Germany,2026,L,FO,VH,,,32.5,19.8,70.5,18.1,51.3,26.4,87.5,18.1,52.2,34.2
+452,Shenzhen University,China (Mainland),2026,XL,CO,VH,,,11.9,8.7,40.1,90.9,15.9,2.7,69,26,48.2,34.2
+452,Stony Brook University,United States of America,2026,L,FC,VH,,,24.2,17.8,43.6,32.4,47.4,53.4,73.7,31.9,82.5,34.2
+452,University of Cyprus,Cyprus,2026,M,CO,VH,,,14.6,10.8,10.3,62.3,94.3,42.2,69.8,54.6,52.9,34.2
+456,Amirkabir University of Technology,Iran (Islamic Republic of),2026,M,SP,VH,,,8.5,26.7,7.4,100,41.7,5.7,67.2,5.4,35.5,34.1
+456,University of Essex,United Kingdom,2026,L,CO,VH,,,23.7,9.9,17.1,35.1,99.9,99.2,77,24.7,54.5,34.1
+458,Colorado State University,United States of America,2026,L,CO,VH,,,25.2,30.1,73.1,22.8,22.7,9,82.5,32.3,75,34
+458,Universidad Nacional de La Plata,Argentina,2026,XL,FC,HI,,,55.7,30.8,40.8,2.9,7.2,41.6,54.1,37.7,39.4,34
+458,"University of California, Santa Cruz",United States of America,2026,L,CO,VH,,,24.7,13.6,10,62.4,71.4,10,62.2,14.3,84.3,34
+461,Jordan University of Science & Technology,Jordan,2026,L,CO,VH,,,32,47.8,23.1,12.3,66.7,87.9,54.6,5.8,52.1,33.9
+461,Novosibirsk State University,Russian Federation,2026,M,FO,VH,,,28.8,31.1,93.6,13,9.1,70.6,55.7,13.3,43.8,33.9
+461,Royal Holloway University of London,United Kingdom,2026,L,CO,VH,,,22.8,11.8,15.1,41,96.3,88.9,73,12.3,61.7,33.9
+461,Universit¨¤ Vita-Salute San Raffaele,Italy,2026,S,SP,VH,,,4.8,3.1,89.3,99.5,6.2,11.3,35.5,4.1,26.1,33.9
+465,Anna University,India,2026,L,SP,VH,,,15,19.4,9.2,99.8,,1.6,47.3,17.8,64.5,33.8
+465,Concordia University,Canada,2026,XL,CO,VH,,,21.7,18,5.2,32,64,94.4,75.6,58.4,81.8,33.8
+465,Shanghai University,China (Mainland),2026,XL,FO,VH,,,29.8,21.4,51.1,48.5,29.6,10.2,62.5,12.5,42.9,33.8
+465,University of Kansas,United States of America,2026,L,FC,VH,,,17.6,22.8,91.9,13.6,79,12.6,87.5,42.8,62.2,33.8
+469,Ben Gurion University of The Negev,Israel,2026,L,FC,VH,,,19.5,26.9,15,58.7,71.2,23.8,63.4,24.5,48.8,33.7
+469,Laval University,Canada,2026,L,FC,VH,,,25.3,11.3,33.3,29.8,57.4,54.9,78.8,49.9,81.6,33.7
+469,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU),Uzbekistan,2026,M,CO,VH,,,35.6,46,87.1,4.2,44.3,16.7,18.6,24.8,46.9,33.7
+469,Universidad de Sevilla,Spain,2026,XL,FC,VH,,,52.7,20.6,23.4,15.1,5.1,25.8,90.8,22.1,66.1,33.7
+473,Jilin University,China (Mainland),2026,XL,FC,VH,,,16.2,47.3,35.8,53.9,15.6,2.2,65.3,33,48.5,33.5
+473,Johannes Kepler University Linz,Austria,2026,M,FO,VH,,,17.5,14.9,80,25.2,89.9,57.5,56.6,15.3,61,33.5
+473,Pusan National University,Republic of Korea,2026,L,FC,VH,,,28.6,20.2,57.6,36.7,19.9,27.1,57.5,18.9,73.6,33.5
+473,Universit¨¤ della Svizzera Italiana,Switzerland,2026,S,FO,VH,,,9.3,9.4,70.3,43.4,100,100,42.7,2.2,48.2,33.5
+477,Moscow Institute of Physics and Technology State University,Russian Federation,2026,M,FO,VH,,,20.3,34.1,95.3,18.1,38.6,54.8,47.1,38,21.9,33.4
+477,Universit?t Potsdam,Germany,2026,L,FO,VH,,,22.3,5,28.4,53.7,60.9,34.9,92.6,4.2,75.3,33.4
+479,Chung-Ang University,Republic of Korea,2026,L,FC,VH,,,24.9,37.6,79.2,16.7,19.7,62.4,31.3,17.3,68.9,33.3
+480,Hiroshima University,Japan,2026,L,FC,VH,,,34.6,17.1,79.8,17.2,19.2,22.7,70.3,12.4,73.2,33.2
+480,University of Science and Technology Beijing,China (Mainland),2026,L,CO,VH,,,16.4,14.6,13.9,99.2,4.2,5.1,59.1,8.5,41.6,33.2
+482,Dalian University of Technology,China (Mainland),2026,XL,CO,VH,,,11.4,11,23.4,95.7,15.4,5.3,59.8,21.8,46.8,33
+482,Duy Tan University,Viet Nam,2026,L,CO,VH,,,13.7,27.7,6.3,76,43.4,2.1,87.7,6.4,58.7,33
+482,Kobe University,Japan,2026,L,FC,VH,,,36.9,39,45,19.4,11.2,10.7,53.3,27,73.3,33
+485,Aristotle University of Thessaloniki,Greece,2026,XL,FC,VH,,,38.2,35.9,6.4,28.4,2.1,8.1,90.9,48.3,66.4,32.9
+485,University of Trento,Italy,2026,L,CO,VH,,,34.8,18.6,32.9,40,32.3,11.3,85.6,7.1,51.8,32.9
+487,Edith Cowan University,Australia,2026,L,CO,VH,,,13.7,13.1,6,60.4,96.4,82.4,63.8,7.4,51,32.8
+487,Technische Universit?t Bergakademie Freiberg,Germany,2026,S,FO,VH,,,7.4,6.4,10.1,90.9,59.7,100,35.1,1.4,32.9,32.8
+487,Warsaw University of Technology,Poland,2026,L,FO,VH,,,28.4,72.4,55.7,9.5,3.4,17.6,63.8,15.9,38.4,32.8
+490,Universidad de Santiago de Chile - USACH,Chile,2026,L,FC,HI,,,50.4,59.9,11.4,7.8,10.6,3.8,53.9,17.5,53.7,32.7
+491,Central South University,China (Mainland),2026,XL,FO,VH,,,12.1,10.2,7.3,100,9,7,73.8,23.2,42.7,32.6
+491,Imam Abdulrahman Bin Faisal University (formerly University of Dammam),Saudi Arabia,2026,L,FC,HI,,,16.9,31.4,94.9,5.6,99.2,34.8,73.9,2.9,55.3,32.6
+491,Universiti Utara Malaysia (UUM),Malaysia,2026,M,CO,VH,,,31.2,39.2,48,12.7,25.6,86.9,42.4,16.4,49.5,32.6
+494,Universit¨¦ de Bordeaux,France,2026,XL,FO,VH,,,43.2,10,13.5,28.1,31.7,35.2,93.5,25.3,56.5,32.5
+494,University of Canberra,Australia,2026,M,CO,VH,,,18.2,11.9,3.4,50.8,82.8,83.1,66.7,10.9,73.2,32.5
+496,Iran University of Science and Technology,Iran (Islamic Republic of),2026,M,FO,VH,,,11.8,24.3,4.3,99.9,7,8.6,64.4,9.4,27.3,32.4
+496,Justus-Liebig-Universit?t Gie?en,Germany,2026,L,FC,VH,,,15.4,9.6,2.7,85.6,19.3,28.9,80.7,17,53.4,32.4
+498,University of Jyv?skyl?,Finland,2026,M,FO,VH,,,23.4,13.7,87.8,20.8,51.1,6.3,84.3,13.9,70.6,32.3
+499,Central Queensland University Australia (CQUniversity),Australia,2026,S,CO,VH,,,13.6,8.5,42.2,39.7,97.6,99.9,47.5,5,64.2,32.2
+499,Northwestern Polytechnical University,China (Mainland),2026,XL,CO,VH,,,9.5,9.9,52.3,82.6,25.5,10.1,57.6,11.5,39,32.2
+499,Tomsk State University,Russian Federation,2026,M,CO,VH,,,25.3,20,99.3,7,28,94.7,66.4,7.1,30.6,32.2
+499,Universidad de Costa Rica,Costa Rica,2026,XL,CO,HI,,,46.4,31.6,44.4,2.5,3,3.4,46.1,86.1,53.7,32.2
+503,Shoolini University of Biotechnology and Management Sciences,India,2026,S,CO,VH,,,16.2,22.5,12.1,82.6,29,2.2,54.1,1.8,57.3,32.1
+504,China Agricultural University,China (Mainland),2026,L,FC,VH,,,12.3,10.3,19.2,98.7,4.8,2.3,62.1,9.6,44.4,32
+504,Chongqing University,China (Mainland),2026,XL,SP,VH,,,11.9,9.8,18.2,93.8,28.1,3.9,58.1,19.1,40,32
+504,Ewha Womans University,Republic of Korea,2026,L,FC,HI,,,33.5,26.6,75.1,13.6,9.6,37.5,32.9,28.4,67.1,32
+504,Hunan University,China (Mainland),2026,XL,FO,VH,,,10.9,11.8,20.8,94.7,5.9,2.8,57.7,32.5,40.6,32
+504,University of Guelph,Canada,2026,L,CO,VH,,,19.9,19.2,7.9,55.2,49.6,24,74.8,18.2,80.7,32
+509,Institut Teknologi Sepuluh Nopember (ITS),Indonesia,2026,L,CO,VH,,,27.4,60.2,62.1,2.7,69.6,11.9,27.6,17,52.5,31.9
+509,INTI International University,Malaysia,2026,S,CO,VH,,,14.3,37.8,95.1,3,100,99.7,19.2,5.2,33.2,31.9
+511,Ateneo de Manila University,Philippines,2026,L,FC,MD,,,32.2,70,33.1,3,3.6,4.3,24.3,80.4,60.5,31.6
+511,Singapore Management University,Singapore,2026,M,SP,VH,,,19.4,27.4,14.2,30.9,100,83.2,23,38.1,58.9,31.6
+511,SOAS University of London,United Kingdom,2026,M,FO,VH,,,24.7,19,18.4,23.7,100,99.2,17.8,35.2,65,31.6
+511,University of Bradford,United Kingdom,2026,M,CO,VH,,,14,11.2,9.3,40.3,75,99.2,70.5,41.5,70.4,31.6
+515,Lebanese University,Lebanon,2026,XL,FC,HI,,,32.9,55.3,16,3.4,52.2,47.2,59.9,38.9,45.2,31.5
+515,Universitas Padjadjaran (UNPAD),Indonesia,2026,XL,FO,VH,,,29.9,51.7,55.9,2.2,54.3,4.4,31.8,45.4,59.7,31.5
+517,Pontificia Universidad Cat¨®lica Argentina Santa Mar¨ªa de los Buenos Aires - UCA,Argentina,2026,L,FC,MD,,,30.2,39.9,100,1.2,3,14.8,10.5,89.8,26.7,31.4
+517,University of Stirling,United Kingdom,2026,M,CO,VH,,,16.8,13.1,14.6,38.3,79.5,81.3,62.7,22.4,81.2,31.4
+519,Kyungpook National University,Republic of Korea,2026,L,FC,VH,,,18,20.3,78.5,29.6,18.7,44.6,55.8,15.5,68.3,31.3
+519,Singapore University of Technology and Design,Singapore,2026,S,SP,VH,,,11,11.3,99.3,71,,,35.2,5.3,25,31.3
+519,Universidad Austral - Argentina,Argentina,2026,M,FC,MD,,,29.8,48.9,89.6,2.5,2.9,16.7,13.4,69.9,29.2,31.3
+519,University of Electronic Science and Technology of China,China (Mainland),2026,XL,FO,VH,,,5.8,16.3,11.3,99.9,4.2,4.4,83.2,11.5,37.6,31.3
+519,Ural Federal University,Russian Federation,2026,XL,CO,VH,,,25.8,24.7,98.2,3.5,8.7,49.3,91,5.6,54.4,31.3
+524,University of Huddersfield,United Kingdom,2026,L,CO,VH,,,17.9,19,9.1,36.3,79.7,91.6,74.6,2.2,69.1,31.2
+525,The University of Georgia,United States of America,2026,XL,FC,VH,,,27.9,36.7,14,33,11.1,8.8,85,35.8,65.9,31.1
+526,Boston College,United States of America,2026,L,CO,VH,,,29.9,30.2,28,26.8,9.8,28.5,47.7,64.8,56,30.9
+526,Chiang Mai University,Thailand,2026,XL,FC,HI,,,48.8,30.4,22,8.8,5.5,8.7,65.8,28.7,67.6,30.9
+526,University of Hull,United Kingdom,2026,L,FC,HI,,,13.2,14.3,15.9,36.9,68.3,95.6,70.3,29.5,75.4,30.9
+526,University of Salamanca,Spain,2026,L,FC,VH,,,36.9,23.5,36.8,11.8,10.2,25.9,86.3,33.4,70.8,30.9
+530,The Education University of Hong Kong,"Hong Kong SAR, China",2026,M,FO,VH,,,9.4,7.8,71.7,39.7,99.8,68.6,43.4,9.4,35.3,30.8
+530,Universit?t Bremen,Germany,2026,L,CO,VH,,,25.7,14.2,15.2,39.5,61.4,41.9,86.9,7.6,54.9,30.8
+530,University of Genoa,Italy,2026,L,FC,VH,,,28,10.6,19.8,52.6,9.2,17.5,83.1,16.6,62.3,30.8
+530,University of Iowa,United States of America,2026,L,FC,VH,,,25.5,16.2,50.1,27.4,40.4,8.5,68.7,47.1,61,30.8
+534,University of Connecticut,United States of America,2026,L,FC,VH,,,20.8,14.6,28.1,33.5,54.6,34.9,85.1,40.1,63.4,30.7
+535,King Khalid University,Saudi Arabia,2026,L,FC,VH,,,25.8,17.6,64.6,7,100,35.9,84.4,2.7,45.7,30.6
+535,Lebanese American University,Lebanon,2026,M,FC,HI,,,20.2,44.6,31.3,10.7,80.6,26.6,78.3,29.2,58.3,30.6
+535,Prince Sultan University,Saudi Arabia,2026,S,SP,VH,,,10.6,12,19.4,61.9,100,23.2,62.7,15.9,45.7,30.6
+535,Universit?t Leipzig,Germany,2026,L,FC,VH,,,31.5,14,85.3,13,,24,82.7,15.9,57.2,30.6
+535,University of Ljubljana,Slovenia,2026,XL,FC,VH,,,29.7,18.9,45.6,11,7.1,18.1,85.7,98.1,54.2,30.6
+540,Jinan University (China),China (Mainland),2026,XL,FC,VH,,,8.6,8.7,12.3,75.3,41.6,89.1,47.2,10.5,40.5,30.5
+540,University of Utah,United States of America,2026,XL,FC,VH,,,21.8,13.1,53.8,38.3,21.2,18.2,74.5,28.3,59.6,30.5
+542,Ain Shams University,Egypt,2026,XL,FC,VH,,,35.6,38.8,17.1,3.5,29.5,13.7,80.8,69.6,56.7,30.3
+542,Universiti Teknologi MARA - UiTM,Malaysia,2026,XL,FC,VH,,,44.5,48.8,26.3,5.6,2.5,3.4,74.3,4.9,55.4,30.3
+542,University of Milano-Bicocca,Italy,2026,L,FO,VH,,,28.6,19.2,5.2,56,7.3,8.3,80.8,15,53.6,30.3
+542,University of the Punjab,Pakistan,2026,XL,CO,VH,,,22.5,57.6,5.7,24.4,4,1.7,71.8,89.4,44.3,30.3
+546,Universit?t Ulm,Germany,2026,M,FO,VH,,,10.9,10.2,83.9,43.8,47.5,30.8,67.2,3.4,38.7,30.2
+546,University of Hawaii at Ma?oa,United States of America,2026,L,FC,VH,,,21.3,10.5,32.4,51.8,25.2,11.1,84.5,13.3,60.9,30.2
+546,University of Windsor,Canada,2026,L,CO,VH,,,5.1,7.1,2.7,58.2,89.4,94.6,49.5,34.4,68.7,30.2
+549,Florida State University,United States of America,2026,XL,FC,VH,,,32.7,24,11.4,34.1,16.4,9,74.5,34.8,62.5,30.1
+550,Northumbria University at Newcastle,United Kingdom,2026,L,CO,VH,,,16.6,19.1,18.2,30.6,64.5,63.6,81.5,20,77.8,30
+551,Thammasat University,Thailand,2026,XL,FC,HI,,,36.7,38.3,27.2,3.9,15.9,2.2,45.7,90.6,60.7,29.9
+551,Universiti Tenaga Nasional (UNITEN),Malaysia,2026,S,SP,VH,,,9.5,19.9,76.6,34.1,34.7,70.5,55.7,5.3,48.7,29.9
+553,Hitotsubashi University,Japan,2026,M,SP,VH,,,19.7,78.1,42.2,4,31.3,33.5,11.7,57.5,32.2,29.8
+553,University of Delaware,United States of America,2026,L,CO,VH,,,12.5,9.4,9.6,64.1,48.2,22.5,68.5,28.7,72.9,29.8
+555,Lahore University of Management Sciences (LUMS),Pakistan,2026,S,CO,VH,,,21.4,77.3,28.8,16.5,10.8,3.1,26.2,48.4,45,29.7
+556,Indian Institute of Technology Indore,India,2026,S,FO,VH,,,8,16.9,28.8,96.9,1.8,1.3,28.2,5.3,34.7,29.6
+556,University of Houston,United States of America,2026,XL,CO,VH,,,18.7,24.9,8.1,30.2,48,43.9,74.1,67.3,57.1,29.6
+558,Al Ain University,United Arab Emirates,2026,S,FO,VH,,,25.6,20.8,20.8,17,100,100,37.1,7.3,42.9,29.5
+558,Coventry University,United Kingdom,2026,L,CO,VH,,,16,18.5,21.8,14.8,85.1,99.5,84.3,18.4,71.2,29.5
+558,Jawaharlal Nehru University,India,2026,M,CO,VH,,,39.8,17.4,16.7,37.6,,1.7,56.9,20.6,59.3,29.5
+558,Sogang University,Republic of Korea,2026,M,CO,VH,,,27.3,51.9,61.3,8.9,9.5,35.3,16.2,23.4,49.8,29.5
+558,University of Kwazulu-Natal,South Africa,2026,XL,FC,VH,,,17.9,14.4,6.9,44.5,29.1,2.1,95.9,79.4,63,29.5
+563,Ajou University,Republic of Korea,2026,M,FC,VH,,,19.8,22.1,70.2,34.3,13.3,58,18.1,5.3,53.3,29.4
+563,American University of the Middle East,Kuwait,2026,M,SP,HI,,,25.9,34.7,28.9,8.9,100,36.9,67.2,6.1,47.2,29.4
+563,University of Debrecen,Hungary,2026,L,FC,HI,,,27.3,21.5,45.9,7.4,14.4,76.5,74.9,25.9,70.4,29.4
+566,Bangor University,United Kingdom,2026,M,FC,VH,,,12.8,10.5,18.9,44.4,38.1,77.4,74.7,16.9,78,29.3
+566,Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi),India,2026,M,FO,VH,,,9.3,19.4,5.2,98,2.5,1.2,30.5,10.3,48.3,29.3
+566,Renmin (People¡¯s) University of China,China (Mainland),2026,L,FO,VH,,,29.7,50,21.3,16.6,8.9,9.1,26,83.6,44.5,29.3
+566,Savitribai Phule Pune University,India,2026,M,CO,VH,,,11.1,20.3,47.1,63.8,,3.3,54.7,30.4,43,29.3
+566,University of Minho,Portugal,2026,L,FC,VH,,,22.2,17.1,28.3,38.6,21.3,26,83.6,15.7,67.7,29.3
+571,Colorado School of Mines,United States of America,2026,M,FO,VH,,,11.3,22.5,18.8,69.9,28.7,11.2,30.9,29.4,54.7,29.2
+571,Hacettepe University,T¨¹rkiye,2026,L,FC,VH,,,33,50.5,18.5,11.8,3.9,6.1,73.5,30.8,58.3,29.2
+571,Isfahan University of Technology,Iran (Islamic Republic of),2026,M,FO,VH,,,7.8,22.6,6.4,97.7,2.2,3.9,45.7,9.6,28,29.2
+571,Pontificia Universidade Cat¨®lica do Rio de Janeiro (PUC - Rio),Brazil,2026,M,CO,VH,,,42.5,23.5,17.2,14.6,16.1,2.6,46.1,73.4,51.3,29.2
+575,Brno University of Technology,Czechia,2026,L,FO,VH,,,17.7,36.4,37,13.7,26.7,77.3,80.7,15.7,61.3,29.1
+575,Chandigarh University,India,2026,XL,FC,HI,,,22.4,70,34.2,2.8,44.5,25.1,66.3,1.7,44,29.1
+575,Universit?t Jena,Germany,2026,L,FC,VH,,,23.4,10.4,100,12.7,,34.1,91.1,4.9,53.2,29.1
+578,Universidad Adolfo Ib¨¢?ez,Chile,2026,M,SP,VH,,,28.7,63.3,7.6,9.1,46.4,8,34.4,60.7,40,29
+578,Universiti Teknologi Brunei,Brunei Darussalam,2026,S,FO,VH,,,20.2,13.1,86.5,22.7,100,7.7,20.7,16.6,34.7,29
+578,University of Tabriz,Iran (Islamic Republic of),2026,L,CO,VH,,,9.7,11.2,2.9,91.7,1.7,25.4,76.9,5.1,29.6,29
+581,Universidad Pontificia Comillas,Spain,2026,M,FO,VH,,,12.3,76.7,48.4,4.1,25.4,11.2,10.4,87.1,49.2,28.9
+582,Florida International University,United States of America,2026,XL,FC,HI,,,22.7,38.3,18.3,17.5,27.7,22.6,84.7,28,79,28.8
+582,University of Iceland,Iceland,2026,M,CO,VH,,,9.6,2,99.6,18,32.4,18.1,75.5,89.3,49.4,28.8
+584,Charles Darwin University,Australia,2026,M,FO,VH,,,7.8,7.3,6.4,65.1,41.8,88.9,49.7,4.8,70.7,28.7
+584,Eotvos Lorand University,Hungary,2026,XL,CO,VH,,,31.6,29.7,16.6,9.3,5.7,26.1,79.8,69.2,68.1,28.7
+584,University of Dhaka,Bangladesh,2026,XL,FC,HI,,,30.5,51.3,10.5,6.9,2.2,1.4,57.8,97,54.2,28.7
+587,American University,United States of America,2026,M,CO,VH,,,19.8,50.2,45.1,7.6,16.7,27,34.6,51.6,74.6,28.6
+587,National Central University,Taiwan,2026,M,CO,VH,,,28.9,38.7,26.4,25.6,18.5,18.4,33.9,18.7,60.6,28.6
+587,Universit¨¦ Claude Bernard Lyon 1,France,2026,XL,FC,VH,,,26.1,5.9,9.6,53,10.1,20.5,91.7,16,51,28.6
+587,Universit¨¦ Paul Sabatier Toulouse III,France,2026,L,FO,VH,,,24.6,4.4,45.5,36.4,6.9,33.2,98.1,9.3,50.4,28.6
+591,American University of Ras Al Khaimah ( AURAK ),United Arab Emirates,2026,S,SP,MD,,,8.4,9.5,37.6,48.6,100,100,15.3,4.4,25.3,28.5
+591,Bond University,Australia,2026,S,FO,VH,,,5.9,8.3,52.1,53.8,63.5,90.4,24.6,11.6,23.5,28.5
+591,Illinois Institute of Technology,United States of America,2026,M,CO,VH,,,16.9,23.3,15.8,47.5,18.7,99.7,27.3,22.5,32.5,28.5
+591,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russian Federation,2026,M,FO,VH,,,10.3,20.9,99.3,11.2,60.6,93.3,30.2,17.6,23,28.5
+595,Universidade Federal de Minas Gerais,Brazil,2026,XL,FC,VH,,,45.4,16.9,21.1,11.8,9,2.5,67.6,50.9,48.2,28.4
+595,Zayed University,United Arab Emirates,2026,M,SP,VH,,,19.8,31.7,34.7,21.8,100,2.8,48.5,29.3,41.1,28.4
+597,Asia Pacific University of Technology and Innovation (APU) Malaysia,Malaysia,2026,S,SP,HI,,,17.3,23.7,74.2,2.9,95.6,100,14.1,5.3,39,28.3
+597,Hasselt University,Belgium,2026,M,FC,HI,,,8.8,5.2,85.7,22.8,78.5,41.1,69.8,6.6,62.7,28.3
+597,Management and Science University - MSU Malaysia,Malaysia,2026,S,FO,VH,,,25.1,20.9,55.3,3.2,99.6,100,10.8,5.3,36.8,28.3
+597,Taipei Medical University,Taiwan,2026,M,SP,VH,,,16.9,14.7,94.2,32.3,20,22,24.7,11.9,48.1,28.3
+597,Tulane University,United States of America,2026,L,FC,HI,,,14.5,13.8,87.2,17.5,20.3,18.5,79.2,46.2,51.8,28.3
+597,University of Szeged,Hungary,2026,L,FC,HI,,,26.2,22.7,41.9,8.9,15.4,56.4,75.3,29,69.4,28.3
+597,University of Texas at Dallas,United States of America,2026,L,FC,VH,,,19.3,33.7,5.5,43,14.4,61.1,55.3,9.1,48.9,28.3
+604,Canadian University of Dubai,United Arab Emirates,2026,S,FO,HI,,,22.7,29.7,40.3,7,100,100,18.8,18.1,17.6,28.2
+604,National Chengchi University,Taiwan,2026,L,CO,HI,,,28.3,46.9,21.2,3.4,38,36.2,12.8,93.3,41.4,28.2
+604,University of Eastern Finland,Finland,2026,L,CO,VH,,,18.9,10.3,45,35.3,39.2,12,84,5.6,71.2,28.2
+607,University of Siena,Italy,2026,M,FC,VH,,,21.4,7.8,15.3,60.2,4.6,19.7,61.2,12.3,63.4,28
+607,University of Tennessee,United States of America,2026,XL,FC,VH,,,14.3,11.7,12.9,69.3,6.9,4.6,68.6,25.2,54.8,28
+609,Nottingham Trent University,United Kingdom,2026,XL,CO,VH,,,16.4,22.9,15.5,10.7,67.1,90.4,84.8,20.4,77.5,27.9
+609,Peter the Great St.Petersburg Polytechnic University,Russian Federation,2026,L,CO,VH,,,18,17.8,79.8,4.9,18.9,89.8,70.4,11.1,51.6,27.9
+609,Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA),Malaysia,2026,M,FO,VH,,,17.2,9.9,23.6,57.9,32.1,19,61.6,5.2,51.4,27.9
+609,University of Ulster,United Kingdom,2026,L,CO,VH,,,12.6,19.8,11.4,19,100,90.1,71.5,10.1,75.6,27.9
+613,Applied Science University - Bahrain,Bahrain,2026,S,FO,VH,,,26.6,29.4,51.6,4.5,100,62.3,12.3,11.9,23.9,27.8
+613,City University of New York,United States of America,2026,XL,FC,VH,,,25.3,59.4,14.3,6.4,8.4,8.3,92.9,31.3,55.4,27.8
+613,International Islamic University Malaysia (IIUM),Malaysia,2026,L,FC,HI,,,36,27.3,17.9,6.2,29.1,69,58.6,32.3,32,27.8
+613,Universidad de Concepci¨®n,Chile,2026,L,FC,HI,,,36.8,34,20.2,12.3,14.5,2.6,64.1,16.9,69.5,27.8
+613,University of Plymouth,United Kingdom,2026,L,FC,HI,,,13.8,14.2,15.4,36.7,61.3,61.4,82.1,13.8,58.6,27.8
+618,Christian-Albrechts-Universit?t zu Kiel,Germany,2026,L,FC,VH,,,24.4,14.6,56.7,20.9,,15.1,92.4,24.5,59.2,27.7
+618,Dongguk University,Republic of Korea,2026,L,FC,HI,,,12.8,18,76.3,29.9,22.9,52.3,36.2,6.7,56.5,27.7
+618,Saint Joseph University of Beirut (USJ),Lebanon,2026,M,FC,HI,,,13.4,38.2,62.3,4.2,94.3,40.7,30.2,40.8,35,27.7
+618,Zhengzhou University,China (Mainland),2026,XL,FC,VH,,,7.1,23.8,7,82.7,,4.1,62.3,11.4,42.3,27.7
+622,Umm Al-Qura University,Saudi Arabia,2026,XL,FC,HI,,,23.6,15.4,61.3,4.9,100,26.1,71.3,11.5,36.8,27.6
+622,University of New Brunswick,Canada,2026,M,CO,VH,,,7.1,17.9,22.2,41.1,67.5,65.1,51.1,24.7,62.7,27.6
+624,Diponegoro University,Indonesia,2026,XL,FC,HI,,,30,53.2,30.5,2.3,46.4,7.1,35.5,24.2,51,27.5
+624,Oregon State University,United States of America,2026,L,CO,VH,,,19.7,11.9,20.4,44.4,17.3,11.9,80.3,28.8,64.1,27.5
+624,Universidad del Pais Vasco,Spain,2026,XL,CO,VH,,,28.6,10.8,38.4,27.8,3,6.3,90.1,31.2,51.5,27.5
+624,Yeshiva University,United States of America,2026,M,FC,MD,,,3.8,4.6,62.7,72.8,36.4,27.7,15.3,4.9,36.4,27.5
+628,Istanbul University,T¨¹rkiye,2026,XL,FC,HI,,,33.3,43,4.5,5.1,7,20.6,70.5,78.8,37.5,27.4
+628,Kazakh National Pedagogical University Abai,Kazakhstan,2026,L,CO,MD,,,31.7,34.9,71.2,1.3,55.4,13.5,9,16.6,35.6,27.4
+628,Missouri University of Science and Technology,United States of America,2026,M,CO,VH,,,4.9,10.5,8.6,87.7,26.9,32.5,41.7,8.8,34,27.4
+628,National Chung Hsing University,Taiwan,2026,L,CO,VH,,,28.6,30.9,29.4,22.5,12.3,14,34.5,42.2,56.3,27.4
+628,Universidade de Santiago de Compostela,Spain,2026,L,CO,VH,,,33.9,16,17.5,27.6,3,11.8,77.3,20,62.4,27.4
+628,University of Crete,Greece,2026,L,FC,HI,,,19.3,17.8,3.9,69.6,2.7,7.2,61.9,4.5,40.6,27.4
+628,University of South Carolina,United States of America,2026,L,FC,VH,,,17.7,21.9,13.5,37.1,54.6,5.9,68,28,68.9,27.4
+635,Tallinn University of Technology,Estonia,2026,M,FO,VH,,,16.2,18.6,33.5,23.5,53.2,26.8,81.2,50.5,43,27.2
+635,Universit?t des Saarlandes,Germany,2026,L,FC,VH,,,14,10.1,96.3,12.1,6.3,62.3,70.4,41.8,31.9,27.2
+635,University of Portsmouth,United Kingdom,2026,L,CO,VH,,,10.9,13.1,12,27.8,80.1,90.7,81.5,13.5,62.6,27.2
+638,"Lincoln University College, Malaysia",Malaysia,2026,S,CO,HI,,,11.1,26,95.6,1.8,100,100,5.2,5.3,12.5,27.1
+638,Southern Cross University,Australia,2026,M,CO,VH,,,6,4.3,3.9,55.5,92.7,62.6,61.1,6.2,65.9,27.1
+638,Universidad de Zaragoza,Spain,2026,L,FC,VH,,,29.7,9.9,54.6,15.6,2.3,10.2,89.2,14.8,69.7,27.1
+638,"University of Chemistry and Technology, Prague",Czechia,2026,S,FO,VH,,,8.2,12.2,99.5,19.2,33.7,85.4,32,9.4,43.4,27.1
+642,University of Fribourg,Switzerland,2026,M,CO,VH,,,13.6,5.5,14.1,27.3,99.9,52.5,60.4,49.6,66.8,27
+643,Abo Akademi University,Finland,2026,M,CO,VH,,,9.5,7.9,22.1,53.9,60.7,43.6,59.8,13.5,45.2,26.9
+643,Inha University,Republic of Korea,2026,L,FC,VH,,,17.5,19.9,74.7,23.8,17.7,25.7,28.1,17.1,64.7,26.9
+643,Libera Universita' di Bolzano,Italy,2026,S,FO,VH,,,7.8,3.1,20.6,62.4,66.1,56.3,51.9,4,37.4,26.9
+643,Manchester Metropolitan University,United Kingdom,2026,XL,CO,VH,,,18.8,16.4,11.4,16.8,63.1,61.4,89,19.2,78,26.9
+643,University of Manitoba,Canada,2026,L,FC,VH,,,19.2,20,31.8,22.6,,68.4,70,39.5,55.7,26.9
+648,King Faisal University,Saudi Arabia,2026,L,FC,HI,,,25.3,29.8,24.5,6.3,99.4,11,66,14.9,54.3,26.8
+648,"University of Tromso, The Arctic University of Norway",Norway,2026,L,FC,VH,,,15.5,7.9,82.5,12,75.9,12.9,80.8,9.3,51.4,26.8
+650,MGIMO University,Russian Federation,2026,M,CO,HI,,,10.7,38.7,100,1.7,15.4,57.2,6.7,69.8,21.7,26.7
+650,Paris Lodron University of Salzburg,Austria,2026,M,CO,VH,,,13.3,4.8,38.7,11.6,98.4,98.1,59.1,23.7,62.2,26.7
+650,Universidad de la Rep¨²blica (UdelaR),Uruguay,2026,XL,FC,HI,,,40,20.4,18.2,2.3,10.7,4.1,63.2,90.6,43.3,26.7
+650,University of Brescia,Italy,2026,M,FO,VH,,,7.3,4.1,8.7,85,2,8.5,58.8,11.6,63.9,26.7
+654,China University of Mining and Technology,China (Mainland),2026,L,FO,VH,,,4.3,6.4,25.5,87.2,,,55.5,16.3,39.2,26.6
+654,De La Salle University,Philippines,2026,L,CO,HI,,,32.7,58.6,9.6,6.8,2.8,3.5,27.3,60.7,44.1,26.6
+654,Konkuk University,Republic of Korea,2026,L,FC,VH,,,11.6,12.8,61.3,34.1,16.2,43.9,52.5,14.7,61.8,26.6
+654,Universit¨¦ de Lille,France,2026,XL,FC,VH,,,33.9,10.6,6.1,27,21,25.4,94.2,6.9,54.3,26.6
+654,"University of Agriculture, Faisalabad",Pakistan,2026,XL,CO,VH,,,7.3,14.6,2.2,83.4,2.6,1.2,75.3,3.1,48.4,26.6
+654,University of South Florida,United States of America,2026,XL,CO,VH,,,17.4,20.4,13.8,36.7,14.3,41.4,81.9,13.5,66.4,26.6
+660,Bar-Ilan University,Israel,2026,L,FC,VH,,,11,14.3,10.4,59.4,54.4,4.9,53.2,33.1,41.7,26.5
+660,Ca' Foscari University of Venice,Italy,2026,M,CO,VH,,,27.1,21.7,10.1,20.7,44,18.6,68.2,20,74,26.5
+660,"Kingston University, London",United Kingdom,2026,L,CO,HI,,,20.7,24.6,7.2,12.7,77.3,95.8,52,16.4,49.5,26.5
+660,Memorial University of Newfoundland,Canada,2026,L,FC,VH,,,10.7,10.5,15.7,43.7,30.7,78.5,73.6,17.4,53.3,26.5
+664,COMSATS University Islamabad,Pakistan,2026,XL,CO,VH,,,17,35.8,17,36.8,1.4,1.6,87.3,8.3,62.7,26.4
+664,Indian Institute of Technology Hyderabad (IITH),India,2026,S,CO,VH,,,10.3,15,20.2,84,1.3,1.9,18,6.5,42.3,26.4
+664,University of Mumbai,India,2026,M,FC,VH,,,11.3,31.5,4.7,53.7,3,4.3,27.6,91,41.3,26.4
+664,University of Oklahoma,United States of America,2026,L,FC,VH,,,14.3,18.6,19.8,41.5,27.8,9.8,72.3,35.2,60.5,26.4
+668,Birla Institute of Technology and Science,India,2026,L,CO,VH,,,18,32.6,12.4,39.3,2.9,4,41.8,55,58.8,26.3
+668,Chang Gung University,Taiwan,2026,M,FO,VH,,,9.3,6.6,74.6,58.2,7.9,9.5,25.5,2.1,48.8,26.3
+668,Karl-Franzens-Universit?t Graz,Austria,2026,L,FO,VH,,,26.8,13.1,18.9,13.6,53.4,38.6,70.3,44,52.7,26.3
+668,Lehigh University,United States of America,2026,M,CO,VH,,,7.2,12.4,30.5,37.1,68.9,40,44.9,45.4,61.5,26.3
+668,Palack? University in Olomouc,Czechia,2026,L,FO,VH,,,21.5,19.8,36.5,14.7,40.1,28.5,85.8,9,67.5,26.3
+673,East China University of Science and Technology,China (Mainland),2026,XL,CO,VH,,,9.1,10.3,15.4,82.5,3.3,2.5,43.5,12.5,40.2,26.2
+673,Stevens Institute of Technology,United States of America,2026,M,FO,VH,,,4,10,8.4,60.9,54.1,98.7,21.7,13.5,46.7,26.2
+673,Technische Universit?t Dortmund,Germany,2026,L,FO,VH,,,18.5,35.5,42.7,11.1,32.3,36.7,76.5,12.5,43,26.2
+676,Beirut Arab University,Lebanon,2026,S,FC,HI,,,20,22.2,28.8,7.6,94.8,61.1,29.6,44.1,42.1,26.1
+676,Jadavpur University,India,2026,M,FO,VH,,,23.2,10.5,13.7,55.8,,1.1,44,19.5,61.4,26.1
+678,American University in Dubai,United Arab Emirates,2026,S,FO,HI,,,14.4,38.3,26.2,3.8,100,100,4.3,45.6,25.4,26
+678,University of Haifa,Israel,2026,L,CO,VH,,,17.4,13,15.8,44.8,17.8,6.7,69.6,29.6,67.4,26
+680,HUFS - Hankuk (Korea) University of Foreign Studies,Republic of Korea,2026,L,CO,HI,,,17.6,25.5,85.2,2.5,40.1,70.5,14.1,3.6,51.5,25.9
+680,Nanjing University of Aeronautics and Astronautics,China (Mainland),2026,L,FO,VH,,,6.3,10.9,26.4,79.7,7.2,8.8,46.2,1.3,37,25.9
+680,Ritsumeikan University,Japan,2026,XL,CO,HI,,,25.7,61.5,10.3,5,36.5,17.8,41.1,4.8,64.4,25.9
+680,University of Brawijaya,Indonesia,2026,XL,FC,HI,,,30.1,55.3,20.4,1.9,35.9,2.7,27.3,29.1,53.3,25.9
+684,Comenius University Bratislava,Slovakia,2026,L,FC,HI,,,16.8,14.7,61.3,6.9,8.4,39,68.8,87,43.7,25.8
+684,Ton Duc Thang University,Viet Nam,2026,L,CO,VH,,,6.1,13.3,8.6,74.8,7.7,2,88.1,6.8,43.9,25.8
+686,China University of Petroleum,China (Mainland),2026,L,CO,VH,,,3.1,6.8,10.7,94.5,7.2,5.2,26.4,26.2,35.3,25.7
+686,Cyprus University of Technology,Cyprus,2026,S,CO,VH,,,8.1,4.9,49.3,39.8,68.1,42,46.6,11.3,49.6,25.7
+688,Baku State University,Azerbaijan,2026,L,CO,HI,,,22,20.1,94,1.9,13.4,7,22.1,64.1,43.3,25.6
+688,Tomsk Polytechnic University,Russian Federation,2026,M,FO,VH,,,9.4,15.4,96,7,14.8,88.8,60.4,2,47.7,25.6
+688,Universit¨¦ C?te d¡¯Azur,France,2026,XL,FC,VH,,,21.6,8.2,9.1,27.7,36.5,51,83.3,13.6,69.2,25.6
+691,Eastern Mediterranean University,Northern Cyprus,2026,L,FC,HI,,,9.2,4.5,5.6,31.3,77.1,100,51.3,53.6,45.4,25.4
+691,Universidade Federal do Rio Grande Do Sul,Brazil,2026,XL,FC,VH,,,36.8,9.2,20,15.7,3.8,2.4,80.5,32.3,63.9,25.4
+691,Universit?t Regensburg,Germany,2026,L,FO,VH,,,16,11.9,77.3,13.3,39.4,17.7,71,27.7,38.7,25.4
+691,"Vellore Institute of Technology (VIT), Vellore, India",India,2026,XL,CO,VH,,,20.5,26,11.6,34.3,5,5.3,81.2,15.8,65.2,25.4
+695,Rensselaer Polytechnic Institute,United States of America,2026,M,CO,VH,,,10.2,17.9,28.7,54.7,,34.4,25.8,41.3,38.7,25.3
+696,Symbiosis International (Deemed University),India,2026,L,CO,VH,,,9.2,94.7,26.5,3.3,23.3,16.1,29.4,8.9,45.6,25.2
+697,Ankara ?niversitesi,T¨¹rkiye,2026,XL,FC,HI,,,30.6,30.4,12.8,4.6,2.8,9.7,74,61.2,61,25.1
+697,Beijing University of Chemical Technology,China (Mainland),2026,L,CO,VH,,,6.1,7.2,28.6,81.5,3.2,2.5,36.6,2.8,40.5,25.1
+697,Kazakh National Agrarian University,Kazakhstan,2026,M,SP,MD,,,22.8,27.7,92.6,1.4,26.2,39.2,7.7,4.3,38.7,25.1
+697,Tokyo Medical and Dental University,Japan,2026,S,FO,VH,,,15.7,9.5,100,29.1,3.1,22.6,23.3,1.8,37.5,25.1
+697,Universidad de Alcal¨¢,Spain,2026,L,FC,VH,,,13.8,10.2,72.5,10.8,11.8,50.9,79.4,11.8,72.1,25.1
+697,University of Klagenfurt,Austria,2026,S,CO,VH,,,7.2,5.8,57.4,16.4,98.2,94.8,43.9,13.6,36.3,25.1
+697,"University of Missouri, Columbia",United States of America,2026,L,FC,VH,,,17.2,15.7,38.5,23.5,29.7,6.4,71.8,48,50.9,25.1
+701-710,Jeonbuk National University (formerly known as Chonbuk National University),Republic of Korea,2026,L,FC,VH,,,19.9,14.2,73.7,21.4,12.5,16.5,34,3.5,64.6,-
+701-710,Kasetsart University,Thailand,2026,XL,CO,VH,,,37.4,37.1,10.3,4.6,7.7,1.7,46.2,31.2,60.8,-
+701-710,"Lingnan University, Hong Kong","Hong Kong SAR, China",2026,S,CO,VH,,,16,12.5,19.3,22.3,100,99.6,10.6,5,47,-
+701-710,Nanjing University of Science and Technology,China (Mainland),2026,L,FO,VH,,,7,8.5,14.6,86.1,,,38.2,6.4,39.4,-
+701-710,Shiraz University,Iran (Islamic Republic of),2026,L,CO,VH,,,10.2,10.9,6,68.3,1.2,4.3,68.1,23.4,45.7,-
+701-710,Universidad Panamericana (UP),Mexico,2026,L,FO,HI,,,15.9,34.4,81.2,1.7,24.5,5,14.3,73.5,36.2,-
+701-710,University of Central Florida,United States of America,2026,XL,FC,VH,,,18.6,37.1,4.1,33,13.2,7.7,73.7,17.4,45.9,-
+701-710,University of Zagreb,Croatia,2026,XL,FC,VH,,,23.2,12.8,26.8,8.1,1.9,5.1,92.1,98.4,60.9,-
+711-720,Asia University Taiwan,Taiwan,2026,M,CO,VH,,,9,2.8,5.1,79.9,14.5,6,64.2,2.1,36.6,-
+711-720,Budapest University of Technology and Economics,Hungary,2026,L,FO,VH,,,20.8,37.5,18.6,15.3,4.6,22.7,60,37.8,57.9,-
+711-720,Drexel University,United States of America,2026,L,FC,VH,,,8.9,11.2,30.2,36.9,31.3,37.4,68.8,35.3,48.7,-
+711-720,"Goldsmiths, University of London",United Kingdom,2026,M,FO,VH,,,18.3,7.5,20.8,17,89.1,97.8,22.7,25.2,43,-
+711-720,ISCTE - Instituto Universitario de Lisboa,Portugal,2026,L,FO,VH,,,8.6,19,3.2,42.4,27.1,55.8,49.8,40.3,56.7,-
+711-720,ITMO University,Russian Federation,2026,L,FO,VH,,,12.7,17.4,92.6,11,27.2,44.5,60.1,3.9,26.6,-
+711-720,Technische Universit?t Braunschweig,Germany,2026,L,CO,VH,,,14.4,21.9,69.9,9.7,,50.9,66.1,19.3,47.4,-
+711-720,Toronto Metropolitan University (formerly Ryerson University),Canada,2026,XL,CO,VH,,,12.5,19.4,2.3,41,46.5,19.6,60.9,20.1,66,-
+711-720,Universit?t Hohenheim,Germany,2026,M,SP,VH,,,9.1,11.1,19.6,45.4,31.8,38.4,74.1,7.7,55,-
+711-720,Universit¨¦ de Rennes 1,France,2026,L,FO,VH,,,21.3,11,15.6,36.7,15.9,19,86.9,9.8,49.4,-
+711-720,University of Nebraska - Lincoln,United States of America,2026,L,CO,VH,,,14.3,11.5,23.8,37.7,27.1,12.1,79.6,17.5,63.8,-
+721-730,National University of Science and Technology MISiS,Russian Federation,2026,M,FO,VH,,,7.2,15.5,76.8,21,10.7,67.4,43.7,25.1,37.5,-
+721-730,National University of Uzbekistan,Uzbekistan,2026,L,CO,HI,,,29.7,38.9,7.5,1.9,92.9,6.8,21.3,30.4,43.5,-
+721-730,Pakistan Institute of Engineering and Applied Sciences (PIEAS),Pakistan,2026,S,SP,HI,,,7.4,15.1,62.8,66,,,19,3.8,10.4,-
+721-730,Prince Sattam Bin Abdulaziz University,Saudi Arabia,2026,L,FO,VH,,,6.4,3.1,69.3,19.6,99.6,15.5,93.6,3,36.3,-
+721-730,Taras Shevchenko National University of Kyiv,Ukraine,2026,L,CO,VH,,,21.9,50.1,30.7,3.9,1.7,3.7,37.6,72,37.9,-
+721-730,Temple University,United States of America,2026,L,FC,VH,,,16.8,15,37.9,24.6,4.4,11.6,64.7,38.7,72.1,-
+721-730,University of Cincinnati,United States of America,2026,XL,FC,VH,,,15.1,12.3,24.8,31.9,6.2,23.7,66.9,47.9,63.2,-
+721-730,University of Patras,Greece,2026,L,FC,VH,,,16.8,25.7,4.2,44.3,2.3,9.2,66.2,4.7,65.3,-
+721-730,UWE Bristol (University of the West of England),United Kingdom,2026,XL,CO,HI,,,10.6,15.1,8.9,25.2,66.1,88.9,72.4,4.2,53.3,-
+731-740,Auezov South Kazakhstan State University (SKSU),Kazakhstan,2026,L,CO,MD,,,21.2,33.9,91.6,1.1,20.1,29.3,5,4.1,35.3,-
+731-740,Far Eastern Federal University,Russian Federation,2026,L,CO,HI,,,13.9,9.5,98.7,2.6,16.7,79.3,48,7.1,37.5,-
+731-740,National Institute of Technology Tiruchirappalli,India,2026,M,FO,VH,,,4.1,5.3,10.6,89.5,,3.5,38.2,8.8,37.4,-
+731-740,Princess Nourah bint Abdulrahman University,Saudi Arabia,2026,L,CO,VH,,,18.3,24.1,28.7,7.2,83.8,31.3,74.6,2.8,49.8,-
+731-740,SEGi University,Malaysia,2026,M,FO,HI,,,6.7,12.6,91.2,2.1,94.9,100,6.6,9.4,30.7,-
+731-740,"Sofia University ""St. Kliment Ohridski""",Bulgaria,2026,L,CO,VH,,,16,25.2,55,3.1,4,15.6,55.7,88.6,49.4,-
+731-740,Texas Tech University,United States of America,2026,XL,FC,HI,,,14.5,26.9,10,18.8,63.8,17.4,70.6,28.1,66.1,-
+731-740,Universidad Central de Venezuela - UCV,Venezuela (Bolivarian Republic of),2026,L,FC,MD,,,28.9,45.3,41.5,1.4,3.3,2,13.3,57.5,36.3,-
+731-740,Universit¨¦ de Tunis El Manar,Tunisia,2026,L,FC,VH,,,15.8,6.2,39.9,9.2,61.9,16.7,82.5,61.3,56.7,-
+731-740,Yildiz Technical University,T¨¹rkiye,2026,L,CO,VH,,,13.4,43.2,5.6,26,9.5,27.8,55.4,26.7,63.7,-
+741-750,Aberystwyth University,United Kingdom,2026,M,CO,VH,,,12.8,11.5,27.6,23.9,61.3,42,63.3,11,63.1,-
+741-750,Adam Mickiewicz University,Poland,2026,L,CO,VH,,,24.1,12.3,45.7,8.8,10.9,15.6,88.7,15.8,63.6,-
+741-750,Brandeis University,United States of America,2026,M,CO,VH,,,12.8,9.7,50.2,25,33,83.4,24.7,30.5,28.8,-
+741-750,Kaunas University of Technology,Lithuania,2026,M,FO,VH,,,15.1,22,37.9,17.5,4.8,40,68.6,29,58.9,-
+741-750,Plekhanov Russian University of Economics,Russian Federation,2026,L,FO,VH,,,15.5,30.1,57.8,3.3,4.1,26.7,61.2,55.2,42.4,-
+741-750,Shahid Beheshti University (SBU),Iran (Islamic Republic of),2026,L,FO,VH,,,11.8,22.5,6,49.4,5.2,24.7,68,24.2,33.6,-
+741-750,Syracuse University,United States of America,2026,L,CO,VH,,,17,18.3,16.1,17,25.2,45.5,56.7,58,60.9,-
+741-750,The Catholic University of Korea,Republic of Korea,2026,M,FC,VH,,,7.9,6,97.4,31,4.7,52.9,14.3,1.9,44.8,-
+741-750,University of Baghdad,Iraq,2026,XL,FC,VH,,,18.1,41.2,31.1,2.5,2.8,1.2,69,85.6,43.4,-
+741-750,University of Malta,Malta,2026,M,FC,VH,,,9.3,7.4,47.7,10.1,33.1,42.2,76.8,98.1,38.2,-
+741-750,University of Messina,Italy,2026,L,FC,VH,,,12.6,2.9,18.6,55.5,1.4,17.8,78.6,1.6,61.5,-
+741-750,University of Pecs,Hungary,2026,L,FC,HI,,,20.1,20.1,52.3,5,12.8,77.3,42.4,12.8,53.7,-
+741-750,Victoria University,Australia,2026,L,CO,HI,,,9.2,10.1,3.4,48.7,23.6,74.6,48.9,9.7,59.3,-
+741-750,Vytautas Magnus University,Lithuania,2026,M,FO,VH,,,14,19.9,44.2,5,46.8,70.8,62.8,26.8,47,-
+751-760,Martin-Luther-Universit?t Halle-Wittenberg,Germany,2026,L,FC,VH,,,15.1,9.9,89.4,11.2,,17,86.5,6.3,47.1,-
+751-760,Universit¨¦ de Lorraine,France,2026,XL,FO,VH,,,19.2,5,8.6,24.7,40.5,40,95.6,22.3,54.5,-
+751-760,University of New Mexico,United States of America,2026,L,FC,VH,,,14.2,16.9,57.3,20.4,11,7.1,83.6,11.4,53.8,-
+751-760,University of Oregon,United States of America,2026,L,CO,VH,,,23.2,22.5,14.7,25.3,10.5,5.4,53.8,36.9,55.7,-
+751-760,University of Trieste,Italy,2026,L,FC,VH,,,16.1,7.8,5.5,53.8,11.6,16.8,70.8,18.7,36.4,-
+761-770,Al-Ahliyya Amman University,Jordan,2026,M,FO,VH,,,17.1,21,15.8,6.4,93.7,100,32.7,6,38.2,-
+761-770,Babes-Bolyai University,Romania,2026,XL,CO,VH,,,21.9,34.9,8.7,8,18.9,7.1,83.9,35.9,65,-
+761-770,Bangladesh University of Engineering and Technology,Bangladesh,2026,M,SP,VH,,,21.3,42.5,15.6,30.8,,,23,29.9,30,-
+761-770,Czech University of Life Sciences in Prague,Czechia,2026,L,FO,VH,,,11.6,8.7,13.7,22.3,36,82.5,85.4,5,72.5,-
+761-770,"Government College University, Faisalabad",Pakistan,2026,L,CO,VH,,,4.2,7.1,7.6,72.2,1.3,1.1,77.6,33.5,32.2,-
+761-770,"Jamia Millia Islamia, New Delhi",India,2026,M,CO,VH,,,13,5.6,40.1,47.7,4.2,10.7,60.5,6.3,49.7,-
+761-770,Khoja Akhmet Yassawi International Kazakh-Turkish University,Kazakhstan,2026,M,FC,MD,,,19.1,46.3,57.5,1.3,27.8,45.5,4.1,10.7,30.1,-
+761-770,New Jersey Institute of Technology (NJIT),United States of America,2026,M,FO,VH,,,7.5,19.8,13.2,40.6,36,65.4,37.7,10.4,54.2,-
+761-770,Riga Technical University,Latvia,2026,M,CO,VH,,,12.6,31.9,31.7,6,22.1,84.9,38.2,40.5,47.6,-
+761-770,University of Belgrade,Serbia,2026,XL,FC,VH,,,23.6,14,6.5,10.1,3.6,7.4,94.5,98.4,52.1,-
+761-770,University of Bucharest,Romania,2026,XL,CO,VH,,,21.1,35.9,9,8.3,3.5,4.8,72.3,67.9,60.8,-
+761-770,University of Nizwa,Oman,2026,S,CO,VH,,,11,12.8,47.5,13,100,26.2,26.1,73.5,19,-
+761-770,"Vietnam National University, Hanoi",Viet Nam,2026,XL,CO,HI,,,24.3,33,9.2,4.3,6.6,1.3,68.3,68.7,69.4,-
+771-780,Holy Spirit University of Kaslik,Lebanon,2026,M,FO,HI,,,11.1,20.7,70.4,3.8,99.4,52.2,9.6,7.3,38,-
+771-780,Philipps-Universit?t Marburg,Germany,2026,L,FC,VH,,,16.3,15.1,7.4,39.6,19,31.9,65.9,8.9,47.6,-
+771-780,Rovira i Virgili University,Spain,2026,L,FC,VH,,,9.5,4.5,19.9,48,9.8,28.4,82.2,1.8,65,-
+771-780,Rutgers University - Newark,United States of America,2026,M,CO,VH,,,13.7,14.2,26.1,26,31.2,44.8,26.9,44.6,61.2,-
+771-780,Thapar Institute of Engineering & Technology,India,2026,M,FO,VH,,,4,9.3,14.3,71.2,17.1,4.7,33.7,11.6,58.5,-
+771-780,Universidad de Palermo,Argentina,2026,S,FO,HI,,,15.8,16,96,1.1,42,94.3,3.6,10.1,,-
+771-780,University of Calcutta,India,2026,L,CO,VH,,,19.7,11.1,7.7,33.9,31.3,1.3,57,61.6,34.4,-
+771-780,University of Maynooth,Ireland,2026,L,FO,VH,,,16.6,13.1,14.2,21,91.2,32.2,45.1,16.3,52.3,-
+781-790,Alexandria University,Egypt,2026,XL,FC,VH,,,32.7,24.2,7.2,3.5,1.9,13.6,80.7,33,56.6,-
+781-790,Carleton University,Canada,2026,L,CO,VH,,,15.6,16.8,7.3,18.6,17.6,56.9,74.9,43.1,61.1,-
+781-790,Georgia State University,United States of America,2026,L,FO,VH,,,14.8,29.1,6,33.2,6.6,18.9,64.6,29,47.3,-
+781-790,Hong Kong Metropolitan University,"Hong Kong SAR, China",2026,L,FO,HI,,,26.5,7.1,4.2,9.7,90.3,92.9,11.2,29.3,36.6,-
+781-790,Kuwait University,Kuwait,2026,XL,FC,HI,,,20.9,17.5,9.4,5.5,24.1,32,55.1,97.1,58.3,-
+781-790,Technological University of Dublin,Ireland,2026,L,CO,HI,,,17.7,22.4,18,6.1,49.8,63.7,53.7,22.6,58.7,-
+781-790,Universidad de Alicante,Spain,2026,L,FC,VH,,,21.1,11.5,36,14.2,11.5,21.4,79.3,10.4,70.9,-
+781-790,Universidad de Antioquia,Colombia,2026,XL,FO,VH,,,39.7,24.1,5.9,7.1,4.9,,55.7,26.7,45.5,-
+781-790,Universidad del Rosario,Colombia,2026,M,FC,HI,,,23.8,32.7,35.1,4.4,9.8,5.8,31.2,48.5,58.2,-
+781-790,"Universidade Cat¨®lica Portuguesa, UCP",Portugal,2026,M,FO,VH,,,16.5,31.2,14.1,12.9,17.1,58.3,33.8,57.7,47.9,-
+781-790,University of Kentucky,United States of America,2026,L,FC,VH,,,15,15,19.2,32.1,18.2,5.7,77.3,24.4,59.6,-
+781-790,University of Mons,Belgium,2026,M,CO,VH,,,7,8.1,5.2,53.2,40.9,47,43.6,7.3,54.4,-
+781-790,V.N. Karazin Kharkiv National University,Ukraine,2026,L,FC,HI,,,14.3,30.2,70.5,1.9,4.4,67.8,35.2,4.6,46.2,-
+781-790,Wayne State University,United States of America,2026,L,FC,VH,,,9,6.8,70.3,18,17.9,10.5,69.8,34.1,66.9,-
+791-800,Applied Science Private University - Jordan,Jordan,2026,M,CO,HI,,,16.4,27.8,30,7.4,36.3,82.1,44.9,5.9,39.4,-
+791-800,Beijing University of Technology,China (Mainland),2026,L,CO,VH,,,9,10.8,41.9,55.4,5.3,2.7,38.4,7.6,33.4,-
+791-800,Chiba University,Japan,2026,L,FC,VH,,,22.5,12.5,65.8,17.8,11.3,7.9,30.2,6.2,48.7,-
+791-800,Lanzhou University,China (Mainland),2026,XL,CO,VH,,,9.4,5.3,43.4,47.7,3,2.2,69.6,11.1,45.3,-
+791-800,Norwegian University of Life Sciences (UMB),Norway,2026,M,FO,VH,,,8.2,8.2,100,13.4,,,77.7,25.5,50.8,-
+791-800,Pontificia Universidad Cat¨®lica de Valpara¨ªso,Chile,2026,L,CO,VH,,,36.4,29,6.8,13.2,15.1,2.6,43.3,12.2,36.9,-
+791-800,Universiti Tunku Abdul Rahman (UTAR),Malaysia,2026,M,FC,HI,,,19.4,43.9,19.2,13.4,15.8,8,51.7,5.1,57.7,-
+791-800,Wake Forest University,United States of America,2026,M,FC,VH,,,7.4,18.9,100,11.9,6.2,16,38.8,28.3,42.2,-
+801-850,AGH University of Krakow,Poland,2026,L,CO,VH,,,13.1,30.6,54.7,12.7,4.4,7.3,75.6,4,47.4,-
+801-850,Ahlia University,Bahrain,2026,S,SP,HI,,,18.1,9.9,38.4,10.3,100,61.7,11.1,12.1,26.4,-
+801-850,Alfaisal University,Saudi Arabia,2026,S,FO,VH,,,7.9,5.9,31.7,21.8,100,96.7,28.1,5.7,31,-
+801-850,Azerbaijan State University of Economics,Azerbaijan,2026,L,FO,HI,,,21.2,37.2,36.7,1.5,32,10.7,11.7,51.5,39.2,-
+801-850,Bournemouth University,United Kingdom,2026,L,CO,VH,,,8,11,8.1,29.4,84.7,47.7,76.3,7.7,43.4,-
+801-850,De Montfort University,United Kingdom,2026,L,FO,VH,,,6.4,9.5,6.8,16.7,81.4,96.4,57.1,10.5,64.5,-
+801-850,Donghua University,China (Mainland),2026,L,CO,VH,,,4.5,4.4,32.4,70.6,2,4.2,32.1,5.1,28.5,-
+801-850,Gdansk University of Technology,Poland,2026,L,FO,VH,,,12,24.1,31.8,25.5,6.9,7.8,70,4,64,-
+801-850,German Jordanian University,Jordan,2026,S,FO,VH,,,14.6,28.7,34.6,12.7,85.3,23.9,18.3,11.3,22.1,-
+801-850,IIT Gandhinagar,India,2026,S,FO,VH,,,7,9.1,51.9,53.2,2.7,2.2,20.1,1.9,42.3,-
+801-850,Instituto Tecnol¨®gico Autonomo de M¨¦xico (ITAM),Mexico,2026,S,SP,MD,,,21.5,40,22.3,2.7,51.1,2.2,8.7,80,24.6,-
+801-850,Keele University,United Kingdom,2026,M,FC,VH,,,8.5,8,21.3,28.5,60.9,50.7,66.4,10.1,39.4,-
+801-850,Middlesex University,United Kingdom,2026,L,CO,HI,,,7.5,9.3,11.3,14.3,88.6,99.7,56.5,24.6,40,-
+801-850,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Ukraine,2026,L,CO,VH,,,18.4,49,38.5,2.1,1.3,3,22.7,48.8,37.2,-
+801-850,Northwest Agriculture and Forestry University,China (Mainland),2026,XL,CO,VH,,,5.2,2.9,35,61.5,,2,70.6,5.1,39,-
+801-850,Ocean University of China,China (Mainland),2026,XL,FC,VH,,,6.3,5.8,9.6,72.1,4,2.6,49.8,3.9,41.5,-
+801-850,Perugia University,Italy,2026,L,FC,VH,,,12,5.2,5,53,8.8,10,71.5,5.2,49.3,-
+801-850,Politecnico di Bari,Italy,2026,M,SP,VH,,,9.8,9,13.1,64.7,6.3,13.1,47.6,3.7,27.4,-
+801-850,Qassim University,Saudi Arabia,2026,L,FC,VH,,,15.5,6.5,47,3.8,100,25.1,72.1,3,52.2,-
+801-850,Soochow University,China (Mainland),2026,XL,CO,VH,,,9.2,8.2,25.8,57.3,3.4,2.4,51.1,24,35.6,-
+801-850,"The New School, New York City and Paris",United States of America,2026,M,FO,VH,,,20.4,17.9,47.6,4.6,8.2,97.9,21.1,24.9,24.1,-
+801-850,Tokyo University of Science (RIKADAI),Japan,2026,L,FO,VH,,,11.5,57.5,12.1,16.3,15.1,7.2,22.6,49,46.5,-
+801-850,Universidad de la Habana,Cuba,2026,L,FO,HI,,,19.9,17.8,71,2.4,3.3,6.9,19.3,86,32.2,-
+801-850,Universidad de Montevideo,Uruguay,2026,S,FC,MD,,,24.9,25.8,81.2,1.4,27,6.1,7.9,13.4,11.7,-
+801-850,Universidad de San Francisco de Quito,Ecuador,2026,M,FC,HI,,,25,18.2,41.4,4.6,57.2,2.9,32.1,12.5,54.8,-
+801-850,Universidade de Brasilia (UnB),Brazil,2026,XL,FC,VH,,,34.8,10.8,9,8.3,12.8,2.1,63.7,36.3,66.6,-
+801-850,Universidade Federal de Santa Catarina,Brazil,2026,L,FC,VH,,,26.1,8.3,25.2,15.8,5.9,4,64.4,23.7,65.2,-
+801-850,Universidade Federal de S?o Paulo (UNIFESP),Brazil,2026,L,FC,VH,,,14.1,8.8,97.9,10.4,6.1,2.2,49.5,3.6,61.8,-
+801-850,Universita' degli studi di Salerno,Italy,2026,L,FC,VH,,,12.3,6.1,9.6,46.9,4.4,2.6,85.5,5.4,58.4,-
+801-850,Universita' Politecnica delle Marche - UNIVPM,Italy,2026,M,FO,VH,,,8,5.2,17.1,55.3,8.6,11.6,77.4,3.9,57.3,-
+801-850,Universit¨¤? degli Studi di Palermo,Italy,2026,L,CO,VH,,,17.8,4.8,7.1,45,3.3,3.8,84,6.4,44.3,-
+801-850,Universit?t Duisburg-Essen,Germany,2026,XL,FC,VH,,,16.1,8.1,21.9,15.3,33,52.7,90.5,16.9,44.9,-
+801-850,Universiti Malaysia Terengganu (UMT),Malaysia,2026,M,CO,VH,,,16.7,8.2,18.6,28.9,23.6,30.3,58.9,5,58.2,-
+801-850,University of Bari,Italy,2026,XL,FO,VH,,,16.8,5.3,7.4,43.1,6.9,4,80.7,12.2,56.3,-
+801-850,University of Brighton,United Kingdom,2026,L,FO,VH,,,9.6,9.7,12.4,24.9,64.9,68.1,73.1,11.5,39.1,-
+801-850,University of Engineering & Technology (UET) Lahore,Pakistan,2026,L,SP,VH,,,11.1,49.1,20.4,15.1,,2.3,56.5,54.1,40.7,-
+801-850,University of Greenwich,United Kingdom,2026,L,CO,HI,,,6.2,7,5.2,15.2,94,99.6,75.8,19.7,44.9,-
+801-850,University of Hyderabad,India,2026,M,FC,VH,,,17.7,4.6,20.7,54.5,,2.6,34,3.4,42.1,-
+801-850,University of Latvia,Latvia,2026,M,FC,VH,,,14.5,22.8,10,10.4,16.1,10,66.6,92,56,-
+801-850,University of Lincoln,United Kingdom,2026,L,CO,VH,,,8,9.3,13,14.6,84.8,73.7,73.7,6,63.8,-
+801-850,"University of Maryland, Baltimore",United States of America,2026,M,FC,VH,,,7.6,2.3,100,22.5,22.1,10.2,45.7,2.3,41.3,-
+801-850,"University of Maryland, Baltimore County",United States of America,2026,L,FC,HI,,,13.6,8.2,18.9,20,72.9,50.8,45.4,10.3,66,-
+801-850,University of Modena and Reggio Emilia,Italy,2026,L,FC,VH,,,12.3,7.6,4.6,56.7,4.8,7.5,55.1,20.3,54.4,-
+801-850,University of Namur,Belgium,2026,M,FO,VH,,,6.4,8.8,5.8,44.4,37.2,59.3,47.5,10.3,53.4,-
+801-850,University of Ulsan,Republic of Korea,2026,L,FC,VH,,,6,3.8,60.2,50.1,2.7,3.6,29.1,6.4,44.2,-
+801-850,University of Westminster,United Kingdom,2026,L,CO,HI,,,12.3,11.4,7.1,9,85.2,99.2,37.6,34.2,40.3,-
+801-850,University of Wroclaw,Poland,2026,L,CO,VH,,,20.6,22,45,6.9,7.2,15.6,63.2,18.5,45.3,-
+801-850,Vietnam National University - Ho Chi Minh City (VNU-HCM),Viet Nam,2026,XL,CO,VH,,,29.1,44.7,7.1,3.9,7.3,1.2,46.8,34.4,45.1,-
+801-850,Zurich University of Applied Sciences (ZHAW),Switzerland,2026,M,CO,VH,,,7.2,12.5,81.1,5,73.9,25.1,43.1,7.4,55.1,-
+851-900,Addis Ababa University,Ethiopia,2026,XL,FO,VH,,,7.8,12.1,65.3,2.5,,,63.8,96.9,41.7,-
+851-900,Altai State University,Russian Federation,2026,M,CO,VH,,,12.9,7,90.7,1.9,8.6,71.3,18.3,2,46.2,-
+851-900,Auburn University,United States of America,2026,XL,CO,VH,,,11.6,17.6,10.7,24.3,58.1,10.1,57.2,29.6,50.1,-
+851-900,Australian Catholic University,Australia,2026,L,CO,HI,,,12,11.8,8,19.4,86.4,61.7,35.6,1.7,49.3,-
+851-900,Azerbaijan State Oil and Industry University,Azerbaijan,2026,L,FO,HI,,,13.1,19,73.3,1.5,46.8,9.7,8.5,45,31,-
+851-900,Azerbaijan Technical University,Azerbaijan,2026,M,SP,MD,,,19.1,25.5,82.2,1.4,13.9,13.4,4.2,11.6,27.9,-
+851-900,Beijing Jiaotong University,China (Mainland),2026,L,FO,VH,,,12.3,16.8,31.4,34.4,4.9,17,46.1,13.5,30.8,-
+851-900,Belarusian National Technical University,Belarus,2026,L,SP,LO,,,16.6,41.3,64.6,1,2.6,66.9,3.2,7.5,,-
+851-900,BINUS UNIVERSITY (Bina Nusantara University),Indonesia,2026,L,CO,VH,,,20.1,33.3,28.5,4.3,51.5,8.7,14.4,20.6,41.1,-
+851-900,Catania University,Italy,2026,L,FC,VH,,,17.5,6.2,8.7,35.9,15.4,8.2,74.4,9.4,46.3,-
+851-900,China University of Geosciences,China (Mainland),2026,L,FO,VH,,,6.6,5.6,60.4,40.1,1.8,4.5,60,1.3,43.3,-
+851-900,Chungnam National University,Republic of Korea,2026,L,FC,VH,,,11.7,10.6,54.7,21,8.4,20,40.8,6.7,59.9,-
+851-900,Dhofar University,Oman,2026,S,FO,VH,,,10,9.5,12.1,19.6,100,11.1,35.1,70.3,18.7,-
+851-900,Edinburgh Napier University,United Kingdom,2026,L,CO,HI,,,7.9,5.5,6.1,21.9,89.5,84.7,59.4,8.6,40.1,-
+851-900,Effat University,Saudi Arabia,2026,S,FO,VH,,,4.9,5.4,25.3,22.7,100,98.9,18.8,3.4,26.1,-
+851-900,European University of Lefke (EUL),Northern Cyprus,2026,M,FO,HI,,,6.7,14.4,10,11.5,100,100,13.7,55,18.7,-
+851-900,I.M. Sechenov First Moscow State Medical University,Russian Federation,2026,L,SP,VH,,,5,10.3,63.9,10.4,12.2,74,84.3,2,24.3,-
+851-900,Imam Muhammad Ibn Saud Islamic University - IMSIU,Saudi Arabia,2026,XL,FC,HI,,,16.7,11.9,27.1,2.4,91.9,18.5,56.8,35.6,34.8,-
+851-900,Instituto Polit¨¦cnico Nacional (IPN),Mexico,2026,XL,FO,VH,,,26.6,33.9,17,3.1,6.7,2.1,47.4,12.7,56.3,-
+851-900,Jiangnan University,China (Mainland),2026,L,FC,VH,,,5.8,4.7,15.6,65,,,58.3,1.2,30,-
+851-900,Liverpool John Moores University,United Kingdom,2026,L,CO,VH,,,13.5,12,9.6,20.4,53.8,21.2,89.7,11.5,53.9,-
+851-900,Louisiana State University,United States of America,2026,XL,CO,VH,,,14.1,12.9,9.6,23.8,22.4,6.9,63.4,36.8,75.4,-
+851-900,Manipal Academy of Higher Education - Manipal University (MAHE),India,2026,L,FC,VH,,,14.7,11.8,50.3,9.7,2.9,17.4,73.7,13.7,65,-
+851-900,Mendel University in Brno,Czechia,2026,M,FO,VH,,,9.8,8.3,68.8,8.3,14.3,38.8,74.1,4.8,49.4,-
+851-900,Multimedia University (MMU),Malaysia,2026,M,FO,VH,,,18.9,27,17.3,9.2,53.6,56.8,26.9,5.1,39.1,-
+851-900,Nantes University,France,2026,XL,CO,VH,,,14.8,5.9,12.3,30.6,20.2,25,88.1,4.6,48.3,-
+851-900,O. P. Jindal Global University (JGU),India,2026,M,SP,VH,,,15.9,29.7,66.8,3.2,34.3,2.1,23.3,3.5,46.7,-
+851-900,Oklahoma State University,United States of America,2026,L,FC,HI,,,10.6,12.8,12.2,21.3,65,12,71.4,30.6,50.5,-
+851-900,Prince of Songkla University,Thailand,2026,XL,FC,HI,,,32.4,13.5,20.4,6.9,7.4,2.7,55.4,5.6,60.9,-
+851-900,Tokyo University of Agriculture and Technology,Japan,2026,M,FO,VH,,,15.6,11.2,18.7,40.3,11.6,11.3,42.4,1.7,33.2,-
+851-900,Universidad Anahuac,Mexico,2026,L,CO,MD,,,18,29.7,60.9,1.4,6.2,5.2,3.7,68.7,25.3,-
+851-900,Universidad Nacional de C¨®rdoba,Argentina,2026,XL,FC,HI,,,39,23.3,8,2.3,1.6,2.2,41.3,20,39.1,-
+851-900,Universidade de Vigo,Spain,2026,L,CO,VH,,,14,9.1,15.4,32.5,4.5,11.4,81.5,5.1,72.7,-
+851-900,Universita' degli Studi della Tuscia,Italy,2026,M,FO,VH,,,4,1.8,8.4,67.2,19.3,28.5,40.5,2,36.7,-
+851-900,Universit?t D¨¹sseldorf,Germany,2026,L,FC,VH,,,16.2,11.4,60.4,11.5,,30.6,68.5,4.9,36.9,-
+851-900,Universit?t Rostock,Germany,2026,L,FC,HI,,,9.6,5,92.6,9.5,,21.2,77.3,6.6,39.5,-
+851-900,Universit¨¦ de Franche-Comt¨¦,France,2026,S,CO,VH,,,7.6,3.6,100,18.7,,,77.4,3.8,32,-
+851-900,Universit¨¦ du Qu¨¦bec,Canada,2026,XL,FC,HI,,,20.5,14.9,2.5,16.8,40.3,19,65.4,31.4,51.6,-
+851-900,Universiti Pendidikan Sultan Idris (UPSI),Malaysia,2026,M,FO,VH,,,17,18.5,39.1,5.5,45.3,63.4,23,5.2,42.5,-
+851-900,"University of Colorado, Denver",United States of America,2026,L,FC,HI,,,10.5,11.7,100,5,4.3,20.6,39.8,10.5,39.7,-
+851-900,University of Dubai,United Arab Emirates,2026,S,SP,MD,,,6,11.5,12.6,24.2,100,88.7,14.4,11.2,19.1,-
+851-900,University of Gdansk,Poland,2026,L,CO,VH,,,17.4,13.4,41.4,7.4,4.5,5.1,73.9,23.6,71,-
+851-900,University of Ghana,Ghana,2026,XL,FC,HI,,,17.8,12.4,2.1,10.8,8.1,1.8,80.8,96.8,52.8,-
+851-900,University of Santo Tomas,Philippines,2026,XL,FC,MD,,,20.3,45.9,14.1,1.7,38.5,9,19.1,25.5,40.2,-
+851-900,University of Seoul,Republic of Korea,2026,M,CO,VH,,,17.6,15.6,49.2,16.5,6.4,12,38.4,6.9,48.5,-
+851-900,University of Stavanger,Norway,2026,M,CO,VH,,,10.4,11.2,83.2,10.9,,,72.2,12.9,45.2,-
+851-900,Verona University,Italy,2026,L,FO,VH,,,13.1,5,5.9,50,6.3,8.4,70.3,6.9,52.7,-
+851-900,Vilnius Gediminas Technical University,Lithuania,2026,M,SP,VH,,,13.8,17.4,38.4,15.6,19.3,54.3,42.7,9.3,35.1,-
+851-900,Worcester Polytechnic Institute,United States of America,2026,M,FO,VH,,,3.7,15.3,20.5,40.7,36.9,36.6,29.4,16.7,47.3,-
+851-900,Wroclaw University of Science and Technology (WUST),Poland,2026,L,SP,VH,,,15,31,45.7,10.8,4.7,10.6,68.8,4,31.2,-
+851-900,Yarmouk University,Jordan,2026,L,FC,HI,,,23.4,32,5.3,5.2,7.7,25.9,44.6,42.3,45.3,-
+901-950,Al Jouf University,Saudi Arabia,2026,M,FC,VH,,,12.6,9.8,44.8,7,99.2,3.2,56.9,2.9,23.7,-
+901-950,American University of Central Asia,Kyrgyzstan,2026,S,FO,MD,,,12.7,14.5,60.9,2.4,58,96.4,4.3,6.6,7.5,-
+901-950,Baku Engineering University,Azerbaijan,2026,M,FO,MD,,,24.9,37.5,37.1,1.5,21.3,8.7,3.8,11.7,29.4,-
+901-950,Chonnam National University,Republic of Korea,2026,L,FC,VH,,,12.2,6.8,47.3,24,14.6,16.3,29.2,6.5,61.3,-
+901-950,Colegio de M¨¦xico,Mexico,2026,S,SP,VH,,,19.5,5.8,100,2.9,11.5,26.7,9.8,3.3,13.9,-
+901-950,Future University in Egypt,Egypt,2026,M,FO,VH,,,7.1,40.5,47.2,5.3,18.2,33,50.4,3.3,35.7,-
+901-950,Gazi ?niversitesi,T¨¹rkiye,2026,XL,FC,HI,,,23.7,24.4,9.8,7.6,1.2,7.5,61.2,28.9,55.6,-
+901-950,Gulf University for Science and Technology (GUST),Kuwait,2026,S,FO,VH,,,15.9,15.1,18.4,10.6,100,34.6,19.5,11.8,28.7,-
+901-950,Huazhong Agricultural University,China (Mainland),2026,XL,CO,VH,,,5.2,2.1,8.5,65.6,5,2.4,41.4,5.1,38.8,-
+901-950,Kanazawa University,Japan,2026,M,FC,VH,,,13.2,7.1,58.1,22.1,11.6,10.8,33.9,1.7,53.1,-
+901-950,Kansas State University,United States of America,2026,L,CO,VH,,,9.1,11.9,16.2,31.6,26.2,9.5,60.4,21,43.4,-
+901-950,Karaganda Buketov University,Kazakhstan,2026,L,CO,MD,,,17.6,36.7,60,1.2,14.5,18.5,5.7,10.5,22.3,-
+901-950,Khon Kaen University,Thailand,2026,XL,FC,HI,,,26.6,22.6,11.7,8.8,6.4,3.3,57.1,5.9,59.9,-
+901-950,King Mongkut's University of Technology Thonburi,Thailand,2026,L,CO,VH,,,20.8,15.1,17.9,17.7,11.7,7.1,45,3.1,61.5,-
+901-950,London South Bank University,United Kingdom,2026,L,FO,VH,,,4.9,6.3,13.6,8.5,94.1,98.1,47.7,15.2,50.8,-
+901-950,Lovely Professional University (LPU),India,2026,XL,CO,VH,,,20,27.3,17.1,10.9,14,7,73.7,1.7,49.4,-
+901-950,Macao Polytechnic University,"Macao SAR, China",2026,M,FO,HI,,,5.6,10,34.3,3,100,96.4,5.6,38.1,22.6,-
+901-950,Michigan Technological University,United States of America,2026,M,CO,VH,,,6.2,10.2,32.2,38.2,18.2,20.1,55.2,4.6,37.9,-
+901-950,Nagasaki University,Japan,2026,M,FC,VH,,,9,3.7,84.3,12.2,8.5,10.8,48.4,3.4,59.6,-
+901-950,Osaka Metropolitan University,Japan,2026,L,FC,VH,,,18.1,14,57.2,12.3,6.2,5.2,34.1,8.9,47.7,-
+901-950,Panjab University,India,2026,L,CO,VH,,,9.4,11.5,10.3,43.5,,3.2,33,39.6,50.9,-
+901-950,Princess Sumaya University for Technology,Jordan,2026,S,SP,HI,,,11,36.8,14.3,12.1,60.1,57.2,8.8,6.3,31.3,-
+901-950,Saveetha Institute of Medical And Technical Sciences (SIMATS),India,2026,L,FO,VH,,,8.9,2.9,26.2,20.3,84,10.7,83,1.7,48.2,-
+901-950,Taif University,Saudi Arabia,2026,XL,FC,VH,,,7,2.7,9.2,30.2,100,4.7,80.5,2.9,46,-
+901-950,Tallinn University,Estonia,2026,M,FO,VH,,,11.1,12.4,12.6,9.9,63.9,30.6,55.1,45.6,44.3,-
+901-950,Tashkent State Technical University,Uzbekistan,2026,L,CO,HI,,,30.6,16.2,20.1,2.1,62.9,1.8,9.9,30.7,33.9,-
+901-950,Universidad Cat¨®lica Andr¨¦s Bello - UCAB,Venezuela (Bolivarian Republic of),2026,M,FO,MD,,,33.6,56.4,7.4,1,5.5,5.3,,22.6,,-
+901-950,Universidad Cat¨®lica del Uruguay (UCU),Uruguay,2026,S,CO,MD,,,18.2,25.5,77.3,1.5,13.2,6,9.1,27.4,22.6,-
+901-950,Universidad de los Andes Chile,Chile,2026,M,FC,HI,,,25.3,36.5,13.4,4.7,15.1,3.5,17.9,45.2,28.9,-
+901-950,Universidad de Oviedo,Spain,2026,L,CO,VH,,,18.2,8.4,34.1,11.6,5.8,6,74,11.9,63.7,-
+901-950,Universidad de Valladolid,Spain,2026,L,CO,VH,,,16.1,6.4,41.2,7.1,9.6,7.7,84.9,20.3,59.2,-
+901-950,Universidad Europea de Madrid,Spain,2026,L,FC,MD,,,7.7,19.7,56.6,3,14.4,96.1,11.6,10.7,45,-
+901-950,Universidad Iberoamericana (UIA),Mexico,2026,M,FC,MD,,,24.2,30.2,34.2,1.8,8.1,3.6,5.4,71.4,25.7,-
+901-950,Universit¨¤ degli Studi Roma Tre,Italy,2026,XL,CO,VH,,,24.7,14.6,3.3,15.5,8.8,7.8,66.7,11,56.2,-
+901-950,Universit¨¦ de Sherbrooke,Canada,2026,L,FC,HI,,,8.2,4.4,24.2,24.2,62.6,13.9,55,31.8,48.5,-
+901-950,University at Albany SUNY,United States of America,2026,L,CO,VH,,,10.1,9.7,7.3,44.1,5.3,10.1,63.2,12.8,47.4,-
+901-950,University of Alabama,United States of America,2026,XL,CO,VH,,,12.1,29.6,8,18.8,7.1,4.4,59.7,29.4,53.1,-
+901-950,University of Alaska Fairbanks,United States of America,2026,S,CO,VH,,,3.4,3.5,99.7,19.9,6.3,5.5,40.4,5.9,37.9,-
+901-950,University of Hertfordshire,United Kingdom,2026,L,CO,HI,,,5.8,6.7,6.8,12.1,81.4,100,57.7,17,39,-
+901-950,University of Maribor,Slovenia,2026,L,FC,HI,,,10.8,15.6,36.4,12.7,2.3,27.3,67.4,41.3,49.9,-
+901-950,University of North Texas,United States of America,2026,XL,FC,HI,,,10.1,9.7,3.2,30.5,6.3,51.5,69,29.4,40.6,-
+901-950,University of Peshawar,Pakistan,2026,L,FO,VH,,,9.4,11.9,87.2,12.3,,2,49,19.2,25.8,-
+901-950,University of Petroleum and Energy Studies (UPES),India,2026,M,FO,VH,,,23.4,7.7,46.5,9.5,23.7,1.4,66.5,1.7,27.2,-
+901-950,University of Salford,United Kingdom,2026,L,CO,HI,,,10.8,7.9,9.1,12,55.6,88.2,61.6,13.8,43.4,-
+901-950,University of South Africa,South Africa,2026,XL,CO,VH,,,13.8,13.6,1.2,11.7,,13.3,92.5,96,43.3,-
+901-950,Virginia Commonwealth University,United States of America,2026,L,FC,VH,,,9.5,9.9,42.8,20,12.6,6,68.8,18.3,48.4,-
+901-950,Yeungnam University,Republic of Korea,2026,L,FC,VH,,,5.1,4.7,18.9,47.5,38.6,17.8,46.7,4.9,33.5,-
+951-1000,Abylkas Saginov Karaganda Technical University,Kazakhstan,2026,M,FO,HI,,,10.3,16.9,90.3,1.3,15.5,25.6,3.1,7.8,29.7,-
+951-1000,Al Nahrain University,Iraq,2026,M,FO,VH,,,8.2,24.1,98.9,3.7,2.5,1,15.6,10.1,29.4,-
+951-1000,Al-Quds University,Palestine,2026,M,FC,MD,,,10.1,20.5,19.4,2.8,72.3,90.5,15,12.3,40.1,-
+951-1000,Amity University,India,2026,L,CO,VH,,,10.5,18.3,18.2,14.9,12.1,34.9,67.5,4.9,54.7,-
+951-1000,Athens University of Economics And Business,Greece,2026,M,SP,HI,,,10.1,37.2,2.1,31.9,1.9,6.6,14.8,33.9,39.8,-
+951-1000,Charles Sturt University,Australia,2026,L,CO,VH,,,6.4,9.4,14.1,13.9,66,47.2,60.4,13.4,64.9,-
+951-1000,Clarkson University,United States of America,2026,S,CO,VH,,,1,4,19,47.3,42.9,38,31,12.2,26.9,-
+951-1000,Clemson University,United States of America,2026,L,CO,VH,,,9.6,15.2,18.5,24.8,16.3,10.6,75.8,13.5,47.7,-
+951-1000,CY Cergy Paris University,France,2026,M,FO,VH,,,5.2,5.2,64.9,7.4,55.1,59,47.9,1.3,31.4,-
+951-1000,Escuela Superior Polit¨¦cnica del Litoral - ESPOL,Ecuador,2026,M,CO,VH,,,22.7,21.5,32.6,5,20.1,2.4,27.4,12.3,49.3,-
+951-1000,Ferdowsi University of Mashhad,Iran (Islamic Republic of),2026,L,CO,VH,,,11.1,10.9,5.7,35.1,,9.5,74.5,12.9,33.3,-
+951-1000,George Mason University,United States of America,2026,L,CO,VH,,,12,11.6,17.1,18,15.6,17.1,67.6,17.4,56.1,-
+951-1000,Guru Gobind Singh Indraprastha University,India,2026,S,CO,VH,,,5.8,14.6,12.5,48.5,5,9.4,26.9,12.8,43,-
+951-1000,Hasanuddin University,Indonesia,2026,XL,FC,HI,,,23.5,17.5,41.9,1.7,11.9,3.1,20,22,53,-
+951-1000,Immanuel Kant Baltic Federal University,Russian Federation,2026,M,CO,VH,,,7.7,4.7,86.3,3.1,28.1,53.2,34.5,1.9,32.1,-
+951-1000,Indian Institute of Technology Bhubaneswar (IIT BBS),India,2026,S,FO,VH,,,5,12.4,15.9,55.6,,1.1,10.8,1.8,42.4,-
+951-1000,Ivane Javakhishvili Tbilisi State University,Georgia,2026,L,FC,MD,,,11.9,1.4,83.5,1.4,1.9,7.5,24.7,95.2,18.2,-
+951-1000,Khazar University,Azerbaijan,2026,M,CO,MD,,,7.8,15.1,60.6,3.3,82.3,37.1,7.6,11.9,27.5,-
+951-1000,Kumamoto University,Japan,2026,M,FC,VH,,,9.2,4.4,67.5,21.4,8.2,6.9,33.9,3.4,50.4,-
+951-1000,Kyrgyz-Turkish Manas University,Kyrgyzstan,2026,S,CO,HI,,,19.2,23,14.5,3,95.3,28.2,8.2,7.9,33.1,-
+951-1000,Lodz University,Poland,2026,L,CO,VH,,,15.4,7.3,47.9,6.9,5.7,19,75.7,21,29.8,-
+951-1000,Nanjing Agricultural University,China (Mainland),2026,L,CO,VH,,,6.1,2.3,17.8,53,,2.2,54.8,1.2,39.1,-
+951-1000,Nanjing Normal University,China (Mainland),2026,XL,SP,VH,,,6.4,4.6,20.7,42.8,,7.8,57.2,8.2,40.2,-
+951-1000,National Chung Cheng University,Taiwan,2026,M,CO,VH,,,18.9,34.8,16.6,9.5,7.9,6.3,28.9,5.1,51.6,-
+951-1000,North South University,Bangladesh,2026,L,FO,HI,,,16.9,54.1,7.5,6.6,10.5,1.6,30.2,11.7,37.3,-
+951-1000,North-West University,South Africa,2026,XL,CO,VH,,,8.4,14.9,7,24.9,9.2,3.1,94.6,24.8,60.4,-
+951-1000,Okayama University,Japan,2026,L,FC,VH,,,11.5,5.1,67.5,14.7,8.3,11.6,41.7,3.4,58.3,-
+951-1000,Rochester Institute of Technology (RIT),United States of America,2026,L,CO,VH,,,10,28.4,24.6,11.5,8.7,26.9,41.2,13.7,55.1,-
+951-1000,Saint Louis University,United States of America,2026,L,CO,VH,,,5.7,4.2,50.8,23.8,20.6,42.2,23.5,18.5,35.9,-
+951-1000,Sohar University,Oman,2026,S,FO,VH,,,8.1,10.5,3.8,19.9,100,4.6,23.6,71,34.2,-
+951-1000,Sophia University,Japan,2026,L,CO,HI,,,18.7,27.2,25.9,2.5,41,20.3,9.1,21.3,48.7,-
+951-1000,South Ural State University,Russian Federation,2026,L,CO,VH,,,8.6,9.4,57.4,8.3,5.6,22.5,84.2,5.5,33.3,-
+951-1000,The Robert Gordon University,United Kingdom,2026,L,CO,HI,,,4,19.4,6.7,11.4,78.5,84.4,34.2,9.4,46.9,-
+951-1000,Universidad Aut¨®noma Metropolitana (UAM),Mexico,2026,XL,FC,HI,,,32.5,16,5.3,4.3,11.5,1.5,47.1,6.2,47.7,-
+951-1000,Universidad de Belgrano,Argentina,2026,M,FO,MD,,,11.2,15.3,85.1,1,7.3,39,,44.3,,-
+951-1000,Universidad de C¨®rdoba - Espa?a,Spain,2026,L,CO,VH,,,15.5,6.5,32.8,18.1,,,79.5,5.9,46,-
+951-1000,Universidad de La Sabana,Colombia,2026,M,FC,HI,,,30.1,30.1,21.8,3.6,3.7,2.6,17.6,14.4,31.5,-
+951-1000,Universidad EAFIT,Colombia,2026,L,CO,HI,,,19.4,46,6.8,4.1,4.1,1.9,10.8,51.8,45.4,-
+951-1000,Universidad Esp¨ªritu Santo (UEES),Ecuador,2026,S,FO,VH,,,6.1,8.9,33.7,11.2,62.5,63.5,25.3,13.1,42.8,-
+951-1000,Universidad Externado de Colombia,Colombia,2026,L,FO,MD,,,15.8,33.5,48.9,1.2,10.7,2.1,5.6,41.2,23.8,-
+951-1000,Universidad Nacional Mayor de San Marcos,Peru,2026,XL,FC,HI,,,28.9,28.4,11,1.7,,,32.9,53,24.3,-
+951-1000,Universidad Torcuato Di Tella,Argentina,2026,S,SP,HI,,,18.4,35.9,18.5,3.8,41.2,13.6,5.3,41.5,18.5,-
+951-1000,Universita' degli Studi di Ferrara,Italy,2026,L,FC,HI,,,9.3,4.7,3.6,47.3,3.8,6.8,65.5,7,54.2,-
+951-1000,Universit¨¤ della Calabria,Italy,2026,M,CO,VH,,,11.1,4.5,10.6,34.9,9.2,7.9,79.1,1.7,57.5,-
+951-1000,University of Bahrain,Bahrain,2026,L,CO,HI,,,14.3,15.1,8.1,5,94.1,10.5,38.7,55.5,28.9,-
+951-1000,University of Cyberjaya,Malaysia,2026,S,FO,HI,,,22.5,6.1,48.9,2.1,23.4,87.3,7.2,4.8,,-
+951-1000,University of Ha'il,Saudi Arabia,2026,L,FC,HI,,,8.7,4.3,41.1,5,100,5.4,62.3,2.9,45.6,-
+951-1000,University of Lahore,Pakistan,2026,L,CO,VH,,,17.8,23.4,14.3,8.5,8,6,76.4,3.4,62.2,-
+951-1000,University of Massachusetts - Boston,United States of America,2026,L,FC,HI,,,13.8,23.5,14.4,23.3,7.2,27.1,35.3,7.4,49.4,-
+951-1000,University of the Western Cape,South Africa,2026,L,CO,VH,,,12,6.4,6.1,23.9,30.3,5.5,84.4,28.1,35.7,-
+951-1000,Wuhan University of Technology,China (Mainland),2026,XL,CO,VH,,,7.2,4.6,24.1,41.2,,4.4,64.2,10.1,34.9,-
+1001-1200,Adamson University,Philippines,2026,M,CO,MD,,,39.3,17.9,7.6,1.7,18.1,2.8,4.8,3.5,10.1,-
+1001-1200,Aga Khan University,Pakistan,2026,S,FO,VH,,,6.4,10,100,11.4,1.5,2,18.2,8.3,22.6,-
+1001-1200,Al Azhar University,Egypt,2026,XL,CO,VH,,,21.5,13.9,14.9,2,1.7,16.8,64.4,33.2,35.3,-
+1001-1200,Alexandru Ioan Cuza University,Romania,2026,L,CO,HI,,,11.7,20.6,7.8,5.8,4.6,17,49.1,23.1,48.7,-
+1001-1200,"Aligarh Muslim University (AMU), Aligarh",India,2026,L,CO,VH,,,15.4,5.3,18.4,24.7,,1.8,64.8,3.2,45.8,-
+1001-1200,Almaty Technological University,Kazakhstan,2026,M,CO,MD,,,5.9,8.9,93.9,1.1,27.8,14.4,4.4,4.2,26.6,-
+1001-1200,Amrita Vishwa Vidyapeetham,India,2026,L,FC,VH,,,6.9,6.6,39.2,10.7,36.7,2.5,67.4,1.2,26.8,-
+1001-1200,An-Najah National University,Palestine,2026,L,FC,MD,,,13.5,14.5,11.5,4.3,49.8,47.4,39,11.3,47.1,-
+1001-1200,"Arab Academy for Science, Technology and Maritime Transport",Egypt,2026,L,FO,VH,,,7.5,12.4,44.7,2.4,9.2,34.9,27,16.8,29.7,-
+1001-1200,Asfendiyarov Kazakh National Medical University,Kazakhstan,2026,M,FO,HI,,,7.3,8.8,67.2,1.3,15.8,76.8,6.4,7.8,,-
+1001-1200,Assiut University,Egypt,2026,XL,FC,HI,,,16.3,15.1,20.7,4,21.1,7.2,66.5,3,53.3,-
+1001-1200,Azerbaijan University of Architecture and Construction,Azerbaijan,2026,M,FO,MD,,,25.7,20.7,42.1,1,9.9,14.5,1.3,11.8,25.8,-
+1001-1200,Banaras Hindu University,India,2026,L,FC,VH,,,18.9,10.6,14.4,18.8,1.5,3,59.3,15.6,44.5,-
+1001-1200,Baylor University,United States of America,2026,L,CO,VH,,,8.7,20.9,17.5,12.8,3.7,6.6,46.9,24.5,42.9,-
+1001-1200,Beijing University of Posts and Telecommunications,China (Mainland),2026,L,FO,VH,,,4.3,9.2,19.8,45.2,6.4,2.8,22.1,22.4,27.3,-
+1001-1200,Binghamton University SUNY,United States of America,2026,L,CO,VH,,,10.1,14.1,9.3,19.5,17.3,15.5,26.2,11.3,44.8,-
+1001-1200,Birmingham City University,United Kingdom,2026,XL,FO,HI,,,8.2,8,8.7,6.5,54.9,65.5,44.5,12.1,37.9,-
+1001-1200,Brigham Young University,United States of America,2026,XL,CO,VH,,,7.7,13.5,6.7,15.8,1.3,5.3,51.9,36.9,44.6,-
+1001-1200,CEU University,Spain,2026,L,FO,VH,,,7.3,20.8,26.5,3.1,8.4,58.4,18.5,16.6,35.6,-
+1001-1200,Chung Yuan Christian University,Taiwan,2026,L,CO,HI,,,9.9,9.2,6.9,25.2,5.3,11.8,17.3,28.6,46.7,-
+1001-1200,Chungbuk National University,Republic of Korea,2026,M,FC,VH,,,6.5,4.6,47.9,19.6,10.7,21.5,33.4,1.8,50.9,-
+1001-1200,Clark University,United States of America,2026,S,CO,VH,,,2.5,3.6,25.6,23.5,15.2,94.6,29.1,19.3,42.4,-
+1001-1200,Cracow University of Technology of Tadeusz Ko?ciuszko,Poland,2026,L,SP,VH,,,12.6,28.1,28.3,10,3.4,9.2,44.2,10.3,20.5,-
+1001-1200,D. Serikbayev East Kazakhstan Technical University,Kazakhstan,2026,M,FO,HI,,,14.6,18.2,75.9,1.4,23.7,5.5,5.2,4.4,31,-
+1001-1200,Daffodil International University,Bangladesh,2026,L,FO,VH,,,15.6,23,5.7,6.9,7.7,5,45.1,8.3,51.7,-
+1001-1200,Dankook University,Republic of Korea,2026,L,FC,HI,,,10,8.3,72,4.8,5.5,12.6,17.1,3.6,47.6,-
+1001-1200,Ege ?niversitesi,T¨¹rkiye,2026,XL,FC,HI,,,14.5,24.4,21,5.1,1.4,9.2,71.3,6.6,33,-
+1001-1200,Financial University under the Government of the Russian Federation,Russian Federation,2026,L,FO,VH,,,4.9,17.4,44.1,2.7,6.7,39.2,37.6,57.5,43.8,-
+1001-1200,Florida Atlantic University - Boca Raton,United States of America,2026,L,FC,HI,,,6.6,15.2,6.2,18.2,8.4,13.1,65.3,13,48.4,-
+1001-1200,Fordham University,United States of America,2026,L,CO,HI,,,9.1,16.8,19.3,9.6,10.5,23.3,23.3,47.6,32.1,-
+1001-1200,Gebze Technical University,T¨¹rkiye,2026,M,CO,VH,,,7,9.5,9.1,40.3,19.7,10.6,41.4,2.5,42.2,-
+1001-1200,Georgian Technical University,Georgia,2026,L,FO,HI,,,7.1,7.1,1,54.4,,,7.8,29.3,3,-
+1001-1200,German University of Technology in Oman  (GUTECH),Oman,2026,S,FO,HI,,,9.1,14.3,5.7,8.5,100,5.9,14.4,73.2,,-
+1001-1200,Gifu University,Japan,2026,M,FO,VH,,,6.4,4.5,58.9,14.3,7.1,6.2,23.4,1.8,44.1,-
+1001-1200,Glasgow Caledonian University,United Kingdom,2026,L,FO,VH,,,7.2,9.5,6.3,11.2,45.5,77.3,40.3,8.5,56.7,-
+1001-1200,Hallym University,Republic of Korea,2026,M,FC,VH,,,3.4,2.7,95.6,13.1,4.3,3.5,9.1,1.8,41.4,-
+1001-1200,Harbin Engineering University,China (Mainland),2026,L,FO,VH,,,5.2,6.5,24,46.8,3,3.6,40,7.2,24.3,-
+1001-1200,Hohai University,China (Mainland),2026,XL,FO,VH,,,3.2,2.7,17.8,33.2,,,74.1,1.2,39.3,-
+1001-1200,Howard University,United States of America,2026,M,FC,HI,,,8.3,16.1,43.6,6,1.2,6.4,35.2,37.8,37.9,-
+1001-1200,Islamic University of Lebanon,Lebanon,2026,M,FO,MD,,,10.6,13.4,39.6,1.2,36.7,98.8,2.2,3.9,,-
+1001-1200,IU Indianapolis,United States of America,2026,L,FC,HI,,,8.9,8.4,23.5,22.6,38.8,9,51.3,6.5,43.7,-
+1001-1200,Kalinga Institute of Industrial Technology,India,2026,L,CO,VH,,,6.4,5.2,52.1,5.3,18,25,53.3,1.7,50.7,-
+1001-1200,Kangwon National University,Republic of Korea,2026,L,FC,HI,,,8,7.1,32,15.4,6.5,10.2,28.6,3.5,56.6,-
+1001-1200,Kazakh-British Technical University,Kazakhstan,2026,M,FO,HI,,,15.9,41.9,17.8,2.6,15.3,4.1,13.9,4.3,32.7,-
+1001-1200,Kent State University,United States of America,2026,L,FO,VH,,,7,4.8,9,20,25.4,15.7,62.5,11.3,40.8,-
+1001-1200,Kookmin University,Republic of Korea,2026,L,CO,HI,,,5.3,6.2,51,5.3,7,63.5,9.9,5.2,43.7,-
+1001-1200,Kyrgyz Russian Slavic University,Kyrgyzstan,2026,M,CO,MD,,,10.9,13.4,99.9,1,,,1.6,35.4,,-
+1001-1200,Kyushu Institute of Technology,Japan,2026,M,SP,VH,,,5,9,12.9,37.5,10.4,5.9,21.6,1.8,34.9,-
+1001-1200,Leeds Beckett University,United Kingdom,2026,L,CO,HI,,,5.1,10.3,5.2,13.5,46.9,45.2,36.6,10.8,61.7,-
+1001-1200,Lobachevsky State University of Nizhni Novgorod,Russian Federation,2026,L,FO,VH,,,10,8.2,50.9,3.5,2.6,37,18,3.9,38.2,-
+1001-1200,Lodz University of Technology,Poland,2026,M,SP,VH,,,6,7.3,59,16,4.1,8.3,49.2,4.1,40.3,-
+1001-1200,London Metropolitan University,United Kingdom,2026,L,CO,MD,,,5.9,7.3,4.7,7,68.5,97.6,22.4,20.8,20.9,-
+1001-1200,Loyola University Chicago,United States of America,2026,L,FC,HI,,,12.2,21.2,30.5,12.6,9.3,5,36.2,24.1,33.5,-
+1001-1200,Makerere University,Uganda,2026,XL,FC,HI,,,13.4,5.3,5.8,6.5,8.3,13.6,65.3,98.3,42,-
+1001-1200,Mansoura University,Egypt,2026,XL,FC,VH,,,18.8,15.8,5.2,5,9.9,21.2,81.9,12.6,55.5,-
+1001-1200,Marmara University,T¨¹rkiye,2026,XL,FO,VH,,,11.8,23.1,5.4,4.9,5.5,6.8,52.5,38.1,42.6,-
+1001-1200,MATE Hungarian University of Agriculture and Life Sciences,Hungary,2026,M,FO,VH,,,7.1,8,34.1,7.2,4.1,43.1,59,4.8,55.4,-
+1001-1200,Middle East University Jordan,Jordan,2026,S,FO,VH,,,9.1,7.2,12.4,13.2,10.6,90.9,47.7,5.9,8,-
+1001-1200,Mississippi State University,United States of America,2026,L,CO,VH,,,7.2,8.7,9.1,33.5,19.7,5.5,70.2,12.8,38.5,-
+1001-1200,Mustansiriyah University,Iraq,2026,XL,FC,HI,,,8.3,23.5,64.9,1.8,43.6,6.3,19.2,10.4,26.5,-
+1001-1200,Mutah University,Jordan,2026,L,FC,MD,,,15.6,21.8,12.1,3.4,15.7,32.9,28,10.1,33.2,-
+1001-1200,Mykolas Romeris University,Lithuania,2026,S,FO,VH,,,6,12.9,22.7,7.1,12.1,51.6,23.6,53.2,50.4,-
+1001-1200,Narxoz University,Kazakhstan,2026,M,FO,MD,,,15.7,14.9,26.1,1.5,31,20.7,1,69.7,35.6,-
+1001-1200,National Research Saratov State University,Russian Federation,2026,M,FO,VH,,,5,5.3,97.6,2.4,4,26.9,14.4,1.8,10.2,-
+1001-1200,"National Technical University ""Kharkiv Polytechnic Institute""",Ukraine,2026,M,CO,VH,,,7.6,20.8,61.1,1.8,2.3,33.3,17.1,4.6,38.9,-
+1001-1200,National University Lviv Polytechnic,Ukraine,2026,L,CO,VH,,,9.6,26.3,38.6,2.6,3.7,2.1,20.2,17.9,50.8,-
+1001-1200,Nicolaus Copernicus University,Poland,2026,L,FC,HI,,,10.3,4.8,65.8,9.4,4.6,11.3,81.3,3.9,30.1,-
+1001-1200,Niigata University,Japan,2026,L,FC,HI,,,6.6,5.1,88.7,6.7,6.6,6.1,23.1,7.2,43,-
+1001-1200,Northern Arizona University,United States of America,2026,L,CO,VH,,,9.5,16.2,6.7,23.4,3.5,3.8,48,7.5,45.2,-
+1001-1200,Northern Borders University,Saudi Arabia,2026,M,FC,HI,,,13.4,6.4,28.8,4.5,100,16.1,18,3,15.7,-
+1001-1200,Northwest University (China),China (Mainland),2026,L,CO,VH,,,5.8,3.2,55.7,31.8,4.8,4.7,37.6,5.1,33.1,-
+1001-1200,Notre Dame University-Louaize (NDU),Lebanon,2026,S,CO,HI,,,6.5,19.8,25.1,3.8,87.9,27.1,7.3,3.9,17.5,-
+1001-1200,Obuda University,Hungary,2026,M,FO,VH,,,7.9,8.9,3.9,19.6,34.7,13.3,44.5,5.1,42.4,-
+1001-1200,Ohio University,United States of America,2026,L,FC,HI,,,10.9,13.3,7.6,14,3.9,6.3,51.8,27.9,38.3,-
+1001-1200,Pavol Josef Safarik University,Slovakia,2026,M,FC,HI,,,6.4,5.6,69.2,5.5,7,78.5,41.6,5.5,22.2,-
+1001-1200,Pontificia Universidad Catolica del Ecuador,Ecuador,2026,L,FO,HI,,,24.4,19.1,13.5,1.9,18,2.6,35.3,46.2,23,-
+1001-1200,Pontificia Universidade Cat¨®lica de S?o Paulo (PUC -SP),Brazil,2026,M,FC,MD,,,13.2,21.2,48.8,1.7,5.2,1.5,2.9,44.1,14.9,-
+1001-1200,Poznan University of Life Sciences,Poland,2026,M,FO,VH,,,6.6,4.1,92.2,14.8,1.7,11.1,37.5,4.1,26.6,-
+1001-1200,Poznan University of Technology,Poland,2026,L,FO,VH,,,10.9,13.1,39.8,12.8,3.4,10.7,47.8,7.4,27.6,-
+1001-1200,Rhodes University,South Africa,2026,M,FO,VH,,,8,9.1,17.2,18.9,,46.4,56.5,42.9,42.2,-
+1001-1200,Riga Stradins University,Latvia,2026,M,SP,HI,,,7.4,16.2,16.3,3.4,30.9,96.1,15.9,14.8,29.5,-
+1001-1200,Ritsumeikan Asia Pacific University,Japan,2026,M,SP,LO,,,8.3,11.8,4.3,4.1,99.5,99.7,4.7,1.7,14.4,-
+1001-1200,Saint-Petersburg Mining University,Russian Federation,2026,M,FO,VH,,,3.1,5.9,79.1,3.7,28.1,44.4,9.6,13.2,28.3,-
+1001-1200,Samarkand State University,Uzbekistan,2026,L,CO,MD,,,23.7,18,41,1.3,25.1,6.5,7.3,9.5,11.6,-
+1001-1200,San Diego State University,United States of America,2026,XL,CO,VH,,,7.9,8.7,4.5,22.8,7.9,4.6,70.6,32.1,46.5,-
+1001-1200,Sebelas Maret University,Indonesia,2026,XL,FC,HI,,,21.2,21.4,25.2,2.5,33.3,11.2,20.5,2.8,50.8,-
+1001-1200,Seoul National University of Science and Technology,Republic of Korea,2026,M,FO,VH,,,10.5,7.9,20.5,18.9,12,32.2,28.6,1.9,49.7,-
+1001-1200,Sheffield Hallam University,United Kingdom,2026,XL,CO,HI,,,9.8,13.4,10.9,7.1,42.6,42.7,60.6,12.3,40.6,-
+1001-1200,Siberian Federal University,Russian Federation,2026,M,CO,VH,,,7.8,9.9,29.9,7.9,56.8,46,37.7,10.3,44.4,-
+1001-1200,Silesian University of Technology in Gliwice,Poland,2026,L,FO,VH,,,8.7,9.8,39.3,15.2,4.9,7.1,75.2,13.2,32.1,-
+1001-1200,Slovak University of Technology in Bratislava,Slovakia,2026,M,FO,VH,,,10.8,10.6,48.9,7.7,4.8,29.1,54.2,17.9,28.1,-
+1001-1200,Soonchunhyang University,Republic of Korea,2026,M,FC,VH,,,7.7,9.1,70.9,10.1,7.5,7.3,12.8,1.9,45.2,-
+1001-1200,Southern Federal University,Russian Federation,2026,L,CO,VH,,,7,7.5,65.4,3.5,4.9,42.3,43.6,3.7,31.4,-
+1001-1200,Southern Methodist University,United States of America,2026,M,CO,VH,,,6.4,10.9,37.6,11.9,15.8,16.3,28.8,62.4,41.9,-
+1001-1200,Southwest University,China (Mainland),2026,XL,CO,VH,,,3.2,3.5,12,45.1,1.5,5.3,51.4,16.5,37.9,-
+1001-1200,SRM Institute of Science and Technology (f.k.a SRM University),India,2026,XL,CO,VH,,,14.1,21.8,17.1,8.6,1.7,2.6,75.1,4.9,49.2,-
+1001-1200,Sumgait State University,Azerbaijan,2026,M,CO,MD,,,14.1,12.6,97.9,1.1,2.6,1.4,1.8,12,,-
+1001-1200,Sumy State University,Ukraine,2026,M,FC,HI,,,6.3,11,47.1,5.2,3.9,29.1,35.5,4.5,48.2,-
+1001-1200,Sungshin Women's University,Republic of Korea,2026,M,CO,MD,,,9.1,13.4,85,1.5,3.7,6.6,2.7,1.8,28.5,-
+1001-1200,Sz¨¦chenyi Istv¨¢n University,Hungary,2026,M,FO,VH,,,12.2,36.6,28.9,2.9,4.9,13.4,16.5,4.8,44.9,-
+1001-1200,Tashkent State University of Economics,Uzbekistan,2026,L,SP,MD,,,15.7,31.4,14,1.5,19.2,11.3,13.5,23.7,36.7,-
+1001-1200,Technical University of Kosice,Slovakia,2026,M,FO,VH,,,8.2,13.8,21.4,10.3,1.8,89.6,40.5,21.4,21.9,-
+1001-1200,Technical University of Ostrava,Czechia,2026,M,FO,VH,,,7.7,21.5,28.9,10.3,15.2,41.1,56.9,5,46.5,-
+1001-1200,Telkom University (aka Telkom Institute of Technology),Indonesia,2026,L,SP,VH,,,13.6,14.7,23.3,2.5,53.5,12.1,15.5,11.6,36.3,-
+1001-1200,The City College of New York,United States of America,2026,L,FC,HI,,,11.8,8,15,17.8,5,8.6,46.7,7.1,39,-
+1001-1200,"The Federal University of Sao Carlos, UFSCar",Brazil,2026,L,FC,VH,,,15,10.8,20.3,28.8,3.4,2.5,47.1,1.8,41.3,-
+1001-1200,The Hashemite University,Jordan,2026,L,FC,HI,,,15.6,23.7,5.5,7.8,9.9,18.4,45.1,5.1,45.4,-
+1001-1200,Tokyo Metropolitan University,Japan,2026,M,CO,VH,,,17.5,8.2,41.9,14.8,9.7,8,39.5,4.9,26.4,-
+1001-1200,Universidad Andr¨¦s Bello - UNAB,Chile,2026,XL,FC,HI,,,19.5,16.4,11.1,3.9,9.6,3.8,60.9,2.5,56.9,-
+1001-1200,Universidad Argentina de la Empresa -UADE,Argentina,2026,L,FO,MD,,,6.4,17.3,98.1,1,2.7,9.9,1.3,29.2,,-
+1001-1200,Universidad Austral de Chile,Chile,2026,L,FC,HI,,,19.3,15.4,4.1,14.3,20.5,2.5,45.8,4.8,44,-
+1001-1200,Universidad de Castilla-La Mancha,Spain,2026,L,FC,VH,,,10.7,4.7,22,17.9,2.7,9.7,70.4,7.9,46.9,-
+1001-1200,Universidad de Guadalajara (UDG),Mexico,2026,XL,FC,HI,,,26.5,12.5,21.3,1.6,2.8,1.3,45.1,9.8,55.2,-
+1001-1200,Universidad de las Am¨¦ricas Puebla (UDLAP),Mexico,2026,M,FC,MD,,,11.7,13.1,56,3.4,21.9,15.7,6.9,4.7,18.6,-
+1001-1200,Universidad de Le¨®n,Spain,2026,M,CO,VH,,,10.4,7.1,52.1,9.6,3.7,20.6,46.6,3.5,60.7,-
+1001-1200,Universidad de Puerto Rico,Puerto Rico,2026,XL,FC,HI,,,14.8,10.8,23,3.5,8.3,2.1,43.4,71.8,37.7,-
+1001-1200,Universidad de San Andr¨¦s,Argentina,2026,S,SP,HI,,,11.7,25.2,53,4.1,10.2,7.6,11.7,32.5,,-
+1001-1200,Universidad de Talca,Chile,2026,M,FO,VH,,,14.4,11.7,9.1,13.2,27.4,1.9,46.4,2.5,29.4,-
+1001-1200,Universidad del Valle,Colombia,2026,XL,FC,MD,,,24.1,9.7,11.1,2.8,3.3,2.2,24.7,28.8,34.9,-
+1001-1200,Universidad Diego Portales,Chile,2026,L,FO,VH,,,19,25.8,11.9,5.5,17.5,6.3,37.1,8.8,36.4,-
+1001-1200,Universidad ICESI,Colombia,2026,M,FO,HI,,,7.8,8.8,87.6,2.4,5.1,5.2,7.4,12.9,15.9,-
+1001-1200,Universidad Nacional de Rosario,Argentina,2026,XL,FC,MD,,,27.4,14.9,29.9,1.4,,10.8,27,15.2,18.8,-
+1001-1200,Universidad ORT Uruguay,Uruguay,2026,M,FO,MD,,,13.2,22.2,84.2,1.4,17.1,2.9,3.6,7,7.4,-
+1001-1200,Universidad Peruana Cayetano Heredia,Peru,2026,M,FO,VH,,,15.2,12.1,59.1,3.6,1.6,1.8,23.9,4.6,53.2,-
+1001-1200,Universidad Pontificia Bolivariana,Colombia,2026,M,FO,VH,,,10.7,12.7,83.9,2.8,4.8,4.5,17.7,27.6,28.5,-
+1001-1200,Universidad Rey Juan Carlos,Spain,2026,XL,CO,VH,,,12.5,16.9,11.5,9.4,24.2,20.3,65.3,14.5,64,-
+1001-1200,Universidad Sim¨®n Bol¨ªvar Venezuela,Venezuela (Bolivarian Republic of),2026,S,FO,VH,,,19.5,22.6,23.5,3.8,2.1,1.1,11.6,42,11.6,-
+1001-1200,Universidad T¨¦cnica Federico Santa Mar¨ªa,Chile,2026,L,FO,VH,,,13.3,37.5,4.7,8.3,19,1.8,46.3,17.7,42.7,-
+1001-1200,Universidade da Coru?a,Spain,2026,L,CO,VH,,,8.5,7.1,29.3,13.8,3.5,9.4,61.7,3.6,61.1,-
+1001-1200,Universidade Federal do Paran¨¢ (UFPR),Brazil,2026,XL,FC,VH,,,19.4,8.7,25.7,9.8,3.9,11.2,55.4,18,40,-
+1001-1200,"Universita' degli Studi di Napoli ""Parthenope""",Italy,2026,M,FO,VH,,,5.6,3.4,4.2,47.2,2,4.2,33.3,1.8,41.2,-
+1001-1200,Universit¨¤ degli Studi di Udine,Italy,2026,M,CO,VH,,,9.5,4.8,15.2,23.9,5.7,8.2,52.1,2,42.8,-
+1001-1200,"Universita?degli Studi ""G. D'Annunzio"" Chieti-Pescara",Italy,2026,L,FO,VH,,,4.9,3,4.6,45.9,5.1,5.1,60.3,3.2,29.6,-
+1001-1200,Universitas Sumatera Utara,Indonesia,2026,XL,FC,HI,,,14.4,13.4,38,1.8,14.1,2.6,28.6,7.4,46,-
+1001-1200,Universit?t Bielefeld,Germany,2026,L,FO,VH,,,19.9,7.5,16.1,8.8,25.9,16.3,68.9,4.9,44.1,-
+1001-1200,Universitat de Lleida,Spain,2026,M,CO,VH,,,7.4,3.7,27.5,21.5,7.3,16.2,56.4,5.2,59.1,-
+1001-1200,Universitat Jaume I,Spain,2026,L,CO,VH,,,7.7,3.3,20.8,28.4,4.8,24.1,51.1,1.7,59.6,-
+1001-1200,Universit¨¦ de Bretagne Occidentale (UBO),France,2026,L,FO,VH,,,6.2,5.4,32.1,25.2,,,82.7,3.6,47.2,-
+1001-1200,Universit¨¦ de Sfax,Tunisia,2026,XL,CO,VH,,,11.4,4.2,56.3,6.1,1.1,5.6,58.9,13.6,49.6,-
+1001-1200,Universit¨¦ Lumi¨¨re Lyon 2,France,2026,L,SP,VH,,,14.3,5.6,5.6,11.8,33.5,48.8,62.5,2.4,31.9,-
+1001-1200,Universit¨¦ Paris 2 Panth¨¦on-Assas,France,2026,L,SP,VH,,,8.5,8.2,63.1,1.4,15.8,38.6,6.1,64.4,17,-
+1001-1200,Universit¨¦ Sorbonne Paris Nord,France,2026,L,FO,VH,,,14,7.9,6,37.6,,,57.2,6.9,33.5,-
+1001-1200,"Universit¨¦ Toulouse 1, Capitole",France,2026,L,FO,VH,,,18.3,8.7,2.2,10.1,32.1,63,52.2,7.9,33,-
+1001-1200,Universiti Malaysia Perlis (UniMAP),Malaysia,2026,M,FO,VH,,,10.7,9.1,29.8,13.7,1.8,4.9,47.9,5.2,43.1,-
+1001-1200,Universiti Malaysia Sarawak (UNIMAS),Malaysia,2026,M,FC,HI,,,20.1,14.4,17.3,6.8,43.9,19.7,35.9,5,42.6,-
+1001-1200,Universiti Tun Hussein Onn University of Malaysia (UTHM),Malaysia,2026,L,CO,VH,,,14.5,12.2,11.7,18.6,6.8,12,45.8,5,49.7,-
+1001-1200,"University of Alabama, Birmingham",United States of America,2026,L,FC,VH,,,7.3,4.6,62.6,24.1,,,57.2,5,35.6,-
+1001-1200,University of Anbar,Iraq,2026,L,CO,HI,,,25.3,15.4,27.2,3,3.5,1.8,25.9,5.6,31.7,-
+1001-1200,University of Arkansas Fayetteville,United States of America,2026,L,CO,VH,,,8.4,7.4,7.8,19,9.2,4.4,67.8,34.4,45.1,-
+1001-1200,University of Balamand,Lebanon,2026,M,CO,HI,,,8,21.2,49.8,3.6,20.5,26.9,14.4,3.8,33.6,-
+1001-1200,University of Central Lancashire,United Kingdom,2026,L,CO,HI,,,6.5,9.3,12.4,7.1,43.2,78.4,56.9,3.3,35.5,-
+1001-1200,University of Colombo,Sri Lanka,2026,L,CO,HI,,,15.1,20.9,3.3,6.1,1.2,1.5,20.7,76,61.1,-
+1001-1200,University of Denver,United States of America,2026,M,CO,VH,,,7.8,12.2,43.6,12.7,6,14.2,31.8,37.5,49.5,-
+1001-1200,University of Deusto,Spain,2026,M,FO,VH,,,8.9,29.8,7.4,14.3,8.8,29.9,29.1,52.2,31.6,-
+1001-1200,University of East London,United Kingdom,2026,L,FO,HI,,,3.9,6.5,2.6,9.5,83.3,99.8,34.5,14.1,29.5,-
+1001-1200,University of Hradec Kralove,Czechia,2026,M,FO,VH,,,5.8,6.9,24.8,13.3,60.2,6.2,49.4,5.2,23,-
+1001-1200,University of Ibadan,Nigeria,2026,XL,CO,VH,,,11.6,16.6,6.4,7.3,,,64.8,76.2,41.9,-
+1001-1200,University of Idaho,United States of America,2026,M,CO,VH,,,3.5,1.6,15.4,36.9,8.6,12.2,32,7.5,41.7,-
+1001-1200,University of Ioannina,Greece,2026,XL,FC,HI,,,9.4,5.6,1.9,32,2,7.5,55.7,3.6,36.5,-
+1001-1200,University of Isfahan,Iran (Islamic Republic of),2026,L,CO,VH,,,7.7,10.7,4.9,30.7,,2.5,52.8,4.7,27.7,-
+1001-1200,University of Karachi,Pakistan,2026,XL,CO,HI,,,14.5,19.2,2,10.4,4.7,1.2,48.4,51.2,31.3,-
+1001-1200,University of Lagos,Nigeria,2026,XL,CO,HI,,,9.4,16.5,2.5,5.2,,,45.9,90.4,36.6,-
+1001-1200,University of Louisville,United States of America,2026,L,FC,HI,,,3.9,4.2,43.8,13.3,21.8,5.9,59.6,9.8,39.5,-
+1001-1200,University of Malaysia Sabah (UMS),Malaysia,2026,L,FC,HI,,,22,15.7,15.1,6.2,23.9,12.4,33.2,5,48.1,-
+1001-1200,University of Mississippi,United States of America,2026,L,CO,VH,,,4.6,3.2,78,12,5.2,5.1,47.6,9.2,35.9,-
+1001-1200,"University of Missouri, Kansas City",United States of America,2026,M,CO,VH,,,5.1,9.5,21.9,25.7,6.9,31.3,26.4,13.4,30.8,-
+1001-1200,University of Murcia,Spain,2026,L,FC,VH,,,15.3,5.4,24.9,14.9,,7,77.9,4.9,64.4,-
+1001-1200,University of Nairobi,Kenya,2026,XL,FC,HI,,,12.8,13.7,25.7,2.6,,,48.7,95.6,39.1,-
+1001-1200,University of Nevada - Reno,United States of America,2026,L,FC,HI,,,6.4,6.5,24.2,24.4,23.4,4.1,62.9,13.9,48.1,-
+1001-1200,University of New England,Australia,2026,L,CO,VH,,,12.5,9.6,8.2,16,6.3,6.1,67.3,15.7,50.9,-
+1001-1200,University of New Hampshire,United States of America,2026,L,CO,VH,,,6,9.1,17.7,24.8,11.7,4.9,32.4,13.3,47.1,-
+1001-1200,University of North Carolina at Charlotte,United States of America,2026,L,CO,VH,,,6.7,7,7.7,19.6,15.5,13.7,66.4,15.3,43.9,-
+1001-1200,University of Parma,Italy,2026,XL,FC,HI,,,13.6,5.8,4.5,33,5.2,16.8,63,12.5,37,-
+1001-1200,University of Regina,Canada,2026,L,CO,HI,,,4.7,2.9,5.7,34.3,4,51.2,48.5,6.4,64.2,-
+1001-1200,University of Rhode Island,United States of America,2026,L,CO,VH,,,7.2,5.7,8.7,26.5,7.8,4.3,53.2,15.8,68,-
+1001-1200,University of Salento,Italy,2026,L,CO,VH,,,6.8,1.9,8.2,41.5,1.5,4.5,71.9,3.4,31.9,-
+1001-1200,University of South Bohemia,Czechia,2026,M,CO,VH,,,7.1,5.8,53.7,12.5,27.7,19.8,57.2,2.5,47,-
+1001-1200,University of Tabuk,Saudi Arabia,2026,L,FC,HI,,,8.8,3.5,27.3,6.7,93.7,5.5,42.7,2.8,34.7,-
+1001-1200,University of Texas Arlington,United States of America,2026,XL,CO,VH,,,7,9.2,6.6,16.4,12.7,39.7,57.7,14.9,64.5,-
+1001-1200,University of Texas at San Antonio,United States of America,2026,L,FC,HI,,,6.7,6,5.8,30.6,14.1,4.6,59.9,8,44.5,-
+1001-1200,University of the Algarve,Portugal,2026,M,CO,VH,,,7.2,3.2,13.6,28.3,6.6,53,66.3,3,45,-
+1001-1200,University of the Free State,South Africa,2026,L,FO,VH,,,7.2,12.1,4.9,13.8,,8.3,93.7,18.4,41.7,-
+1001-1200,University of Toledo,United States of America,2026,L,FC,HI,,,4.2,4.5,13.8,28.8,7.7,21.6,45.4,14.5,39.9,-
+1001-1200,University of Tulsa,United States of America,2026,S,CO,VH,,,2.8,5.3,49.8,15.1,20.7,39.7,22.2,22.5,46.7,-
+1001-1200,University of Vermont,United States of America,2026,L,FC,HI,,,3.7,6.8,39.8,23,8.8,3.8,66.2,22.3,52,-
+1001-1200,University of Warmia and Mazury in Olsztyn,Poland,2026,L,FC,HI,,,10.8,14.5,42,7.7,2.6,4.6,42.6,4,43.7,-
+1001-1200,University of Wolverhampton,United Kingdom,2026,L,CO,HI,,,3.1,3.7,14,14.9,40.8,78.9,55.7,5.9,31,-
+1001-1200,University of Wyoming,United States of America,2026,M,CO,VH,,,3.6,2.3,39.4,29.6,12.6,8.1,52,10.6,43.4,-
+1001-1200,University of Zilina,Slovakia,2026,M,FO,VH,,,6.3,7.3,59.5,13.9,5.5,12.3,25.6,5.6,36.5,-
+1001-1200,Utah State University,United States of America,2026,L,CO,VH,,,7.4,4.2,8.6,32.8,1.1,2.7,67.2,11.3,48.2,-
+1001-1200,Van Lang University,Viet Nam,2026,L,FO,HI,,,31.4,10.3,28.9,2.3,10.6,1.3,45.3,4.9,,-
+1001-1200,Warsaw University of Life Sciences,Poland,2026,L,FO,VH,,,8,7.9,23.1,14.6,2.4,11.9,67.5,7.1,42.6,-
+1001-1200,West Virginia University,United States of America,2026,L,FC,VH,,,6.4,7.5,15,28.4,8.3,8.8,66.9,21.4,44.6,-
+1001-1200,William & Mary,United States of America,2026,M,CO,VH,,,10,14.9,26.4,16.2,6,9,37.9,38.6,44.4,-
+1001-1200,Xi'an Jiaotong-Liverpool University,China (Mainland),2026,L,CO,HI,,,5.9,5.4,8.1,12,95.2,5.2,45.9,1.3,44,-
+1001-1200,Yerevan State University,Armenia,2026,M,CO,HI,,,8.7,6,64.8,1.9,8.7,3,21.2,90,13.3,-
+1001-1200,Yokohama City University,Japan,2026,M,FO,VH,,,3.3,3.7,96.7,19,7.2,6,15,3.5,14.5,-
+1001-1200,Yokohama National University,Japan,2026,M,CO,VH,,,11.6,24.5,22.9,11.3,17.2,12.5,28.1,22.5,41.2,-
+1001-1200,Yuan Ze University,Taiwan,2026,M,CO,VH,,,8.6,9.7,13.7,19.7,22.2,23,38.9,2.1,42.9,-
+1201-1400,ADA University,Azerbaijan,2026,S,SP,LO,,,8.4,22.4,62.3,1.3,20.2,7.7,5.2,12,,-
+1201-1400,"Ahmadu Bello University, Zaria",Nigeria,2026,XL,CO,HI,,,6.3,9.4,10,2.2,2,1.4,44.1,80.8,28,-
+1201-1400,Al Zaytoonah University,Jordan,2026,M,CO,HI,,,5.9,7.7,4.9,8.1,26.9,52.4,16.8,5.3,14.1,-
+1201-1400,Al-Balqa Applied University,Jordan,2026,L,FC,HI,,,10.2,15.4,6,5.8,15.2,5.2,46,5.5,41.8,-
+1201-1400,Amman Arab University,Jordan,2026,S,FO,VH,,,8.4,6,13,16,10.6,58.6,12.2,5.4,8.9,-
+1201-1400,Ashoka University,India,2026,S,SP,VH,,,10.1,7.2,28.4,6.2,20.5,7.5,3.4,1.9,26.3,-
+1201-1400,Ataturk University,T¨¹rkiye,2026,XL,CO,VH,,,8.1,2.9,4.1,9.7,4.7,20.7,49.3,11.3,34.6,-
+1201-1400,Bahauddin Zakariya University,Pakistan,2026,L,CO,VH,,,8.5,7.8,4.1,30.3,,1,50.8,8.3,25.7,-
+1201-1400,Beijing Foreign Studies University,China (Mainland),2026,M,SP,VH,,,8.4,7.8,42.6,2.5,25.4,48.4,4.4,15.5,10,-
+1201-1400,Beijing University of Chinese Medicine,China (Mainland),2026,L,FO,VH,,,5.7,6.4,44.2,14.7,,13.3,7.6,4.1,8.4,-
+1201-1400,Benem¨¦rita Universidad Aut¨®noma de Puebla,Mexico,2026,XL,FC,HI,,,19.9,8,2.4,2.9,3.6,1.7,29.1,2.3,28.9,-
+1201-1400,Beni-Suef University,Egypt,2026,XL,FC,HI,,,8.7,4.1,2.1,11.1,13.7,1.6,51.5,2.8,39.8,-
+1201-1400,Birzeit university,Palestine,2026,M,CO,HI,,,12.5,8.5,6.7,5.1,17.9,7.4,20,38.3,12.3,-
+1201-1400,BRAC University,Bangladesh,2026,L,CO,HI,,,14.9,33.4,11.6,3.6,1.7,1.8,30.4,4.5,30,-
+1201-1400,British University in Egypt,Egypt,2026,M,FO,VH,,,8.4,10.8,36.7,4.6,1.8,6.1,18.4,3,20.6,-
+1201-1400,Brock University,Canada,2026,L,CO,HI,,,6.7,10.9,4.7,16.6,4.2,27.5,29.2,6.7,41.5,-
+1201-1400,California Polytechnic State University,United States of America,2026,L,CO,HI,,,5.6,20,9.4,4.9,,,43.6,19.4,32.8,-
+1201-1400,Can Tho University,Viet Nam,2026,XL,CO,HI,,,10.2,6.2,3.1,4.6,65.2,1,36.8,6.6,39.7,-
+1201-1400,Canterbury Christ Church University,United Kingdom,2026,XL,CO,MD,,,6.8,4.7,5.3,6.8,41.5,60.4,21.9,2.2,21.7,-
+1201-1400,Chang Jung Christian University,Taiwan,2026,M,CO,HI,,,8.5,4.9,57,2.6,8.2,9.3,6,2.2,34.9,-
+1201-1400,China University of Political Science and Law,China (Mainland),2026,L,FO,MD,,,3.5,62.2,11.1,1.5,5,2.2,7.9,9.6,10.2,-
+1201-1400,Chitkara University,India,2026,L,CO,VH,,,10,10.9,18.2,5.4,13.1,5.4,44,1.7,47.4,-
+1201-1400,Cukurova University,T¨¹rkiye,2026,XL,FC,HI,,,6.7,6.1,8.6,4.9,2.5,6.5,56,14.1,42.3,-
+1201-1400,Damascus University,Syrian Arab Republic,2026,XL,FC,MD,,,8,6.4,1.7,1.5,5.4,11.2,23.2,95.8,32,-
+1201-1400,Delta University for Science & Technology,Egypt,2026,L,FO,HI,,,26.2,8.8,5.7,5.1,8.5,2.4,14,3.2,33.1,-
+1201-1400,Dokuz Eyl¨¹l ?niversitesi,T¨¹rkiye,2026,XL,FC,HI,,,9.5,13.8,5.9,3.5,2.7,19.4,51.6,9.2,56.8,-
+1201-1400,Doshisha University,Japan,2026,L,CO,HI,,,11.1,16.2,7,2.5,22.1,6.3,18.7,26.3,22.1,-
+1201-1400,Erciyes ?niversitesi,T¨¹rkiye,2026,XL,FC,HI,,,6.8,4.5,3.7,11.5,9.9,14.7,53.1,2.1,52.3,-
+1201-1400,Feng Chia University,Taiwan,2026,L,FO,VH,,,12.3,11.8,6.4,11.7,5.6,6.8,10.1,21,53.9,-
+1201-1400,Fu Jen Catholic University,Taiwan,2026,L,FC,HI,,,10.6,10.8,4.5,14.9,13.2,8.1,9.3,35.8,44.5,-
+1201-1400,Galgotias University,India,2026,L,CO,HI,,,16.6,4.6,36.2,3.2,21.1,15,16.9,3.3,,-
+1201-1400,German university in Cairo,Egypt,2026,L,CO,HI,,,11.6,21.3,9.8,3.3,17.8,1.4,20.4,5.7,9.5,-
+1201-1400,Gunma University,Japan,2026,M,FO,VH,,,3.8,2.8,89.8,9,5.5,5.2,10.5,1.8,15.4,-
+1201-1400,Hanoi University of Science and Technology,Viet Nam,2026,XL,FO,VH,,,12.3,15.9,3.3,10,5.7,1.5,23.3,30.8,51.3,-
+1201-1400,Helwan University,Egypt,2026,XL,CO,HI,,,11,15,4.9,2.6,1.2,3.4,63.6,20.1,36.1,-
+1201-1400,Industrial University of Ho Chi Minh City,Viet Nam,2026,L,CO,HI,,,22.6,15.2,5.2,5,1.5,2.8,13.1,6.7,19.5,-
+1201-1400,Institut Teknologi Nasional Bandung (ITENAS Bandung),Indonesia,2026,M,SP,LO,,,22.4,5,13.2,1.5,3.1,1.3,3.4,2.8,26.9,-
+1201-1400,Instituto Tecnol¨®gico de Santo Domingo (INTEC),Dominican Republic,2026,M,FO,MD,,,1.9,6.3,36.2,2,22.9,5.2,7.3,49.7,17.6,-
+1201-1400,International Christian University,Japan,2026,S,FO,HI,,,6.3,14.8,21.5,1.9,83.2,15.8,6,14.9,15.5,-
+1201-1400,International Islamic University Islamabad (IIU),Pakistan,2026,L,CO,HI,,,9.3,14.3,5,15.5,5.7,9.6,57.9,3.3,28.8,-
+1201-1400,Islamic Azad University,Iran (Islamic Republic of),2026,,CO,,,,6.1,5,1.7,8.5,,1.1,96.3,35.7,29.4,-
+1201-1400,Islamic University of Madinah,Saudi Arabia,2026,L,FO,HI,,,8.1,3.5,7.8,3,46.5,100,19.1,2.6,7.6,-
+1201-1400,Islamic University of Technology,Bangladesh,2026,S,FO,VH,,,6.5,15.2,13.9,16.2,5.6,25.5,6,5,15.2,-
+1201-1400,Istanbul Aydin University,T¨¹rkiye,2026,L,FO,HI,,,8.6,6.2,19.1,2.1,13.6,68.6,10.2,2.4,32.1,-
+1201-1400,Ivan Franko National University of Lviv,Ukraine,2026,L,CO,HI,,,9.6,25.3,32.8,1.7,1.3,1.6,13.3,26.1,43.1,-
+1201-1400,Izmir Y¨¹ksek Teknoloji Enstit¨¹s¨¹ (IYTE),T¨¹rkiye,2026,S,CO,VH,,,11,10.8,8.3,18.6,8.7,5.2,22.7,2.4,38.7,-
+1201-1400,Jahangirnagar University,Bangladesh,2026,L,CO,HI,,,12.2,17.5,5.7,9.3,,,35.3,4.5,33.2,-
+1201-1400,Jeju National University,Republic of Korea,2026,M,FC,VH,,,5.1,3.4,44.3,13.5,9.4,9.3,23.4,1.8,53.4,-
+1201-1400,Kagoshima University,Japan,2026,M,FC,VH,,,7.8,4.7,69.6,6.1,5.1,5,24,1.6,23,-
+1201-1400,Kazakh Ablai khan University of International Relations and World Languages,Kazakhstan,2026,M,SP,LO,,,10.4,16.7,54.1,1,9.9,8.7,1.3,4.2,,-
+1201-1400,Kharkiv National University of Radio Electronics,Ukraine,2026,M,SP,HI,,,3.2,22.5,31.1,2.2,1.8,10.7,12.9,4.7,33.3,-
+1201-1400,King Mongkut's Institute of Technology Ladkrabang,Thailand,2026,L,CO,VH,,,13.5,11.4,6.3,6.1,31.2,4.2,20.2,10.7,36.7,-
+1201-1400,King Mongkut's University of Technology North Bangkok,Thailand,2026,L,FO,VH,,,13.4,11.9,5.3,7.3,3.8,1.4,31.1,3.1,31.7,-
+1201-1400,Kwame Nkrumah University of Science and Technology,Ghana,2026,XL,CO,HI,,,10.2,9.2,6,3.9,,,65.9,49.9,42.3,-
+1201-1400,Kyoto Institute of Technology,Japan,2026,S,FO,VH,,,8,6.3,18.6,18.7,15.3,13.6,13.2,1.8,24.6,-
+1201-1400,Kyrgyz National University,Kyrgyzstan,2026,L,CO,LO,,,14.3,12.6,28.4,1.1,2.6,14,4.5,51.7,,-
+1201-1400,Kyrgyz State Technical University named after I. Razzakov,Kyrgyzstan,2026,L,SP,LO,,,16.1,15.1,13.9,1,10.7,11.5,1.1,30.6,8.5,-
+1201-1400,Latvia University of Life Sciences and Technologies,Latvia,2026,S,FO,VH,,,7.5,10.1,5.7,7.9,1.8,16.5,24.1,17.7,35.8,-
+1201-1400,Marquette University,United States of America,2026,M,CO,VH,,,3.6,3.2,28.5,15.2,8.6,5,31.7,27.3,30,-
+1201-1400,Meiji University,Japan,2026,XL,FO,HI,,,9.4,24.6,5.9,2.5,14.5,8.9,12.6,29.4,29.4,-
+1201-1400,Miami University,United States of America,2026,L,CO,HI,,,3.4,11.8,8.9,14,7,11.1,44.4,42.5,37.9,-
+1201-1400,Nagoya Institute of Technology (NIT),Japan,2026,M,FO,VH,,,9.5,4.4,11.5,28.6,6.9,7.8,19.6,8.6,18.1,-
+1201-1400,National Chin-Yi University of Technology,Taiwan,2026,M,FO,VH,,,13,16.4,8.8,12.9,3.1,20.6,15.6,2.1,40,-
+1201-1400,National Dong Hwa University,Taiwan,2026,M,CO,HI,,,16.3,7,8.6,8.7,13.9,18.6,10.7,2.1,46.9,-
+1201-1400,National Research University Moscow Power Engineering Institute (MPEI),Russian Federation,2026,M,FO,VH,,,6.6,8.4,21.9,2.5,6,54.9,15.8,17.2,16.8,-
+1201-1400,National Taiwan Ocean University,Taiwan,2026,M,FO,VH,,,7.7,6.3,16,18.5,10.2,13.9,18.6,4.1,55.7,-
+1201-1400,National University of Kyiv-Mohyla Academy (NaUKMA),Ukraine,2026,S,FO,VH,,,5.6,26.8,57.1,1.5,2.6,1.3,6.1,29.9,16.5,-
+1201-1400,New Mexico State University,United States of America,2026,L,CO,VH,,,6.6,6.8,13,21.3,10.4,10,38.6,10.8,43,-
+1201-1400,Novosibirsk State Technical University,Russian Federation,2026,L,FO,VH,,,5.7,11.1,27.7,2.8,2,56.7,11.6,7.3,15.2,-
+1201-1400,Odessa I.I.Mechnikov National University,Ukraine,2026,M,FO,HI,,,3.9,6.3,70.5,1.6,2.2,6.1,12.9,16.8,15.5,-
+1201-1400,"Osmania University, Hyderabad",India,2026,M,CO,VH,,,6,6.2,5,35.1,,9.3,25.2,16.3,20.5,-
+1201-1400,Ozyegin University,T¨¹rkiye,2026,M,FO,VH,,,6.6,16.1,10.2,10.1,14.7,33.5,18.4,2.6,45.1,-
+1201-1400,Palestine Technical University - Kadoorie,Palestine,2026,S,CO,HI,,,9.4,9.1,29.8,3.5,66.5,16.4,18,12,6.1,-
+1201-1400,Pondicherry University,India,2026,M,CO,VH,,,5.1,3.4,7.4,33.4,2.3,1.6,34.7,3.2,47.1,-
+1201-1400,Pontificia Universidade Cat¨®lica do Rio Grande do Sul,Brazil,2026,M,FC,HI,,,8.7,6,18.4,19.9,3.2,2.2,19.8,11.7,28.5,-
+1201-1400,Portland State University,United States of America,2026,L,CO,VH,,,4.9,2.6,14.8,15.7,2.1,10.8,42.3,16.5,47,-
+1201-1400,Pratt Institute,United States of America,2026,M,FO,HI,,,6.9,7,47.5,1.7,7.5,95.6,2.1,7.1,10.1,-
+1201-1400,Pukyong National University,Republic of Korea,2026,L,CO,VH,,,9.4,6,21.2,13.6,6.6,13.9,33.9,1.7,58.6,-
+1201-1400,"Queen Margaret University , Edinburgh",United Kingdom,2026,M,FO,HI,,,4.3,6.5,6.3,19.1,68.4,67.4,3.5,1,18.6,-
+1201-1400,Riphah International University,Pakistan,2026,L,CO,HI,,,13.8,8.2,26.2,6.4,2.2,1.5,51.8,3.2,32.3,-
+1201-1400,Saint-Petersburg Electrotechnical University LETI,Russian Federation,2026,M,FO,VH,,,4.8,6.3,51.9,3,5.6,56.2,15.9,7.3,26.4,-
+1201-1400,Saken Seifullin Kazakh Agrotechnical University,Kazakhstan,2026,M,FO,HI,,,10.2,18,42.2,1.5,23.5,9.4,3.6,4.2,36.7,-
+1201-1400,Samara National Research University (Samara University),Russian Federation,2026,M,CO,VH,,,4,3.7,74.6,3.2,2.9,22.3,19.5,13.2,30.6,-
+1201-1400,Sathyabama Institute of Science and Technology,India,2026,L,CO,VH,,,11,10.4,27,9.4,7.5,6.1,29.5,1.7,51,-
+1201-1400,Seattle University,United States of America,2026,M,CO,HI,,,6.6,14,40.5,3.2,1.7,22.1,6,15.3,42.5,-
+1201-1400,Selcuk University,T¨¹rkiye,2026,L,CO,VH,,,7.5,3.7,23.7,7.3,2.4,23.6,53.8,13.6,45.7,-
+1201-1400,Shanghai International Studies University,China (Mainland),2026,L,SP,VH,,,7.2,6.4,21.7,3.3,33.8,40,10.8,9.3,9.4,-
+1201-1400,Shanghai University of Finance and Economics,China (Mainland),2026,L,SP,VH,,,5.8,15.1,12.2,9.9,20.4,3.6,14.1,48,32,-
+1201-1400,Shinshu University,Japan,2026,M,FC,VH,,,4.7,4.9,39.9,20.2,6.8,4.7,25.2,3.4,24.6,-
+1201-1400,Shiv Nadar University,India,2026,S,CO,VH,,,7.5,6.1,42.1,20.8,17.4,3.2,13.5,1.8,30.4,-
+1201-1400,"Siksha ¡®O¡¯ Anusandhan (Deemed to be University), SOA",India,2026,L,FO,VH,,,8.2,5.5,41.6,11.4,3.2,4,28.7,1.7,35.8,-
+1201-1400,Slovak University of Agriculture in Nitra,Slovakia,2026,S,SP,HI,,,8.9,10.6,36.7,15.5,8.8,8.9,28.5,5.7,24.9,-
+1201-1400,Sookmyung Women's University,Republic of Korea,2026,M,CO,HI,,,6.9,9.7,46.8,4.9,4.8,5,6.1,1.9,39.8,-
+1201-1400,Suranaree University of Technology,Thailand,2026,L,FC,HI,,,10.2,6.5,5.9,16.7,7.4,2.4,27.3,3.2,44.6,-
+1201-1400,Taibah University,Saudi Arabia,2026,XL,FC,HI,,,9.2,4.3,7.6,7.4,90.6,3.6,38,2.5,32.5,-
+1201-1400,Tamkang University,Taiwan,2026,L,CO,HI,,,7.8,9.9,5.2,11,8,11.6,24.6,35.6,45.7,-
+1201-1400,Tanta University,Egypt,2026,XL,FC,HI,,,7.7,9.8,7.2,4,1.5,3,73.3,5.7,48.1,-
+1201-1400,Tashkent State Transport University,Uzbekistan,2026,L,FO,HI,,,19.3,10.8,24.7,1.3,3.5,2.3,2,9.2,30.1,-
+1201-1400,Technical University of Cluj-Napoca,Romania,2026,L,SP,VH,,,5.8,10.7,10.5,8.2,4,5.6,46.5,5.1,42.1,-
+1201-1400,Technical University of Liberec,Czechia,2026,M,CO,VH,,,5.6,5,43.9,9.3,15.6,14.9,28.5,2.5,15.7,-
+1201-1400,Technische Universit?t Kaiserslautern,Germany,2026,L,CO,VH,,,8.6,6,22.2,7.5,,,63.4,5.4,,-
+1201-1400,Tecnol¨®gico de Costa Rica (TEC),Costa Rica,2026,M,FO,HI,,,11.2,24.9,23.2,2.1,9.7,3,11.1,11.6,17.8,-
+1201-1400,"The ""Gheorghe Asachi"" Technical University of Iasi",Romania,2026,L,SP,VH,,,6.5,14.5,3.8,10,,8.6,49.3,5.3,22.7,-
+1201-1400,The Russian Presidential Academy of National Economy and Public Administration,Russian Federation,2026,XL,FO,VH,,,5.6,14.9,48.4,1.2,2.1,4.6,21.8,53.7,14.3,-
+1201-1400,The University of Northampton,United Kingdom,2026,L,CO,MD,,,3.4,3.9,6.4,4.4,51.5,93.4,16.8,5.9,19,-
+1201-1400,"The University of Notre Dame, Australia",Australia,2026,M,FC,HI,,,3.4,5.9,6.3,10.2,53.7,21.9,11.5,1.7,34.1,-
+1201-1400,Tishk International University,Iraq,2026,M,CO,HI,,,13.4,4,8,11.8,74.2,1.6,33.5,5.9,17.3,-
+1201-1400,Tokai University,Japan,2026,L,FC,HI,,,12.8,9,18.1,5.4,7.7,5.3,28.8,3.4,34.4,-
+1201-1400,Tokushima University,Japan,2026,M,SP,VH,,,5.4,3.2,70.1,10.2,3.3,3.8,18.2,6.4,23.3,-
+1201-1400,Tomas Bata University in Zlin,Czechia,2026,M,CO,HI,,,6.1,10.3,13.6,11.1,33.1,30.7,31.2,5.1,26.2,-
+1201-1400,Transilvania University of Brasov,Romania,2026,L,FC,HI,,,9,10.2,8.4,7.1,5,3.8,69.6,5.3,32.2,-
+1201-1400,Tunghai University,Taiwan,2026,L,FO,VH,,,10.1,9.2,6.7,13.1,13.5,17.8,28.2,21.9,47.5,-
+1201-1400,UCAM Universidad Cat¨®lica San Antonio de Murcia,Spain,2026,L,FO,VH,,,9.6,5.6,9.9,7.5,14.6,43.8,23.9,1.8,41.4,-
+1201-1400,Universidad Aut¨®noma Chapingo,Mexico,2026,M,FO,VH,,,4.1,4.2,77.6,2.1,8.7,1.3,6.4,13,16.8,-
+1201-1400,Universidad Aut¨®noma de Guadalajara,Mexico,2026,M,FC,MD,,,10.3,5.2,28.7,1.2,45.7,23.6,2.4,2.1,7.3,-
+1201-1400,Universidad Aut¨®noma de Nuevo Le¨®n (UANL),Mexico,2026,XL,FC,HI,,,20.9,10.7,3.1,2.9,4,1.3,39.1,18.4,43.7,-
+1201-1400,Universidad Aut¨®noma del Estado de Hidalgo,Mexico,2026,XL,FC,MD,,,3.6,8.3,51.7,1.9,2.6,2.9,13.3,2.3,41.8,-
+1201-1400,Universidad Aut¨®noma del Estado de M¨¦xico,Mexico,2026,XL,FC,MD,,,23,12.8,7.5,2,3.9,1.7,15.6,2.1,39.8,-
+1201-1400,Universidad Cat¨®lica del Norte,Chile,2026,M,FC,HI,,,5.7,5,10.9,9.3,21.9,8.5,45,2.5,53,-
+1201-1400,Universidad Central Marta Abreu de Las Villas,Cuba,2026,M,CO,HI,,,4.8,2,99.9,1.6,1.1,1.6,9.4,26.5,10.2,-
+1201-1400,Universidad Cientifica del Sur,Peru,2026,L,FC,MD,,,6.1,6.8,68.3,1.7,4.2,1.3,14.8,4.8,30.1,-
+1201-1400,Universidad de la Frontera (UFRO),Chile,2026,M,CO,VH,,,14.4,7.5,6.5,19.2,3.1,1.7,44,2.7,32.3,-
+1201-1400,Universidad de Las Am¨¦ricas (UDLA) Ecuador,Ecuador,2026,L,CO,HI,,,14.4,8.4,21.1,2.6,24.7,5,18.3,7,30.9,-
+1201-1400,Universidad de Lima,Peru,2026,L,SP,HI,,,14.1,31.8,6.8,1.7,3.7,3.7,11.3,30.3,33.9,-
+1201-1400,Universidad de los Andes M¨¦rida,Venezuela (Bolivarian Republic of),2026,L,FC,MD,,,20.2,12.7,26.3,1.6,1.5,2,19.3,22.4,32,-
+1201-1400,Universidad de Monterrey,Mexico,2026,M,FO,HI,,,19.8,15.4,8.7,2.4,18.2,6.8,9.2,6.4,32.5,-
+1201-1400,Universidad de Valpara¨ªso,Chile,2026,L,FC,HI,,,15.5,8.4,12.8,5,8.6,2.9,34.3,4.8,39.7,-
+1201-1400,Universidad del Desarrollo,Chile,2026,L,CO,HI,,,11.8,15.7,15.7,4,10.6,3.3,18.3,6.8,47.5,-
+1201-1400,Universidad del Norte,Colombia,2026,M,FC,HI,,,13.2,14.3,12.7,6,8.5,1.7,27.1,10.8,44.2,-
+1201-1400,Universidad del Valle de Guatemala (UVG),Guatemala,2026,M,CO,MD,,,6.5,11,61.9,1.4,9.4,3.2,5.6,15.3,11,-
+1201-1400,Universidad Industrial de Santander,Colombia,2026,L,FC,MD,,,12.7,17.6,5.8,3.4,6,2,18.5,13.3,28.5,-
+1201-1400,Universidad Jesuita de Guadalajara - ITESO,Mexico,2026,M,FO,MD,,,9.3,7.8,84.6,1.2,3.8,2.5,3.7,2.3,21.8,-
+1201-1400,Universidad Nacional Costa Rica,Costa Rica,2026,L,CO,MD,,,13.5,18.4,17.5,2.2,13.1,4.1,16.8,11.4,23.3,-
+1201-1400,Universidad Nacional de Asunci¨®n,Paraguay,2026,XL,FC,MD,,,7.6,5.5,43.1,1.2,1.5,2.7,13.1,73.8,28.8,-
+1201-1400,Universidad Nacional de Cuyo,Argentina,2026,XL,FC,HI,,,17.8,10.7,23.9,2.8,2.1,11.6,26.5,14.8,43.7,-
+1201-1400,Universidad Nacional de Ingenier¨ªa Peru,Peru,2026,L,FO,HI,,,11.2,31.2,10.2,2,1.3,1.4,7.1,27.5,10.5,-
+1201-1400,Universidad Nacional de San Luis,Argentina,2026,L,FO,HI,,,3.9,2,84.8,1.4,,,10.1,1.5,18,-
+1201-1400,Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina,2026,L,FC,MD,,,6.3,6.3,81.4,1.8,,,7.7,1.5,20.5,-
+1201-1400,Universidad Nacional del Litoral,Argentina,2026,XL,CO,HI,,,18.1,10.1,3.1,4.1,6.6,1.5,26.8,7.1,41,-
+1201-1400,Universidad Peruana de Ciencias Aplicadas (UPC),Peru,2026,XL,FO,HI,,,17.8,26.8,4.7,1.4,17.1,2.1,10.1,4.8,32,-
+1201-1400,Universidad Tecnol¨®gica de Panam¨¢ (UTP),Panama,2026,L,CO,MD,,,9.5,19.9,38.2,1.2,4.9,8,5.2,7.3,24.5,-
+1201-1400,Universidad Tecnol¨®gica Nacional (UTN),Argentina,2026,XL,SP,HI,,,5.2,19.2,56.6,1.2,,3.8,10.9,9.2,19.1,-
+1201-1400,Universidade do Estado do Rio de Janeiro (UERJ),Brazil,2026,XL,FC,HI,,,13.2,6.5,22.6,4,4.8,1.4,48,22.6,31.8,-
+1201-1400,Universidade Federal da Bahia,Brazil,2026,XL,FC,HI,,,13.5,5,11.8,5.7,6.9,2,48.7,20.6,41.4,-
+1201-1400,Universidade Federal de Pernambuco (UFPE),Brazil,2026,XL,FC,HI,,,16,4.4,20.3,7.6,4.8,1.4,58.3,6.8,36.1,-
+1201-1400,Universidade Federal de Santa Maria,Brazil,2026,L,FC,HI,,,7,2.2,25,9.9,2.9,2.1,52.5,8.4,55.7,-
+1201-1400,Universidade Federal de Vi?osa,Brazil,2026,L,FC,HI,,,6.8,4.3,17.4,16.2,3.4,3.7,26.5,5.7,49.6,-
+1201-1400,Universidade Federal do Cear¨¢ (UFC),Brazil,2026,XL,FC,HI,,,11.3,4.8,7.9,10.1,1.5,1.7,41.7,8,36.2,-
+1201-1400,Universidade Federal Fluminense,Brazil,2026,XL,FC,HI,,,12.5,3.1,17.4,6.4,8.8,1.3,57,17.6,55.7,-
+1201-1400,Universidade Presbiteriana Mackenzie,Brazil,2026,M,CO,HI,,,5.8,12.6,19.5,3.8,2.3,1.1,13.8,56.4,18.1,-
+1201-1400,Universita' degli Studi di Urbino Carlo Bo,Italy,2026,L,FO,VH,,,6.8,2.8,3,14.5,22.6,9.1,28.5,13.8,27.3,-
+1201-1400,Universitas Muhammadiyah Yogyakarta (UMY),Indonesia,2026,L,FO,HI,,,10.9,4.2,4.8,2.2,82.5,3.9,8.3,2.7,37.9,-
+1201-1400,Universitas Negeri Yogyakarta,Indonesia,2026,L,CO,HI,,,17.4,6.7,12.2,2,18.8,2.8,10.8,2.8,32.5,-
+1201-1400,Universitas Pendidikan Indonesia,Indonesia,2026,XL,CO,HI,,,17.4,5.7,16.2,2.2,17.6,2.5,20,2.7,43.1,-
+1201-1400,Universitas Trisakti,Indonesia,2026,M,FO,VH,,,14.3,5.8,29,1.5,3,1.3,4.1,41.1,33.3,-
+1201-1400,Universit?t Siegen,Germany,2026,L,CO,HI,,,5.4,1.2,15.4,10.2,53.9,37.3,42,4.9,29.2,-
+1201-1400,Universit¨¦ de Caen Normandie,France,2026,L,FC,HI,,,11.3,5.2,9.2,10.3,11,11.4,76.4,6.6,35.8,-
+1201-1400,Universit¨¦ de Limoges,France,2026,M,SP,VH,,,8.9,5.5,22.4,9.1,,,55.9,3.6,29.6,-
+1201-1400,Universit¨¦ de Poitiers,France,2026,L,CO,VH,,,11.1,1.2,7.6,8.5,,38.9,74.6,13.6,39.3,-
+1201-1400,Universit¨¦ de Sousse,Tunisia,2026,L,FC,HI,,,6.4,3.9,51.8,2.9,1.2,3.7,36.6,9.4,44.1,-
+1201-1400,Universit¨¦ de Tunis,Tunisia,2026,L,FO,VH,,,11.3,5.8,28.3,3,2.5,2.8,17.4,58.5,29.6,-
+1201-1400,Universit¨¦ Ibn Tofail,Morocco,2026,XL,CO,HI,,,14.6,3.1,1.5,12,27,4.2,28.6,5,36.8,-
+1201-1400,Universit¨¦ Jean Moulin Lyon 3,France,2026,L,SP,VH,,,11.2,11.4,2.4,4.3,27,44.1,11.8,5.9,25.4,-
+1201-1400,Universit¨¦ Mohammed V de Rabat,Morocco,2026,XL,CO,VH,,,4.8,3.1,2.4,9.5,4.7,5.7,75.6,75.8,42.6,-
+1201-1400,Universit¨¦ Paris-Nanterre,France,2026,XL,FO,VH,,,14.6,4.7,4.7,4,11.7,2.1,60,44.3,39.8,-
+1201-1400,Universit¨¦ Paul-Val¨¦ry Montpellier 3,France,2026,L,FO,VH,,,14.9,6.1,4,8.7,6.8,45.3,50.9,2.4,36.3,-
+1201-1400,Universiti Kuala Lumpur (UniKL),Malaysia,2026,L,FC,HI,,,9.9,10.8,33.8,4.1,7.1,5,18.1,5.1,23.2,-
+1201-1400,Universiti Malaysia Kelantan,Malaysia,2026,M,CO,VH,,,9.5,3.6,7.1,10.6,17,14.2,25.5,5.1,47.9,-
+1201-1400,Universiti Teknikal Malaysia Melaka (UTeM),Malaysia,2026,M,SP,VH,,,10.3,11.2,18,11.4,5.4,10.7,34.7,5.2,36.4,-
+1201-1400,University of Babylon,Iraq,2026,L,FC,HI,,,7.7,25.9,19.6,3.7,1.3,1.2,36.6,5.8,29.8,-
+1201-1400,University of Basrah,Iraq,2026,XL,FC,HI,,,9.1,26.6,18.7,2.2,,1,34.7,14.2,20,-
+1201-1400,University of Derby,United Kingdom,2026,L,CO,HI,,,5.4,7.5,12,10.9,40.8,49.9,42.8,2.2,34,-
+1201-1400,University of International Business and Economics,China (Mainland),2026,L,SP,VH,,,3.3,5.1,16.5,8.4,8.6,43.3,8.2,21.2,29.8,-
+1201-1400,University of Kerbala,Iraq,2026,L,FC,HI,,,12.8,14.8,35.3,2,2.1,1.9,13.9,5.6,21.3,-
+1201-1400,University of Khartoum,Sudan,2026,L,FO,HI,,,8.9,6.9,8.2,5.1,,2.1,53.5,84.9,23.3,-
+1201-1400,University of Kufa,Iraq,2026,XL,FC,HI,,,7.4,33.3,31.7,2.1,,1,26.3,5.7,15.6,-
+1201-1400,"University of Management and Technology (UMT), Pakistan",Pakistan,2026,L,CO,HI,,,7.2,10.9,17.6,9.4,1.9,1.7,54.4,3.3,46.6,-
+1201-1400,University of Memphis,United States of America,2026,L,CO,VH,,,4.1,4.1,18.6,13.9,2.5,19.4,41.9,15,35.1,-
+1201-1400,University of Miskolc,Hungary,2026,M,FO,VH,,,9,10.3,20.4,4.7,3,6.4,24.5,16.3,27.8,-
+1201-1400,University of Mosul,Iraq,2026,XL,FC,HI,,,7.3,12.9,23.4,1.7,1,1.3,30.2,28.8,26.4,-
+1201-1400,University of North Carolina at Greensboro,United States of America,2026,L,FO,VH,,,3.6,4.5,12.2,15.1,10.3,4.3,49.6,5,32.8,-
+1201-1400,University of Novi Sad,Serbia,2026,XL,FC,HI,,,12.5,6.5,10.5,6.9,,,82.1,30.7,31.2,-
+1201-1400,University of Ostrava,Czechia,2026,M,FC,HI,,,8,2.9,20.5,5.9,34.6,32.2,28.9,5,24.2,-
+1201-1400,University of Pannonia,Hungary,2026,S,FO,VH,,,6.1,7.3,33.3,14.9,5.8,7.2,55.5,5,23.4,-
+1201-1400,University of Pardubice,Czechia,2026,M,CO,VH,,,5.2,5.2,47.8,5.8,12.3,15.5,36.2,2.5,15.8,-
+1201-1400,University of Peradeniya,Sri Lanka,2026,L,CO,HI,,,10.4,13.6,14.3,3.7,,1.6,39.5,17.7,50.6,-
+1201-1400,University of Petra,Jordan,2026,M,CO,HI,,,8.8,8.1,10,6.2,25.9,47.1,9.9,5.7,34.6,-
+1201-1400,University of Primorska,Slovenia,2026,M,CO,HI,,,3.6,5.7,12.3,8.3,31.6,38.9,45.4,13.2,21.8,-
+1201-1400,University of Rajshahi,Bangladesh,2026,L,CO,HI,,,13.2,13.1,6.2,6.4,1.3,1.2,23.5,4.4,39.3,-
+1201-1400,University of Rijeka,Croatia,2026,L,CO,VH,,,7.3,8.4,17,8.7,2.8,5.8,50.2,15.3,42.4,-
+1201-1400,University of San Diego,United States of America,2026,M,CO,HI,,,9,15.2,27.8,4.5,4.9,10.5,6.9,20.3,21.4,-
+1201-1400,University of San Francisco,United States of America,2026,M,CO,HI,,,6.9,12.1,27.5,5.7,3.9,27.1,9.3,39,31.8,-
+1201-1400,University of Sarajevo,Bosnia and Herzegovina,2026,L,CO,HI,,,5,1,6.5,2.9,,5.2,41.3,89.1,20.5,-
+1201-1400,University of Silesia in Katowice,Poland,2026,L,CO,VH,,,8.6,6.8,31.3,5.7,5.1,7.4,59.3,10.1,44.4,-
+1201-1400,University of South Alabama (USA),United States of America,2026,L,CO,HI,,,5.6,11.1,23.1,13.1,,2.7,13.7,3.2,28.9,-
+1201-1400,University of Split,Croatia,2026,L,FC,HI,,,7.6,9.2,8.7,8.8,1.6,3.3,52.3,22.4,44.8,-
+1201-1400,University of Texas El Paso,United States of America,2026,L,CO,VH,,,6.8,3.7,7.6,21.5,13.9,10.1,61.6,9.1,41.5,-
+1201-1400,University of Tyumen,Russian Federation,2026,M,CO,VH,,,2.7,3.4,44,2.6,6,23.2,25.1,5.7,30.3,-
+1201-1400,University of Wisconsin Milwaukee,United States of America,2026,L,CO,VH,,,9,3.8,13.8,15.3,11.8,12.4,37,16,46.3,-
+1201-1400,University POLITEHNICA of Bucharest,Romania,2026,L,FO,VH,,,6.3,20.8,4.9,14.6,1.7,4.7,61.4,9.4,22.8,-
+1201-1400,University Toulouse ¨C Jean Jaur¨¨s,France,2026,L,FO,VH,,,13.1,4.8,1.8,9,34.1,31,64,2.4,30.1,-
+1201-1400,West University of Timisoara,Romania,2026,L,CO,HI,,,13.7,17,7.4,5.5,2,10.6,29.8,32.8,42.2,-
+1201-1400,Western Michigan University,United States of America,2026,L,FC,HI,,,5,9.5,15.7,10.7,37.6,17.5,33,26.3,37.6,-
+1201-1400,Yessenov University,Kazakhstan,2026,M,CO,MD,,,16.7,6.9,19.2,1.2,38.4,28.3,2.7,4.3,15.9,-
+1201-1400,Zagazig University,Egypt,2026,XL,FC,VH,,,11.3,9.1,4.5,5.1,1.3,8.1,69.8,5.2,53,-
+1201-1400,Zarqa University,Jordan,2026,M,FC,HI,,,7.9,4.1,9,3.8,24.9,63.5,15,5.4,12.1,-
+1401+,Akdeniz ?niversitesi,T¨¹rkiye,2026,XL,FC,HI,,,8.3,8,5.6,6.1,2.2,6,47.6,2.4,22.1,-
+1401+,American International University-Bangladesh (AIUB),Bangladesh,2026,M,FO,VH,,,8.3,8.5,9,4.4,5.4,17.7,7.9,4.6,30.3,-
+1401+,Anadolu University,T¨¹rkiye,2026,L,SP,VH,,,6.2,8.4,17.5,5.1,2.2,5.3,24.9,22.3,22.3,-
+1401+,Aoyama Gakuin University,Japan,2026,L,FO,HI,,,7.1,16.8,7.4,2.5,20.3,4.5,9.5,14.5,9.6,-
+1401+,Aswan University,Egypt,2026,L,FC,HI,,,7.1,2.2,11.8,6.4,1.1,1.8,53.9,2.9,40,-
+1401+,Atma Jaya Catholic University Indonesia,Indonesia,2026,M,FO,HI,,,11.1,10.7,10.5,2,9.8,1.7,7.4,22.6,30.2,-
+1401+,Belarusian State University of Informatics and Radioelectronics,Belarus,2026,M,CO,HI,,,6.7,23.4,26.1,1.4,2.6,17.6,7.2,7.5,,-
+1401+,Belgorod State University,Russian Federation,2026,L,FC,HI,,,3.1,1.9,17.5,2.8,1.9,70.3,14.1,2.1,22.7,-
+1401+,Benha University,Egypt,2026,XL,FC,HI,,,6.2,4.4,8.2,4.2,1,2.4,59.7,2.9,36.1,-
+1401+,Central Michigan University,United States of America,2026,L,FC,HI,,,3.6,5,11.5,11.2,4.8,23.4,26.2,15,29.2,-
+1401+,Chaoyang University of Technology,Taiwan,2026,L,FO,VH,,,5,6.7,6.4,8.4,7.4,13.2,22.2,2.1,40.6,-
+1401+,Chittagong University of Engineering and Technology,Bangladesh,2026,M,SP,HI,,,10,16.2,10,12.1,1.6,,8.1,4.8,20.3,-
+1401+,"CHRIST (Deemed to be University), Bengaluru",India,2026,XL,CO,HI,,,7,5.6,8,4.7,4.7,2.4,34,6.3,33.2,-
+1401+,Cleveland State University,United States of America,2026,M,FO,VH,,,4.5,6.2,12.3,7.7,5.6,47.6,17.9,12.4,25.7,-
+1401+,East West University,Bangladesh,2026,L,FO,HI,,,8.8,17.7,3.7,4.5,1.4,1,9.2,8.3,32.5,-
+1401+,Escuela Polit¨¦cnica Nacional,Ecuador,2026,M,FO,VH,,,10.2,10.8,18.8,5.7,6.3,3,16.9,6.6,25.2,-
+1401+,Harper Adams University,United Kingdom,2026,M,FO,HI,,,4,15.7,7.1,12.4,21.8,5.9,14.1,1,18.6,-
+1401+,Herzen State Pedagogical University of Russia,Russian Federation,2026,L,FO,HI,,,3.8,4.2,22.2,1.5,1.7,59.8,11.4,7.2,25.4,-
+1401+,Hongik University,Republic of Korea,2026,L,FO,VH,,,6.3,8.7,13.8,5.3,18.9,14.8,14.6,6.4,26.9,-
+1401+,Hue University,Viet Nam,2026,XL,CO,HI,,,7.6,15,3.7,2.6,1.5,2,27.7,6.6,28.3,-
+1401+,"Independent University,Bangladesh",Bangladesh,2026,M,CO,HI,,,8.8,16.9,2.5,7.3,1.3,1.1,12.1,11.6,24.9,-
+1401+,Indian Institute of Information Technology - Allahabad,India,2026,S,FO,VH,,,4.2,12.7,3.2,27.5,,4,8.4,1.9,6.6,-
+1401+,Islamic University of Indonesia (Universitas Islam Indonesia),Indonesia,2026,L,CO,HI,,,17.5,7.4,2.8,3.2,3.8,1.2,12.9,5.1,34.4,-
+1401+,Istanbul Bilgi ?niversitesi,T¨¹rkiye,2026,M,FO,HI,,,5.6,9.6,15.2,2.7,4.1,25.4,6.6,24.2,38.8,-
+1401+,Jadara University,Jordan,2026,M,CO,MD,,,9.9,4.2,29.4,3.3,4.5,49.7,4.2,5.9,,-
+1401+,"Jamia Hamdard, New Delhi",India,2026,M,FO,VH,,,6.3,2.8,13.5,25.5,,3.8,13.7,1.8,14.4,-
+1401+,Kazan National Research Technological University,Russian Federation,2026,L,CO,HI,,,5.3,7.8,27.9,2,1.9,30.9,10.3,5.5,13.7,-
+1401+,Khulna University,Bangladesh,2026,M,CO,HI,,,8.6,7.9,14.3,8.6,,,20.8,4.3,25.4,-
+1401+,Khulna University of Engineering and Technology,Bangladesh,2026,M,SP,HI,,,7.3,16.7,10.5,13.4,1.4,,12.6,4.5,22,-
+1401+,Kindai University (previously Kinki University),Japan,2026,XL,FC,HI,,,5.3,6.4,10.2,8.6,25.7,3.2,30.4,1.7,41.2,-
+1401+,Lublin University of Technology,Poland,2026,M,FO,VH,,,6.9,3,28.1,8.9,2.5,29.5,14.4,3.9,17.7,-
+1401+,M. Kozybayev North Kazakhstan University,Kazakhstan,2026,M,CO,MD,,,6.8,12.5,33.4,1.3,5.4,8,3.8,4.1,24.1,-
+1401+,Mahasarakham University,Thailand,2026,XL,FC,MD,,,18.5,2.7,2.8,2.6,8.7,3.6,11,10.3,23.9,-
+1401+,Manav Rachna International Institute of Research and Studies (MRIIRS),India,2026,M,CO,HI,,,5.9,2.5,43.9,3.7,7.4,3.4,3.3,1.8,23.6,-
+1401+,Mapua University,Philippines,2026,M,FO,VH,,,9.7,16.2,4.3,9.3,3,1.9,6.3,3.9,37,-
+1401+,Mendeleev University of Chemical Technology of Russia,Russian Federation,2026,M,FO,VH,,,4.7,7.3,26.1,5.6,1.1,15.7,15.5,14.2,10.4,-
+1401+,Naresuan University,Thailand,2026,L,FC,MD,,,10.9,5.3,9.3,3,6.9,1.8,12.5,3.1,39.6,-
+1401+,National Taipei University,Taiwan,2026,M,FO,HI,,,12.4,8,11.6,4.4,5.9,10.1,3.9,26.6,26.6,-
+1401+,Nile University,Egypt,2026,S,SP,HI,,,8.6,4.6,29.2,7.4,5.5,2.7,9.8,3.3,19.8,-
+1401+,Pavlodar State University named after Toraighyrov,Kazakhstan,2026,M,CO,MD,,,8.9,12.4,28.9,1.4,3.4,5.7,3,4.2,21.8,-
+1401+,Perm State University,Russian Federation,2026,M,CO,VH,,,4,3.3,35.4,2.1,1.8,20.4,6,4,29.7,-
+1401+,Petra Christian University,Indonesia,2026,M,FO,HI,,,11.7,8.7,12.5,2.6,7.6,1.2,6.7,2.9,28.7,-
+1401+,Pontificia Universidad Catolica Madre y Maestra (PUCMM),Dominican Republic,2026,L,FC,LO,,,6,7.5,14.8,1.6,12,14.2,9.4,51.8,24.8,-
+1401+,Rajshahi University of Engineering and Technology,Bangladesh,2026,M,SP,HI,,,6.9,13.3,9.9,16,,,9.8,4.1,18,-
+1401+,Rikkyo University,Japan,2026,L,FO,HI,,,5.5,14.3,9.9,3,32.8,10.6,12.3,10,30,-
+1401+,Sakarya University,T¨¹rkiye,2026,XL,FC,HI,,,5.9,7.6,4.9,6.6,2.6,21.8,26.1,2.3,49.5,-
+1401+,San Francisco State University,United States of America,2026,L,CO,HI,,,5.2,7.1,8.3,6.7,4.9,7.7,32.4,16.4,36.1,-
+1401+,"Shakarim University of the City of Semey, Kazakhstan",Kazakhstan,2026,M,CO,MD,,,10.4,10.2,16.4,1.7,27.7,3.3,2.4,4.2,31.3,-
+1401+,Shanghai Normal University,China (Mainland),2026,XL,CO,HI,,,4.4,3.4,17,9.5,6.8,4.9,24.9,1.4,32.2,-
+1401+,Silpakorn University,Thailand,2026,L,CO,HI,,,10.4,12.6,5.7,4.5,8,2.7,26.7,3.1,22.6,-
+1401+,Soka University,Japan,2026,M,CO,MD,,,5.9,8.2,10.7,3.1,67.7,13.3,11.9,1.6,11.8,-
+1401+,Soongsil University,Republic of Korea,2026,L,FO,VH,,,3.4,6.9,12,9.2,5.7,24,22.3,3.5,20.3,-
+1401+,State University Malang (Universitas Negeri Malang),Indonesia,2026,XL,FO,VH,,,10.5,4.9,9.9,2.9,23.4,1.6,13,7.3,34.1,-
+1401+,Stefan cel Mare University of Suceava,Romania,2026,M,CO,HI,,,5.5,5.3,7.1,8.9,3.3,38.7,25.2,5.3,34.3,-
+1401+,Suez Canal University,Egypt,2026,XL,FC,HI,,,6.1,3.9,17.4,4.4,2.5,3,52.2,2.9,48,-
+1401+,Tashkent University of Information Technologies,Uzbekistan,2026,L,SP,HI,,,10.7,15.4,7.4,1.7,10.4,3.3,3.5,9.4,27.7,-
+1401+,"The Islamia University of Bahawalpur,Pakistan",Pakistan,2026,XL,CO,HI,,,6.2,7,4.7,9.1,,,55.8,3.1,36.2,-
+1401+,Tongmyong University,Republic of Korea,2026,M,FO,HI,,,6.3,3.6,38.8,2,8.5,60.2,1.9,1.9,5.3,-
+1401+,Universidad Aut¨®noma de Baja California,Mexico,2026,XL,CO,HI,,,10.5,7.6,6,2.3,4.8,5.8,13.7,2.3,49,-
+1401+,Universidad Aut¨®noma de Chile,Chile,2026,XL,FO,VH,,,7.9,4.7,6.2,6.2,15.6,1.7,38.9,2.5,35.9,-
+1401+,Universidad Cat¨®lica de Temuco,Chile,2026,M,CO,HI,,,5.4,2.5,2.7,9.7,49.7,1.4,21.9,2.5,26.7,-
+1401+,Universidad de Cuenca,Ecuador,2026,L,FC,MD,,,11.1,5.1,6.1,3.1,6.8,3.2,20.2,16.1,39.3,-
+1401+,Universidad de Guanajuato,Mexico,2026,XL,CO,HI,,,11.4,3.6,7.2,4.8,7.5,2,24.6,9.5,23.5,-
+1401+,Universidad de Panama,Panama,2026,XL,FO,MD,,,8.5,6.4,4.3,1.2,4.1,4.6,11.2,63.1,25.9,-
+1401+,Universidad de Piura,Peru,2026,M,FO,HI,,,11.8,14.1,8,1.4,7.6,1.2,4.7,15.4,13.9,-
+1401+,Universidad de Tarapaca,Chile,2026,M,CO,VH,,,4.1,2.1,4.4,20.4,17.7,,49.6,2.5,21,-
+1401+,Universidad del Bio-Bio,Chile,2026,M,CO,VH,,,11.6,5,4.9,8.6,11.8,1.9,32.1,2.5,24,-
+1401+,Universidad del Zulia,Venezuela (Bolivarian Republic of),2026,L,FC,MD,,,14.7,12.8,5.2,2.6,1.2,1.5,14.5,12.4,8.3,-
+1401+,Universidad La Salle (ULSA),Mexico,2026,M,FO,MD,,,6.2,17.4,28.9,1.4,3.4,2.4,1.8,6.4,10.1,-
+1401+,Universidad Latinoamericana de Ciencia y Tecnolog¨ªa Costa Rica (ULACIT),Costa Rica,2026,S,CO,LO,,,7.8,17.2,32.6,1.1,13.8,12.8,1.1,12.3,,-
+1401+,Universidad Metropolitana,Venezuela (Bolivarian Republic of),2026,M,CO,LO,,,9.8,24.4,6.4,1.1,3.9,3.3,2.3,28.1,,-
+1401+,Universidad Nacional Agraria la Molina,Peru,2026,M,FO,VH,,,9.3,8,16.7,2.8,1.5,2.8,12.6,4.7,34.4,-
+1401+,Universidad Nacional de San Mart¨ªn (UNSAM),Argentina,2026,L,CO,HI,,,15.7,4.7,7.6,3.9,1.9,6.9,29.1,1.5,26.9,-
+1401+,Universidad Nacional del Sur,Argentina,2026,L,FC,HI,,,8.1,4.6,23.1,2.4,,,30,4.7,29,-
+1401+,Universidad Tecnol¨®gica Centroamericana (UNITEC) - Honduras,Honduras,2026,M,FO,HI,,,7.9,7.7,29.9,1.3,6,3.3,10.6,24.4,24.7,-
+1401+,Universidade Federal de Uberl?ndia,Brazil,2026,L,FC,HI,,,5.4,2.6,21,6,2.4,1.8,32.8,3,42.5,-
+1401+,Universidade Federal do Rio Grande Do Norte,Brazil,2026,XL,FC,HI,,,6.7,1.6,10.8,7,,1.3,50.1,1.4,31.3,-
+1401+,Universit¨¤ degli studi di Bergamo,Italy,2026,L,FO,VH,,,7.2,4.2,2.5,11.9,5.8,12.3,39.1,5.5,31.4,-
+1401+,Universitas Andalas,Indonesia,2026,XL,CO,HI,,,13.4,8.1,13.9,1.5,14.4,3.6,6,5.1,39.1,-
+1401+,Universitas Negeri Padang,Indonesia,2026,XL,FO,HI,,,10.5,2.5,31.5,1.3,17.7,2.1,6.4,2.6,39.2,-
+1401+,Universitas Syiah Kuala,Indonesia,2026,L,FC,HI,,,8.6,3,18.1,3.6,3.1,2.5,24.4,2.6,38.6,-
+1401+,Universiti Sultan Zainal Abidin,Malaysia,2026,M,CO,VH,,,8,2.8,13.8,5.4,19.5,9.9,28.1,5.1,16.9,-
+1401+,University of Da Nang,Viet Nam,2026,XL,CO,HI,,,8.1,12.3,3.5,3.8,3.6,2.3,44,6.7,27.6,-
+1401+,University of Hawaii at Hilo,United States of America,2026,S,CO,HI,,,2.8,3.8,32.4,13.5,3.3,7.8,17.2,5.5,19.6,-
+1401+,University of Missouri Saint Louis,United States of America,2026,M,CO,HI,,,5.1,6.5,19.5,13,5.8,7.9,10.1,12.7,21.9,-
+1401+,University of Moratuwa,Sri Lanka,2026,M,SP,VH,,,6,8,5.3,15.6,,1,13.2,13.1,24.9,-
+1401+,University of Oradea,Romania,2026,L,FC,MD,,,7.5,4.2,6.5,4,1.7,9.4,38.8,9,41.8,-
+1401+,University of Sri Jayewardenepura,Sri Lanka,2026,L,CO,HI,,,8,12.2,5.7,7,,1.3,27.8,22.8,27.4,-
+1401+,University of the Pacific,United States of America,2026,M,CO,HI,,,1.8,7.2,40.1,4.8,3.5,21,9.6,13,9.9,-
+1401+,University of Tripoli,Libya,2026,XL,FC,MD,,,6.8,12.8,8.6,1.3,1.2,3.4,30.6,28.7,11.2,-
+1401+,University of West Bohemia,Czechia,2026,M,CO,VH,,,7.2,5.3,12.5,7.9,,6.2,40.9,15.5,19.5,-
+1401+,Voronezh State University,Russian Federation,2026,L,CO,HI,,,5.7,4.7,31.3,1.6,3.7,34.5,12.2,3.5,20.4,-
+1401+,Walailak University,Thailand,2026,L,FC,MD,,,8.3,2.7,12.5,5.6,13.9,3,31.5,3.2,43,-
+1401+,Yamaguchi University,Japan,2026,M,FC,HI,,,4.4,2.9,46.1,8.2,8,4.5,15.4,1.7,22.5,-
+1401+,Youngsan University,Republic of Korea,2026,M,SP,MD,,,6.5,11.9,25.6,2,3.5,25.3,2.5,1.9,11.5,-

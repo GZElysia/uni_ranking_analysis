@@ -1,0 +1,1025 @@
+Rank,Institution Name,Country,Year,Classification_SIZE,Classification_FOCUS,Research Intensity,Age,Status,Academic Reputation,Employer Reputation,Faculty Student,Citations per Faculty,International Faculty,International Students,Overall
+1,Massachusetts Institute of Technology (MIT),United States,2020,M,CO,VH,5,B,100,100,100,99.8,100,94.1,
+2,Stanford University,United States,2020,L,FC,VH,5,B,100,100,100,98.6,99.8,67.7,100
+3,Harvard University,United States,2020,L,FC,VH,5,B,100,100,98.7,99.6,86.3,62.2,98.4
+4,University of Oxford,United Kingdom,2020,L,FC,VH,5,A,100,100,100,84.7,99.7,98.5,97.4
+5,California Institute of Technology (Caltech),United States,2020,S,CO,VH,5,B,97.8,81.2,100,100,99.4,87.3,97.2
+6,ETH Zurich (Swiss Federal Institute of Technology),Switzerland,2020,L,CO,VH,5,A,98.4,96.7,85,98.4,100,98,96.9
+7,University of Cambridge,United Kingdom,2020,L,FC,VH,5,A,100,100,100,74.2,100,97.6,95.9
+8,UCL (University College London),United Kingdom,2020,XL,FC,VH,5,A,99.3,98.7,98.1,76.7,99.1,100,95
+9,Imperial College London,United Kingdom,2020,L,FC,VH,5,A,98.6,99.9,99.8,72.1,100,100,94.8
+10,University of Chicago,United States,2020,L,FC,VH,5,B,99.5,93.7,96.5,78.5,70.2,81,94.1
+  11=,Nanyang Technological University (NTU),Singapore,2020,L,FC,VH,3,A,92.1,93.8,93.9,88.8,100,74.2,92
+  11=,National University of Singapore (NUS),Singapore,2020,XL,FC,VH,5,A,99.8,99.2,88.3,75.7,100,76.4,91.8
+13,Princeton University,United States,2020,M,CO,VH,5,B,99.9,98.6,70.7,100,64.9,67.6,91.8
+14,Cornell University,United States,2020,L,FC,VH,5,B,98.7,90.4,65.7,95.1,93.8,72.3,90.9
+15,University of Pennsylvania,United States,2020,L,FC,VH,5,B,95.8,93.7,100,67.6,84,63.6,89.3
+16,Tsinghua University,China,2020,XL,FC,VH,5,A,97.4,99.1,92.4,80.4,68,30.1,88.9
+17,Yale University,United States,2020,L,FC,VH,5,B,99.9,99.9,100,53.5,78.1,57.4,88.6
+  18=,Columbia University,United States,2020,L,FC,VH,5,B,99.7,97.6,100,53,40.1,96.9,87.7
+  18=,Ecole Polytechnique FÈdÈrale de Lausanne (EPFL),Switzerland,2020,M,FO,VH,5,A,75.6,77.6,96.6,98.9,100,100,87.4
+20,University of Edinburgh,United Kingdom,2020,XL,FC,VH,5,A,97.5,93.7,85.6,53,98,98.6,87.4
+21,University of Michigan,United States,2020,XL,FC,VH,5,A,98.9,94.4,91,61.6,79.7,44.1,86.2
+  22=,Peking University,China,2020,XL,FC,VH,5,A,99.1,99.6,72.3,73,70.7,36.9,86
+  22=,The University of Tokyo,Japan,2020,L,FC,VH,5,A,100,99.1,93.3,67.9,11.1,26.2,84.3
+24,Johns Hopkins University,United States,2020,L,FC,VH,5,B,88.3,52.6,100,77.6,68.8,81.5,84.3
+  25=,Duke University,United States,2020,L,FC,VH,5,B,89,84.2,99.4,80.3,12.4,59.3,83.9
+  25=,University of Hong Kong (HKU),Hong Kong,2020,L,FC,VH,5,A,97.3,82.6,87.2,44.5,100,99.1,83.8
+27,The University of Manchester,United Kingdom,2020,XL,FC,VH,5,A,94.9,97.7,74.1,51.5,92.6,98.6,83.8
+28,"University of California, Berkeley (UCB)",United States,2020,XL,FC,VH,5,A,100,99.9,30.9,97.7,92.4,39.7,82.7
+  29=,Australian National University (ANU),Australia,2020,L,FC,VH,4,A,96.9,81.3,37.5,87.4,100,99.8,82.6
+  29=,University of Toronto,Canada,2020,XL,FC,VH,5,A,98.9,96.3,71.5,43.9,97.7,93,82.1
+31,Northwestern University,United States,2020,L,FC,VH,5,B,85.9,80.2,100,62.8,76.1,49,82.1
+32,The Hong Kong University of Science and Technology (HKUST),Hong Kong,2020,M,CO,VH,3,A,85,71.3,59.5,89.5,100,87.5,81.5
+  33=,King's College London (KCL),United Kingdom,2020,L,FC,VH,5,A,88.5,80.4,82.3,52,98.5,99.8,80.6
+  33=,Kyoto University,Japan,2020,L,FC,VH,5,A,98.7,92.5,96.3,53.2,15.4,17.5,80.5
+  35=,McGill University,Canada,2020,L,FC,VH,5,A,92.2,93.8,63.3,58.4,93.7,96.2,80.5
+  35=,"University of California, Los Angeles (UCLA)",United States,2020,XL,FC,VH,5,A,100,99.7,40.6,88.3,50.4,38.2,80.4
+37,Seoul National University (SNU),South Korea,2020,L,FC,VH,4,A,96.9,91.1,88,61.6,19.2,11.9,80.4
+38,The University of Melbourne,Australia,2020,XL,FC,VH,5,A,99.2,98.1,24.1,75,97.6,100,79.6
+39,New York University (NYU),United States,2020,XL,FC,VH,5,B,95.9,95.6,97.6,24,33.5,93.4,79.5
+40,Fudan University,China,2020,XL,FC,VH,5,A,83.4,93.8,86.5,57.8,92.7,42.9,78.8
+41,KAIST - Korea Advanced Institute of Science and Technology,South Korea,2020,M,CO,VH,3,A,85,74.5,73.9,98.1,25.8,10.1,78.6
+42,The University of Sydney,Australia,2020,XL,FC,VH,5,A,97.5,96.4,23.6,70.9,100,100,77.9
+43,The University of New South Wales (UNSW),Australia,2020,XL,FC,VH,4,A,91.2,95.7,19.8,84.5,100,98.5,77.8
+44,London School of Economics and Political Science (LSE),United Kingdom,2020,M,SP,VH,5,A,78.9,99.7,34.8,91.1,100,100,77.1
+45,"University of California, San Diego (UCSD)",United States,2020,XL,FC,VH,4,A,92.2,51.8,60.3,78.4,60.8,70.3,77
+46,The Chinese University of Hong Kong (CUHK),Hong Kong,2020,L,FC,VH,4,A,87.9,61.5,67.7,56.2,100,91.7,76.6
+47,The University of Queensland (UQ),Australia,2020,XL,FC,VH,5,A,88.5,82.2,27.7,81.8,100,99.5,75.9
+48,Carnegie Mellon University,United States,2020,L,FC,VH,5,B,75.2,77.5,43.5,94.3,83.6,99.9,75.7
+49,University of Bristol,United Kingdom,2020,L,FC,VH,5,A,76.6,84.2,72.8,61.8,89.4,75.6,74.8
+50,Delft University of Technology,Netherlands,2020,L,CO,VH,5,A,71.2,88.2,46.4,90,99.3,87.8,74.5
+51,University of British Columbia,Canada,2020,XL,FC,VH,5,A,97,89,46,42.2,90.8,79.3,74.2
+52,City University of Hong Kong,Hong Kong,2020,M,CO,VH,3,A,59,41.3,89.7,89.4,100,95.3,74.1
+53,Universit?PSL (Paris Sciences & Lettres),France,2020,L,,,1,,77.7,98.6,100,26.2,67.1,72.1,73.6
+54,Zhejiang University,China,2020,XL,FC,VH,5,A,67.7,86.5,78.6,63.9,95.4,62.9,73.4
+55,Technische Universit‰t M¸nchen,Germany,2020,XL,CO,VH,5,A,80.2,99,89.1,26.9,60.6,76.8,72.4
+56,University of Wisconsin-Madison,United States,2020,XL,FC,VH,5,A,87.8,49.7,85.5,50,57.2,30.9,72.3
+57,Brown University,United States,2020,M,FC,VH,5,B,61.9,58.2,81.1,86.6,86,56,71.8
+  58=,Monash University,Australia,2020,XL,FC,VH,4,A,88,91.9,17.1,64.2,100,99.9,71.5
+  58=,Tokyo Institute of Technology,Japan,2020,M,CO,VH,5,A,74.5,82.7,86.2,61.3,30.7,31.3,70.9
+  60=,Ecole Polytechnique,France,2020,S,CO,VH,5,A,43.8,99.3,99.6,66.3,95.2,97.9,70.9
+  60=,Shanghai Jiao Tong University,China,2020,XL,FC,VH,5,A,79.6,93.6,53.7,65.5,84.1,20.1,70.5
+62,The University of Warwick,United Kingdom,2020,L,FC,VH,4,A,74.4,94.1,55.3,50.3,97.8,99.1,70.5
+63,Ludwig-Maximilians-Universit‰t M¸nchen,Germany,2020,XL,FC,VH,5,A,91.1,83.2,52.6,45.7,61.5,37.7,70.4
+64,University of Amsterdam,Netherlands,2020,L,FC,VH,5,A,81.1,56,44.8,75.9,79.5,52.5,69.6
+65,University of Texas at Austin,United States,2020,XL,FC,VH,5,A,94.2,83.3,12.1,93.4,6.9,18.6,69
+66,Ruprecht-Karls-Universit‰t Heidelberg,Germany,2020,L,FC,VH,5,A,80,50.6,96.7,34.8,52.8,44.2,68.6
+67,University of Glasgow,United Kingdom,2020,L,FC,VH,5,A,72.2,58.9,63.7,55,93.7,96.5,68.4
+68,University of Washington,United States,2020,XL,FC,VH,5,A,86.1,51.4,17.4,99.2,55.8,40.5,68.2
+69,National Taiwan University (NTU),Taiwan,2020,XL,FC,VH,4,A,89.8,82.4,41.9,59.7,20.8,30.4,67.9
+70,Universiti Malaya (UM),Malaysia,2020,L,FC,VH,5,A,68.2,72,90.7,41.5,62.8,57.2,67.3
+71,Osaka University,Japan,2020,L,FC,VH,4,A,80.8,67.5,80.3,46.2,23.1,14.3,67.1
+  72=,Georgia Institute of Technology (Georgia Tech),United States,2020,L,CO,VH,5,A,71.1,81.7,15.1,100,60.4,65.8,66.5
+74,Universidad de Buenos Aires,Argentina,2020,XL,FC,VH,5,A,87.2,91.3,77.4,2.4,50.7,64.7,66.2
+75,University of Illinois at Urbana-Champaign,United States,2020,XL,FC,VH,5,A,89,58.1,13.5,86.3,19.3,67.2,66
+76,University of Zurich,Switzerland,2020,L,FC,VH,5,A,58.6,64.5,99.7,38.7,100,59.4,65.9
+77,Sorbonne University,France,2020,XL,FC,VH,1,A,89.2,45.9,59.7,36.2,47.8,56.5,65.8
+  78=,Durham University,United Kingdom,2020,L,FC,VH,5,A,57.3,91.2,35.9,77.9,97.2,87.2,64.9
+  78=,The University of Sheffield,United Kingdom,2020,L,FC,VH,5,A,61.3,58.7,61,61.4,87.9,94.1,64.2
+80,Katholieke Universiteit Leuven,Belgium,2020,XL,FC,VH,5,A,79.1,64.3,11.8,85.3,90,37.5,64.2
+81,University of Birmingham,United Kingdom,2020,L,FC,VH,5,A,65.6,78.8,54.8,49.3,91.8,85.7,64.1
+81,University of Copenhagen,Denmark,2020,XL,FC,VH,5,A,70.1,43.9,100,25.5,92.6,29.4,64
+82,Tohoku University,Japan,2020,L,FC,VH,5,A,69.5,59.1,98.2,43.1,12.7,17.6,63.8
+83,Korea University,South Korea,2020,L,FC,VH,5,B,70,85,83.1,35.4,15.2,44.7,63.7
+  83=,The University of Auckland,New Zealand,2020,L,FC,VH,5,A,84.2,62.8,25,44.8,94.4,91.8,63.4
+84,Lomonosov Moscow State University,Russia,2020,XL,FC,VH,5,A,73.6,84.9,99.7,7.2,18,56.1,63.4
+85,Rice University,United States,2020,M,FC,VH,5,B,40.1,22.7,84,93.6,89.8,90.6,63.2
+86,The University of Western Australia (UWA),Australia,2020,L,FC,VH,5,A,62.4,59.8,20.8,88.3,100,98.7,63.1
+87,Pohang University of Science and Technology (POSTECH),South Korea,2020,S,FO,VH,3,B,41.3,40.8,99.9,99.3,35.3,3.6,62.9
+89,University of Science and Technology of China,China,2020,L,CO,VH,4,A,56.2,26.1,81.1,98.5,16.9,5.7,62.6
+90,"University of North Carolina, Chapel Hill",United States,2020,XL,FC,VH,5,A,68.7,53.3,88.3,46,35.6,11.3,62.3
+91,The Hong Kong Polytechnic University,Hong Kong,2020,L,CO,VH,3,A,61.3,43.7,74.1,46.3,100,74.8,62.2
+92,Lund University,Sweden,2020,L,FC,VH,5,A,69.6,54.3,50.1,51.9,89.3,70.1,61.9
+  93=,Pennsylvania State University,United States,2020,XL,FC,VH,5,A,76.5,80.4,31.6,67.8,21.4,38.6,61.8
+  93=,University of Leeds,United Kingdom,2020,XL,FC,VH,5,A,69.2,81.2,45.5,41.6,84.1,81.8,61.7
+95,Sungkyunkwan University,South Korea,2020,L,FC,VH,5,B,58.4,74.6,85.7,49.3,21.3,38.1,61.7
+96,The University of Nottingham,United Kingdom,2020,XL,FC,VH,5,A,60.3,73.2,52.4,49.7,92.1,82.1,61
+97,University of Southampton,United Kingdom,2020,L,FC,VH,5,A,50.8,52.5,59,68.1,96.1,92.8,60.8
+  98=,Boston University,United States,2020,L,FC,VH,5,B,63.1,57.5,53.8,62.1,33.8,88.6,60.6
+  98=,"KTH, Royal Institute of Technology",Sweden,2020,L,CO,VH,5,A,47.5,68.4,63,72.8,96.9,48.7,60.5
+100,University of St Andrews,United Kingdom,2020,M,FC,VH,5,A,45.2,51.6,65.3,67.4,98.7,99.8,60.5
+101,Ohio State University,United States,2020,XL,FC,VH,5,A,63.8,67.3,66.7,41.3,81.1,27.6,59.9
+102,Eindhoven University of Technology,Netherlands,2020,M,FO,VH,4,A,30.9,65.9,62.5,97.1,98.3,57.5,59.5
+103,Universidad Nacional AutÛnoma de MÈxico (UNAM),Mexico,2020,XL,FC,VH,5,A,90.9,91,57.6,3.8,13.8,4.3,58.9
+  104=,"University of California, Davis (UCD)",United States,2020,XL,FC,VH,5,A,70.3,33.9,23.3,80.4,65.3,60.6,58.8
+  104=,Yonsei University,South Korea,2020,L,FC,VH,5,B,62.9,78.3,85,30.6,15.4,33.1,58.7
+106,The University of Adelaide,Australia,2020,L,FC,VH,5,A,59.3,43.7,28.5,73.7,99,99.1,58.7
+107,University of Helsinki,Finland,2020,L,CO,VH,5,A,64.5,54.8,66.8,51.5,58.1,6.8,58.6
+  108=,Trinity College Dublin (TCD),Ireland,2020,L,FC,VH,5,A,62,51.2,35.8,56.8,99.5,93.5,58.4
+  108=,Washington University in St. Louis,United States,2020,L,FC,VH,5,B,43.8,18.8,99.8,59.2,78.9,59.3,58.3
+110,University of Geneva,Switzerland,2020,L,FC,VH,5,A,51.1,23.7,52.6,73.6,100,97.8,58.3
+111,Purdue University,United States,2020,XL,FC,VH,5,A,63.8,68.9,30.9,55.6,97.1,61.1,58.1
+112,Technical University of Denmark,Denmark,2020,M,FO,VH,5,A,30.5,27.1,99.9,65.9,99.5,83,57.8
+113,University of Alberta,Canada,2020,XL,FC,VH,5,A,58,41.4,57,48.8,91.6,80.8,57.4
+114,University of Groningen,Netherlands,2020,L,FC,VH,5,A,50.6,24.5,67.9,51.8,90.9,94.6,57.3
+115,Nagoya University,Japan,2020,L,FC,VH,5,A,60.5,38.6,90.6,37.3,17.7,21.3,56.1
+  116=,Universidade de S„o Paulo (USP),Brazil,2020,XL,FC,VH,4,A,88.3,73.3,25.2,35.2,8.9,3.7,55.8
+  116=,Uppsala University,Sweden,2020,L,FC,VH,5,A,65.8,32.6,46.2,56.9,65.5,37.1,55.5
+118,Leiden University,Netherlands,2020,XL,FC,VH,5,A,67.6,30.5,29.7,64.1,81,47,55.5
+119,University of Oslo,Norway,2020,L,FC,VH,5,A,52.6,22.3,77.7,49.2,87.2,30.5,55.4
+  120=,Humboldt-Universit‰t zu Berlin,Germany,2020,XL,FC,HI,5,A,88.3,54,12.2,33.9,52.9,34.6,54.7
+  120=,Nanjing University,China,2020,XL,FC,VH,5,A,60.7,30.3,31,84.2,68.6,11.1,54.5
+  120=,Utrecht University,Netherlands,2020,XL,FC,VH,5,A,62.8,32.3,42.5,66,56.7,28.1,54.5
+123,University of Bern,Switzerland,2020,M,CO,VH,5,A,30.3,38.2,63.7,90.6,100,46.6,54.5
+124,"KIT, Karlsruher Institut f¸r Technologie",Germany,2020,L,CO,VH,4,A,46.3,88.9,29.5,72.6,60,64.3,54.3
+  125=,Chalmers University of Technology,Sweden,2020,M,CO,VH,5,B,30.5,61.4,66.3,73.1,96.8,56,54.2
+125,Wageningen University,Netherlands,2020,L,FO,VH,5,A,37.4,22,95.6,57.7,38.6,82.1,54
+126,Queen Mary University of London (QMUL),United Kingdom,2020,L,FC,VH,5,A,52.6,41.9,34.4,58.8,98.5,97.9,54
+127,Pontificia Universidad CatÛlica de Chile,Chile,2020,L,FC,VH,5,B,85.2,95.5,28.6,13.6,19.4,4.2,53.9
+128,Lancaster University,United Kingdom,2020,L,FC,VH,4,A,40.4,27,52.5,70.6,94.5,97.3,53.4
+129,University of Southern California,United States,2020,XL,FC,VH,5,B,58.5,60,28.7,64.5,21.7,75,53.2
+  130=,Freie Universit‰t Berlin,Germany,2020,XL,FC,HI,4,A,80.2,49,5.4,46,62.8,49.4,53.1
+  130=,University of Ghent,Belgium,2020,XL,FC,VH,5,A,51.9,31.7,84.2,39,65.2,20.1,53
+  132=,Hokkaido University,Japan,2020,L,FC,VH,5,A,56.3,47.1,84.4,34.2,20,15,53
+  132=,Kyushu University,Japan,2020,L,FC,VH,5,A,55.5,49.2,85.6,32.6,18.6,21.5,52.9
+134,Aalto University,Finland,2020,L,FO,VH,1,A,40.1,47.4,55.6,69.9,90.1,37.4,52.9
+135,"University of California, Santa Barbara (UCSB)",United States,2020,L,CO,VH,5,A,62.5,20.1,14.8,86.2,69.1,29.6,52.4
+136,"University of Maryland, College Park",United States,2020,XL,FC,VH,5,A,54.1,34.8,50.9,70,26.4,26.5,52.3
+137,Universit?de MontrÈal,Canada,2020,XL,FC,VH,5,A,55.2,55.5,55.4,27.5,91.1,61.8,52.1
+138,Rheinisch-Westf‰lische Technische Hochschule Aachen,Germany,2020,XL,FC,VH,5,A,55.3,97.2,13,59,42.4,68.2,52
+139,CentraleSupÈlec,France,2020,S,FO,VH,1,A,15.8,100,88.7,45.4,72.1,90.1,51.9
+  140=,McMaster University,Canada,2020,L,FC,VH,5,A,40.4,42.5,85,32.4,97.9,45.1,51.4
+  140=,University of Pittsburgh,United States,2020,L,FC,VH,5,A,44.6,21.9,96.2,49,15.3,23.6,51.2
+  140=,University of Technology Sydney (UTS),Australia,2020,L,CO,VH,3,A,44.3,80.6,10.1,68.2,98.3,93.8,51.2
+144,Michigan State University,United States,2020,XL,FC,VH,5,A,61.9,65.8,18.6,54.4,63.8,36.2,51.2
+145,Aarhus University,Denmark,2020,L,FC,VH,4,A,52.9,45.7,38,62.7,81.7,17.6,51.1
+146,Newcastle University,United Kingdom,2020,L,FC,VH,4,A,41,73.7,47.7,43.4,89.9,84.7,51
+147,Technische Universit‰t Berlin,Germany,2020,L,CO,VH,5,A,53.9,77.7,47.6,30.2,42,69.3,50.9
+148,University of York,United Kingdom,2020,L,FC,VH,4,A,42,40.8,56.8,51.3,91,66,50.6
+149,Politecnico di Milano,Italy,2020,XL,FO,VH,5,A,60.4,84.3,6.3,56.9,44.6,54.5,50.5
+150,Hanyang University,South Korea,2020,L,FC,VH,4,B,46.8,68.4,77.2,30.8,25.4,34.8,50.4
+151,University of Basel,Switzerland,2020,M,FC,VH,5,A,30.4,25,37.8,91.3,100,86.4,50.3
+152,Indian Institute of Technology Bombay (IITB),India,2020,M,CO,VH,4,A,54.5,71.2,45.8,54.6,3.4,1.6,50
+153,University of Lausanne,Switzerland,2020,L,CO,VH,5,A,35.3,23,68.4,52.8,99.2,69,49.4
+  154=,Cardiff University,United Kingdom,2020,L,FC,VH,5,A,48.6,38.3,52.5,37.9,79.1,69.8,49.2
+  154=,Universit‰t Wien,Austria,2020,XL,FC,VH,5,A,64.4,47.3,26.2,17.9,98.3,92.5,49
+  156=,Emory University,United States,2020,L,FC,VH,5,B,26.9,11.8,99.7,59.1,49.4,45.2,49
+  156=,University of Minnesota,United States,2020,XL,FC,VH,5,A,66.2,26.1,31.9,58.2,6.9,18.8,48.6
+158,TecnolÛgico de Monterrey (ITESM),Mexico,2020,L,FC,HI,4,B,36.9,88.9,89.5,4.6,98.2,18.4,48.6
+159,Universiti Putra Malaysia (UPM),Malaysia,2020,L,FC,VH,3,A,44.8,44.4,73.2,20.9,58.8,82.3,48.5
+  160=,Ecole Normale SupÈrieure de Lyon,France,2020,S,CO,VH,5,A,35.4,10.4,97,47.9,59.5,20.3,48.4
+  160=,Universiti Kebangsaan Malaysia (UKM),Malaysia,2020,L,FC,VH,3,A,50.9,44.7,87.8,13.1,24,38.9,48.3
+162,Hebrew University of Jerusalem,Israel,2020,L,FC,VH,5,A,39.4,38.5,77.9,43.4,71.1,11.6,48.3
+  163=,University of Bergen,Norway,2020,M,FC,VH,4,A,34.1,13,79.5,60.8,88.6,10.1,48.2
+  163=,University of Exeter,United Kingdom,2020,L,FC,VH,4,A,38.8,57.2,41.5,49,92,80.6,48.1
+  165=,Universitat de Barcelona (UB),Spain,2020,XL,FC,VH,5,A,71.8,45.5,32.5,29.8,5.8,33.8,48.1
+  165=,Universiti Sains Malaysia (USM),Malaysia,2020,L,FC,VH,4,A,49.6,52.5,74.9,17.7,37.5,46,47.9
+167,Case Western Reserve University,United States,2020,M,FC,VH,5,B,19.9,17.1,92,65.8,53.7,73.9,47.9
+  167=,Universit?Catholique de Louvain (UCL),Belgium,2020,L,FC,VH,3,B,51.3,45.5,10.4,68.4,89,44.7,47.8
+  167=,University of Florida,United States,2020,XL,FC,VH,5,A,50.9,48.3,74,29.6,18.7,13,47.7
+  169=,Eberhard Karls Universit‰t T¸bingen,Germany,2020,L,FC,VH,5,A,46.3,25.7,89.4,17.8,59.7,32.1,47.7
+  169=,Universit‰t Freiburg,Germany,2020,L,FC,VH,5,A,53,24.4,38.6,50.6,64.9,48.3,47.3
+  170=,University of Rochester,United States,2020,M,FC,VH,5,B,25,7.4,100,42.4,67.3,90.6,47.3
+172,University of Bath,United Kingdom,2020,L,CO,VH,4,A,36.9,63,25.6,56,98.2,90.7,47.3
+  173=,National Tsing Hua University,Taiwan,2020,L,CO,VH,4,A,47.5,59.6,32.2,65.8,24.6,18,47
+  173=,Queen's University of Belfast,United Kingdom,2020,L,FC,VH,5,A,28.9,36,43.5,64.9,99.5,96.5,46.8
+  173=,University of Waterloo,Canada,2020,XL,CO,VH,4,A,39.3,76.5,7.6,68.5,77.6,84.1,46.8
+176,University of Otago,New Zealand,2020,L,FC,VH,5,A,51.7,41.4,19.6,48.2,100,62.9,46.8
+  177=,Scuola Superiore Sant'Anna Pisa,Italy,2020,S,FC,VH,3,,14.6,8,86.2,99.3,2.1,52.5,46.7
+  177=,Universit?di Bologna (UNIBO),Italy,2020,XL,FC,VH,5,A,74.7,46.3,6,46.8,14,13.5,46.6
+  179=,Technische Universit‰t Dresden,Germany,2020,XL,FC,VH,5,A,35.8,69.7,84.6,21.3,38.5,37.5,46.6
+181,University of Liverpool,United Kingdom,2020,L,FC,VH,5,A,42.2,32.9,50.5,34.4,86.5,93.4,46.4
+182,Indian Institute of Technology Delhi (IITD),India,2020,M,CO,VH,4,A,46.8,63,23.3,80.6,3.3,1.5,46.3
+183,Erasmus University Rotterdam,Netherlands,2020,L,FO,VH,5,A,35.2,53.5,42.6,53.7,75.3,68.9,46.2
+184,Indian Institute of Science (IISc) Bangalore,India,2020,S,SP,VH,5,A,33.3,16.2,53.2,100,1.5,1.8,46.1
+185,University College Dublin (UCD),Ireland,2020,L,FC,VH,5,A,46,42.6,31.2,42.4,97.6,64.4,45.9
+  186=,King Abdul Aziz University (KAU),Saudi Arabia,2020,XL,FC,VH,4,A,28.5,36.8,71.3,38.6,99,60.6,45.6
+  186=,University of Twente,Netherlands,2020,M,FO,VH,4,A,21.1,35.1,39.8,81.2,94.4,83,45.2
+188,Universitat AutÛnoma de Barcelona,Spain,2020,XL,FC,VH,4,A,61.1,38.4,14.1,54.7,30.7,26.6,45.2
+  189=,Texas A&M University,United States,2020,XL,FC,VH,5,A,60.9,59.7,13.5,50.6,20.3,12.7,45.1
+  189=,Universidad de Chile,Chile,2020,XL,FC,VH,5,A,71.6,90.8,16.3,14.5,10.1,8.4,45
+191,Stockholm University,Sweden,2020,L,CO,VH,5,A,54.7,16.8,34.7,46.2,82.3,15.7,45
+  192=,Technische Universit‰t Wien,Austria,2020,M,FO,VH,5,A,32.9,57.7,8.6,78.7,75,87.6,44.8
+  192=,Universidad AutÛnoma de Madrid,Spain,2020,L,FC,VH,4,A,57.4,64,45.8,24,9.9,14.1,44.7
+194,University of Aberdeen,United Kingdom,2020,L,FC,VH,5,A,29.5,23.2,39.6,63.6,95.7,98.2,44.7
+195,Vrije Universiteit Brussel (VUB),Belgium,2020,M,FC,VH,5,A,25.9,24.7,90,29.7,85.9,65,44.6
+197,Georg-August-Universit‰t Gˆttingen,Germany,2020,XL,FC,VH,5,A,51.2,19,66.1,24.1,45.1,26.6,44.5
+  198=,University of Cape Town,South Africa,2020,L,FC,VH,5,A,47.5,47.6,28.3,44.4,71.3,40.9,44.2
+  198=,University of Virginia,United States,2020,L,FC,VH,5,A,39.2,46.6,64.3,46.1,14.6,15.8,44.1
+  200=,Keio University,Japan,2020,XL,FC,VH,5,B,51.4,77.2,62.2,9.4,13.2,11.3,44.1
+  200=,King Fahd University of Petroleum & Minerals (KFUPM),Saudi Arabia,2020,M,CO,VH,4,A,26.8,20.1,85.2,40.1,100,21.8,44
+  200=,Vanderbilt University,United States,2020,L,FC,VH,5,B,28.2,25.4,100,36,23.7,32.8,44
+202,Waseda University,Japan,2020,XL,CO,VH,5,B,58.6,86.9,32.2,7.9,31.6,35.8,44
+203,Sapienza - Universit?di Roma,Italy,2020,XL,FC,VH,5,A,72.9,33.3,5.7,43.8,10.1,8.5,43.7
+204,Scuola Normale Superiore di Pisa,Italy,2020,S,FO,VH,,,22.4,7.3,100,57.7,19.7,21.1,43.5
+205,University of Reading,United Kingdom,2020,L,CO,VH,5,A,33.2,34.9,32.7,53.4,94,88.9,43.4
+206,University of Colorado at Boulder,United States,2020,XL,CO,VH,5,A,37.9,25.5,63.3,50.4,37.2,14.1,43.3
+  207=,Al-Farabi Kazakh National University,Kazakhstan,2020,L,CO,HI,4,A,34,60.7,98.6,1.2,40.8,26.1,43.2
+  207=,Dartmouth College,United States,2020,M,FC,VH,5,B,20.8,28.9,76.8,71.5,5.8,35.1,43.1
+  207=,University of Newcastle,Australia,2020,L,FC,VH,4,A,34.1,31,32.8,57.4,100,63.4,43.1
+210,University of Notre Dame,United States,2020,L,CO,VH,5,B,29.8,42.6,67.3,49.8,43.1,20.6,43.1
+211,Western University,Canada,2020,L,FC,VH,5,A,30.4,65.7,9.1,73.5,98.4,50.1,42.9
+  212=,Universidad Complutense de Madrid (UCM),Spain,2020,XL,FC,VH,5,A,64.6,71.6,26.6,14.5,3.6,24.1,42.8
+  212=,University of Wollongong,Australia,2020,L,FC,VH,3,A,31,34.3,21.6,66.9,93.4,86.4,42.7
+214,Universidade Estadual de Campinas (Unicamp),Brazil,2020,L,FC,VH,4,A,67.5,34.5,21.1,32.7,9.9,4.3,42.7
+  215=,Arizona State University,United States,2020,XL,CO,VH,5,A,42,29.9,12.2,67.9,64.1,56.6,42.1
+  215=,Victoria University of Wellington,New Zealand,2020,L,CO,VH,5,A,47,36,13.4,44.3,99.3,59.2,42
+  217=,Radboud University Nijmegen,Netherlands,2020,L,FC,VH,4,A,31.1,15.3,39.4,76.7,54.4,26.2,42
+  217=,Universiti Teknologi Malaysia (UTM),Malaysia,2020,L,CO,VH,3,A,33.9,45,73.3,22.7,27.3,53.7,41.4
+  219=,Tel Aviv University,Israel,2020,L,FC,VH,4,A,35.4,40.5,7.8,95.4,35.2,11.8,41.4
+  219=,"University of California, Irvine (UCI)",United States,2020,XL,FC,VH,4,A,45.3,16.7,16.9,64.4,37.4,65.6,41.3
+  219=,Vrije Universiteit Amsterdam,Netherlands,2020,L,FC,VH,5,A,41.7,16.8,49.1,47.7,47.3,21.7,41.3
+222,Loughborough University,United Kingdom,2020,L,FO,VH,4,A,30,63.3,34.4,40.4,82.8,72.1,41.3
+223,University of Antwerp,Belgium,2020,L,FC,VH,3,A,23.9,19.3,85.3,32.9,71.3,41.3,41.2
+224,Queensland University of Technology (QUT),Australia,2020,XL,CO,VH,3,A,42.8,46.9,10.1,45.9,98.9,52.6,40.9
+  224=,TELECOM ParisTech,France,2020,S,SP,HI,1,,4.7,43.2,95.1,28.2,95,99.7,40.7
+225,National Cheng Kung University,Taiwan,2020,L,FC,VH,4,A,40.8,53.4,42.5,39.7,17.7,26.4,40.7
+226,Georgetown University,United States,2020,L,FC,VH,5,B,34.2,42.8,67.6,26.7,16.6,47.3,40.4
+  227=,National Chiao Tung University,Taiwan,2020,M,CO,VH,5,A,28.9,52.1,45.8,54.6,29.1,31.5,40.1
+  227=,Universit‰t Hamburg,Germany,2020,XL,FC,VH,5,A,47.7,15.5,41,38.4,45.3,22.6,40
+  227=,University of Canterbury,New Zealand,2020,L,CO,VH,5,A,38.8,43.8,13,45.9,100,64.6,40
+230,Curtin University,Australia,2020,L,CO,VH,3,A,32.4,47.3,19.5,52.7,100,51.8,40
+  231=,Novosibirsk State University,Russia,2020,M,CO,VH,4,A,30,26.4,93.8,16.4,11.6,49.1,39.9
+  231=,"University of Illinois, Chicago (UIC)",United States,2020,L,FC,VH,5,A,46.4,33.7,43.6,36.4,12.7,22.6,39.8
+233,University of Calgary,Canada,2020,XL,FC,VH,4,A,34.1,39,30.6,43.2,84.5,61.2,39.8
+  234=,Saint-Petersburg State University,Russia,2020,L,FC,VH,5,A,38.6,31.3,87.9,6,6.9,35.8,39.7
+  234=,Universidad de Los Andes Colombia,Colombia,2020,L,FC,HI,4,B,54.4,87.9,27.6,8.1,32.1,3.1,39.6
+  234=,Universit?degli Studi di Padova (UNIPD),Italy,2020,XL,FC,VH,5,A,55.1,38.7,13.3,49.8,12.5,6.1,39.6
+237,Macquarie University,Australia,2020,L,FC,VH,4,A,30.6,47.3,23.6,40.5,96.5,95.8,39.6
+238,RMIT University,Australia,2020,XL,CO,VH,3,A,37.1,63.1,12.3,29.2,100,93.2,39.5
+  239=,Maastricht University,Netherlands,2020,L,CO,VH,3,A,22.1,22.1,24.6,65.1,97.4,100,39.2
+  239=,Queen's University,Canada,2020,L,FC,VH,5,A,36.2,69.9,8.7,53.5,72.8,25.4,39
+  239=,University of Leicester,United Kingdom,2020,L,FC,VH,4,A,24.6,18.5,44.5,48.5,83.1,89.1,39
+242,Sciences Po Paris,France,2020,M,SP,VH,5,A,22.3,32.6,89.1,5.1,56,99.2,39
+243,Rheinische Friedrich-Wilhelms-Universit‰t Bonn,Germany,2020,XL,FC,VH,5,A,49.6,16.7,46.6,22.3,40.9,26.4,38.9
+244,American University of Beirut (AUB),Lebanon,2020,M,FC,VH,5,B,24.6,52.9,63.1,15.2,90.2,64.6,38.8
+245,Universidad de Navarra,Spain,2020,M,FC,VH,4,B,31,75.1,44.1,25.8,21.6,68.1,38.7
+246,University of Sussex,United Kingdom,2020,L,FC,HI,4,A,28.7,11,29.3,51.2,96.9,95.6,38.5
+  247=,Chulalongkorn University,Thailand,2020,XL,FC,HI,5,A,62.4,56.5,25.6,8.5,11.5,2.5,38.4
+  247=,Kyung Hee University,South Korea,2020,L,FC,VH,4,B,27.1,32.4,87.8,18.4,15.2,41.1,38.3
+250,Ecole des Ponts ParisTech,France,2020,S,FO,VH,5,A,8.7,53.9,92.1,20.2,27.1,99.7,38.3
+  251=,National Taiwan University of Science and Technology,Taiwan,2020,M,FO,VH,3,A,24.4,30.6,64.2,43.6,24.3,36.7,37.8
+  251=,Universit?Libre de Bruxelles (ULB),Belgium,2020,L,FC,VH,5,A,33.8,58.6,11,38,71.3,95.5,37.6
+  253=,Tufts University,United States,2020,M,FC,VH,5,B,20.2,9.8,78.9,45.7,29.4,38.5,37.6
+  253=,Universidad Nacional de Colombia,Colombia,2020,XL,FC,HI,5,A,61.5,89.7,11.1,5.3,8.3,1.3,37.5
+  253=,University of Paris,France,2020,XL,,,1,,48.5,7.6,33.5,46.1,19.1,7.5,37.5
+256,University of Gothenburg,Sweden,2020,L,FC,VH,5,A,37.7,12.2,57.1,32,43.7,17.6,37.5
+  257=,Technion - Israel Institute of Technology,Israel,2020,L,FC,VH,5,A,28.4,34.7,24.6,69.5,64,3.8,37.3
+  257=,Wuhan University,China,2020,XL,FC,VH,5,A,38,51.3,21.7,46.5,50.7,10.7,37.2
+259,"National University of Ireland, Galway (NUIG)",Ireland,2020,L,FC,HI,5,A,22.4,24.4,73.7,16.1,90.9,61.1,37.2
+260,Technische Universit‰t Darmstadt,Germany,2020,L,FO,VH,5,A,20,71.1,6.5,72.9,51.9,65,37.1
+261,Hong Kong Baptist University (HKBU),Hong Kong,2020,M,FC,VH,3,A,18.6,15.4,41.5,49.8,99.9,90.4,37
+  262=,"Rutgers - The State University of New Jersey, New Brunswick",United States,2020,XL,CO,VH,5,A,39.4,32,49.3,23.3,27.1,36.6,36.9
+  262=,Universit?Paris-Sud 11,France,2020,L,CO,VH,5,A,27.1,13,80.4,21.3,42.9,40.3,36.8
+  262=,University of Arizona,United States,2020,XL,FC,VH,5,A,41.9,20.1,37.6,41.9,21.7,17.5,36.8
+265,Tongji University,China,2020,XL,FC,VH,5,A,32.2,9.6,26.2,58.4,89.1,27.9,36.8
+  266=,Universit‰t Innsbruck,Austria,2020,L,FC,HI,5,A,20.4,19.9,66.1,16,98.4,99.3,36.7
+  266=,University of Waikato,New Zealand,2020,M,CO,VH,4,A,19.7,17.8,14.9,75.3,97.8,78.3,36.6
+  268=,Khalifa University,United Arab Emirates,2020,S,SP,VH,2,A,9.3,9.7,77.3,42.2,100,55.6,36.6
+  268=,Tomsk State University,Russia,2020,M,CO,VH,5,A,20.5,17.3,99.8,4.5,23.4,88.9,36.5
+270,University of Tsukuba,Japan,2020,L,FC,VH,3,A,35,13.1,70.3,22.3,16,30.4,36.5
+  271=,Deakin University,Australia,2020,XL,FC,VH,3,A,30.1,44.2,6.4,47.6,97.1,77,36.3
+  271=,Indian Institute of Technology Madras (IITM),India,2020,M,CO,VH,4,A,35.3,47.3,28,56.4,3.4,1.6,36.1
+  271=,University of Miami,United States,2020,L,FC,VH,4,B,22.2,23.8,62.7,49.2,7.6,39.4,36.1
+  274=,University of South Australia (UniSA),Australia,2020,L,CO,VH,3,A,25.1,19.9,27.5,51.9,100,58.2,36.1
+  274=,University of Surrey,United Kingdom,2020,L,CO,VH,4,A,22.5,29.3,25.4,45.3,96.6,97,35.9
+276,Qatar University,Qatar,2020,M,FC,VH,3,A,16.9,28.3,66.4,14.3,100,98.3,35.9
+  277=,Beijing Normal University,China,2020,L,CO,VH,5,A,39,12.3,31.2,48.6,23.6,31.4,35.8
+  277=,Harbin Institute of Technology,China,2020,XL,FO,VH,4,A,21.8,7.3,52.6,72.9,10.8,10,35.7
+279,Universit‰t Stuttgart,Germany,2020,L,CO,VH,5,A,26,55,8.2,65.9,34.2,61.2,35.7
+280,Dalhousie University,Canada,2020,L,FC,VH,5,A,19.1,19.1,23.7,61.8,100,73.4,35.6
+  281=,Indian Institute of Technology Kharagpur (IITKGP),India,2020,M,FO,VH,4,A,26.6,41.1,21.6,78.4,5.3,1,35.4
+  281=,King Saud University (KSU),Saudi Arabia,2020,XL,FC,VH,4,A,28.3,16.8,69,15.9,91.5,11.3,35.2
+  281=,University of Ottawa,Canada,2020,XL,FC,VH,5,A,25.2,37.2,7.6,62,91.3,56.7,35.2
+284,Bauman Moscow State Technical University,Russia,2020,L,CO,HI,5,A,21,53.4,100,1.2,8.5,12.4,35.2
+  285=,North Carolina State University,United States,2020,XL,CO,VH,5,A,32,19.7,30.3,47.8,60.7,29.1,35.1
+  285=,Universitat Pompeu Fabra,Spain,2020,M,CO,VH,3,A,31.6,30.9,17.3,55.6,66.3,25.8,35
+  287=,Massey University,New Zealand,2020,M,CO,VH,4,A,29.1,30.7,24.3,27.7,98.6,94.8,35
+  287=,National Yang Ming University,Taiwan,2020,S,FC,VH,3,A,14.4,16.9,99.9,33.2,5.8,7.8,34.9
+  287=,Sun Yat-sen University,China,2020,XL,FC,VH,4,A,35.3,33.2,49.7,32.2,11.4,7.6,34.9
+  287=,University of Turku,Finland,2020,L,FC,VH,4,A,26.1,41.4,60,32.9,27.2,5.7,34.9
+  291=,Charles University,Czech Republic,2020,XL,FC,VH,5,A,41.6,37.5,43.2,11.7,19.4,46.6,34.9
+  291=,Indian Institute of Technology Kanpur (IITK),India,2020,M,CO,VH,4,A,29.9,32.4,14.1,82.3,1.9,1.3,34.8
+  291=,Royal Holloway University of London,United Kingdom,2020,M,CO,VH,5,A,18.6,12.4,26.8,55,98,95.2,34.8
+  291=,Universit‰t Frankfurt am Main,Germany,2020,XL,FC,VH,5,A,49.9,36.8,23.7,19,15.8,33.5,34.8
+  291=,University of Tasmania,Australia,2020,L,CO,VH,5,A,21,10.1,21.1,58.6,90.8,96.2,34.8
+  296=,University of Indonesia,Indonesia,2020,XL,FC,HI,5,A,39.5,47.3,43.4,1.9,94.5,5,34.8
+  296=,University of Strathclyde,United Kingdom,2020,L,CO,VH,4,A,26.1,47.5,26.4,28.2,94,75.4,34.7
+  298=,Universidad Carlos III de Madrid,Spain,2020,L,FO,VH,3,A,30.5,51.5,60.7,9.7,36.5,25.2,34.7
+  298=,Universiti Brunei Darussalam (UBD),Brunei,2020,S,CO,VH,3,A,13.4,6.2,94.9,6.2,100,66.2,34.6
+300,Universitat PolitËcnica de Catalunya,Spain,2020,L,CO,VH,3,A,34.7,35.2,53.1,22.1,10.4,28.8,34.6
+301,University of Tartu,Estonia,2020,M,FC,VH,5,A,23.7,21.9,82.7,17.8,27.2,23.3,34.5
+  302=,Moscow Institute of Physics and Technology State University,Russia,2020,M,FO,VH,4,A,14.9,27.8,97.9,11.4,32.7,39.3,34.4
+  302=,Universit?degli Studi di Milano,Italy,2020,XL,FC,VH,4,A,48.4,23.3,10.7,46.8,10.8,8.3,34.3
+  302=,University of Dundee,United Kingdom,2020,L,FC,HI,4,A,19.1,10.2,67.2,24.2,86.5,58.3,34.3
+  305=,Universit?Paris 1 PanthÈon-Sorbonne,France,2020,XL,FO,HI,5,A,58.3,48.2,5.5,3.6,21,61.2,34.3
+  305=,"University of Massachusetts, Amherst",United States,2020,L,CO,VH,5,A,42.1,16.6,18.1,51.3,16.2,18,34.2
+307,Xi'an Jiaotong University,China,2020,XL,FC,VH,5,A,24.8,28.4,43.8,54,20.9,11.6,34.2
+308,Universit‰t Kˆln,Germany,2020,XL,FC,VH,5,A,38.2,42.9,28.6,20.4,53.2,37.7,34.1
+309,"SOAS - School of Oriental and African Studies, University of London",United Kingdom,2020,S,SP,VH,5,A,22.6,11.8,47.5,20.3,100,100,34
+310,University College Cork (UCC),Ireland,2020,L,FC,VH,5,A,28.8,30,36.1,24.1,93,46.8,33.9
+311,Technische Universit‰t Graz,Austria,2020,M,FO,VH,,,12.8,11.2,88.4,17.4,67.1,54.5,33.7
+  312=,ENS Paris-Saclay,France,2020,S,CO,VH,5,A,15.1,8.6,91.4,25.9,29.1,31.8,33.6
+  312=,Indiana University Bloomington,United States,2020,XL,FC,VH,5,A,40.7,24.5,30.5,25.4,45.3,24.6,33.5
+  314=,Heriot-Watt University,United Kingdom,2020,M,CO,VH,4,A,15.3,31.5,28.3,43,99.5,95.3,33.5
+  314=,Mahidol University,Thailand,2020,L,FC,VH,4,A,38.9,33.2,61.4,6.7,8.9,5.9,33.4
+  314=,Simon Fraser University,Canada,2020,L,CO,VH,4,A,23.7,23,6.4,55.5,91.7,91.5,33.4
+  314=,Universit‰t Mannheim,Germany,2020,M,FO,VH,5,A,18,63.6,6.7,76.2,35.2,27.8,33.4
+  314=,University of East Anglia (UEA),United Kingdom,2020,L,FC,HI,4,A,19.2,8.8,37.8,47.9,81.2,71.1,33.4
+319,Universit‰t Erlangen-N¸rnberg,Germany,2020,XL,FC,VH,5,A,22.3,19.3,3.4,95.3,27.1,25.4,33.4
+  320=,Griffith University,Australia,2020,XL,FC,VH,3,A,27.3,23.2,13.2,51.2,98.9,41.1,33.3
+  320=,Universitas Gadjah Mada,Indonesia,2020,XL,FC,MD,4,A,41.3,36.7,51.3,1.6,42.9,2.5,33.2
+  322=,Gwangju Institute of Science and Technology (GIST),South Korea,2020,S,FO,VH,3,A,11,3.9,36.8,100,10.1,7.2,33.2
+  322=,National Research University - Higher School of Economics (HSE),Russia,2020,XL,FO,VH,3,A,22.6,33,94.8,2.1,9.6,16.7,33.1
+  324=,Aalborg University,Denmark,2020,L,FC,VH,3,A,17.5,32.5,44.7,43.5,69.8,30.8,33.1
+  324=,Linkˆping University,Sweden,2020,L,CO,VH,4,A,19.7,24.9,40.3,51.5,65.9,17.8,33
+326,University of Hawaii at M?Ånoa,United States,2020,L,FC,VH,5,A,16.6,9.3,59,46.9,61.4,20,33
+327,Virginia Polytechnic Institute (Virginia Tech),United States,2020,XL,FC,VH,5,A,29.5,36.9,29.9,37.4,43.8,29.3,32.9
+328,"Birkbeck College, University of London",United Kingdom,2020,M,FO,VH,5,A,14.4,5.3,22.8,60,96.1,96.9,32.7
+  329=,"National Research Nuclear University ""MEPhI"" (Moscow Engineering Physics Institute)",Russia,2020,M,FO,VH,4,A,9.8,14.7,97.6,6.7,46.2,74.1,32.6
+  329=,United Arab Emirates University,United Arab Emirates,2020,M,FC,HI,3,A,20.4,27.2,58.1,11.8,100,48.4,32.4
+  331=,Bandung Institute of Technology (ITB),Indonesia,2020,L,CO,VH,4,A,39.3,39.8,51.3,3.7,29.2,1.6,32.4
+  331=,Ewha Womans University,South Korea,2020,L,FC,HI,5,B,22.4,16.5,82.7,13.3,10.5,36.9,32.3
+  331=,National Taiwan Normal University,Taiwan,2020,M,CO,VH,4,A,28.8,11.4,70.8,11,15.1,49,32.3
+334,Hiroshima University,Japan,2020,L,FC,VH,4,A,24.1,9.7,84.1,15.4,13.8,17.1,32.3
+335,IE University,Spain,2020,M,CO,LO,2,C,7.6,49.2,71.8,1.2,88.6,100,32.2
+  336=,George Washington University,United States,2020,L,FC,VH,5,B,27.6,26.1,36.9,31.9,37.5,53,32.1
+  336=,Universidad Politecnica de Valencia,Spain,2020,L,CO,VH,4,A,22.8,17.7,80.8,18.3,5.8,18.8,32
+  338=,Jagiellonian University,Poland,2020,XL,FC,HI,5,A,33.8,39.5,59.3,6.5,4.8,17.6,32
+  338=,University of Lisbon,Portugal,2020,XL,FC,VH,1,A,40.5,28.1,15.6,38.2,8,32.5,31.9
+  340=,Ume?University,Sweden,2020,L,FC,VH,4,A,18.5,8.7,81.4,25.2,29.6,13.2,31.9
+  340=,Universit‰t Jena,Germany,2020,L,FC,VH,5,A,18.8,3.7,98,14,,28.6,31.8
+  340=,Universit‰t Ulm,Germany,2020,M,CO,VH,4,A,7.8,7,82.9,37.2,48.8,28.2,31.8
+  340=,University at Buffalo SUNY,United States,2020,L,FC,VH,5,A,19.1,12.5,9.1,70.4,86.2,52.2,31.8
+  344=,Northeastern University,United States,2020,L,CO,VH,5,B,18.9,18.2,20.6,45.5,85.3,93.8,31.8
+  344=,Pontificia Universidad CatÛlica Argentina Santa MarÌa de los Buenos Aires (UCA),Argentina,2020,L,FC,LO,4,B,17.7,44.3,95.3,1.1,2.9,13.2,31.7
+346,University of Jyv‰skyl?Finland,M,2020,CO,VH,4,A,17,482,501+,96,522,402,601+,31.7
+347,Westf‰lische Wilhelms-Universit‰t M¸nster,Germany,2020,XL,FC,VH,5,A,34.8,31.2,42.2,20,25.8,9.4,
+348,Politecnico di Torino,Italy,2020,XL,FO,VH,5,A,32.6,51.5,3.2,53,3.9,30.1,31.3
+  349=,"City, University of London",United Kingdom,2020,L,CO,VH,5,A,15.5,19.5,11.2,54.2,95.7,98.7,31.2
+  349=,University of Warsaw,Poland,2020,XL,CO,VH,5,A,40.3,47.1,38.7,6.8,9.2,12,31.1
+  351=,Belarus State University,Belarus,2020,L,FO,HI,4,A,18,32.4,94.2,1.7,5.5,20.6,31.1
+  351=,Universit?Grenoble-Alpes (UGA),France,2020,XL,FC,VH,1,A,44.7,9.3,13.4,33.2,25.1,30.8,31
+  353=,University of Porto,Portugal,2020,L,FC,VH,5,A,37,24.2,16.1,47.4,5.5,12.7,31
+  353=,University of Utah,United States,2020,L,FC,VH,5,A,16.9,8.1,61.9,45,25.3,12.1,30.9
+355,"University of Chemistry and Technology, Prague",Czech Republic,2020,S,FO,VH,5,A,6.5,5.8,97.8,18.2,24.5,62.1,30.9
+  356=,Lincoln University,New Zealand,2020,S,CO,VH,5,A,8.7,10,44,37.9,95.9,98.8,30.8
+  356=,University of the Philippines,Philippines,2020,XL,FC,MD,5,A,34.2,39.5,62,2.1,1.8,1.5,30.7
+358,Universidade Federal do Rio de Janeiro,Brazil,2020,XL,FC,VH,4,A,53.8,19.6,21.3,11.5,7,2,30.7
+  359=,Brunel University,United Kingdom,2020,L,CO,VH,4,A,11.6,14.6,15.4,56.6,99.3,97.7,30.6
+  359=,Norwegian University of Science and Technology,Norway,2020,XL,FC,VH,5,A,30.2,26.3,30.9,26.9,70,12.8,30.5
+  359=,Stony Brook University,United States,2020,L,FC,VH,4,A,20.9,9.6,35.3,39.7,42.9,79.1,30.5
+  359=,Tokyo Medical and Dental University,Japan,2020,S,FO,VH,4,A,11.2,5,100,21.8,3.6,16.7,30.5
+  359=,Yeshiva University,United States,2020,M,FC,VH,5,B,2.6,3.3,99.3,42.9,,11.6,30.5
+  364=,University of Victoria,Canada,2020,L,CO,VH,4,A,16,10.7,5.9,72.2,92.4,51.1,30.5
+  364=,Ural Federal University,Russia,2020,L,CO,VH,4,A,17.7,14.6,94,2.1,15.7,34.7,30.4
+366,Moscow State Institute of International Relations ?MGIMO University,Russia,2020,M,SP,MD,4,A,9.9,25.7,99.9,1.1,15.6,54.7,30.4
+367,"University of California, Santa Cruz (UCSC)",United States,2020,L,CO,VH,4,A,19.8,7.9,11.9,79.2,44.8,18.7,30.3
+  368=,Nankai University,China,2020,L,FC,VH,5,A,22.3,5.4,28.4,63.2,30.9,8,30.2
+  368=,University of Kent,United Kingdom,2020,L,CO,VH,4,A,20.3,10.4,22.6,36.7,98.2,74.5,29.8
+370,University of Essex,United Kingdom,2020,L,CO,HI,4,A,19.3,9,13.2,41.9,99.7,99.4,29.8
+371,American University of Sharjah,United Arab Emirates,2020,S,FC,HI,2,B,18.3,35.1,30.2,13.4,100,100,29.7
+  371=,Tilburg University,Netherlands,2020,M,FO,VH,4,A,15,24.1,12.4,62.5,84.2,38.7,29.6
+  372=,University of Kansas,United States,2020,L,FC,VH,5,A,15.3,15.6,82.5,18.5,14.7,14.1,29.6
+  372=,University of Southern Denmark,Denmark,2020,L,FO,VH,4,A,19.3,18.4,39.9,32.2,73.6,33,29.4
+374,University of Oulu,Finland,2020,M,FC,VH,4,A,16.2,21.2,45,44.7,43.1,9.2,29.4
+375,Pakistan Institute of Engineering and Applied Sciences (PIEAS),Pakistan,2020,S,FO,VH,2,A,5.4,4.6,96.4,36.2,,,29.3
+376,Oxford Brookes University,United Kingdom,2020,L,CO,HI,3,A,26.7,57.8,15.5,13.9,61.7,72.1,29.2
+  377=,James Cook University (JCU),Australia,2020,L,FC,HI,3,A,15,11.8,9.6,56.1,94,77.9,29.1
+  377=,University of Connecticut,United States,2020,L,FC,VH,5,A,15.9,9.2,15,69.8,65.4,27.5,29
+  379=,Sultan Qaboos University,Oman,2020,M,FC,HI,3,A,12.1,14.8,74.5,11.2,100,7.6,29
+  379=,Taipei Medical University,Taiwan,2020,M,FO,VH,4,B,9.6,12.3,87,21.6,22.1,18.8,28.9
+  379=,Universit?de Strasbourg,France,2020,XL,FC,HI,2,A,44.3,6.7,8.2,23.4,39.5,42.7,28.9
+  379=,Universiti Teknologi Brunei,Brunei,2020,S,FO,HI,3,A,9.7,9.8,85.3,5.5,99.2,16.9,28.9
+  383=,Indian Institute of Technology Roorkee (IITR),India,2020,M,FO,VH,5,A,13.7,19.6,11.7,93.8,,3,28.9
+  383=,Rensselaer Polytechnic Institute,United States,2020,M,CO,VH,5,B,10.1,8.5,30.2,66.1,38.2,51.9,28.8
+  383=,Swinburne University of Technology,Australia,2020,L,CO,VH,3,A,14.3,20.2,19.5,38,98.3,91.2,28.8
+  383=,Universidad de Palermo,Argentina,2020,M,FO,MD,3,B,9.8,9.6,84.6,1.2,35.1,97.5,28.8
+  387=,Tomsk Polytechnic University,Russia,2020,M,FO,VH,5,A,9,14.6,88.3,4.8,13.4,85,28.8
+  387=,University of Macau,Macau,2020,M,FO,VH,3,A,11.2,6.4,24.3,43.9,100,96.2,28.7
+  389=,Universit?degli Studi di Trento,Italy,2020,L,CO,VH,4,A,25.3,11.7,16.2,60.7,30.6,6.7,28.7
+  389=,Universit?di Pisa,Italy,2020,XL,FC,VH,5,A,40.7,19.8,11.4,36.6,6.8,5.5,28.6
+  389=,University of Tromso,Norway,2020,L,FC,HI,4,A,13.6,2.8,81.8,12.1,69.6,10.3,28.6
+  392=,Kazan Federal University,Russia,2020,L,FO,VH,5,A,18.2,8,82.3,3.5,9.7,53.1,28.6
+  392=,RUDN University,Russia,2020,L,FC,MD,4,A,10.7,19.1,83.5,1.5,10.7,93.7,28.5
+  392=,University of Colorado at Denver,United States,2020,L,FC,VH,5,A,8.7,8.7,100,15.9,5,12.3,28.5
+  395=,Kobe University,Japan,2020,L,FC,VH,4,A,24.6,27.4,58.3,15.4,10.2,9,28.5
+  395=,Tampere University,Finland,2020,L,,,1,,24.8,30.7,29,38.1,29.2,8.6,28.4
+  395=,The American University in Cairo,Egypt,2020,M,CO,HI,5,B,24.6,37.4,43.7,5.7,93.9,3.8,28.4
+  398=,University of St Gallen (HSG),Switzerland,2020,M,SP,VH,5,A,9.7,66.4,8.1,31.8,100,93.5,28.4
+  398=,Wake Forest University,United States,2020,M,FC,VH,5,B,5.9,7.8,100,19.6,7.4,16.2,28.3
+  400=,Huazhong University of Science and Technology,China,2020,XL,FC,VH,4,A,19.2,23.4,17.3,68.1,12.7,6.6,28.3
+  400=,La Trobe University,Australia,2020,L,CO,VH,4,A,19.8,22,8.4,33.2,97.7,95.9,28.2
+  400=,National University of Sciences and Technology (NUST) Islamabad,Pakistan,2020,M,CO,VH,3,A,16.4,39.4,76.6,9.2,3.7,5.4,28.2
+  400=,Universidad Austral,Argentina,2020,S,CO,MD,3,B,15.6,36.9,84.4,1.9,6.1,12.2,28.2
+  400=,University of The Witwatersrand,South Africa,2020,L,FC,VH,5,A,24.9,36.9,11.7,37.4,83.5,10,28.2
+  400=,Washington State University,United States,2020,L,FC,VH,5,A,28.4,23.4,18.5,35.6,62,10.6,28.2
+406,University of Coimbra,Portugal,2020,L,FC,VH,5,A,30.1,13.1,19,37.1,12.4,57.2,28.2
+  407=,HUFS ?Hankuk (Korea) University of Foreign Studies,South Korea,2020,L,CO,HI,4,B,12.2,20.1,82.7,2.2,40.3,40.9,28.1
+  407=,Sharif University of Technology,Iran,2020,M,FO,VH,4,A,11.8,23.7,14.2,88.3,5.2,2,28
+  407=,University of Tennessee,United States,2020,L,FC,VH,5,A,12.1,28.1,19.3,79.3,5.7,4.5,28
+  410=,Johannes Gutenberg Universit‰t Mainz,Germany,2020,XL,FC,VH,5,A,21.8,11.1,54.7,20.9,34.5,22.8,28
+  410=,National Sun Yat-sen University,Taiwan,2020,M,CO,VH,3,A,24.7,19.4,36.5,37.6,15.6,8.6,27.9
+  412=,Chung-Ang University,South Korea,2020,L,FC,HI,5,B,14.1,21.1,77.3,11,16.5,29.6,27.9
+  412=,Johannes Kepler Universit‰t Linz (JKU),Austria,2020,M,CO,VH,4,A,11.2,29.1,52,25.2,77.4,20.6,27.8
+  412=,Shanghai University,China,2020,XL,CO,VH,3,A,25,6.4,54.9,17.6,46.3,5.2,27.8
+416,Laval University,Canada,2020,L,FC,VH,5,A,21.3,21.3,30.7,29.6,69.1,28.7,27.8
+417,"Goldsmiths, University of London",United Kingdom,2020,M,FO,VH,5,A,20.5,7.9,20.3,26.5,86.6,95.7,27.7
+418,L.N. Gumilyov Eurasian National University,Kazakhstan,2020,L,FO,HI,2,A,12.9,14.8,93,1.4,32.3,6.1,27.6
+  419=,Ben Gurion University of The Negev,Israel,2020,L,FC,VH,4,A,16.4,19.1,18.2,53.3,70.1,21.3,27.5
+  419=,Tulane University,United States,2020,M,FC,VH,5,B,10.6,5.1,85.7,17.2,17.6,22.1,27.4
+  421=,Illinois Institute of Technology,United States,2020,M,CO,VH,5,B,17,7.4,16.1,51.7,23.1,100,27.4
+  421=,Universidade Nova de Lisboa,Portugal,2020,L,FC,VH,3,A,26.9,27.8,28.2,22.4,26.7,43.8,27.3
+  421=,University of Iowa,United States,2020,L,FC,VH,5,A,22.4,13,43.2,32.9,16.9,17,27.3
+  424=,Flinders University,Australia,2020,L,FC,HI,4,A,14.3,8.8,8.6,48.9,91.4,88.1,27.3
+  424=,Universit?degli Studi di Napoli Federico II,Italy,2020,XL,FC,VH,5,A,31.6,15.4,6,57.4,3.1,1.1,27.2
+  424=,Universit‰t Konstanz,Germany,2020,M,CO,VH,4,A,24.2,8.5,37.6,24.2,56.7,27.5,27.2
+  427=,National Central University,Taiwan,2020,M,CO,VH,4,A,23,19.5,32.8,36.3,20.7,20.3,27.2
+  427=,Stellenbosch University,South Africa,2020,L,FC,VH,5,A,25.9,31,4.5,50.6,38.2,11.6,27.1
+  429=,Dublin City University (DCU),Ireland,2020,L,CO,HI,3,A,16.8,25.9,39.1,16.2,79.6,51,27.1
+  429=,Tianjin University,China,2020,XL,CO,VH,5,A,17.9,3.5,21.5,71.6,9,6.2,27
+  429=,University of Liege,Belgium,2020,L,FC,VH,5,A,18.5,25.5,25.3,33.5,45.9,57.8,27
+  432=,Boston College,United States,2020,L,CO,HI,5,B,22.9,21.1,37.5,23.6,43.6,19.5,27
+  432=,Ruhr-Universit‰t Bochum,Germany,2020,XL,FC,VH,4,A,22.8,16.7,2.5,59.6,34.3,33.8,26.7
+  432=,Universidad de Zaragoza,Spain,2020,L,FC,VH,5,A,19.2,9.9,74.8,12,4.8,6.1,26.7
+435,Universidad PolitÈcnica de Madrid,Spain,2020,XL,SP,VH,3,A,27.6,61.2,23.9,12.7,3.7,34.8,26.7
+  436=,Beijing Institute of Technology,China,2020,L,FO,VH,4,A,20.9,7,35.1,47.9,5,8.1,26.5
+  436=,ITMO University,Russia,2020,M,FO,VH,5,A,9.8,13.7,83.3,6.3,18.3,44.1,26.4
+438,Universidad de Belgrano,Argentina,2020,M,CO,LO,4,B,7.7,19,89.2,1.1,6.9,55.8,26.4
+  439=,Peter the Great St.Petersburg Polytechnic University,Russia,2020,L,FO,VH,5,A,10.5,10.5,77.2,3.3,16.8,78.1,26.3
+  439=,Universidade Federal de S„o Paulo (UNIFESP),Brazil,2020,L,FC,VH,4,A,11.7,5.1,93,10,5.5,1.8,26.2
+  439=,University of Saskatchewan,Canada,2020,L,FC,VH,5,A,11.5,10.2,31.3,39.3,73.5,53.6,26.2
+  442=,Aston University,United Kingdom,2020,L,CO,HI,4,A,10.9,41.9,13.2,35.7,97.3,54.4,26.2
+  442=,Auckland University of Technology,New Zealand,2020,L,CO,HI,2,A,19.6,25.9,14.7,12.8,99.5,100,26
+  442=,Bond University,Australia,2020,S,FC,HI,3,B,4.1,8.4,47.3,20.3,98.6,99.1,26
+  442=,Chiba University,Japan,2020,L,FC,VH,5,A,14.6,4.9,79.8,14.7,8.5,6.1,26
+  442=,Colorado State University,United States,2020,L,CO,VH,5,A,18.2,20.8,46,26.7,30.9,8.5,26
+  442=,UCSI University,Malaysia,2020,M,CO,MD,3,C,10,35.1,57.6,3.6,41.7,81.1,26
+  448=,Florida State University,United States,2020,XL,FC,VH,5,A,26.9,43.3,12,35.4,17.8,5.7,26
+  448=,Hitotsubashi University,Japan,2020,M,SP,HI,5,A,21.2,66.8,35.9,4.3,29.2,21.5,25.8
+  448=,Universit?degli Studi di Firenze (UNIFI),Italy,2020,XL,FC,VH,4,A,34.2,6.2,10.6,39.2,8.5,20.3,25.8
+  451=,Ko?University,Turkey,2020,M,CO,VH,3,B,16.3,31.4,49.8,18.4,39.9,6.7,25.8
+  451=,"National University of Science and Technology ""MISIS""",Russia,2020,M,CO,VH,4,A,9.3,16.5,74.1,7.3,11,68.1,25.7
+  451=,Xiamen University,China,2020,XL,FC,VH,4,A,26.1,4,26.5,44.1,7.6,4.5,25.7
+  454=,Dongguk University,South Korea,2020,L,FC,HI,5,B,10.4,7,82,9.1,14.4,35.1,25.7
+  454=,National Technical University of Athens,Greece,2020,L,FO,VH,5,A,18.7,45,9,56.3,1.6,7.3,25.6
+  454=,Sogang University,South Korea,2020,M,CO,VH,4,B,18.6,34.1,51.9,13,11.8,21,25.6
+  454=,"University of California, Riverside (UCR)",United States,2020,L,FC,VH,4,A,16.9,12.4,16.6,57.3,44.8,9.9,25.6
+  458=,Universit?de Bordeaux,France,2020,XL,FO,VH,1,A,32.7,5.7,28.9,6.5,51.4,41.6,25.6
+  458=,Vilnius University,Lithuania,2020,L,FC,HI,5,A,18.6,22.9,69.5,5.2,9.2,6.1,25.5
+460,"University of Maryland, Baltimore County",United States,2020,M,FC,VH,4,A,10.3,5.4,12.6,83.7,14.9,13.3,25.5
+461,Oregon State University,United States,2020,L,CO,VH,5,A,17.9,7.9,29.6,37.6,56.3,21,25.4
+  462=,Beihang University,China,2020,L,CO,VH,4,A,15.5,6,31.8,55.8,10.1,6.2,25.3
+  462=,Concordia University,Canada,2020,XL,CO,VH,3,A,15.3,36.2,5.4,28,84.4,89.6,25.2
+  462=,Julius-Maximilians-Universit‰t W¸rzburg,Germany,2020,L,FC,VH,5,A,15.8,6,10,66,47.9,12.7,25.2
+  462=,Swansea University,United Kingdom,2020,L,FC,HI,4,A,12.9,12.9,33.8,25.9,73.9,61,25.2
+  462=,The Catholic University of Korea,South Korea,2020,M,FC,VH,5,B,4.7,1.9,96.5,17.1,3.2,4.3,25.2
+  462=,University of Science and Technology Beijing,China,2020,L,CO,VH,4,A,19.2,5,17,65.6,4.5,4.1,25.2
+  468=,Brandeis University,United States,2020,M,CO,VH,4,B,11.7,11,41.2,27.3,29.6,80.9,25.2
+  468=,Pontificia Universidad Javeriana,Colombia,2020,L,FC,MD,5,B,34,70.6,17,2.5,6.5,2,25.1
+  468=,Shandong University,China,2020,XL,FC,VH,5,A,16.4,10.4,27.5,55.7,9.3,5.5,25.1
+  468=,Universit‰t des Saarlandes,Germany,2020,L,FC,HI,4,A,11.9,5.8,57.9,18.4,40.8,47.3,25.1
+  468=,Western Sydney University,Australia,2020,XL,FC,HI,3,A,18.3,25.9,8.7,28.3,100,55.1,25.1
+  468=,Yokohama City University,Japan,2020,S,CO,VH,5,A,6,2.4,99.9,10,4.6,2.6,25.1
+  474=,Pontificia Universidad CatÛlica del Per?Peru,L,2020,FO,HI,5,B,36.5,227,142,601+,601+,601+,601+,25.1
+  474=,The University of Georgia,United States,2020,XL,FC,VH,5,A,24.5,26.3,16.1,36.6,32.1,6.6,
+  474=,University of Delhi,India,2020,L,FC,HI,4,A,37.1,43.7,12.1,15.6,1.7,1.8,25
+477,Singapore Management University,Singapore,2020,M,SP,HI,2,A,14.5,25.8,15.7,24.3,100,67.8,25
+  478=,Christian-Albrechts-Universit‰t zu Kiel,Germany,2020,L,FC,VH,5,A,18,4.7,55.1,24.1,11.6,12.7,24.9
+  478=,University of Stirling,United Kingdom,2020,M,CO,VH,4,A,10.6,10.6,21.1,40.7,75.9,65.3,24.8
+  480=,South China University of Technology,China,2020,XL,CO,VH,4,A,12.1,3.9,21.2,71.3,13.5,4.3,24.8
+  480=,Universidad Externado de Colombia,Colombia,2020,L,CO,LO,5,B,8.9,39,79.8,1,16.9,2.2,24.7
+  482=,"Universidade Estadual Paulista ""J˙lio de Mesquita Filho""",Brazil,2020,XL,FC,VH,3,A,31.2,15.5,35.5,14.7,5.9,2.2,24.7
+  482=,Universiti Teknologi Petronas (Petronas),Malaysia,2020,M,SP,VH,2,B,12.6,26.2,35.5,20.9,82.2,30.1,24.6
+  484=,Aberystwyth University,United Kingdom,2020,M,CO,VH,5,A,9.9,6,28,42.1,59.8,57.3,24.6
+  484=,Chang Gung University,Taiwan,2020,M,FO,VH,3,B,3.8,4.5,59.3,50.2,3.7,8.1,24.5
+  484=,Jilin University,China,2020,XL,FC,VH,4,A,16.6,12.6,53.1,25.2,13.9,3,24.5
+  484=,University of Canberra,Australia,2020,M,CO,VH,3,A,15.5,12.6,5.2,38.7,95.5,68.7,24.5
+  484=,Wayne State University,United States,2020,L,FC,VH,5,A,9.8,3.8,72.6,20.1,18.5,13.3,24.5
+  489=,Amirkabir University of Technology,Iran,2020,M,FO,VH,4,A,4.7,15,7.4,94.9,7,2.6,24.5
+  489=,Universidad de Santiago de Chile (USACH),Chile,2020,L,FC,MD,5,A,35.6,60.2,13.1,4.7,8.2,2.2,24.4
+  491=,Indian Institute of Technology Guwahati (IITG),India,2020,M,CO,VH,3,A,11.7,15.2,18.7,71.2,,1.5,24.4
+  491=,Lappeenranta University of Technology,Finland,2020,S,,,,A,6.6,17.2,23.6,56.3,49.4,28.6,24.3
+  491=,M.O.Auezov South Kazakhstan State University,Kazakhstan,2020,L,CO,MD,4,A,7,6.1,94.1,1,17.1,17.7,24.3
+  491=,Universidad de Montevideo,Uruguay,2020,S,FC,LO,2,B,13.4,17.3,79.1,1.3,18.1,3.7,24.3
+  491=,Universit?Aix-Marseille,France,2020,XL,FC,VH,1,A,33.9,4.9,13.5,25,23.6,26.6,24.3
+  491=,University of Delaware,United States,2020,L,CO,VH,5,A,11,10.2,11.6,67.1,39.3,22.5,24.3
+  491=,V.N. Karazin Kharkiv National University,Ukraine,2020,L,FC,MD,5,A,10.8,11.4,72.2,1.8,1.3,78.4,24.3
+  498=,Czech Technical University In Prague,Czech Republic,2020,L,SP,VH,5,A,18.7,39.7,33.9,10.6,18.2,57.5,24.3
+  498=,Universit?de Montpellier,France,2020,XL,CO,VH,1,A,20.3,18.8,13.1,42.8,20.1,39.3,24.2
+  498=,University of Eastern Finland,Finland,2020,M,CO,VH,3,A,14.5,10.5,43.8,33.5,27.9,9.1,24.2
+501-510,Bilkent University,Turkey,2020,M,CO,VH,3,B,20,28.8,-,24,58.6,14.9,24.2
+501-510,Institut National des Sciences AppliquÈes de Lyon (INSA),France,2020,M,FO,VH,4,A,-,25.7,46.9,-,40.5,84,23.5 - 24.1
+501-510,King Khalid University,Saudi Arabia,2020,XL,FC,MD,2,A,-,-,72.5,-,100,23.2,23.5 - 24.1
+501-510,Southeast University,China,2020,XL,FC,VH,5,A,-,-,39.7,50,-,-,23.5 - 24.1
+501-510,Umm Al-Qura University (UQU),Saudi Arabia,2020,XL,FC,MD,4,A,-,-,64.1,-,100,22.6,23.5 - 24.1
+501-510,Universidad de Alcal?Spain,L,2020,FC,HI,3,A,-,-,500,264,-,502,168,23.5 - 24.1
+501-510,Universidad de la Habana,Cuba,2020,M,CO,HI,5,A,16.5,26.8,68.9,-,-,-,
+501-510,University of Johannesburg,South Africa,2020,L,CO,VH,2,A,-,27.3,37.7,-,80.1,38.5,23.5 - 24.1
+501-510,University of Szeged,Hungary,2020,L,FC,HI,5,A,17.8,-,53.9,-,-,58.4,23.5 - 24.1
+501-510,University of Texas Dallas,United States,2020,L,CO,VH,4,A,-,-,-,52.2,-,66.4,23.5 - 24.1
+511-520,Iowa State University,United States,2020,XL,CO,VH,5,A,19.7,-,-,38.3,31.5,19.5,23.5 - 24.1
+511-520,Martin-Luther-Universit‰t Halle-Wittenberg,Germany,2020,L,FC,HI,5,A,-,-,76.6,-,,-,22.9 - 23.4
+511-520,National Taipei University of Technology,Taiwan,2020,M,FO,VH,5,A,-,19.1,38,32,27,18.9,22.9 - 23.4
+511-520,Quaid-i-azam University,Pakistan,2020,L,CO,VH,4,A,-,-,-,77.4,-,-,22.9 - 23.4
+511-520,Taylor's University,Malaysia,2020,M,FO,HI,1,,-,46,32.3,-,55.4,75.2,22.9 - 23.4
+511-520,Universidad de Costa Rica,Costa Rica,2020,XL,CO,HI,4,A,27.5,45.2,35.3,-,,-,22.9 - 23.4
+511-520,Universidad de Granada,Spain,2020,XL,FC,VH,5,A,35.8,-,-,21.3,-,21.5,22.9 - 23.4
+511-520,Universit?Cattolica del Sacro Cuore,Italy,2020,L,CO,VH,4,B,24.8,39.5,-,19.9,19.5,-,22.9 - 23.4
+511-520,Universit?degli Studi di Roma - Tor Vergata,Italy,2020,XL,CO,VH,3,A,31.4,-,-,32.6,-,17.6,22.9 - 23.4
+511-520,Universit?Paul Sabatier Toulouse III,France,2020,L,CO,VH,5,A,21.1,-,50.3,-,-,30.9,22.9 - 23.4
+511-520,University of Ulsan,South Korea,2020,L,FC,VH,3,B,-,-,67.8,31,-,-,22.9 - 23.4
+511-520,York University,Canada,2020,XL,CO,VH,4,A,21.3,31.9,-,19.7,30.4,71.4,22.9 - 23.4
+521-530,Bangor University,United Kingdom,2020,M,FC,HI,5,A,-,-,-,51.5,50.4,70.5,22.9 - 23.4
+521-530,Cairo University,Egypt,2020,XL,FC,VH,5,A,34.1,44.3,-,-,-,-,22.4 - 22.8
+521-530,Inha University,South Korea,2020,L,FC,HI,4,B,-,-,78.3,-,-,-,22.4 - 22.8
+521-530,Justus-Liebig-Universit‰t Gieﬂen,Germany,2020,L,FC,HI,5,A,-,-,-,77.1,-,-,22.4 - 22.8
+521-530,National Research Saratov State University,Russia,2020,M,CO,HI,5,A,-,-,98.1,-,-,14.9,22.4 - 22.8
+521-530,Pusan National University,South Korea,2020,L,FC,VH,4,A,19.8,-,38,21.8,-,-,22.4 - 22.8
+521-530,Sabanci University,Turkey,2020,S,FO,VH,3,B,-,21.3,37.2,20.6,45.2,-,22.4 - 22.8
+521-530,Technische Universit‰t Braunschweig,Germany,2020,L,CO,VH,5,A,-,18.7,65,-,,33.6,22.4 - 22.8
+521-530,Universit‰t Bremen,Germany,2020,L,CO,VH,3,A,20.6,-,27.1,24.6,41.7,20,22.4 - 22.8
+521-530,University of Limerick (UL),Ireland,2020,L,FC,HI,3,A,-,21.6,-,26.9,84,21.8,22.4 - 22.8
+521-530,Warsaw University of Technology,Poland,2020,XL,FO,VH,5,A,24.1,56.6,-,-,-,-,22.4 - 22.8
+531-540,Clark University,United States,2020,S,CO,VH,5,B,-,-,43.1,37.8,-,64.8,22.4 - 22.8
+531-540,Coventry University,United Kingdom,2020,XL,CO,HI,3,A,-,49.3,-,-,72.4,99.6,22 - 22.3
+531-540,East China Normal University,China,2020,L,CO,VH,4,A,-,-,31.9,29.6,60.6,28.7,22 - 22.3
+531-540,Far Eastern Federal University,Russia,2020,L,CO,HI,5,A,-,-,79.9,-,18.7,45.8,22 - 22.3
+531-540,Kumamoto University,Japan,2020,M,FC,VH,4,A,-,-,81.3,-,-,-,22 - 22.3
+531-540,Nagasaki University,Japan,2020,M,CO,VH,4,A,-,-,84.3,-,-,-,22 - 22.3
+531-540,Renmin (Peopleís) University of China,China,2020,L,FO,VH,4,A,25.1,34.2,30.4,-,-,-,22 - 22.3
+531-540,Universit‰t Leipzig,Germany,2020,L,FC,VH,5,A,24.9,-,39.2,-,-,20.7,22 - 22.3
+531-540,Universit?PanthÈon-Assas (Paris 2),France,2020,L,SP,MD,5,A,-,-,81.8,-,,27,22 - 22.3
+541-550,Abo Akademi University,Finland,2020,M,CO,VH,5,A,-,-,43.8,28.2,43,18.2,22 - 22.3
+541-550,Imam Abdulrahman Bin Faisal University (IAU) (formerly University of Dammam),Saudi Arabia,2020,L,FC,MD,3,A,-,-,71.5,-,98.3,-,21.8 - 21.9
+541-550,Karl-Franzens-Universit‰t Graz,Austria,2020,L,CO,VH,5,A,19.8,19.9,-,17.9,53.1,36.6,21.8 - 21.9
+541-550,Management and Science University,Malaysia,2020,M,FO,MD,2,,-,23.4,47.3,-,50.6,41.7,21.8 - 21.9
+541-550,Southern Federal University,Russia,2020,L,CO,HI,5,A,-,-,86,-,-,15.1,21.8 - 21.9
+541-550,Taras Shevchenko National University of Kyiv,Ukraine,2020,L,CO,HI,5,A,16.7,24.9,58,-,-,-,21.8 - 21.9
+541-550,Universit?degli Studi di Torino (UNITO),Italy,2020,XL,FC,VH,5,A,29.2,-,-,36.2,-,-,21.8 - 21.9
+541-550,Universit‰t Bayreuth,Germany,2020,M,CO,VH,3,A,-,-,28.5,34,44.5,26.5,21.8 - 21.9
+551-560,Bar-Ilan University,Israel,2020,L,FC,HI,4,A,-,-,-,53.4,73.5,-,21.8 - 21.9
+551-560,East China University of Science and Technology,China,2020,L,CO,VH,4,A,-,-,-,66.3,-,-,21.5 - 21.7
+551-560,Hallym University,South Korea,2020,M,FC,VH,3,B,-,-,90.8,-,-,-,21.5 - 21.7
+551-560,Lehigh University,United States,2020,M,CO,VH,5,B,-,-,35.5,42.1,-,43.2,21.5 - 21.7
+551-560,Masaryk University,Czech Republic,2020,L,CO,VH,5,A,21.7,21,-,-,25.2,70.9,21.5 - 21.7
+551-560,National Chengchi University,Taiwan,2020,M,CO,HI,4,A,20.2,31.2,29.3,-,-,56.7,21.5 - 21.7
+551-560,Osaka City University,Japan,2020,M,FC,HI,5,A,-,-,71.5,-,-,-,21.5 - 21.7
+551-560,Universidad Pontificia Bolivariana,Colombia,2020,M,CO,HI,4,B,-,28.1,74.2,-,-,-,21.5 - 21.7
+551-560,University of Aveiro,Portugal,2020,L,SP,VH,3,,-,-,-,59.4,,-,21.5 - 21.7
+551-560,"University of Missouri, Columbia",United States,2020,L,FC,VH,5,A,16.7,-,39.5,-,34.5,-,21.5 - 21.7
+551-560,University of Pretoria,South Africa,2020,XL,FC,HI,5,A,22.1,41,-,21.7,58.3,-,21.5 - 21.7
+561-570,Aristotle University of Thessaloniki,Greece,2020,XL,FC,VH,4,A,24.9,27.3,-,33.8,-,17.5,21.5 - 21.7
+561-570,Drexel University,United States,2020,L,FC,VH,5,B,-,-,39.6,30.5,23.7,31.8,21.1 - 21.4
+561-570,Kazakh National Pedagogical University Abai,Kazakhstan,2020,M,CO,MD,4,A,-,-,74.4,-,41.5,-,21.1 - 21.4
+561-570,Kazakh National Technical University after K.I.Satpayev,Kazakhstan,2020,M,FO,HI,4,A,-,20.8,69.3,-,-,-,21.1 - 21.4
+561-570,New School University,United States,2020,M,FO,HI,5,B,-,-,57.5,-,-,96.3,21.1 - 21.4
+561-570,Okayama University,Japan,2020,L,FC,HI,5,A,-,-,69.6,-,-,-,21.1 - 21.4
+561-570,Universidad Anahuac,Mexico,2020,L,CO,MD,4,B,-,36.2,64.9,-,-,-,21.1 - 21.4
+561-570,Universit?du QuÈbec,Canada,2020,XL,FC,HI,4,A,23.3,19.2,-,29.4,46.3,15.9,21.1 - 21.4
+561-570,Universit?Saint-Joseph de Beyrouth,Lebanon,2020,M,FC,MD,5,B,-,26.4,52.1,-,76.2,-,21.1 - 21.4
+561-570,University of Cincinnati,United States,2020,XL,FC,VH,5,A,-,-,35,30.9,-,14.7,21.1 - 21.4
+561-570,University of Nebraska,United States,2020,L,CO,VH,5,A,-,-,-,37.6,77.4,26.6,21.1 - 21.4
+561-570,University of South Carolina at Columbia,United States,2020,XL,FC,VH,5,A,16.7,19.3,-,31,44.8,-,21.1 - 21.4
+571-580,Chonbuk National University,South Korea,2020,L,FC,HI,4,A,-,-,58.6,18.3,-,-,21.1 - 21.4
+571-580,Dalian University of Technology,China,2020,XL,CO,VH,4,A,-,-,-,61.9,-,-,20.8 - 21
+571-580,Konkuk University,South Korea,2020,L,FC,HI,4,B,-,-,59.1,-,-,16.2,20.8 - 21
+571-580,Murdoch University,Australia,2020,L,CO,HI,3,A,-,-,-,36.4,81.5,44.1,20.8 - 21
+571-580,University of Guelph,Canada,2020,L,CO,VH,4,A,-,23,-,40.2,47,-,20.8 - 21
+571-580,"University of Massachusetts, Boston",United States,2020,L,CO,VH,5,A,-,-,-,43.1,-,28.2,20.8 - 21
+571-580,University of Oklahoma,United States,2020,L,FC,VH,5,A,-,-,41.3,26.5,28,-,20.8 - 21
+571-580,University of Vermont,United States,2020,M,FC,VH,5,A,-,-,68.2,22.1,-,-,20.8 - 21
+581-590,Howard University,United States,2020,M,FC,HI,5,B,-,-,77.2,-,-,-,20.8 - 21
+581-590,Kanazawa University,Japan,2020,M,FC,VH,4,A,-,-,63.3,-,-,-,20.6 - 20.7
+581-590,Lebanese American University,Lebanon,2020,M,FC,MD,4,B,-,27.7,30.1,-,95.6,49.6,20.6 - 20.7
+581-590,Syracuse University,United States,2020,L,CO,VH,5,B,-,22,-,26.3,-,58.6,20.6 - 20.7
+581-590,Universit?degli Studi di Pavia (UNIPV),Italy,2020,L,FC,VH,5,A,21.3,-,-,44.8,-,-,20.6 - 20.7
+581-590,Universitat de Valencia,Spain,2020,XL,FC,VH,5,A,27.6,-,-,23.2,-,-,20.6 - 20.7
+581-590,Universit?de Fribourg,Switzerland,2020,L,FO,VH,,,-,-,-,32,100,51.2,20.6 - 20.7
+581-590,University of Balamand,Lebanon,2020,S,CO,HI,3,B,-,-,85.3,-,-,-,20.6 - 20.7
+591-600,"Kingston University, London",United Kingdom,2020,L,CO,HI,3,A,-,-,-,-,77,95.7,20.6 - 20.7
+591-600,Lingnan University (Hong Kong),Hong Kong,2020,S,SP,HI,5,A,-,-,28.4,18.5,100,51.2,20.3 - 20.5
+591-600,Middle East Technical University,Turkey,2020,L,CO,VH,4,A,23.9,46.5,-,19.3,-,-,20.3 - 20.5
+591-600,Universidad Nacional de La Plata,Argentina,2020,XL,FC,HI,5,A,31,-,27,-,-,-,20.3 - 20.5
+591-600,Universitat Ramon Llull,Spain,2020,L,CO,MD,3,B,-,46.5,-,-,95.8,41.9,20.3 - 20.5
+591-600,Universiti Utara Malaysia (UUM),Malaysia,2020,L,SP,VH,3,A,-,-,36.3,-,28.5,75,20.3 - 20.5
+591-600,University of Ljubljana,Slovenia,2020,XL,FC,VH,5,A,18.2,-,44.9,-,-,-,20.3 - 20.5
+591-600,University of Milano-Bicocca,Italy,2020,XL,CO,VH,2,A,17.7,-,-,55.8,,-,20.3 - 20.5
+591-600,University of Mons,Belgium,2020,M,CO,VH,2,B,-,-,-,62.6,30.4,34.8,20.3 - 20.5
+591-600,Vilnius Gediminas Technical University,Lithuania,2020,M,SP,HI,4,A,-,26.4,42.3,-,-,36.1,20.3 - 20.5
+591-600,University of CÙte d'Azur,France,2020,XL,,,1,,-,-,-,29.8,66.2,68.2,20.3 - 20.5
+601-650,Ajou University,South Korea,2020,M,FC,VH,3,B,-,-,53.1,21.2,-,-,20.3 - 20.4
+601-650,American University,United States,2020,L,CO,HI,5,B,-,20.9,32.4,-,-,25.6,18.5 - 20.2
+601-650,American University in Dubai,United Arab Emirates,2020,S,FO,MD,2,B,-,24.9,-,-,100,100,18.5 - 20.2
+601-650,Ateneo de Manila University,Philippines,2020,M,FC,MD,5,B,18.4,30.7,35.1,-,-,-,18.5 - 20.2
+601-650,Bogor Agricultural University,Indonesia,2020,L,CO,HI,4,A,17.6,-,36.9,-,45.8,-,18.5 - 20.2
+601-650,Central Queensland University,Australia,2020,M,CO,HI,3,A,-,-,-,-,96,97.2,18.5 - 20.2
+601-650,Chiang Mai University,Thailand,2020,XL,FC,HI,4,A,29.8,22.4,-,-,-,-,18.5 - 20.2
+601-650,City University of New York,United States,2020,XL,CO,VH,5,A,29.7,-,-,-,-,-,18.5 - 20.2
+601-650,Clarkson University,United States,2020,S,CO,VH,5,B,-,-,26.7,52.2,26.5,-,18.5 - 20.2
+601-650,College of William & Mary,United States,2020,M,CO,VH,5,A,-,-,38.3,22.3,-,-,18.5 - 20.2
+601-650,Gifu University,Japan,2020,M,FC,HI,4,A,-,-,69.4,-,-,-,18.5 - 20.2
+601-650,Holy Spirit University of Kaslik,Lebanon,2020,M,FC,MD,4,A,-,-,45.2,-,98.8,36.8,18.5 - 20.2
+601-650,Instituto TecnolÛgico de Buenos Aires (ITBA),Argentina,2020,S,CO,MD,4,B,-,26.7,59.4,-,21.8,17.4,18.5 - 20.2
+601-650,Iran University of Science and Technology,Iran,2020,L,FO,VH,4,A,-,-,-,80.2,,-,18.5 - 20.2
+601-650,Keele University,United Kingdom,2020,M,FC,HI,4,A,-,-,30.1,24.2,58.2,41.7,18.5 - 20.2
+601-650,Kyungpook National University,South Korea,2020,L,FC,VH,4,A,-,-,41.5,-,-,-,18.5 - 20.2
+601-650,Lobachevsky State University of Nizhni Novgorod,Russia,2020,L,FO,VH,5,A,-,-,66.2,-,-,16.8,18.5 - 20.2
+601-650,Michigan Technological University,United States,2020,M,CO,VH,5,A,-,-,30.7,38.2,-,28.5,18.5 - 20.2
+601-650,Niigata University,Japan,2020,L,FC,HI,4,A,-,-,78.4,-,-,-,18.5 - 20.2
+601-650,Palack?University in Olomouc,Czech Republic,2020,L,CO,VH,5,A,-,-,40.4,-,36.4,20.6,18.5 - 20.2
+601-650,Pontificia Universidade CatÛlica do Rio de Janeiro - PUC - Rio,Brazil,2020,L,CO,HI,4,B,28.2,-,-,-,21.3,-,18.5 - 20.2
+601-650,Sichuan University,China,2020,XL,FC,VH,4,A,17.9,-,-,37.3,-,-,18.5 - 20.2
+601-650,Smith College,United States,2020,S,CO,HI,5,B,-,-,72,-,-,26.3,18.5 - 20.2
+601-650,Tallinn University of Technology,Estonia,2020,M,FO,VH,5,A,-,20.7,30.4,-,40.2,31.3,18.5 - 20.2
+601-650,Thammasat University,Thailand,2020,XL,FC,MD,4,A,23,34.3,29.6,-,18.8,-,18.5 - 20.2
+601-650,Tokyo Metropolitan University,Japan,2020,M,CO,VH,4,A,-,-,37.4,26.6,-,-,18.5 - 20.2
+601-650,Tokyo University of Agriculture and Technology,Japan,2020,M,FO,VH,4,A,-,-,-,51.4,-,-,18.5 - 20.2
+601-650,Ulster University,United Kingdom,2020,L,CO,HI,3,A,-,20,-,20,99.1,17.8,18.5 - 20.2
+601-650,Universidad de ConcepciÛn,Chile,2020,L,FC,HI,5,B,23.6,39.4,-,-,-,-,18.5 - 20.2
+601-650,Universidad de Salamanca,Spain,2020,L,FC,HI,5,A,23.7,-,-,-,-,27.7,18.5 - 20.2
+601-650,Universidad de San AndrÈs,Argentina,2020,S,SP,LO,3,B,-,29,56.6,-,-,-,18.5 - 20.2
+601-650,Universidad de Sevilla,Spain,2020,XL,FC,HI,5,A,30.6,-,-,-,-,-,18.5 - 20.2
+601-650,Universidad Panamericana (UP),Mexico,2020,L,FO,MD,4,B,-,29,58.7,-,16.9,-,18.5 - 20.2
+601-650,Universidad Torcuato Di Tella,Argentina,2020,S,SP,MD,3,B,-,34.1,25,-,31.3,50.6,18.5 - 20.2
+601-650,Universit‰t Duisburg-Essen,Germany,2020,XL,FC,VH,3,A,-,-,-,44.5,27.8,49.6,18.5 - 20.2
+601-650,Universit‰t Regensburg,Germany,2020,L,CO,VH,4,A,-,-,38.6,21.8,18,-,18.5 - 20.2
+601-650,University of Bradford,United Kingdom,2020,M,CO,VH,4,A,-,-,-,26.4,51.3,81.1,18.5 - 20.2
+601-650,University of Debrecen,Hungary,2020,L,FC,HI,5,A,-,-,32.1,-,-,74.5,18.5 - 20.2
+601-650,University of Hyderabad,India,2020,M,FC,HI,3,A,-,-,26.9,40.5,-,-,18.5 - 20.2
+601-650,University of Jordan,Jordan,2020,XL,FC,MD,4,A,23.4,34,-,-,26.9,35.1,18.5 - 20.2
+601-650,University of Kentucky,United States,2020,L,FC,VH,5,A,-,-,24.8,34.2,20.5,-,18.5 - 20.2
+601-650,University of Klagenfurt,Austria,2020,S,FO,VH,3,A,-,-,34.9,-,89.7,66.8,18.5 - 20.2
+601-650,University of Manitoba,Canada,2020,XL,FC,VH,5,A,-,-,46.2,-,,35.2,18.5 - 20.2
+601-650,University of New Mexico,United States,2020,L,FC,VH,5,A,-,-,-,40.8,-,-,18.5 - 20.2
+601-650,University of Oregon,United States,2020,L,CO,VH,5,A,17.2,-,-,27.7,-,24.4,18.5 - 20.2
+601-650,University of Portsmouth,United Kingdom,2020,L,CO,HI,3,A,-,18.5,-,-,76.8,75.4,18.5 - 20.2
+601-650,University of South Florida,United States,2020,XL,CO,VH,4,A,-,-,-,33.2,26.4,34.2,18.5 - 20.2
+601-650,University of Tehran,Iran,2020,XL,CO,VH,4,A,18.6,23.2,-,38.8,-,-,18.5 - 20.2
+601-650,Victoria University,Australia,2020,L,CO,HI,3,A,-,-,-,43.1,48.2,78.3,18.5 - 20.2
+601-650,Virginia Commonwealth University,United States,2020,L,FC,VH,5,A,-,-,51.3,18.7,-,-,18.5 - 20.2
+601-650,Worcester Polytechnic Institute,United States,2020,M,CO,VH,5,B,-,-,28.3,36.6,27.1,61.6,18.5 - 20.2
+651-700,Airlangga University,Indonesia,2020,L,FC,MD,4,A,20.6,23.7,33.3,-,-,-,18.5 - 20.2
+651-700,BogaziÁi ‹niversitesi,Turkey,2020,L,CO,HI,5,A,19,42,-,19.8,-,-,16.7 - 18.4
+651-700,Brno University of Technology,Czech Republic,2020,L,FO,VH,5,A,-,33.1,-,-,-,62.1,16.7 - 18.4
+651-700,Carleton University,Canada,2020,L,CO,VH,4,A,-,-,-,39.3,24.7,35.6,16.7 - 18.4
+651-700,Charles Darwin University,Australia,2020,M,CO,VH,2,A,-,-,-,33.5,50.2,94.5,16.7 - 18.4
+651-700,China Agricultural University,China,2020,L,FC,VH,5,A,-,-,28.5,36.3,-,-,16.7 - 18.4
+651-700,Edith Cowan University (ECU),Australia,2020,L,CO,HI,3,A,-,-,-,17.8,61.5,82.8,16.7 - 18.4
+651-700,Eotvos Lorand University,Hungary,2020,L,FO,VH,5,A,23.6,-,-,-,-,19.1,16.7 - 18.4
+651-700,Indiana University-Purdue University Indianapolis,United States,2020,L,,,,,-,-,53.9,-,-,-,16.7 - 18.4
+651-700,Instituto PolitÈcnico Nacional (IPN),Mexico,2020,XL,CO,VH,4,A,19.4,52.2,-,-,-,-,16.7 - 18.4
+651-700,Instituto TecnolÛgico Autonomo de MÈxico (ITAM),Mexico,2020,M,FO,HI,4,B,-,48.7,-,-,58.6,-,16.7 - 18.4
+651-700,International Islamic University Malaysia (IIUM),Malaysia,2020,L,FC,HI,3,A,16.9,-,-,-,29.7,69.5,16.7 - 18.4
+651-700,Istanbul Technical University,Turkey,2020,XL,FO,VH,5,A,18.1,36.7,-,-,-,-,16.7 - 18.4
+651-700,Jadavpur University,India,2020,M,CO,VH,5,A,-,-,-,43.4,,-,16.7 - 18.4
+651-700,Jordan University of Science and Technology,Jordan,2020,L,CO,HI,3,A,-,26.4,-,-,-,42.8,16.7 - 18.4
+651-700,Kagoshima University,Japan,2020,M,FC,HI,4,A,-,-,74.1,-,-,-,16.7 - 18.4
+651-700,Kaohsiung Medical University,Taiwan,2020,M,FO,VH,4,,-,-,45.2,23.1,-,-,16.7 - 18.4
+651-700,Kazakh National Agrarian University,Kazakhstan,2020,M,SP,LO,4,A,-,-,50.4,-,27.5,-,16.7 - 18.4
+651-700,Leibniz Universit‰t Hannover,Germany,2020,L,CO,VH,5,A,19.6,-,-,21.7,31.5,34.4,16.7 - 18.4
+651-700,Louisiana State University,United States,2020,L,CO,VH,5,A,-,-,-,46.5,-,-,16.7 - 18.4
+651-700,Missouri University of Science and Technology,United States,2020,M,CO,VH,5,A,-,-,-,49.3,40.5,24.5,16.7 - 18.4
+651-700,National and Kapodistrian University of Athens,Greece,2020,XL,FC,VH,5,A,19.5,27.7,-,26.7,-,15.8,16.7 - 18.4
+651-700,National Chung Hsing University,Taiwan,2020,L,CO,VH,5,A,-,-,24,25.8,-,-,16.7 - 18.4
+651-700,"National Technical University ""Kharkiv Polytechnic Institute""",Ukraine,2020,L,FO,HI,5,A,-,-,66.4,-,-,-,16.7 - 18.4
+651-700,Osaka Prefecture University,Japan,2020,M,CO,VH,4,A,-,-,56.1,21.1,-,-,16.7 - 18.4
+651-700,Philipps-Universit‰t Marburg,Germany,2020,L,FC,HI,5,A,-,-,-,26.8,-,25.4,16.7 - 18.4
+651-700,Pontificia Universidade CatÛlica de S„o Paulo (PUC-SP),Brazil,2020,M,FC,MD,4,B,-,19.7,51.6,-,-,-,16.7 - 18.4
+651-700,"Rutgers - The State University of New Jersey, Newark",United States,2020,M,CO,HI,4,A,-,-,23.4,-,32.9,40.5,16.7 - 18.4
+651-700,Samara National Research University (Samara University),Russia,2020,M,FO,VH,4,A,-,-,71.9,-,-,17.9,16.7 - 18.4
+651-700,Sejong University,South Korea,2020,L,CO,HI,4,B,-,18.8,-,21.9,23.8,19.6,16.7 - 18.4
+651-700,Stevens Institute of Technology,United States,2020,M,CO,HI,5,B,-,-,-,32.5,46.8,96.1,16.7 - 18.4
+651-700,Temple University,United States,2020,XL,FC,HI,5,A,-,-,27.5,20.7,-,-,16.7 - 18.4
+651-700,Universidad de Antioquia,Colombia,2020,XL,FC,HI,5,A,25.4,43.4,-,-,-,-,16.7 - 18.4
+651-700,Universidad del Pais Vasco,Spain,2020,XL,,,,,-,-,44.7,-,,-,16.7 - 18.4
+651-700,Universidad Iberoamericana (UIA),Mexico,2020,L,FC,LO,4,B,17.2,46.8,-,-,-,-,16.7 - 18.4
+651-700,Universidade de Santiago de Compostela,Spain,2020,L,CO,VH,5,A,19.6,-,-,21.8,-,-,16.7 - 18.4
+651-700,Universidade Federal de Minas Gerais,Brazil,2020,XL,FC,VH,5,A,28,-,-,-,-,-,16.7 - 18.4
+651-700,Universidade Federal do Rio Grande Do Sul,Brazil,2020,XL,FC,VH,5,A,26.3,-,-,-,-,-,16.7 - 18.4
+651-700,Universit?degli Studi di Genova,Italy,2020,L,FC,VH,5,A,16.5,-,-,33.1,-,15.9,16.7 - 18.4
+651-700,Universit‰t Hohenheim,Germany,2020,M,,,,,-,-,-,42.5,-,34.4,16.7 - 18.4
+651-700,Universit?Claude Bernard Lyon 1,France,2020,XL,FC,HI,5,A,20.5,-,-,23,-,18.1,16.7 - 18.4
+651-700,Universit?de Sherbrooke,Canada,2020,L,FC,HI,4,A,-,-,28.5,18.6,61.8,-,16.7 - 18.4
+651-700,Universiti Teknologi MARA (UiTM),Malaysia,2020,XL,CO,VH,4,A,21,38,-,-,-,-,16.7 - 18.4
+651-700,University of Denver,United States,2020,M,CO,VH,5,B,-,-,50.4,20.4,-,-,16.7 - 18.4
+651-700,University of Haifa,Israel,2020,L,FO,VH,4,A,-,-,-,31.6,,,16.7 - 18.4
+651-700,University of Houston,United States,2020,XL,CO,VH,4,A,-,-,-,38.2,-,16,16.7 - 18.4
+651-700,University of Minho,Portugal,2020,L,,,,,-,-,31.4,-,21.9,-,16.7 - 18.4
+651-700,University of PÈcs,Hungary,2020,L,FC,HI,5,A,-,-,39.5,-,-,64.7,16.7 - 18.4
+651-700,University of Plymouth,United Kingdom,2020,L,FC,HI,5,A,-,-,-,29,52.8,32.4,16.7 - 18.4
+651-700,University of Seoul,South Korea,2020,M,CO,VH,5,A,-,-,38.9,-,-,-,16.7 - 18.4
+651-700,University of Sharjah,United Arab Emirates,2020,L,CO,HI,2,B,-,-,-,-,100,100,16.7 - 18.4
+651-700,University of Westminster,United Kingdom,2020,L,CO,HI,,,-,-,-,-,82.6,100,16.7 - 18.4
+651-700,University of Windsor,Canada,2020,L,CO,HI,5,A,-,-,-,62.3,,46.6,16.7 - 18.4
+651-700,Zayed University,United Arab Emirates,2020,M,CO,HI,2,A,-,-,30.6,-,100,-,16.7 - 18.4
+701-750,Abu Dhabi University,United Arab Emirates,2020,S,FO,HI,2,C,-,-,-,-,100,100,16.7 - 18.4
+701-750,Beijing Jiaotong University,China,2020,L,CO,VH,5,A,-,-,23.8,21.9,-,14.7,15.2 - 16.6
+701-750,Beijing University of Technology,China,2020,L,CO,VH,4,A,-,-,40.9,18.6,-,-,15.2 - 16.6
+701-750,Bournemouth University,United Kingdom,2020,L,CO,HI,3,A,-,-,-,18.2,79.3,46.5,15.2 - 16.6
+701-750,Central South University,China,2020,XL,FC,VH,2,A,-,-,-,49.8,19.1,-,15.2 - 16.6
+701-750,Chonnam National University,South Korea,2020,L,FC,VH,4,A,-,-,35.9,22.6,-,-,15.2 - 16.6
+701-750,Chungnam National University,South Korea,2020,L,FC,VH,4,A,-,-,37.4,-,-,-,15.2 - 16.6
+701-750,Clemson University,United States,2020,L,CO,VH,5,A,-,24,-,26.3,-,-,15.2 - 16.6
+701-750,Dankook University,South Korea,2020,L,FC,HI,4,B,-,-,65.4,-,-,-,15.2 - 16.6
+701-750,Georgia State University,United States,2020,L,CO,VH,5,A,-,-,-,27.1,-,-,15.2 - 16.6
+701-750,Hunan University,China,2020,XL,CO,VH,4,A,-,-,-,51.5,-,-,15.2 - 16.6
+701-750,Kansas State University,United States,2020,L,CO,VH,5,A,-,-,-,20.9,31.7,-,15.2 - 16.6
+701-750,Lahore University of Management Sciences (LUMS),Pakistan,2020,S,CO,HI,3,B,-,36.3,-,-,-,-,15.2 - 16.6
+701-750,London South Bank University,United Kingdom,2020,M,,,3,,-,-,-,-,60.2,92.7,15.2 - 16.6
+701-750,Manipal Academy of Higher Education,India,2020,L,FC,HI,4,B,-,-,53.3,-,-,-,15.2 - 16.6
+701-750,Maynooth University,Ireland,2020,M,FO,VH,2,A,-,-,-,18.4,79.7,19,15.2 - 16.6
+701-750,Memorial University of Newfoundland,Canada,2020,L,FC,HI,4,A,-,-,-,24.8,32.1,53.5,15.2 - 16.6
+701-750,"National Technical University of Ukraine ""Kyiv Polytechnic Institute""",Ukraine,2020,L,FO,HI,5,A,-,21.6,46.7,-,-,-,15.2 - 16.6
+701-750,Northumbria University at Newcastle,United Kingdom,2020,L,CO,HI,4,A,-,23,-,-,42.6,45.1,15.2 - 16.6
+701-750,Nottingham Trent University,United Kingdom,2020,L,CO,HI,3,A,-,25.8,-,-,53.5,39,15.2 - 16.6
+701-750,Pontificia Universidad CatÛlica de ValparaÌso,Chile,2020,L,FC,MD,4,B,20.5,28.4,-,-,-,-,15.2 - 16.6
+701-750,Riga Technical University,Latvia,2020,M,CO,VH,5,A,-,20.6,27.3,-,20.4,29.3,15.2 - 16.6
+701-750,Rovira i Virgili University,Spain,2020,L,FC,HI,3,A,-,-,28.8,32.2,-,24.2,15.2 - 16.6
+701-750,Shenzhen University,China,2020,XL,CO,VH,3,A,-,-,53.6,-,-,-,15.2 - 16.6
+701-750,Southern Methodist University,United States,2020,M,CO,VH,5,B,-,-,43,-,-,37.6,15.2 - 16.6
+701-750,Sumy State University,Ukraine,2020,M,CO,HI,3,A,-,-,52.8,-,-,43.8,15.2 - 16.6
+701-750,Universidad Adolfo Ib·Òez,Chile,2020,M,FO,HI,4,B,-,63.6,-,-,36.3,-,15.2 - 16.6
+701-750,Universidad Central de Venezuela (UCV),Venezuela,2020,XL,FC,MD,5,A,19.1,42.7,-,-,-,-,15.2 - 16.6
+701-750,Universidad de Alicante,Spain,2020,L,,,3,,-,-,31.3,-,-,16.1,15.2 - 16.6
+701-750,Universidad de Guadalajara (UDG),Mexico,2020,XL,FC,MD,5,A,18.4,-,33.7,-,-,-,15.2 - 16.6
+701-750,Universidad ICESI,Colombia,2020,M,FC,MD,3,B,-,-,62.2,-,-,-,15.2 - 16.6
+701-750,Universidade Federal de Santa Catarina,Brazil,2020,XL,FC,HI,4,A,17.2,-,29.6,-,-,-,15.2 - 16.6
+701-750,Universit?degli Studi di Siena (UNISI),Italy,2020,L,FC,HI,5,A,-,-,-,36.7,-,14.8,15.2 - 16.6
+701-750,Universit?degli Studi di Trieste (UNITS),Italy,2020,L,FC,HI,4,A,-,-,-,40.2,-,-,15.2 - 16.6
+701-750,Universit‰t Potsdam,Germany,2020,L,FO,VH,,,-,-,-,29.6,,24.6,15.2 - 16.6
+701-750,Universit?de Lille,France,2020,XL,CO,VH,1,A,25.9,-,-,-,21.5,23.8,15.2 - 16.6
+701-750,University at Albany SUNY,United States,2020,L,CO,VH,5,A,-,-,-,43.3,-,-,15.2 - 16.6
+701-750,University Malaysia Perlis (UniMAP),Malaysia,2020,M,SP,VH,2,A,-,-,54.9,-,-,-,15.2 - 16.6
+701-750,University of Alabama,United States,2020,XL,CO,VH,5,A,-,23.3,-,34.6,-,-,15.2 - 16.6
+701-750,University of Baghdad,Iraq,2020,XL,FC,MD,4,A,-,-,46,-,-,-,15.2 - 16.6
+701-750,University of Central Florida,United States,2020,XL,FC,HI,4,A,-,24.1,-,25.9,-,-,15.2 - 16.6
+701-750,University of Greenwich,United Kingdom,2020,L,CO,HI,3,A,-,-,-,-,86.1,96.7,15.2 - 16.6
+701-750,University of Huddersfield,United Kingdom,2020,L,CO,HI,3,A,-,20.2,-,-,55.4,73.8,15.2 - 16.6
+701-750,University of Hull,United Kingdom,2020,XL,FC,HI,4,A,-,-,-,29.3,63.9,21.2,15.2 - 16.6
+701-750,University of Patras,Greece,2020,L,FC,HI,4,A,-,22.3,-,37.3,-,-,15.2 - 16.6
+701-750,University of Tulsa,United States,2020,S,CO,VH,5,B,-,-,40.3,-,-,58.6,15.2 - 16.6
+701-750,University of Wyoming,United States,2020,M,CO,VH,5,A,-,-,32.3,33.2,17.9,-,15.2 - 16.6
+701-750,Vietnam National University - Ho Chi Minh City (VNU-HCM),Vietnam,2020,XL,FO,MD,2,A,19.4,-,27,-,-,-,15.2 - 16.6
+701-750,Yamaguchi University,Japan,2020,M,FC,HI,4,A,-,-,57.5,-,-,-,15.2 - 16.6
+751-800,Ajman University,United Arab Emirates,2020,M,CO,MD,3,C,-,-,-,-,100,100,15.2 - 16.6
+751-800,Anna University,India,2020,L,FO,VH,3,A,-,-,-,45.3,-,-,14.2 - 15.1
+751-800,Brigham Young University,United States,2020,XL,CO,VH,5,B,-,-,-,42.8,-,-,14.2 - 15.1
+751-800,Chongqing University,China,2020,XL,CO,VH,4,A,-,-,-,36.9,-,-,14.2 - 15.1
+751-800,Comenius University in Bratislava,Slovakia,2020,L,CO,VH,5,A,-,-,34.8,-,,16.5,14.2 - 15.1
+751-800,Dublin Institute of Technology (DIT),Ireland,2020,L,CO,HI,1,A,-,-,-,-,43.9,48.5,14.2 - 15.1
+751-800,Florida International University,United States,2020,XL,CO,VH,,,-,-,-,17.6,25,14.8,14.2 - 15.1
+751-800,Gunma University,Japan,2020,M,FO,VH,4,A,-,-,42.6,18.9,17.8,-,14.2 - 15.1
+751-800,"Jamia Millia Islamia, New Delhi",India,2020,M,CO,VH,4,A,-,-,44.9,-,-,-,14.2 - 15.1
+751-800,Kaunas University of Technology,Lithuania,2020,M,FO,VH,4,A,-,-,35.2,-,-,-,14.2 - 15.1
+751-800,Kazakh-British Technical University,Kazakhstan,2020,S,FO,HI,2,A,-,-,31.6,-,65.5,-,14.2 - 15.1
+751-800,Lanzhou University,China,2020,XL,CO,VH,5,A,-,-,-,41.8,-,-,14.2 - 15.1
+751-800,London Metropolitan University,United Kingdom,2020,M,CO,HI,2,A,-,-,-,-,57.5,98.9,14.2 - 15.1
+751-800,Loyola University Chicago,United States,2020,L,FC,HI,5,B,-,-,28.9,-,-,-,14.2 - 15.1
+751-800,Manchester Metropolitan University,United Kingdom,2020,L,CO,HI,3,A,-,-,-,-,40.2,38,14.2 - 15.1
+751-800,National University Lviv Polytechnic,Ukraine,2020,L,CO,HI,5,A,-,-,48.2,-,-,-,14.2 - 15.1
+751-800,New Jersey Institute of Technology (NJIT),United States,2020,M,CO,VH,5,A,-,-,-,25.7,-,54.9,14.2 - 15.1
+751-800,O. P. Jindal Global University,India,2020,S,SP,LO,2,B,-,-,46,-,40.8,-,14.2 - 15.1
+751-800,Oklahoma State University,United States,2020,L,CO,VH,5,A,-,-,-,23.6,42.6,-,14.2 - 15.1
+751-800,Padjadjaran University,Indonesia,2020,XL,CO,MD,4,A,-,-,41.7,-,-,-,14.2 - 15.1
+751-800,Paris Lodron Universit‰t Salzburg,Austria,2020,L,CO,HI,5,A,-,-,-,20.7,,96.5,14.2 - 15.1
+751-800,Plekhanov Russian University of Economics,Russia,2020,L,SP,MD,5,A,-,-,44.6,-,-,16.4,14.2 - 15.1
+751-800,Shinshu University,Japan,2020,M,FC,VH,4,A,-,-,41.5,17.5,-,-,14.2 - 15.1
+751-800,Slovak University of Technology in Bratislava,Slovakia,2020,L,FO,VH,4,A,-,-,44.6,-,-,-,14.2 - 15.1
+751-800,"Sofia University ""St. Kliment Ohridski""",Bulgaria,2020,L,CO,HI,5,A,-,-,40.5,-,-,-,14.2 - 15.1
+751-800,Southern Cross University,Australia,2020,M,CO,VH,3,A,-,-,-,30.9,50.9,58.6,14.2 - 15.1
+751-800,Sunway University,Malaysia,2020,M,FO,HI,2,B,-,22,31,-,39.6,23.6,14.2 - 15.1
+751-800,Technical University of Liberec,Czech Republic,2020,M,SP,HI,4,A,-,-,50.1,-,17.9,19,14.2 - 15.1
+751-800,Technische Universit‰t Dortmund,Germany,2020,XL,CO,VH,4,A,-,22,-,-,19.6,-,14.2 - 15.1
+751-800,Universidad de La Sabana,Colombia,2020,L,FC,MD,3,B,-,44.4,-,-,-,-,14.2 - 15.1
+751-800,Universidad de las AmÈricas Puebla (UDLAP),Mexico,2020,M,FC,MD,4,B,-,20.5,30.6,-,43,-,14.2 - 15.1
+751-800,Universidad de San Francisco de Quito,Ecuador,2020,M,FC,MD,3,B,-,22.7,26.9,-,60.2,-,14.2 - 15.1
+751-800,Universidad del Rosario,Colombia,2020,M,CO,HI,5,B,-,35.6,25.9,-,17.8,-,14.2 - 15.1
+751-800,Universit?Ca' Foscari Venezia,Italy,2020,L,FO,VH,5,A,-,19.5,-,-,30,-,14.2 - 15.1
+751-800,Universit?degli Studi di Modena e Reggio Emilia,Italy,2020,L,FC,HI,5,A,-,-,-,46.1,-,-,14.2 - 15.1
+751-800,Universit?degli Studi di Perugia,Italy,2020,L,FC,HI,5,A,-,-,-,45.1,-,-,14.2 - 15.1
+751-800,Universit‰t Bielefeld,Germany,2020,L,CO,VH,4,A,17.1,-,-,-,26.6,-,14.2 - 15.1
+751-800,Universit‰t D¸sseldorf,Germany,2020,XL,FC,HI,4,A,-,-,-,17.9,,20.7,14.2 - 15.1
+751-800,Universit‰t Rostock,Germany,2020,L,FC,HI,5,A,-,-,30.8,25.9,,19.4,14.2 - 15.1
+751-800,Universit?de Lorraine,France,2020,XL,CO,VH,1,A,-,-,-,-,21.9,40.2,14.2 - 15.1
+751-800,Universiti Malaysia Pahang (UMP),Malaysia,2020,M,SP,VH,2,A,-,-,-,-,44.8,-,14.2 - 15.1
+751-800,University of Brescia,Italy,2020,M,FO,VH,3,A,-,-,-,50.2,-,16.3,14.2 - 15.1
+751-800,University of Crete,Greece,2020,L,FC,HI,3,A,-,-,-,34.7,-,-,14.2 - 15.1
+751-800,University of East London,United Kingdom,2020,M,CO,HI,3,A,-,-,-,-,85,91.2,14.2 - 15.1
+751-800,University of Hertfordshire,United Kingdom,2020,L,CO,HI,3,A,-,-,-,-,59.8,82.2,14.2 - 15.1
+751-800,University of Maribor,Slovenia,2020,L,FC,HI,3,A,-,-,39.3,-,-,-,14.2 - 15.1
+751-800,University of Southern Queensland,Australia,2020,L,CO,HI,4,A,-,-,-,21.1,64.1,34.6,14.2 - 15.1
+751-800,University of the West of England,United Kingdom,2020,L,CO,HI,3,,-,-,-,-,41.4,56.2,14.2 - 15.1
+751-800,University of Zagreb,Croatia,2020,XL,FC,VH,5,A,-,-,32.8,-,-,-,14.2 - 15.1
+751-800,Yokohama National University,Japan,2020,M,CO,VH,4,A,-,-,30.4,-,-,-,14.2 - 15.1
+  801-1000,Adam Mickiewicz University,Poland,2020,XL,CO,HI,5,A,-,-,23.9,-,-,-,14.2 - 15.1
+  801-1000,AGH University of Science and Technology,Poland,2020,L,CO,VH,5,A,-,19.1,24.9,-,,-,9 - 14.1
+  801-1000,Ain Shams University,Egypt,2020,XL,FC,HI,4,A,-,26.9,-,-,20.3,-,9 - 14.1
+  801-1000,Alexandria University,Egypt,2020,XL,FC,HI,4,A,-,21.8,-,-,-,-,9 - 14.1
+  801-1000,"Aligarh Muslim University (AMU), Aligarh",India,2020,L,CO,HI,5,A,-,-,26.9,-,,-,9 - 14.1
+  801-1000,Amrita Vishwa Vidyapeetham,India,2020,L,FC,HI,2,B,-,-,32.9,-,46.1,-,9 - 14.1
+  801-1000,Ankara ‹niversitesi,Turkey,2020,XL,FC,HI,4,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Assiut University,Egypt,2020,XL,FC,HI,4,A,-,-,-,-,29.6,-,9 - 14.1
+  801-1000,Athens University of Economics and Business,Greece,2020,M,FO,VH,4,A,-,36.9,-,20.9,-,-,9 - 14.1
+  801-1000,Auburn University,United States,2020,L,CO,VH,5,A,-,-,-,22.3,-,16.3,9 - 14.1
+  801-1000,Australian Catholic University,Australia,2020,L,CO,HI,3,A,-,-,-,-,50.7,44.2,9 - 14.1
+  801-1000,Babes-Bolyai University,Romania,2020,XL,CO,HI,5,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Baku State University,Azerbaijan,2020,L,FO,HI,5,A,-,-,44.8,-,-,-,9 - 14.1
+  801-1000,Banaras Hindu University,India,2020,L,FC,HI,5,A,-,-,-,20.1,-,-,9 - 14.1
+  801-1000,Bangladesh University of Engineering and Technology,Bangladesh,2020,M,SP,HI,3,A,-,21.1,-,-,,-,9 - 14.1
+  801-1000,Baylor University,United States,2020,L,CO,VH,5,B,-,-,-,-,-,-,9 - 14.1
+  801-1000,Beijing Foreign Studies University,China,2020,M,SP,MD,4,A,-,-,40.7,-,23.6,28.6,9 - 14.1
+  801-1000,Beirut Arab University,Lebanon,2020,M,FC,MD,4,B,-,-,-,-,82,41.7,9 - 14.1
+  801-1000,Belarusian National Technical University,Belarus,2020,L,SP,LO,4,A,-,26.6,36.5,-,-,-,9 - 14.1
+  801-1000,Bina Nusantara University (BINUS),Indonesia,2020,L,CO,MD,3,,-,-,24.9,-,17.6,-,9 - 14.1
+  801-1000,Binghamton University SUNY,United States,2020,L,CO,HI,4,A,-,-,-,22.8,-,28.3,9 - 14.1
+  801-1000,Birla Institute of Technology and Science,India,2020,L,CO,HI,5,B,-,-,-,18.3,-,-,9 - 14.1
+  801-1000,Birmingham City University (BCU),United Kingdom,2020,L,CO,MD,3,,-,-,-,-,36.4,68,9 - 14.1
+  801-1000,Budapest University of Technology and Economics,Hungary,2020,L,FO,VH,5,A,-,-,-,-,-,15.3,9 - 14.1
+  801-1000,Canterbury Christ Church University,United Kingdom,2020,M,CO,HI,4,,-,-,-,-,34.1,25.4,9 - 14.1
+  801-1000,COMSATS Institute of Information Technology,Pakistan,2020,XL,CO,HI,2,A,-,-,26.1,-,-,-,9 - 14.1
+  801-1000,Corvinus University of Budapest,Hungary,2020,M,FO,VH,5,A,-,-,-,-,-,37.5,9 - 14.1
+  801-1000,Cracow University of Technology,Poland,2020,M,FO,VH,4,A,-,-,40.7,-,,-,9 - 14.1
+  801-1000,Czech University of Life Sciences in Prague,Czech Republic,2020,L,FO,VH,5,A,-,-,-,-,24.7,49.1,9 - 14.1
+  801-1000,De La Salle University,Philippines,2020,L,CO,MD,5,B,16.6,23,-,-,-,-,9 - 14.1
+  801-1000,De Montfort University,United Kingdom,2020,L,CO,HI,5,A,-,-,-,-,53.5,88.6,9 - 14.1
+  801-1000,Diponegoro University,Indonesia,2020,XL,FC,MD,4,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,E.A.Buketov Karaganda State University,Kazakhstan,2020,L,FO,MD,4,A,-,-,42.3,-,-,-,9 - 14.1
+  801-1000,Edinburgh Napier University,United Kingdom,2020,M,CO,HI,3,A,-,-,-,-,51.8,82.9,9 - 14.1
+  801-1000,Escuela PolitÈcnica Nacional,Ecuador,2020,M,SP,LO,5,,-,-,45.2,-,-,-,9 - 14.1
+  801-1000,Escuela Superior PolitÈcnica del Litoral - ESPOL,Ecuador,2020,M,FO,HI,4,A,-,20.5,27.7,-,17.1,-,9 - 14.1
+  801-1000,Fordham University,United States,2020,L,CO,HI,5,B,-,-,-,-,17.4,33.9,9 - 14.1
+  801-1000,Gdansk University of Technology,Poland,2020,L,FO,VH,5,A,-,-,32.7,-,-,-,9 - 14.1
+  801-1000,George Mason University,United States,2020,XL,CO,VH,3,A,-,-,-,22.5,-,21.3,9 - 14.1
+  801-1000,German Jordanian University,Jordan,2020,S,FO,HI,,A,-,-,28.4,-,57.8,30.4,9 - 14.1
+  801-1000,Glasgow Caledonian University,United Kingdom,2020,L,FO,HI,5,A,-,-,-,-,33.6,43,9 - 14.1
+  801-1000,Hacettepe University,Turkey,2020,XL,FC,HI,4,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Istanbul University,Turkey,2020,XL,FC,HI,5,A,17.9,-,-,-,-,-,9 - 14.1
+  801-1000,Karaganda State Technical University,Kazakhstan,2020,M,FO,MD,4,A,-,-,40,-,-,-,9 - 14.1
+  801-1000,Kasetsart University,Thailand,2020,XL,CO,HI,4,A,23.7,18,-,-,-,-,9 - 14.1
+  801-1000,Kazakh Ablai khan University of International Relations and World Languages,Kazakhstan,2020,M,SP,LO,4,A,-,-,37.2,-,-,-,9 - 14.1
+  801-1000,Kent State University,United States,2020,L,,,5,A,-,-,-,31.9,20,-,9 - 14.1
+  801-1000,Khon Kaen University,Thailand,2020,XL,FC,HI,4,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,King Faisal University,Saudi Arabia,2020,XL,FO,HI,3,A,-,-,-,-,99.6,-,9 - 14.1
+  801-1000,King Mongkut's University of Technology Thonburi,Thailand,2020,L,CO,HI,4,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Kuwait University,Kuwait,2020,XL,FC,MD,4,A,-,-,-,-,48.4,32.2,9 - 14.1
+  801-1000,Kyoto Institute of Technology,Japan,2020,S,FO,VH,4,A,-,-,28.4,-,-,-,9 - 14.1
+  801-1000,Kyushu Institute of Technology,Japan,2020,M,FO,VH,5,A,-,-,-,29.2,16.3,-,9 - 14.1
+  801-1000,Liverpool John Moores University,United Kingdom,2020,L,,,,,-,-,-,-,44.7,32.7,9 - 14.1
+  801-1000,Lodz University of Technology,Poland,2020,L,CO,HI,4,A,-,-,31.9,-,-,-,9 - 14.1
+  801-1000,Marquette University,United States,2020,M,CO,VH,5,B,-,-,28.7,-,-,-,9 - 14.1
+  801-1000,Miami University,United States,2020,L,CO,HI,5,A,-,-,-,-,-,30.5,9 - 14.1
+  801-1000,Middlesex University,United Kingdom,2020,L,CO,HI,3,A,-,-,-,17.5,85.9,35.4,9 - 14.1
+  801-1000,Multimedia University (MMU),Malaysia,2020,M,SP,HI,2,C,-,-,-,-,20.2,25.8,9 - 14.1
+  801-1000,Mustansiriyah University,Iraq,2020,XL,FC,MD,4,A,-,-,35.8,-,-,-,9 - 14.1
+  801-1000,Nagoya Institute of Technology (NIT),Japan,2020,M,SP,VH,5,A,-,-,-,42,-,-,9 - 14.1
+  801-1000,National Chung Cheng University,Taiwan,2020,M,CO,VH,3,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Nicolaus Copernicus University,Poland,2020,L,FC,HI,4,A,-,-,39.3,-,-,-,9 - 14.1
+  801-1000,Notre Dame University-Louaize (NDU),Lebanon,2020,M,CO,MD,3,B,-,-,-,-,79.5,22.5,9 - 14.1
+  801-1000,Novosibirsk State Technical University,Russia,2020,L,FO,HI,4,A,-,-,26.5,-,-,44.8,9 - 14.1
+  801-1000,Ohio University,United States,2020,L,CO,HI,5,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Politecnico di Bari,Italy,2020,M,,,,,-,-,-,48.1,-,-,9 - 14.1
+  801-1000,Pontificia Universidad Catolica del Ecuador,Ecuador,2020,L,FC,LO,4,B,-,20.7,25.3,-,24.8,-,9 - 14.1
+  801-1000,Pontificia Universidade CatÛlica do Rio Grande do Sul,Brazil,2020,M,FC,HI,4,B,-,-,-,-,-,-,9 - 14.1
+  801-1000,Poznan University of Technology,Poland,2020,L,FO,VH,5,A,-,-,-,-,,-,9 - 14.1
+  801-1000,Prince of Songkla University,Thailand,2020,XL,FC,HI,4,A,16.8,-,-,-,-,-,9 - 14.1
+  801-1000,Princess Sumaya University for Technology,Jordan,2020,S,FO,HI,3,B,-,-,-,-,68.8,32.7,9 - 14.1
+  801-1000,Rhodes University,South Africa,2020,M,CO,VH,5,A,-,-,-,21.8,,45.2,9 - 14.1
+  801-1000,Riga Stradins University,Latvia,2020,M,FO,HI,4,A,-,-,-,-,-,78.8,9 - 14.1
+  801-1000,Rikkyo University,Japan,2020,L,FO,HI,5,C,-,-,38.9,-,-,-,9 - 14.1
+  801-1000,Ritsumeikan University,Japan,2020,XL,CO,HI,5,B,-,33.4,-,-,28.8,-,9 - 14.1
+  801-1000,Ryerson University,Canada,2020,XL,CO,HI,4,A,-,23.5,-,34.7,,-,9 - 14.1
+  801-1000,Saitama University,Japan,2020,M,CO,VH,4,A,-,-,-,23,-,-,9 - 14.1
+  801-1000,San Diego State University,United States,2020,XL,CO,VH,5,A,-,-,-,34.3,-,-,9 - 14.1
+  801-1000,Savitribai Phule Pune University,India,2020,M,CO,VH,4,A,-,-,37.8,-,,-,9 - 14.1
+  801-1000,Seoul National University of Science and Technology,South Korea,2020,M,FO,VH,,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Sepuluh Nopember Institute of Technology,Indonesia,2020,L,SP,MD,4,A,-,-,27.5,-,42.6,-,9 - 14.1
+  801-1000,Shahid Beheshti University Tehran,Iran,2020,L,FO,VH,4,A,-,-,-,23.5,-,-,9 - 14.1
+  801-1000,Shanghai International Studies University,China,2020,L,SP,MD,4,A,-,-,30.6,-,38.9,50.1,9 - 14.1
+  801-1000,Sheffield Hallam University,United Kingdom,2020,L,,,,,-,23.3,-,-,30.7,20.2,9 - 14.1
+  801-1000,Shiraz University,Iran,2020,L,CO,VH,4,A,-,-,-,37.3,,-,9 - 14.1
+  801-1000,Sophia University,Japan,2020,L,CO,HI,5,B,-,-,-,-,36.9,25.6,9 - 14.1
+  801-1000,South Ural State University,Russia,2020,L,CO,HI,4,A,-,-,39.8,-,-,21.8,9 - 14.1
+  801-1000,Tallinn University,Estonia,2020,M,FO,HI,2,A,-,-,-,-,41.9,25.7,9 - 14.1
+  801-1000,Technical University of Kosice,Slovakia,2020,M,FO,VH,4,A,-,-,31,-,-,-,9 - 14.1
+  801-1000,TecnolÛgico de Costa Rica (TEC),Costa Rica,2020,M,,,5,,-,29.8,26.4,-,-,-,9 - 14.1
+  801-1000,Texas Tech University,United States,2020,XL,,,,,-,-,-,19.1,39.2,-,9 - 14.1
+  801-1000,Thapar University,India,2020,M,FO,VH,4,A,-,-,-,23.5,-,-,9 - 14.1
+  801-1000,The Robert Gordon University,United Kingdom,2020,M,CO,HI,3,A,-,-,-,-,51.5,65.4,9 - 14.1
+  801-1000,Tokai University,Japan,2020,L,FC,HI,4,B,-,-,-,-,-,-,9 - 14.1
+  801-1000,Tokyo University of Science,Japan,2020,L,FO,VH,4,B,-,-,-,23.1,-,-,9 - 14.1
+  801-1000,Universidad Austral de Chile,Chile,2020,L,FC,MD,4,B,-,-,-,-,21.3,-,9 - 14.1
+  801-1000,Universidad AutÛnoma de Nuevo LeÛn (UANL),Mexico,2020,XL,FC,MD,4,A,-,19.5,-,-,-,-,9 - 14.1
+  801-1000,Universidad AutÛnoma del Estado de MÈxico,Mexico,2020,XL,FC,MD,5,A,20.7,-,-,-,-,-,9 - 14.1
+  801-1000,Universidad AutÛnoma Metropolitana (UAM),Mexico,2020,XL,FC,HI,3,A,22.7,-,-,-,-,-,9 - 14.1
+  801-1000,Universidad CatÛlica AndrÈs Bello - UCAB,Venezuela,2020,L,FO,LO,4,B,18.5,49.3,-,-,,-,9 - 14.1
+  801-1000,Universidad de Castilla-La Mancha,Spain,2020,L,FC,HI,,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Universidad de la Rep˙blica (UdelaR),Uruguay,2020,XL,FC,HI,5,A,17.3,-,-,-,-,-,9 - 14.1
+  801-1000,Universidad de Lima,Peru,2020,M,,,4,,-,36.3,-,-,-,-,9 - 14.1
+  801-1000,Universidad de los Andes Chile,Chile,2020,M,FC,MD,3,B,-,22.2,-,-,-,-,9 - 14.1
+  801-1000,Universidad de los Andes MÈrida,Venezuela,2020,XL,FC,MD,5,A,-,19.3,-,-,-,-,9 - 14.1
+  801-1000,Universidad de Monterrey,Mexico,2020,M,SP,,4,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Universidad de Murcia,Spain,2020,L,FC,HI,5,A,-,-,23.8,-,-,-,9 - 14.1
+  801-1000,Universidad de Oviedo,Spain,2020,L,,,,,-,-,-,18.6,,-,9 - 14.1
+  801-1000,Universidad de Puerto Rico,Puerto Rico,2020,XL,FC,HI,5,A,-,-,-,-,17,-,9 - 14.1
+  801-1000,Universidad de Talca,Chile,2020,M,CO,HI,3,A,-,-,-,-,21.2,-,9 - 14.1
+  801-1000,Universidad del Norte,Colombia,2020,L,FC,MD,4,B,-,21.1,-,-,-,-,9 - 14.1
+  801-1000,Universidad del Valle,Colombia,2020,L,FC,MD,4,A,-,18.6,-,-,-,-,9 - 14.1
+  801-1000,Universidad Diego Portales,Chile,2020,L,FC,MD,3,B,-,29.5,-,-,-,-,9 - 14.1
+  801-1000,Universidad EAFIT,Colombia,2020,L,CO,MD,4,B,-,52.7,-,-,,-,9 - 14.1
+  801-1000,Universidad Nacional Costa Rica,Costa Rica,2020,L,CO,MD,3,A,-,20.7,26,-,20,-,9 - 14.1
+  801-1000,Universidad Nacional de AsunciÛn,Paraguay,2020,XL,FC,LO,5,A,-,-,31.4,-,,-,9 - 14.1
+  801-1000,Universidad Nacional de CÛrdoba,Argentina,2020,XL,CO,HI,5,A,20.1,-,-,-,-,-,9 - 14.1
+  801-1000,Universidad Nacional de Mar del Plata,Argentina,2020,L,CO,HI,3,A,-,-,-,-,,,9 - 14.1
+  801-1000,Universidad Nacional de Rosario,Argentina,2020,XL,FC,MD,4,A,17.7,-,-,-,,,9 - 14.1
+  801-1000,Universidad Peruana Cayetano Heredia,Peru,2020,M,FO,VH,4,B,-,-,35.8,-,16.6,-,9 - 14.1
+  801-1000,Universidad SimÛn BolÌvar Venezuela,Venezuela,2020,M,FO,VH,4,A,-,30.7,-,-,-,-,9 - 14.1
+  801-1000,Universidad TÈcnica Federico Santa MarÌa,Chile,2020,L,FO,HI,4,B,-,42.5,-,-,21.8,-,9 - 14.1
+  801-1000,Universidad TecnolÛgica de Panam?(UTP),Panama,2020,L,CO,LO,3,A,-,28.8,-,-,-,-,9 - 14.1
+  801-1000,Universidad TecnolÛgica Nacional (UTN),Argentina,2020,XL,FO,HI,4,A,-,30.6,39.5,-,,,9 - 14.1
+  801-1000,"Universidade Catolica Portuguesa, Lisboa",Portugal,2020,M,FC,HI,3,B,-,24.1,-,-,-,20.6,9 - 14.1
+  801-1000,Universidade da CoruÒa,Spain,2020,L,CO,HI,3,A,-,-,41.6,-,-,-,9 - 14.1
+  801-1000,Universidade de Brasilia,Brazil,2020,XL,FC,HI,4,A,22.2,-,-,-,-,-,9 - 14.1
+  801-1000,Universidade de Vigo,Spain,2020,L,,,,,-,-,-,22.6,-,-,9 - 14.1
+  801-1000,Universidade do Estado do Rio de Janeiro (UERJ),Brazil,2020,XL,FC,HI,4,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Universidade Estadual de Londrina,Brazil,2020,L,FC,HI,3,A,-,-,32,-,-,-,9 - 14.1
+  801-1000,Universidade Federal de S„o Carlos,Brazil,2020,L,FC,HI,3,A,-,-,24,-,-,-,9 - 14.1
+  801-1000,Universidade Federal de ViÁosa,Brazil,2020,L,FC,HI,4,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Universidade Federal do Paran?(UFPR),Brazil,2020,XL,FC,HI,5,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Universidade Federal do Pernambuco,Brazil,2020,XL,FC,HI,4,A,-,-,28.5,-,-,-,9 - 14.1
+  801-1000,Universidade Federal Fluminense,Brazil,2020,XL,FC,HI,4,A,-,-,38.1,-,-,-,9 - 14.1
+  801-1000,Universit?degli Studi di Catania (UniCT),Italy,2020,L,FC,VH,5,A,-,-,-,31.6,-,-,9 - 14.1
+  801-1000,Universit?degli Studi di Ferrara,Italy,2020,L,FC,HI,5,A,-,-,-,51,-,-,9 - 14.1
+  801-1000,Universit?degli Studi di Salerno,Italy,2020,L,FC,HI,4,A,-,-,-,35.3,-,-,9 - 14.1
+  801-1000,Universita degli Studi di Udine,Italy,2020,M,CO,VH,3,,-,-,-,28.9,-,-,9 - 14.1
+  801-1000,Universit?degli Studi Roma Tre,Italy,2020,XL,CO,HI,3,A,17.8,-,-,-,-,-,9 - 14.1
+  801-1000,Universit‡† degli Studi di Palermo,Italy,2020,L,,,5,A,-,-,-,26.5,-,-,9 - 14.1
+  801-1000,Universit‰t Siegen,Germany,2020,L,,,,,-,-,-,-,37.1,23.7,9 - 14.1
+  801-1000,Universit?de Nantes,France,2020,XL,CO,VH,5,A,-,-,-,-,18.3,20.7,9 - 14.1
+  801-1000,Universit?de Poitiers,France,2020,L,CO,HI,5,A,-,-,-,-,,37.4,9 - 14.1
+  801-1000,Universit?de Rennes 1,France,2020,L,CO,VH,5,A,-,-,-,-,16.7,16.6,9 - 14.1
+  801-1000,Universit?LumiËre Lyon 2,France,2020,L,SP,HI,5,A,-,-,-,-,25.5,-,9 - 14.1
+  801-1000,Universit?Paul-ValÈry Montpellier 3,France,2020,L,FO,MD,5,A,-,-,-,-,18.9,85.5,9 - 14.1
+  801-1000,"Universit?Toulouse 1, Capitole",France,2020,L,FO,MD,5,A,-,-,-,-,38.2,61.9,9 - 14.1
+  801-1000,Universiti Malaysia Sarawak (UNIMAS),Malaysia,2020,L,FC,MD,3,A,-,-,-,-,36.8,-,9 - 14.1
+  801-1000,Universiti Tenaga Nasional (UNITEN),Malaysia,2020,M,SP,HI,2,C,-,-,32.1,-,16.2,14.6,9 - 14.1
+  801-1000,Universiti Tunku Abdul Rahman (UTAR),Malaysia,2020,L,FC,MD,2,B,-,22.5,-,-,-,-,9 - 14.1
+  801-1000,University of Arkansas Fayetteville,United States,2020,L,CO,VH,5,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,University of Bahrain,Bahrain,2020,L,CO,MD,3,A,-,19.4,-,-,98.2,22.3,9 - 14.1
+  801-1000,University of Bari,Italy,2020,L,FC,HI,4,A,-,-,-,25.8,-,-,9 - 14.1
+  801-1000,University of Belgrade,Serbia,2020,XL,FC,VH,5,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,University of Brighton,United Kingdom,2020,L,CO,HI,,,-,-,-,-,59.2,56.3,9 - 14.1
+  801-1000,University of Bucharest,Romania,2020,XL,FO,VH,5,A,17.6,-,-,-,-,-,9 - 14.1
+  801-1000,University of Calcutta,India,2020,L,CO,VH,5,A,-,-,-,18.6,-,-,9 - 14.1
+  801-1000,University of Central Lancashire,United Kingdom,2020,L,CO,HI,3,A,-,-,26.3,-,32.3,50.3,9 - 14.1
+  801-1000,University of Dhaka,Bangladesh,2020,XL,FC,MD,4,A,-,20.9,-,-,-,-,9 - 14.1
+  801-1000,University of Engineering & Technology (UET) Lahore,Pakistan,2020,L,FO,HI,4,A,-,26,-,-,-,-,9 - 14.1
+  801-1000,University of Gdansk,Poland,2020,L,FO,VH,3,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,University of Kufa,Iraq,2020,L,FC,MD,3,A,-,-,43.6,-,-,-,9 - 14.1
+  801-1000,University of Kwazulu-Natal,South Africa,2020,XL,FC,HI,3,A,-,-,-,19.2,33.3,-,9 - 14.1
+  801-1000,University of Latvia,Latvia,2020,L,FC,MD,5,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,University of Lincoln,United Kingdom,2020,L,CO,HI,5,A,-,-,-,-,75.5,-,9 - 14.1
+  801-1000,University of Lodz,Poland,2020,L,CO,HI,4,,-,-,27.5,-,-,-,9 - 14.1
+  801-1000,University of Malaysia Sabah (UMS),Malaysia,2020,L,FC,MD,3,A,-,-,-,-,24.7,-,9 - 14.1
+  801-1000,University of Mississippi,United States,2020,L,CO,VH,5,A,-,-,36.6,-,-,-,9 - 14.1
+  801-1000,University of Montana Missoula,United States,2020,M,,,5,A,-,-,-,22.6,-,-,9 - 14.1
+  801-1000,University of Mumbai,India,2020,M,FC,MD,5,A,-,25.5,-,-,-,-,9 - 14.1
+  801-1000,University of New England,Australia,2020,L,CO,HI,5,A,-,-,-,25.5,-,-,9 - 14.1
+  801-1000,University of New Hampshire,United States,2020,L,CO,VH,5,A,-,-,-,30.9,-,-,9 - 14.1
+  801-1000,University of Ostrava,Czech Republic,2020,M,CO,HI,3,A,-,-,32.7,-,16.1,-,9 - 14.1
+  801-1000,University of Parma,Italy,2020,L,FC,HI,5,,-,-,-,38.6,-,-,9 - 14.1
+  801-1000,University of Peradeniya,Sri Lanka,2020,L,CO,HI,3,A,-,-,23.6,-,,-,9 - 14.1
+  801-1000,University of Salford,United Kingdom,2020,L,CO,HI,4,A,-,-,-,-,32,55.7,9 - 14.1
+  801-1000,University of San Diego,United States,2020,M,CO,HI,4,B,-,-,26.2,-,-,-,9 - 14.1
+  801-1000,University of San Francisco,United States,2020,M,CO,HI,5,B,-,-,-,-,-,38.3,9 - 14.1
+  801-1000,University of Santo Tomas,Philippines,2020,XL,FC,LO,5,B,-,18.2,-,-,21.7,-,9 - 14.1
+  801-1000,University of Silesia,Poland,2020,L,CO,HI,4,A,-,-,36,-,,-,9 - 14.1
+  801-1000,University of the Pacific,United States,2020,M,CO,HI,5,B,-,-,45.2,-,-,-,9 - 14.1
+  801-1000,University of the Punjab,Pakistan,2020,L,CO,HI,5,A,-,20.2,-,-,-,-,9 - 14.1
+  801-1000,University of the Western Cape,South Africa,2020,L,CO,HI,4,A,-,-,-,20.5,28.7,-,9 - 14.1
+  801-1000,University of Wroclaw,Poland,2020,L,CO,VH,4,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,University Toulouse ?Jean JaurËs,France,2020,XL,FO,MD,5,A,-,-,-,-,34.6,34.2,9 - 14.1
+  801-1000,Utah State University,United States,2020,L,CO,VH,5,A,-,-,-,33.5,-,-,9 - 14.1
+  801-1000,Vellore Institute of Technology (VIT),India,2020,XL,FO,VH,3,B,-,-,-,-,-,-,9 - 14.1
+  801-1000,Verona University,Italy,2020,L,FC,HI,3,A,-,-,-,31,-,-,9 - 14.1
+  801-1000,"Vietnam National University, Hanoi",Vietnam,2020,XL,FO,HI,3,A,-,-,-,-,-,-,9 - 14.1
+  801-1000,Voronezh State University,Russia,2020,L,CO,HI,5,A,-,-,37.3,-,-,16.3,9 - 14.1
+  801-1000,Vytautas Magnus University,Lithuania,2020,M,FO,VH,4,A,-,-,-,-,17.4,-,9 - 14.1
+  801-1000,Warsaw University of Life Sciences,Poland,2020,L,FO,VH,5,A,-,-,28.8,-,-,-,9 - 14.1
+  801-1000,Wroc?aw University of Science and Technology,Poland,2020,L,FO,VH,5,A,-,-,26.3,-,-,-,9 - 14.1
+  801-1000,Wuhan University of Technology,China,2020,XL,FO,VH,2,A,-,-,-,18.9,-,-,9 - 14.1
+  801-1000,Xi'an Jiaotong-Liverpool University,China,2020,M,CO,HI,2,B,-,-,-,-,100,-,9 - 14.1
+  801-1000,Yeungnam University,South Korea,2020,L,FC,HI,4,C,-,-,-,23.4,21.9,-,9 - 14.1
+N/A,Baylor College of Medicine,United States,2020,S,SP,VH,5,B,-,-,100,17.5,,28.2,9 - 14.1
+N/A,BI Norwegian Business School,Norway,2020,L,SP,VH,4,B,-,-,-,17.9,82.3,20.2,-
+N/A,Central European University,Hungary,2020,S,FO,VH,3,B,18.9,-,93.4,37.5,100,100,-
+N/A,Copenhagen Business School,Denmark,2020,L,SP,VH,5,A,-,20.8,-,43.8,87.4,69.4,-
+N/A,Cranfield University,United Kingdom,2020,S,CO,VH,4,A,-,25.8,99.5,52.2,98.9,100,-
+N/A,ESCP Europe,France,2020,S,SP,LO,5,B,-,47.5,-,-,100,99.9,-
+N/A,"ESSEC Business School, Paris",France,2020,M,SP,VH,5,B,-,68.7,-,41.3,99.6,90.5,-
+N/A,"Grenoble INP, Grenoble Institute of Technology",France,2020,M,SP,HI,5,A,-,27.5,-,-,34.4,77.6,-
+N/A,HEC Paris,France,2020,S,SP,VH,5,B,16.8,93.3,-,55.7,100,100,-
+N/A,INSEAD (France),France,2020,S,SP,VH,4,B,22.6,89.5,77.7,49.5,100,100,-
+N/A,Jawaharlal Nehru University,India,2020,M,CO,VH,4,A,29.3,-,40.4,19,,-,-
+N/A,Karolinska Institute,Sweden,2020,M,SP,VH,5,A,41.6,18.1,99.8,90.4,89.5,62.9,-
+N/A,King Abdullah University of Science & Technology (KAUST),Saudi Arabia,2020,S,FO,VH,2,B,21.1,-,84.8,100,100,100,-
+N/A,London Business School,United Kingdom,2020,S,SP,VH,4,A,23.8,90.5,-,94.6,100,100,-
+N/A,Stockholm School of Economics,Sweden,2020,S,SP,VH,5,B,-,25.3,-,58.3,87.7,29.5,-
+N/A,Universit?Commerciale Luigi Bocconi,Italy,2020,L,SP,VH,5,B,24.6,82.2,-,19.9,38.7,28.9,-
+N/A,"Universit?de Technologie, CompiËgne (UTC)",France,2020,S,SP,VH,3,A,-,18,38.4,25.4,,35.6,-
+N/A,Universit?Sorbonne Nouvelle Paris 3,France,2020,L,SP,VH,,,37.7,19.5,-,-,,98.5,-
+N/A,"University of California, San Francisco (UCSF)",United States,2020,S,SP,VH,5,A,45.6,-,100,57.5,45.3,-,-
+N/A,"University of Economics, Prague",Czech Republic,2020,L,SP,VH,4,A,-,23,-,-,-,43.9,-
+N/A,Weizmann Institute of Science,Israel,2020,S,FO,VH,4,A,20.8,-,100,89.4,,,-
+N/A,WHU Otto Beisheim School of Management - Koblenz,Germany,2020,S,SP,VH,3,,-,27.4,-,45.4,95.1,28.4,-
