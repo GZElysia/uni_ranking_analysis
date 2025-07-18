@@ -1,0 +1,1003 @@
+Rank,Institution Name,Country,Year,Academic Reputation,Employer Reputation,Faculty Student,Citations per Faculty,International Faculty,International Students,Overall
+1,Massachusetts Institute of Technology (MIT),United States,2021,100,100,100,100,91.9,99.1,100
+2,Stanford University,United States,2021,100,100,100,99.7,63.6,98.1,98.4
+3,Harvard University,United States,2021,100,100,98.6,85.2,69.9,99.1,97.9
+4,California Institute of Technology (Caltech),United States,2021,97,82.8,100,100,88.2,99.9,97
+5,University of Oxford,United Kingdom,2021,100,100,100,99.4,98.3,81.3,96.7
+6,ETH Zurich - Swiss Federal Institute of Technology,Switzerland,2021,98.7,96.6,80.8,100,97.9,96.4,95
+7,University of Cambridge,United Kingdom,2021,100,100,100,100,97.4,69.2,94.3
+8,Imperial College London,United Kingdom,2021,98.5,99.8,99.9,100,100,68.6,93.6
+9,University of Chicago,United States,2021,99.4,91.3,94.4,67.1,82.6,86.3,93.1
+10,UCL,United Kingdom,2021,99.4,98.3,98.4,99.3,100,65.4,92.9
+11,National University of Singapore (NUS),Singapore,2021,99.7,98.4,90.7,100,71.4,72.9,91.5
+12,Princeton University,United States,2021,99.9,99,68.6,71.6,65.6,100,91
+13,"Nanyang Technological University, Singapore (NTU)",Singapore,2021,89.8,89.8,91.5,100,67.6,89,89.9
+14,EPFL,Switzerland,2021,80.4,80,96.3,100,100,98.5,89.6
+15,Tsinghua University,China (Mainland),2021,98.2,98.6,93.3,55.3,29.7,83.2,89.2
+16,University of Pennsylvania,United States,2021,96.1,91.5,100,88.7,65.3,63.8,88.6
+17,Yale University,United States,2021,99.9,100,100,85.3,54.5,52.8,88
+18,Cornell University,United States,2021,98.5,90.9,63.7,93.7,70,88.6,87.6
+19,Columbia University,United States,2021,99.7,97.3,100,37.2,96.3,48.5,86.5
+20,The University of Edinburgh,United Kingdom,2021,98,95.4,83.1,98.2,99,50.2,85.8
+21,University of Michigan-Ann Arbor,United States,2021,98.9,92.7,89.4,74.8,41.3,58,84.6
+22,The University of Hong Kong,"Hong Kong,China",2021,98.1,76.3,83.8,100,98.9,48,83.7
+23,Peking University,China (Mainland),2021,99.2,99.1,76.4,69.7,34.3,64.9,83.5
+24,The University of Tokyo,Japan,2021,100,99.6,92.3,10.7,26.1,62.5,83.2
+25,Johns Hopkins University,United States,2021,86.7,47,100,66.3,87.7,75.9,82.7
+25,University of Toronto,Canada,2021,99.3,96.8,70.3,97.9,94.1,45.8,82.7
+27,The Hong Kong University of Science and Technology,"Hong Kong,China",2021,85.2,63.6,66.7,100,88.9,92.1,82.1
+27,The University of Manchester,United Kingdom,2021,95.3,97.4,72.7,92.9,98.8,48.4,82.1
+29,Northwestern University,United States,2021,85.1,74.4,99.7,57.9,45.3,72.3,81.5
+30,"University of California, Berkeley (UCB)",United States,2021,100,99.9,21.3,94.9,39.7,96.9,80.8
+31,The Australian National University,Australia,2021,95.6,77.6,40.1,100,99.6,77.8,80
+31,King's College London,United Kingdom,2021,88.9,81.1,83.1,98.4,99.9,46.4,80
+31,McGill University,Canada,2021,92.3,94.1,67.5,90.5,96.3,51.8,80
+34,Fudan University,China (Mainland),2021,84.7,92.5,90.9,93.1,46.3,55.7,79.9
+35,New York University (NYU),United States,2021,95.8,96.5,96.7,37.3,93,25.8,79.4
+36,"University of California, Los Angeles (UCLA)",United States,2021,100,99.7,42,47.3,32.6,81.9,79.2
+37,Seoul National University,South Korea,2021,97.9,95.9,87.9,18.6,11.6,53.7,79
+38,Kyoto University,Japan,2021,98.6,96.9,95,16,19.8,42.6,78.9
+39,KAIST - Korea Advanced Institute of Science & Technology,South Korea,2021,86.8,82.2,70,24.7,9.7,97.4,78.6
+40,The University of Sydney,Australia,2021,97.4,95.3,21.4,100,100,69.6,77.1
+41,The University of Melbourne,Australia,2021,99.1,97.3,18.8,97.4,100,65.4,76.5
+42,Duke University,United States,2021,88.2,85.3,100,5.9,58,44.7,76.4
+43,The Chinese University of Hong Kong (CUHK),"Hong Kong,China",2021,90.3,53.1,59.2,100,91.5,62.6,75.8
+44,The University of New South Wales (UNSW Sydney),Australia,2021,91.1,94.9,16.7,100,99.2,78.4,75.4
+45,University of British Columbia,Canada,2021,97.1,89.6,53.1,89.5,78.8,37.4,74.8
+46,The University of Queensland,Australia,2021,89,78.2,23.8,100,99.9,79.6,74.5
+47,Shanghai Jiao Tong University,China (Mainland),2021,82.5,90.9,60.4,64,30.2,75.4,74.4
+48,City University of Hong Kong,"Hong Kong,China",2021,61.5,32.8,88.9,100,99,91.2,74.3
+49,The London School of Economics and Political Science (LSE),United Kingdom,2021,75.8,99.6,41.9,100,100,74,73.9
+50,Technical University of Munich,Germany,2021,83.8,98.5,89.7,63.4,84.7,22.4,73.6
+51,Carnegie Mellon University,United States,2021,73.3,72.4,51,65.3,99.4,89.8,73.4
+52,Universit¨¦ PSL,France,2021,75.5,97.5,100,64.5,68.4,31.6,73.3
+53,Zhejiang University,China (Mainland),2021,69.3,91.1,90,98.1,74.2,40,71.9
+54,"University of California, San Diego (UCSD)",United States,2021,91.9,50.4,61.3,59.9,64.3,52.7,71.2
+55,Monash University,Australia,2021,90,88.7,14.1,100,100,64.2,70.9
+56,Tokyo Institute of Technology (Tokyo Tech),Japan,2021,73.3,90.4,83.4,27.6,28,62.6,70.8
+57,Delft University of Technology,Netherlands,2021,70.7,87.9,43.9,99.8,85.6,75.8,70.7
+58,University of Bristol,United Kingdom,2021,75.5,82.9,70.8,91.5,80.6,44.8,70.6
+59,Universiti Malaya (UM),Malaysia,2021,74.1,84.6,82.1,68.7,44.5,47.7,70.1
+60,Brown University,United States,2021,60.2,58.1,82,82.9,53.4,82.3,70
+61,University of Amsterdam,France,2021,82.3,55.6,35.4,84.5,61.6,83.3,69.9
+61,Ecole Polytechnique,Netherlands,2021,41.8,98.7,99.8,95.8,99,65.8,69.9
+62,The University of Warwick,United Kingdom,2021,74.3,92,47.8,98.1,99.2,51.4,69
+63,Ludwig-Maximilians-Universit?t M¨¹nchen,Germany,2021,92.9,80.7,49.1,57.6,36.2,43.9,68.9
+64,Ruprecht-Karls-Universit?t Heidelberg,Germany,2021,80.6,41.8,99.1,52.3,49.5,34.2,68.6
+65,University of Wisconsin-Madison,United States,2021,85.6,49.5,72.7,34.7,27.6,54.9,68.2
+66,National Taiwan University (NTU),"Taiwan,China",2021,91.8,87.5,38.7,19.1,38.7,54.8,67.5
+66,Universidad de Buenos Aires (UBA),Argentina,2021,88.3,90.8,77.9,60.4,71.8,2.5,67.5
+69,Korea University,South Korea,2021,75.2,91.7,84.9,15,53.3,35.4,67.1
+69,University of Zurich,Switzerland,2021,59.7,60.6,98,100,59.8,45.9,67.1
+71,University of Texas at Austin,United States,2021,94,83.4,12.4,6.5,16.2,84,66.7
+72,Osaka University,Japan,2021,80.1,79.6,78.9,20.3,14,41.3,66.1
+72,University of Washington,United States,2021,85.9,49,13.7,39.7,39.5,98.8,66.1
+74,Lomonosov Moscow State University,Russia,2021,77.3,82.8,99.8,20.1,76.8,7.4,65.9
+75,The Hong Kong Polytechnic University,"Hong Kong,China",2021,66.3,40.8,78,100,80.2,51,65.8
+76,University of Copenhagen,Denmark,2021,72.8,38.7,100,91.8,26.5,31.2,65.5
+77,Pohang University of Science And Technology (POSTECH),South Korea,2021,43,54.6,99.9,33.8,3,98.7,64.6
+77,University of Glasgow,United Kingdom,2021,73,66.8,60.4,93.8,97.1,33.5,64.6
+79,Tohoku University,Japan,2021,69.3,72.4,98.1,11.8,16.9,39.6,64.3
+80,Georgia Institute of Technology,United States,2021,68.8,76.4,9.2,71,64.8,99.9,64.1
+81,The University of Auckland,New Zealand,2021,84.9,55.9,25.4,97.6,94.5,47,64
+82,University of Illinois at Urbana-Champaign,United States,2021,87.4,52.1,10.8,18.8,60.4,83.7,63.4
+83,Sorbonne University,France,2021,90.1,47.4,38.9,34,57.1,49.3,63.3
+84,KU Leuven,Belgium,2021,83.4,55.5,9.4,90.7,36.1,77.5,63
+85,Yonsei University,South Korea,2021,68.3,87.7,85.1,12.1,45.3,31,62.5
+86,Durham University,United Kingdom,2021,58,90.2,33.1,97.9,88.7,68.3,62.2
+87,University of Birmingham,United Kingdom,2021,64.4,72.6,52.5,93.4,87.9,45.4,62
+88,Sungkyunkwan University(SKKU),South Korea,2021,60.2,75.6,84.9,20.1,39.3,47.7,61.5
+89,Rice University,United States,2021,39.6,25.3,80.8,88.8,92,87.5,61.4
+90,University of Southampton,United Kingdom,2021,50.9,52.9,66.8,97.6,93.5,61.7,61.3
+91,University of Leeds,United Kingdom,2021,70.6,78.1,46,84.7,81.3,36.7,61.2
+92,The University of Western Australia,Australia,2021,61.1,52.7,19,100,99.6,85.7,61
+93,The University of Sheffield,United Kingdom,2021,61.4,58.6,62.2,85.3,96,42.8,60.8
+93,University of Science and Technology of China,China (Mainland),2021,53.9,19.9,77.7,24.1,6.1,99.2,60.8
+95,"University of North Carolina, Chapel Hill",United States,2021,68.1,49.7,84.4,32.6,10.5,44.8,60.6
+96,University of St Andrews,United Kingdom,2021,46,61.1,67.6,98.4,99.8,60.2,60.3
+97,Lund University,Sweden,2021,70,50.9,53.6,92.3,69,39.9,60.2
+98,KTH Royal Institute of Technology,Sweden,2021,46.2,63.6,64.8,98.3,57.4,68,59.5
+99,University of Nottingham,United Kingdom,2021,60,71.6,47.7,90.8,83.5,46.4,59
+100,Universidad Nacional Aut¨®noma de M¨¦xico (UNAM),Mexico,2021,93.3,90.9,52.9,9.9,3.6,4,58.8
+101,Pennsylvania State University,United States,2021,74.9,75.3,29.9,15.9,36.9,59.7,58.4
+101,"Trinity College Dublin, The University of Dublin",Ireland,2021,66.6,49.7,32.4,99.6,93.7,51.3,58.4
+103,Technical University of Denmark,Denmark,2021,31.3,29.7,99.9,99.9,78.6,66,57.9
+104,University of Helsinki,Finland,2021,65.3,45.9,67.5,61.4,5.7,48.4,57.6
+105,Washington University in St. Louis,United States,2021,43.3,15.5,99.8,80,61.8,53.3,56.9
+106,The University of Adelaide,Australia,2021,55.5,37,25.5,99.8,99.1,77.8,56.8
+106,University of Geneva,Switzerland,2021,50.9,23.4,48.5,100,97.4,71.2,56.8
+108,The Ohio State University,United States,2021,63.5,63.2,57.6,81.3,23.5,37.8,56.4
+109,Purdue University,United States,2021,63.6,69.4,19.2,83.9,51.4,62.7,55.9
+110,Boston University,United States,2021,62,53.4,42.4,30.9,88,54.3,55.8
+110,Nagoya University,Japan,2021,58.7,52.3,90,14.8,20.4,35,55.8
+112,"University of California, Davis",United States,2021,68.7,33.9,28.7,75.1,68.4,56.1,55.3
+113,University of Oslo,Norway,2021,54.5,15.7,82.1,88.3,26.7,46.8,55.2
+114,Queen Mary University of London,United Kingdom,2021,52.6,40.9,58.4,99.7,99,40.4,55.1
+114,University of Bern,Switzerland,2021,30.2,38.7,70.9,100,42.7,86.7,54.9
+115,Universidade de S?o Paulo,Brazil,2021,88.6,67.4,20.5,8.2,3.1,38.1,54.8
+115,Wageningen University & Research,Netherlands,2021,40,22.2,96.9,45.5,79.8,53.1,54.8
+117,Humboldt-Universit?t zu Berlin,Germany,2021,89.8,57.5,10,50,31.1,32.2,54.5
+118,Universit¨¦ de Montr¨¦al,Canada,2021,55.1,53.6,66.8,88.8,59.7,29.1,54.3
+119,University of Alberta,Canada,2021,54.6,37.7,50.5,91.2,79.9,47.2,54
+120,Eindhoven University of Technology,Netherlands,2021,30.4,78.1,55.2,99.7,44.9,76.6,53.9
+121,Pontificia Universidad Cat¨®lica de Chile (UC),Chile,2021,87.7,96.4,24.2,18.6,3.9,14.1,53.8
+121,University of Southern California,United States,2021,58.1,55.1,34.1,32,84.3,60.5,53.8
+121,Utrecht University,Netherlands,2021,66,34,38.9,59.9,25,58.3,53.8
+124,Kyushu University,Japan,2021,54.6,62.5,86.7,14.4,20.4,31.2,53.7
+124,Nanjing University,China (Mainland),2021,59.7,23.4,28,71.4,9.5,87.6,53.7
+124,Uppsala University,Sweden,2021,66.3,27.7,42.8,66.3,35.3,52.5,53.7
+127,Aalto University,Finland,2021,43.4,43,53.6,93.2,35.4,72.5,53.6
+128,Leiden University,Netherlands,2021,69.2,32.2,25.8,82.2,48.1,52.6,53.4
+128,University of Groningen,Netherlands,2021,50.6,28.1,62.6,92,86.5,43.2,53.4
+130,Freie Universitaet Berlin,Germany,2021,80.9,48.4,4.2,63.6,46.6,46.7,53.2
+131,"KIT, Karlsruhe Institute of Technology",Germany,2021,46.2,85,27.4,60.1,60.5,70.3,52.9
+132,Universiti Putra Malaysia (UPM),Malaysia,2021,50.5,52.8,76.1,58.1,86.5,22.3,52.7
+133,University of Technology Sydney,Australia,2021,45.3,78.8,8.8,98.1,94.9,74.4,52.6
+135,Lancaster University,United Kingdom,2021,40.6,31,45.6,93.7,95.4,71.3,52.5
+135,Ghent University,Belgium,2021,53.7,23.5,83,68.4,19.1,37.1,52.5
+137,Politecnico di Milano,Italy,2021,67,82.6,5.3,46.4,49.6,55.9,52.4
+138,CentraleSup¨¦lec,France,2021,15.6,99.9,89.1,65.6,86.1,51.9,52.3
+139,Chalmers University of Technology,Sweden,2021,28.3,58.6,68.2,98.8,60.3,65.6,52.2
+139,Hokkaido University,Japan,2021,54,60,80,17.9,16.2,32.7,52.2
+141,Universiti Kebangsaan Malaysia (UKM),Malaysia,2021,53.8,55.7,93.3,31.2,40.8,11.9,52
+142,Universiti Sains Malaysia (USM),Malaysia,2021,56,60.5,76.2,37.6,49.9,17.6,51.9
+143,King Abdulaziz University (KAU),Saudi Arabia,2021,36.3,52.4,69,99,57,50.2,51.7
+144,McMaster University,Canada,2021,40.7,47.6,81.4,99.3,48.1,32.4,51.5
+145,RWTH Aachen University,Germany,2021,51.9,95.8,7.4,43.7,70.3,68.1,51.4
+146,Hanyang University,South Korea,2021,46.5,78.3,77.1,23.1,31.9,31.9,51.3
+147,Aarhus University,Denmark,2021,54.6,40.9,32.6,84.9,17,65.6,51
+148,Technische Universit?t Berlin (TU Berlin),Germany,2021,54.1,75,50.3,38.2,74.4,28.2,50.8
+149,University of Basel,Switzerland,2021,28.4,28.5,45.3,100,87.1,88.3,50.6
+150,University of Vienna,Austria,2021,69.2,42.7,24.3,98.1,90.3,18.7,50.3
+150,University of York,United Kingdom,2021,42.6,41.4,58.4,89.5,69.9,45.7,50.3
+152,Newcastle University,United Kingdom,2021,43.7,76.8,39.6,87.6,81.2,41.8,50.2
+152,"University of California, Santa Barbara (UCSB)",United States,2021,60,19.3,11.4,55.3,29.4,87.1,50.2
+152,"University of Maryland, College Park",United States,2021,53.1,31.5,49.9,27.5,22.5,65,50.2
+155,Tecnol¨®gico de Monterrey,Mexico,2021,41.7,88.3,87.3,96.7,16.1,5.2,49.9
+156,University of Pittsburgh,United States,2021,43.9,19.6,96.7,8.6,19.4,45.6,49.7
+157,Michigan State University,United States,2021,61.5,65.6,15.4,62,26.9,52.9,49.6
+158,Emory University,United States,2021,25.8,14.5,98.5,50.1,41.1,63.9,49.1
+159,Cardiff University,United Kingdom,2021,47.4,39.4,48,81.7,77,38.9,48.5
+160,Alma Mater Studiorum - University of Bologna,Italy,2021,79.6,46.4,4.7,12.1,11.9,46.3,48.2
+161,?cole Normale Sup¨¦rieure de Lyon,France,2021,33.3,10.1,94.6,53.7,18.9,54.7,48.1
+162,Case Western Reserve University,United States,2021,19.7,18.7,86.5,55.3,74.5,67.8,47.4
+162,University of Florida,United States,2021,49.7,51.9,75.3,20.6,12.9,26.8,47.4
+164,The University of Exeter,United Kingdom,2021,39.7,60.3,42.6,90.6,79.4,40.2,47.2
+165,Al-Farabi Kazakh National University,Kazakhstan,2021,42,63.1,98.2,42,30.7,1.4,46.9
+166,University of Rochester,United States,2021,25.5,11.3,99.9,63.5,92.9,37.1,46.8
+166,University of Waterloo,Canada,2021,39.6,77.5,7.9,76.4,83.4,67,46.8
+168,National Tsing Hua University,"Taiwan,China",2021,49.5,58.1,34.8,19.4,18,58.3,46.4
+169,Texas A&M University,United States,2021,60.7,59.9,8.1,25.2,19.1,59.2,46.2
+169,University of Lausanne,Switzerland,2021,35.1,21.5,56.7,99.5,62,51.7,46.2
+171,Sapienza University of Rome,Italy,2021,78.4,33.8,5.1,4.8,10.5,46.3,46.1
+172,Indian Institute of Technology Bombay (IITB),India,2021,50.4,74.2,36.2,3.9,1.6,53.1,46
+173,Technische Universit?t Dresden,Germany,2021,37.6,61.1,83.7,35.7,34.1,21.5,45.9
+173,University of Bath,United Kingdom,2021,36.1,67.7,24.8,98.1,90.4,50,45.9
+175,Eberhard Karls Universit?t T¨¹bingen,Germany,2021,45.6,22.6,89.5,45.8,26,17.8,45.8
+175,Albert-Ludwigs-Universitaet Freiburg,Germany,2021,52,18.7,35.7,62.4,43.9,51.8,45.8
+177,The Hebrew University of Jerusalem,Israel,2021,37.4,29.5,79.8,65.4,9.9,39.2,45.7
+177,University College Dublin,Ireland,2021,49.2,41.6,28.8,97.6,63.2,39,45.7
+177,University of Minnesota Twin Cities,United States,2021,64.3,26.2,31.9,7.1,15,48.1,45.7
+180,Universidad de Chile,Chile,2021,73.9,91.2,13.8,9.5,7.4,15,45.6
+181,Stockholm University,Sweden,2021,55.1,15.6,29,87.5,41.5,46.9,45.5
+181,University of Liverpool,United Kingdom,2021,42.9,31,48.6,86.7,93.8,30.9,45.5
+183,Universitat de Barcelona,Spain,2021,70.2,38.1,20.9,6.6,32.1,35.5,45.4
+184,University of Otago,New Zealand,2021,53,36.5,17.6,100,59,43.5,45.3
+185,Indian Institute of Science,India,2021,31.8,18.3,49.8,1.4,1.6,100,44.9
+186,King Fahd University of Petroleum & Minerals,Saudi Arabia,2021,27.7,21.1,80.7,100,18.1,46.1,44.7
+187,Universiti Teknologi Malaysia,Malaysia,2021,39.4,51.6,64.4,27.6,63.9,27.8,44.2
+187,Vanderbilt University,United States,2021,26.9,24.7,100,23.5,31.5,39.7,44.2
+189,Universit¨¦ catholique de Louvain (UCLouvain),Belgium,2021,50.2,37.2,7.6,87.2,39.9,60.9,44.1
+189,Waseda University,Japan,2021,58.6,93.6,30.6,31,36.7,7.6,44.1
+191,Keio University,Japan,2021,49.5,87,60.8,12.2,11.7,9.6,44
+191,Vienna University of Technology,Austria,2021,32.3,52.7,10.2,75.2,86,77.5,44
+193,Indian Institute of Technology Delhi (IITD),India,2021,44.3,64.5,28.4,2.3,1.5,67.8,43.9
+194,University of Bergen,Norway,2021,33.6,8.2,77.9,87.3,8.8,42.4,43.4
+195,University of G?ttingen,Germany,2021,49,17.9,65.5,49.9,25,24.3,43.3
+196,University of Wollongong,Australia,2021,31.3,34.5,19.2,91.8,86,71,43.2
+197,Erasmus University Rotterdam,Netherlands,2021,34,63.7,32.4,82.2,59,46.7,43.1
+197,"The University of Newcastle, Australia (UON)",Australia,2021,33.5,27.9,32.4,99.9,44.6,64.7,43.1
+197,University of Twente,Netherlands,2021,20.8,40.4,36.8,96.1,86.5,69.8,43.1
+200,Universidad Aut¨®noma de Madrid,Spain,2021,57.1,55.4,42.3,8.8,12,23.3,42.8
+200,Vrije Universiteit Brussel (VUB),Belgium,2021,24.7,18.9,87.3,88.2,62.1,29.1,42.8
+202,University of Gothenburg,Sweden,2021,38.3,15.7,69.2,65.5,42.7,31.4,42.7
+203,Dartmouth College,United States,2021,19.4,29.5,69.5,5.5,32.7,79.3,42.6
+203,Western University,Canada,2021,29.8,63.7,7.4,95.6,51,76.1,42.6
+205,University of Reading,United Kingdom,2021,33.4,34.3,28.6,93.2,86.4,53,42.3
+206,Complutense University of Madrid,Spain,2021,66.4,63.5,23.3,3.2,21.3,14.2,41.9
+207,University of Aberdeen,United Kingdom,2021,28.7,23.6,32.8,94.8,99,57.4,41.8
+208,Chulalongkorn University,Thailand,2021,67.1,60.7,29.1,14.6,2.6,9,41.6
+209,Queen's University Belfast,United Kingdom,2021,29,33,46.3,99.8,96.5,36.6,41.5
+210,"University of California, Irvine",United States,2021,44.2,14.4,10.7,46.6,75.7,68.7,41.4
+211,Khalifa University of Science and Technology,United Arab Emirates,2021,11.9,10.2,86.4,100,48.1,52.6,41.2
+211,University of Notre Dame,United States,2021,29.2,47.5,68.2,29.3,19.8,42.3,41.2
+213,Universitat Aut¨°noma de Barcelona,Spain,2021,59.9,33.9,15.2,22.2,23.1,39.9,40.9
+214,Macquarie University,Australia,2021,31.6,49.6,21.8,97.2,97.5,44.5,40.8
+214,Radboud University,Netherlands,2021,31.8,16.7,40.2,59,23.2,70.2,40.8
+216,Universit¨¤ di Padova,Italy,2021,59.4,35.6,11.1,10.9,5.9,49.9,40.6
+217,Curtin University,Australia,2021,32.4,43.4,16.8,100,50.2,60.6,40.5
+217,Queensland University of Technology (QUT),Australia,2021,43.2,45.6,8.7,97.8,41.8,48.5,40.5
+217,University of Virginia,United States,2021,37.2,42.4,61.4,8.1,14.3,38.5,40.5
+220,American University of Beirut (AUB),Lebanon,2021,27.7,64,59.7,84.4,64.6,16.5,40.4
+220,Arizona State University,United States,2021,43.4,33.4,11.1,67.5,46.3,57.6,40.4
+220,University of Cape Town,South Africa,2021,45.1,39.7,25.3,67.1,35.8,39.6,40.4
+223,RMIT University,Australia,2021,37.6,60.2,9.8,100,94.3,35,40
+223,Victoria University of Wellington,New Zealand,2021,48.4,31.8,12.3,99.6,54.3,35.2,40
+225,Saint Petersburg State University,Russia,2021,41.2,29.2,83.3,5.9,36.8,7.2,39.9
+226,Loughborough University,United Kingdom,2021,30.9,66.1,29.3,83.8,72.2,34.1,39.7
+227,Universidad de los Andes,Colombia,2021,55.3,94,23.8,28.4,2.5,7.6,39.6
+228,Novosibirsk State University,Russia,2021,28.8,21.3,94.7,9,47.2,18.9,39.4
+228,Universit?t Hamburg,Germany,2021,48.7,17.7,26.1,45,22.9,46.4,39.4
+230,Georgetown University,United States,2021,33.5,47.7,63.2,15.1,47.2,25.8,39.3
+230,Tel Aviv University,Israel,2021,34.3,29.9,6.2,33.2,9.3,94.9,39.3
+230,University of Colorado Boulder,United States,2021,36.9,17.6,44.5,24.1,11,59.7,39.3
+233,Universidade Estadual de Campinas (Unicamp),Brazil,2021,62.3,29.6,16.5,8.8,3.7,35.6,39.2
+234,Maastricht University,Netherlands,2021,21.8,30.5,20,97.1,100,65,38.9
+234,National Cheng Kung University (NCKU),"Taiwan,China",2021,41,60.9,35.8,17,23,35,38.9
+236,Kyung Hee University,South Korea,2021,25.4,37.8,88.3,16.2,47.9,18.6,38.8
+236,Vrije Universiteit Amsterdam,Netherlands,2021,41.7,18.3,43.1,37,23.6,41.9,38.8
+238,National University of Ireland Galway,Ireland,2021,24.2,27.4,75.3,91.8,58.8,15.2,38.3
+238,University of Antwerp,Belgium,2021,22.5,13.2,73.1,77.5,39.1,36.4,38.3
+240,National Chiao Tung University,"Taiwan,China",2021,29.7,64.9,40.7,30,21.4,44.5,38.2
+240,Rheinische Friedrich-Wilhelms-Universit?t Bonn,Germany,2021,50.6,13.8,43.5,43.8,23.6,21.3,38.2
+242,Ecole des Ponts ParisTech,France,2021,8.8,49.9,93.1,31.8,99.6,20.7,38.1
+242,Sciences Po,France,2021,21,29.2,89.1,52,99.2,6,38.1
+242,University of Leicester,United Kingdom,2021,24.8,17.3,45.6,82.7,85.4,43.3,38.1
+245,Qatar University,Qatar,2021,19.3,23.3,69.7,100,95.4,19.4,37.9
+246,Queen's University at Kingston,Canada,2021,36.5,68.8,7.5,71,28.8,48.2,37.8
+246,University of Calgary,Canada,2021,33,36.6,27.2,82.9,57.1,41.2,37.8
+246,University of Sussex,United Kingdom,2021,28,10.2,20.2,96.4,95.1,58.7,37.8
+246,Wuhan University,China (Mainland),2021,38.2,53.7,16.8,48.6,8.5,53.4,37.8
+250,Tomsk State University,Russia,2021,21.7,15.1,99.9,29.1,93.4,6.1,37.7
+250,Universite libre de Bruxelles,Belgium,2021,33,50,6.8,87.2,88.7,45.8,37.7
+252,Mahidol University,Thailand,2021,41.7,44.4,69.6,8.6,5.6,7.8,37.5
+252,University of Navarra,Spain,2021,28.8,67.8,51.3,25,68.5,20.4,37.5
+254,Gadjah Mada University,Indonesia,2021,44.9,43.2,59.9,48.7,2.2,1.7,37.4
+254,Universiti Brunei Darussalam (UBD),Brunei,2021,18.3,10.5,95.4,100,63.9,7.9,37.4
+256,Tongji University,China (Mainland),2021,34.4,8.5,22.4,88,28.4,60.6,37.2
+256,University of Illinois at Chicago (UIC),United States,2021,44.7,29.3,40.4,10.3,21.1,32.8,37.2
+258,Rutgers University¨CNew Brunswick,United States,2021,38.9,35.5,55.1,24.6,42.3,16.3,37
+259,Universidad Nacional de Colombia,Colombia,2021,60.8,93.2,7,8.2,1.3,5.6,36.9
+260,Charles University,Czech Republic,2021,43.4,37.6,48.4,19,46.9,11.8,36.7
+260,Harbin Institute of Technology,China (Mainland),2021,22.4,8.4,49.3,9.6,8.7,79.8,36.7
+260,Tufts University,United States,2021,20.2,7.8,75.7,32.8,36,45.3,36.7
+263,Sun Yat-sen University,China (Mainland),2021,35.4,33.7,57.5,9.7,6.3,31.9,36.4
+264,Hong Kong Baptist University,"Hong Kong,China",2021,18.2,12.7,39.3,98.2,95.6,49.9,36.3
+265,Universit?t Innsbruck,Austria,2021,20.6,13.8,66.1,99.3,99.5,15.8,36.2
+265,University of Tsukuba,Japan,2021,34.6,17.6,68.9,15.5,27.3,22.5,36.2
+267,National Taiwan University of Science and Technology (Taiwan Tech),"Taiwan,China",2021,24.8,28,58.5,23.2,40.8,40.7,36
+267,Technical University of Darmstadt,Germany,2021,20.3,62.2,5.9,53.4,68.7,70.6,36
+267,University of Surrey,United Kingdom,2021,23.4,31.6,22.4,97.1,95.4,45.8,36
+270,University of Canterbury,New Zealand,2021,35.6,37.4,10.7,99.6,60.2,38,35.9
+270,University of Massachusetts Amherst,United States,2021,41.2,16.1,16.4,35.2,25.6,56.2,35.9
+272,Massey University,New Zealand,2021,29.3,24.5,29.3,98.7,97.6,28.8,35.8
+273,USI - Universit¨¤ della Svizzera italiana,Switzerland,2021,4.7,5.2,86.1,100,100,29.1,35.6
+273,The University of Arizona,United States,2021,41.3,18.5,52,24.6,15.6,23.2,35.6
+275,Deakin University,Australia,2021,28.9,39.8,5.1,97.1,82.7,48.7,35.5
+275,Indian Institute of Technology Madras (IITM),India,2021,34.1,50.1,31.5,2.6,1.5,50.9,35.5
+275,Graz University of Technology,Austria,2021,13.5,9.2,96.1,70.6,55.7,17.3,35.5
+275,Universit¨¦ de Paris,France,2021,43.1,7.2,20.7,17.2,19.6,56.8,35.5
+279,Beijing Normal University,China (Mainland),2021,38.3,8.8,30.4,24.4,28.8,51.3,35.4
+279,University of Ottawa,Canada,2021,25.3,38.8,5.7,94.9,58.6,62,35.4
+281,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),Russia,2021,15.7,27.9,97.7,32,42.4,13.8,35.3
+282,Bauman Moscow State Technical University,Russia,2021,21.6,48.9,100,11,11.5,1.5,35.2
+282,University of Cologne,Germany,2021,39.2,42.9,27.3,57.4,37.4,23.9,35.2
+284,United Arab Emirates University,United Arab Emirates,2021,23.5,35.3,61.6,100,40.8,12.8,35.1
+285,University of Tartu,Estonia,2021,25.3,15.2,83.4,29.6,26,18.5,35
+286,University College Cork,Ireland,2021,28.6,31.3,42.8,91.9,46.4,23.4,34.9
+287,King Saud University,Saudi Arabia,2021,31,11.7,59.4,91.8,14.2,19.3,34.8
+287,Universitat Pompeu Fabra,Spain,2021,31.4,28.7,12.7,63.6,22.6,61.4,34.8
+287,Universit¨¦ Paris 1 Panth¨¦on-Sorbonne,France,2021,60.1,41.3,5.7,32.7,56.9,3.8,34.8
+287,University of Turku,Finland,2021,26.3,32.2,62,28.8,5.9,33.6,34.8
+291,Dalhousie University,Canada,2021,18.8,20.5,19.7,100,81,59.4,34.6
+291,ENS Paris-Saclay,France,2021,18.1,9.4,89.6,35.1,35.7,23.9,34.6
+291,Technion - Israel Institute of Technology,Israel,2021,27,27.4,22.4,48.2,3.6,68.7,34.6
+291,University of Miami,United States,2021,24.2,26.2,53.1,8,36.7,46.3,34.6
+295,Gwangju Institute of Science and Technology (GIST),South Korea,2021,11.7,5.6,39.7,15.8,7.1,100,34.5
+295,North Carolina State University,United States,2021,31.5,20.2,18.5,64.6,24.9,57.5,34.5
+295,University of South Australia,Australia,2021,24.4,17.2,23.4,100,61.2,50.4,34.5
+298,HSE University (National Research University Higher School of Economics),Russia,2021,26.1,32.8,94,8.1,17,2.2,34.4
+298,National Yang Ming University,"Taiwan,China",2021,14.8,15.2,99.9,5.6,6.5,30.9,34.4
+300,University of Strathclyde,United Kingdom,2021,26.4,50.2,22.4,93.5,73.7,28.2,34.3
+301,Heriot-Watt University,United Kingdom,2021,15.7,32.9,25,100,94,48.5,34.2
+301,University of Milan,Italy,2021,51.9,21.4,8,9.6,7.4,43.4,34.2
+303,Griffith University,Australia,2021,28.9,22.8,12.4,99.5,40.3,52.9,34.1
+303,Xi¡¯an Jiaotong University,China (Mainland),2021,24.7,40.3,29.7,14.9,7.9,64.4,34.1
+305,Aalborg University,Denmark,2021,17.9,36.6,41.2,67.3,27.5,50.2,34
+305,Universitas Indonesia,Indonesia,2021,40.9,52.9,35.9,88.3,3.4,2.1,34
+305,Universit¨¦ Paris-Saclay,France,2021,24,8.8,68.3,41,35.3,29,34
+307,Universit?t Mannheim,Germany,2021,17.8,58.1,3.8,32.5,24.7,85,33.7
+308,Politecnico di Torino,Italy,2021,37.5,52.7,3.1,4,35.6,52.1,33.5
+308,Royal Holloway University of London,United Kingdom,2021,18.5,10.9,23.3,97.3,94.5,53,33.5
+308,University of Tasmania,Australia,2021,19.8,8.8,19.1,83.6,98.1,58.1,33.5
+311,Universidad Carlos III de Madrid (UC3M),Spain,2021,30.6,46,54.2,41.4,32.3,9.4,33.4
+311,Goethe-University Frankfurt am Main,Germany,2021,48,37.9,23.8,5.2,31,18.1,33.4
+313,Bandung Institute of Technology (ITB),Indonesia,2021,38.3,45.1,52.8,36.3,1.7,4,33.3
+314,Indian Institute of Technology Kharagpur (IIT-KGP),India,2021,26,39.2,21.7,4.9,1.1,70.2,33.2
+314,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia,2021,9.2,13.6,97.7,49.6,82.7,9.1,33.2
+314,Universitat Polit¨¨cnica de Catalunya ¡¤ BarcelonaTech (UPC),Spain,2021,33.7,32.3,50.6,11,26.3,21.6,33.2
+317,Belarusian State University,Belarus,2021,19.1,35.9,97.6,4.6,30.4,1.7,33
+317,Friedrich-Alexander-Universit?t Erlangen-N¨¹rnberg,Germany,2021,22.5,17.4,2.7,28,23.5,94.6,33
+319,University of Dundee,United Kingdom,2021,19.3,15.4,57.6,85.8,65.4,21.7,32.9
+320,Indiana University Bloomington,United States,2021,38.8,24.2,30.6,42.9,19.2,26.4,32.6
+321,Hiroshima University,Japan,2021,22.5,13.1,87,14.1,17.7,14,32.3
+321,University of Warsaw,Poland,2021,43.6,48.9,37.3,8.5,10.5,6.7,32.3
+323,Simon Fraser University,Canada,2021,23.8,19.8,6.2,93.8,90.2,49.8,32.1
+323,Southern University of Science and Technology,China (Mainland),2021,5.5,1,96.7,48.4,1.7,38.6,32.1
+323,Universit?t Jena,Germany,2021,19.5,2.4,99.6,,25.4,13.4,32.1
+326,Jagiellonian University,Poland,2021,34.9,45.9,55.4,4.3,11.3,6.5,31.9
+326,Pontificia Universidad Cat¨®lica Argentina,Argentina,2021,16.8,43.2,98.8,2.5,12.3,1.1,31.9
+326,RUDN University,Russia,2021,14.7,26,87.9,11.5,95,1.7,31.9
+326,Universitat Polit¨¨cnica de Val¨¨ncia,Spain,2021,24.5,11.9,78.9,6.1,20.5,18.3,31.9
+327,IE University,Spain,2021,7.6,44.6,70.7,89.6,100,3.8,32
+326,Virginia Polytechnic Institute and State University,United States,2021,29.3,31.5,27.2,56.9,25.2,36.6,31.9
+331,National Taiwan Normal University,"Taiwan,China",2021,31,11,68.5,12.8,31.6,10.8,31.8
+331,Ural Federal University - UrFU,Russia,2021,20.8,13.8,92.2,16.4,43.1,2.4,31.8
+333,Ewha Womans University,South Korea,2021,21.7,20.1,80.3,8.6,30.4,14,31.7
+333,Umea University,Sweden,2021,19.9,7.3,80,27.1,11.5,24.3,31.7
+333,Universit?t Stuttgart,Germany,2021,24.9,46.7,5,43.2,51.5,55.7,31.7
+333,University of East Anglia (UEA),United Kingdom,2021,19.3,10.4,24.4,70.4,60.8,56.4,31.7
+333,University of Hawai?i at M¨¡noa,United States,2021,16.6,11.4,54.9,56.4,17.7,45.2,31.7
+333,University of Jyv?skyl?,Finland,2021,17.2,8.5,86.3,36.5,5.2,22,31.7
+333,University of Utah,United States,2021,17,8.5,68.5,33,10.1,40.1,31.7
+341,Yeshiva University,United States,2021,2.8,3.8,97,,10.6,49.8,31.6
+342,Universit¨¦ Grenoble Alpes,France,2021,43.6,12,11.8,26.4,30.8,37.4,31.5
+342,"University of Chemistry and Technology, Prague",Czech Republic,2021,6.4,8.1,99.4,23.9,63.7,18.5,31.5
+344,"Birkbeck, University of London",United Kingdom,2021,13.6,4.2,14.5,97.8,98,63.4,31.4
+344,University Ulm,Germany,2021,7.9,5.2,82.3,44.5,24.1,38.2,31.4
+346,SOAS University of London,United Kingdom,2021,21.3,10.3,35.4,100,100,21.4,31.1
+346,University at Buffalo SUNY,United States,2021,20,11.3,7.3,82.3,43.4,70,31.1
+348,American University of Sharjah,United Arab Emirates,2021,19.4,31.7,34.4,100,100,15.2,31
+348,Moscow State Institute of International Relations (MGIMO University),Russia,2021,11.7,24.9,100,15.7,51.5,1.4,31
+350,"City, University of London",United Kingdom,2021,19.3,21.4,10,94.8,99.6,45.5,30.9
+350,Indian Institute of Technology Kanpur (IITK),India,2021,29,35,17.4,1.5,1.2,60.1,30.9
+350,Universiti Teknologi Brunei,Brunei,2021,11.5,9.1,91.5,99.3,7.6,7.8,30.9
+353,George Washington University,United States,2021,27.2,26.2,31.6,36.6,44.1,33.6,30.8
+353,University of Southern Denmark (SDU),Denmark,2021,19.6,20.3,36.1,85.4,26.4,39.9,30.8
+355,National University of Sciences And Technology (NUST) Islamabad,Pakistan,2021,17,54.1,77.8,3.3,5,10.6,30.5
+356,Westf?lische Wilhelms-Universit?t M¨¹nster,Germany,2021,35,28.7,38.1,29.3,7.8,19.1,30.3
+357,L.N. Gumilyov Eurasian National University (ENU),Kazakhstan,2021,17.9,16.1,96.9,25.3,6.1,1.5,30.2
+357,University of Lisbon,Portugal,2021,38.6,21.5,12.9,7.3,37.9,38.1,30.2
+357,University of Porto,Portugal,2021,37,22.5,14.1,5.3,18.1,44.8,30.2
+360,ITMO University,Russia,2021,11.9,16.1,91.2,24.9,50.7,7.7,30.1
+360,Norwegian University of Science And Technology,Norway,2021,30.9,22.6,28.6,72.7,10.8,26.8,30.1
+362,Johannes Kepler University Linz,Austria,2021,11.3,21,66.9,77.7,23.3,23.9,30
+362,Link?ping University,Sweden,2021,20.4,22.2,27.8,63.9,15.6,49.7,30
+362,Northeastern University,United States,2021,20.1,12.9,23.1,76.3,95.1,36.5,30
+362,Tokyo Medical and Dental University (TMDU),Japan,2021,11,5.4,100,2.8,15.3,20.1,30
+367,University of Macau,"Macau,China",2021,11.2,6.2,22.4,100,96.2,51.8,29.9
+368,Brunel University London,United Kingdom,2021,10.7,16.1,13.1,99.6,98.1,55.6,29.7
+368,Tilburg University,Netherlands,2021,15.1,37.5,13.9,89,42.5,52.1,29.7
+370,Kazan (Volga region) Federal University,Russia,2021,18.2,7.5,82.7,9.2,69,4.3,29.5
+370,University of Victoria (UVic),Canada,2021,16.5,11.4,4,91.9,65.3,64.5,29.5
+372,Swinburne University of Technology,Australia,2021,14.8,17.9,17.6,98.1,91.7,42.3,29.4
+373,Pakistan Institute of Engineering and Applied Sciences (PIEAS),Pakistan,2021,5.3,6.4,95.3,,,35.9,29.2
+373,"Stony Brook University, State University of New York",United States,2021,20.9,8.6,33.2,48.7,72,35.9,29.2
+375,Sultan Qaboos University,Oman,2021,13.2,13.1,73,100,3.8,12.6,29.1
+375,University of Waikato,New Zealand,2021,19.6,16.1,10.7,96.8,85.3,41.4,29.1
+377,Nankai University,China (Mainland),2021,23.6,4.9,29.4,18.3,6.8,59,29
+377,Universidad de Palermo (UP),Argentina,2021,8.9,10.1,87.6,32.1,97.1,1.2,29
+379,Taylor's University,Malaysia,2021,16.4,60.7,41.3,52,86.1,4.5,28.9
+380,Universidade Federal do Rio de Janeiro,Brazil,2021,51.3,20.2,16,5.9,1.9,12.7,28.8
+380,University of Kent,United Kingdom,2021,20.7,10,20.5,97.8,59.4,37.1,28.8
+380,Wake Forest University,United States,2021,6.7,7.6,100,8.2,16.3,19.6,28.8
+383,Indian Institute of Technology Roorkee (IITR),India,2021,13.8,19,11.7,1.1,2.7,92.7,28.7
+383,Oxford Brookes University,United Kingdom,2021,27.1,57,14.1,64.4,65.9,13.1,28.7
+383,University of Pisa,Italy,2021,42.6,18.1,9.5,5.9,4.9,36.2,28.7
+383,University of Kansas,United States,2021,15.9,14.7,76.5,32.7,11.8,16,28.7
+387,Lincoln University,New Zealand,2021,8.6,7.8,43.3,96.8,99.5,28.8,28.6
+387,Shanghai University,China (Mainland),2021,24.5,8.7,56.5,45.8,6,19.3,28.6
+387,Taipei Medical University (TMU),"Taiwan,China",2021,9.9,12,84.8,20,17.1,22.4,28.6
+387,Tianjin University,China (Mainland),2021,18.3,3.9,22.8,8.3,4.4,77.5,28.6
+391,UCSI University,Malaysia,2021,15.1,44.7,55.2,37,81.3,4.4,28.5
+392,Beijing Institute of Technology,China (Mainland),2021,20.7,12.5,40.6,5,8.4,49.7,28.4
+392,HUFS - Hankuk (Korea) University of Foreign Studies,South Korea,2021,12.2,26.7,81.6,37.1,41.9,2.2,28.4
+392,University of Naples - Federico II,Italy,2021,33.9,13.9,5.9,2.8,1.1,59.7,28.4
+392,Universit¨¤ Vita-Salute San Raffaele,Italy,2021,3.9,1.6,99.6,2.6,4,31.3,28.4
+396,Huazhong University of Science and Technology,China (Mainland),2021,20,31.7,16.2,12.6,5.5,63.8,28.2
+396,University of the Philippines,Philippines,2021,34.1,40.8,48.4,1.4,1.4,2.4,28.2
+398,La Trobe University,Australia,2021,20,22.4,7.8,96.4,96.8,32.6,28.1
+398,Universit¨¦ de Strasbourg,France,2021,42.8,6.7,6.8,40.5,40.8,23.4,28.1
+398,"University of Colorado, Denver",United States,2021,8.6,6.5,100,4.3,10.9,15.4,28.1
+401,Peter the Great St. Petersburg Polytechnic University,Russia,2021,11.4,9.8,81.4,18,84.9,4.3,28
+401,National Research Tomsk Polytechnic University,Russia,2021,10.1,11.9,83.4,11,80,6.9,28
+403,Chung-Ang University (CAU),South Korea,2021,13.6,28.4,74.4,14.8,28.4,11.9,27.9
+403,Johannes Gutenberg Universit?t Mainz,Germany,2021,22,14.2,53.4,32.8,20.1,20.8,27.9
+403,Kobe University,Japan,2021,24.4,34.8,52.8,7.2,9.7,15.5,27.9
+403,University of Trento,Italy,2021,27.5,11.8,15.7,24.4,6,54.7,27.9
+403,University of Witwatersrand,South Africa,2021,25.2,28.8,12.6,82.6,10.2,38.2,27.9
+408,University of Oulu,Finland,2021,16.5,16.9,31.8,52,8.1,49.4,27.7
+409,Sharif University of Technology,"Iran, Islamic Republic of",2021,11.9,27.4,9.8,4.5,2.7,87.9,27.6
+409,Tampere University,Finland,2021,25.6,23.4,26,31.3,7.1,38.7,27.6
+411,The American University in Cairo,Egypt,2021,24.6,28.4,43.5,93.1,3.1,5.8,27.5
+411,University of Essex,United Kingdom,2021,18.7,9,11.2,99.6,99.2,33.9,27.5
+411,Washington State University,United States,2021,27.9,19,15.7,61.3,9.2,38,27.5
+414,Bond University,Australia,2021,4.4,8.2,52.7,98.3,98.9,21.5,27.4
+414,Tulane University,United States,2021,10.7,5.7,86.6,14.7,20,16.5,27.4
+416,"Goldsmiths, University of London",United Kingdom,2021,20,8.7,18.3,86.7,96.4,26.7,27.2
+416,National Sun Yat-sen University,"Taiwan,China",2021,25,18.2,33.8,15.6,10.2,36.1,27.2
+416,"University of California, Santa Cruz",United States,2021,19.9,4.5,7.9,55.8,14.8,67.8,27.2
+416,University of Troms? The Arctic University of Norway,Norway,2021,13.2,2.3,75.3,72.5,8.9,12.1,27.2
+420,Universit¨¦ Laval,Canada,2021,20.1,23.5,29.1,69.1,29.8,28.9,27.1
+420,Universidade Federal de S?o Paulo,Brazil,2021,11.4,4.6,96.9,6.2,1.7,10.8,27.1
+420,University of Iowa,United States,2021,21.9,11.6,46.2,18.6,12,31.3,27.1
+423,Flinders University,Australia,2021,14.1,8,6,96.7,95.6,47.8,27
+423,Vilnius University,Lithuania,2021,19.6,21.6,74.6,10.9,4.9,5.9,27
+425,University of Bordeaux,France,2021,32,5.2,34.5,49.6,37.8,10.7,26.9
+426,Illinois Institute of Technology,United States,2021,16.2,6.1,15.5,23,99.6,51.4,26.8
+426,Pontificia Universidad Javeriana,Colombia,2021,34.5,81,19.4,5.1,1.9,2.6,26.8
+428,The National University of Science and Technology MISIS,Russia,2021,9.1,14.4,73.8,15.7,75.9,10.1,26.6
+428,Universidade Nova de Lisboa,Portugal,2021,26.2,25.9,27.2,25.6,47.1,21.6,26.6
+428,University of St.Gallen (HSG),Switzerland,2021,9.5,59.8,8.3,100,83,29.4,26.6
+431,University of Coimbra,Portugal,2021,28.6,12.6,16,10,50.4,37.1,26.5
+432,Czech Technical University in Prague,Czech Republic,2021,18.4,38.9,49.5,24.4,48.1,7.5,26.4
+432,Pontificia Universidad Cat¨®lica del Per¨²,Peru,2021,36.6,62.7,23.4,4.6,1.7,1.9,26.4
+432,University of Florence,Italy,2021,34.4,6.5,7.5,8.5,21.2,44.4,26.4
+432,"The University of Tennessee, Knoxville",United States,2021,11.5,30.5,16.2,5.5,3.5,74.4,26.4
+432,Xiamen University,China (Mainland),2021,25.9,7,25.3,6.6,4.1,48.1,26.4
+437,Auckland University of Technology (AUT),New Zealand,2021,20.4,21.6,13.5,100,100,15.1,26.2
+437,Julius-Maximilians-Universit?t W¨¹rzburg,Germany,2021,15.8,5.1,5.9,47.4,11.1,75.4,26.2
+439,Dublin City University,Ireland,2021,17.7,28.4,35.9,68.5,45,15.5,26
+439,Ruhr-Universit?t Bochum,Germany,2021,22.6,14.7,2.2,27.4,32.3,59.8,26
+439,Universiti Teknologi PETRONAS (UTP),Malaysia,2021,15,29.8,32.5,83,22.5,25.6,26
+439,University of Johannesburg,South Africa,2021,12.9,19.7,43.2,86.8,49,16.6,26
+443,Colorado State University,United States,2021,18.3,16.8,54.3,24.8,6.8,21.3,25.9
+443,Universidad Austral,Argentina,2021,13.4,35.3,79.5,6,5.4,2.1,25.9
+443,Universit?t Konstanz,Germany,2021,23.5,7.3,33.9,63.9,24.1,22.4,25.9
+446,Ben-Gurion University of The Negev,Israel,2021,15.5,15.3,15.5,67.6,18.8,52.5,25.8
+446,Brandeis University,United States,2021,11.6,6.2,47.5,16.8,80.5,30.3,25.8
+446,University of Science and Technology Beijing,China (Mainland),2021,18.1,4.3,14.3,4,3.6,73.7,25.8
+449,Beihang University (former BUAA),China (Mainland),2021,15,4.9,27.4,9,5.9,64.3,25.7
+449,"University of California, Riverside",United States,2021,17.5,7.1,11.7,69.2,10.4,57.6,25.7
+451,Universidad Polit¨¦cnica de Madrid,Spain,2021,28.4,53.5,21.5,3.4,34.5,12.5,25.6
+451,Universit?t des Saarlandes,Germany,2021,11.6,5.3,74.6,15.9,42.9,12,25.6
+451,Universit¨¦ de Li¨¨ge,Belgium,2021,18.3,19.9,22.7,47.9,53.8,32.8,25.6
+454,Boston College,United States,2021,22.6,19.7,37,22.7,19.5,24.1,25.5
+454,Quaid-i-Azam University,Pakistan,2021,13.7,22.7,2.4,3.2,1.5,84.5,25.5
+456,Dongguk University,South Korea,2021,9.9,8.7,81.1,11.5,29.3,10.7,25.4
+456,Florida State University,United States,2021,26.8,46.6,12.9,15.7,4.8,31.3,25.4
+456,Hasselt University,Belgium,2021,3.8,3.4,74,60.2,25.3,21.5,25.4
+456,Stellenbosch University,South Africa,2021,25.3,26.9,3.9,25.1,10,49.6,25.4
+456,The Catholic University of Korea,South Korea,2021,5,2.4,96.2,2.6,4.7,16.9,25.4
+456,University of Canberra,Australia,2021,15,12,4,98.2,78.4,41.9,25.4
+462,James Cook University,Australia,2021,14.2,11,8.1,90,51.6,48.5,25.3
+462,South China University of Technology,China (Mainland),2021,12.6,3.3,18.8,13.6,5.2,75.6,25.3
+462,Universidad ORT Uruguay,Uruguay,2021,9.8,16.8,89.9,24.3,2,1.4,25.3
+465,Ko? University,Turkey,2021,16.6,30.7,47.5,32.8,6.8,19.5,25.2
+465,National Central University,"Taiwan,China",2021,21.3,18.2,32.8,15.4,22.1,31.4,25.2
+465,Universidad de Belgrano,Argentina,2021,6.5,18.2,91,7,36.5,1.1,25.2
+465,University of Saskatchewan,Canada,2021,11.7,8.9,26.5,76.6,51.3,38.7,25.2
+465,Yokohama City University,Japan,2021,6,2.4,99.9,4.5,2.5,10.2,25.2
+470,Indian Institute of Technology Guwahati (IITG),India,2021,11.9,15,15.9,,1.4,77.2,25.1
+470,Lappeenranta-Lahti University of Technology LUT,Finland,2021,7,15.4,20.4,47.6,25.5,64.3,25.1
+470,Martin-Luther-Universit?t Halle-Wittenberg,Germany,2021,13.5,5,84.1,,11.5,8.1,25.1
+470,Rensselaer Polytechnic Institute,United States,2021,9.6,7.6,24.9,14.7,52.4,60.3,25.1
+474,Swansea University,United Kingdom,2021,13.5,14,35.1,72.8,53.8,23.5,25
+474,Umm Al-Qura University,Saudi Arabia,2021,12.8,7.7,62.4,100,20.5,2.3,25
+474,Western Sydney University,Australia,2021,19,24.4,7.7,100,59.1,26.4,25
+477,Amirkabir University of Technology,"Iran, Islamic Republic of",2021,5,18.3,5.6,8.2,2.4,96,24.8
+477,Concordia University,Canada,2021,14.7,33.8,4.2,79.6,91.2,30.3,24.8
+477,National Technical University of Athens,Greece,2021,18.5,37.2,7.2,1.5,6.8,58.3,24.8
+477,University of Cyprus (UCY),Cyprus,2021,9.3,3.2,6.5,78.7,25.5,70.7,24.8
+477,V. N. Karazin Kharkiv National University,Ukraine,2021,11.2,15.9,72.9,1.4,70.9,1.9,24.8
+477,Wayne State University,United States,2021,10.2,5.3,73.5,16.2,9,20.4,24.8
+483,Universit?t Leipzig,Germany,2021,25,7.2,53.3,,18.2,11.2,24.7
+483,"University of Missouri, Columbia",United States,2021,17,14.5,46,46.2,5.5,22.5,24.7
+485,Aberystwyth University,United Kingdom,2021,9.6,5.7,25.6,57.1,57.6,46.1,24.6
+485,Shandong University,China (Mainland),2021,15.5,18.6,20.9,10,4.6,57.4,24.6
+485,University of Stirling,United Kingdom,2021,11.1,13.7,19.2,71.4,69.7,38.6,24.6
+488,Chiba University,Japan,2021,15,6.1,70,6.9,5.9,15.7,24.5
+488,National Taipei University of Technology,"Taiwan,China",2021,12.7,33.1,34.6,24.9,21.1,33.5,24.5
+490,Auezov South Kazakhstan State University (SKSU),Kazakhstan,2021,8.1,7.5,88.9,21.4,23.8,1,24.4
+490,Sogang University,South Korea,2021,17.8,40.6,43.3,10.1,27.5,12.9,24.4
+492,Universidad de Montevideo (UM),Uruguay,2021,12.7,16.5,79.9,20.6,3.6,1.2,24.3
+493,Chang Gung University,"Taiwan,China",2021,4.7,4.2,59.6,3.1,7,46.6,24.2
+493,Far Eastern Federal University,Russia,2021,6.3,3.1,85.4,18.7,56,2.3,24.2
+493,Jilin University,China (Mainland),2021,14.9,23.1,49.9,12.4,3.2,25.2,24.2
+493,Southeast University,China (Mainland),2021,12.2,3.9,35.8,9.9,4.8,54.3,24.2
+493,UNESP,Brazil,2021,30.8,16.9,32,5.3,2.1,16.2,24.2
+498,Universidad de La Habana,Cuba,2021,16,25.8,70.5,2.4,5.5,2.4,24.1
+499,Oregon State University,United States,2021,17.8,7.3,31.5,32.6,18.7,35,23.9
+499,Universidad de Alcal¨¢,Spain,2021,9.8,13.2,58.6,22.4,70.6,10.6,23.9
+499,University of Eastern Finland,Finland,2021,14.7,9,42.9,25.8,7.3,33.5,23.9
+501-510,Christian-Albrechts-University zu Kiel,Germany,2021,18.6,,51.6,,,19,
+501-510,East China Normal University,China (Mainland),2021,,,31.9,72.8,26.3,31.6,
+501-510,Hitotsubashi University,Japan,2021,18,77.8,26.5,22,20.7,,
+501-510,The University of Georgia,United States,2021,23.8,28.4,,,,36.7,
+501-510,University of Granada,Spain,2021,37.3,,,,18.9,22.6,
+501-510,Universidad de Santiago de Chile (USACH),Chile,2021,34.6,60.8,,,,,
+501-510,Universidad de Zaragoza,Spain,2021,19.9,,57.4,,,,
+501-510,University of Balamand,Lebanon,2021,,,90.5,,20.3,,
+501-510,University of Connecticut,United States,2021,,,,41.7,29,39,
+501-510,University of Delhi,India,2021,34.7,37.8,,,,19.3,
+501-510,University of Szeged,Hungary,2021,17.8,,52.7,,60.1,,
+511-520,Aston University,United Kingdom,2021,,37.5,,95.8,35.6,27.5,
+511-520,Singapore Management University,Singapore,2021,,20.3,,100,55.7,27.8,
+511-520,Universit¨¤ Cattolica del Sacro Cuore,Italy,2021,25.1,35.1,30.9,,,,
+511-520,"University of Rome ""Tor Vergata""",Italy,2021,32.9,,,,19.4,30,
+511-520,Aix-Marseille University,France,2021,34.8,,,21.4,23.6,19.8,
+511-520,Universit¨¦ de Montpellier,France,2021,20.1,,,22.3,35,39.8,
+511-520,University of Klagenfurt,Austria,2021,,,47.1,92.4,73,,
+511-520,University of Limerick,Ireland,2021,,24.9,,84.7,22.4,28.7,
+511-520,Warsaw University of Technology,Poland,2021,24.7,53,27.4,,,,
+521-530,Airlangga University,Indonesia,2021,24.3,35.3,39.4,20.7,,,
+521-530,Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM),Saudi Arabia,2021,,,74.7,96,,,
+521-530,National Research Saratov State University,Russia,2021,,,95.9,,,,
+521-530,Sabanci University,Turkey,2021,,21.4,36.8,48.3,,19.9,
+521-530,University of Turin,Italy,2021,31.2,,,,,36.8,
+521-530,University of Bayreuth,Germany,2021,,,34.3,45.5,25.9,32.3,
+521-530,University of Debrecen,Hungary,2021,17.2,,41.9,,88.5,,
+521-530,University of Milano-Bicocca,Italy,2021,19.6,,,,,63,
+521-530,University of Ulsan,South Korea,2021,,,64.8,,,32.6,
+531-540,Bogor Agricultural University,Indonesia,2021,17.6,21.7,47.2,57.4,,,
+531-540,Inha University,South Korea,2021,,,75.9,,,,
+531-540,Justus-Liebig-University Giessen,Germany,2021,,,,,,74.8,
+531-540,Masaryk University,Czech Republic,2021,22.8,22.4,,30.6,68.5,,
+531-540,Nagasaki University,Japan,2021,,,83.2,,,,
+531-540,Northwestern Polytechnical University,China (Mainland),2021,,,59.1,26.9,,33.2,
+531-540,Sichuan University,China (Mainland),2021,17.7,,24.7,20.7,,42.8,
+531-540,"Universidad Central ""Marta Abreu"" de Las Villas",Cuba,2021,,,99.6,,,,
+531-540,Universiti Utara Malaysia (UUM),Malaysia,2021,,,41.5,22.6,74.9,,
+531-540,University of Texas Dallas,United States,2021,,,,17.9,49.2,45.8,
+531-540,York University,Canada,2021,21.4,30.4,,24.6,74.6,,
+541-550,Coventry University,United Kingdom,2021,,42.9,,72.2,99.6,,
+541-550,Institut National des Sciences Appliqu¨¦es de Lyon (INSA),France,2021,,25.3,41,32.1,81.8,,
+541-550,Iowa State University,United States,2021,19.1,,,,,44.8,
+541-550,Niigata University,Japan,2021,,,87.1,,,,
+541-550,Osaka City University,Japan,2021,,,71.9,,,,
+541-550,Satbayev University,Kazakhstan,2021,,19.5,69.6,,,,
+541-550,Universit?t Bremen,Germany,2021,20.1,,,39.9,20.5,27.5,
+541-550,University Paris 2 Panth¨¦on-Assas,France,2021,,,83.8,,24,,
+541-550,Saint Joseph University of Beirut (USJ),Lebanon,2021,,39.5,44.1,84,17,,
+541-550,University of Delaware,United States,2021,,,,35.9,20.5,57.3,
+551-560,Ajou University,South Korea,2021,,,56.8,,,22.5,
+551-560,Bar-Ilan University,Israel,2021,,,,59.9,,57.4,
+551-560,Bilkent University,Turkey,2021,18.5,23,,58.8,,24.8,
+551-560,Hallym University,South Korea,2021,,,87.4,,,,
+551-560,Konkuk University,South Korea,2021,,,65.2,,,,
+551-560,Lebanese American University,Lebanon,2021,,36.5,29.9,96.6,45.6,,
+551-560,Lehigh University,United States,2021,,,37.1,,39.3,40.6,
+551-560,Management and Science University,Malaysia,2021,,28.1,41.5,58.1,41.8,,
+551-560,Technische Universit?t Braunschweig,Germany,2021,,,62.1,,30,,
+551-560,Universit¨¦ Paul Sabatier Toulouse III,France,2021,19.8,,46.9,,27.6,,
+551-560,Victoria University,Australia,2021,,,,45.8,86,50,
+561-570,Cairo University,Egypt,2021,35.9,34.6,,,,,
+561-570,Kumamoto University,Japan,2021,,,76.1,,,,
+561-570,Kyungpook National University,South Korea,2021,,,49.3,,,18.6,
+561-570,The New School,United States,2021,,,49.1,,93.3,,
+561-570,Thammasat University,Thailand,2021,22.4,38.4,33.7,,,,
+561-570,Universidad Externado de Colombia,Colombia,2021,,46.4,57.7,,,,
+561-570,University of Nebraska - Lincoln,United States,2021,,,,73.8,31.4,33.2,
+561-570,University of Pretoria,South Africa,2021,22.7,34.8,,46,,25.4,
+571-580,Abo Akademi University,Finland,2021,,,39.4,41.5,17.6,27.9,
+571-580,Altai State University,Russia,2021,,,79.4,,37.9,,
+571-580,Aristotle University of Thessaloniki,Greece,2021,25.3,22.1,,,,34.8,
+571-580,China University of Geosciences,China (Mainland),2021,,,61.9,,,31.5,
+571-580,"Lingnan University, Hong Kong","Hong Kong,China",2021,,,24.8,100,65.8,20.8,
+571-580,Murdoch University,Australia,2021,,,,80.5,58.4,38.8,
+571-580,Okayama University,Japan,2021,,,67.3,,,,
+571-580,Universidad de Costa Rica,Costa Rica,2021,25.5,42.3,29.2,,,,
+571-580,Universidad Panamericana (UP),Mexico,2021,,30.2,68.4,,,,
+571-580,University of Guelph,Canada,2021,,28.3,,49.8,,38.4,
+571-580,University of South Carolina,United States,2021,17.1,19.2,,47.5,,35.5,
+581-590,Clark University,United States,2021,,,33.4,,57.1,42.3,
+581-590,Karl-Franzens-Universitaet Graz,Austria,2021,19.8,,,50.2,33,18.7,
+581-590,"Kingston University, London",United Kingdom,2021,,,,74.1,97.1,,
+581-590,National Chengchi University,"Taiwan,China",2021,18.6,30.1,28.9,,53.8,,
+581-590,Pusan National University,South Korea,2021,18.7,,27.2,,,25,
+581-590,Renmin (People's) University of China,China (Mainland),2021,23.7,39.2,,,,,
+581-590,Universidad de Sevilla,Spain,2021,32.7,,,,,,
+581-590,University of Aveiro,Portugal,2021,,,,,,56.7,
+581-590,University of South Florida,United States,2021,,,,37.8,29.3,38.9,
+591-600,Central Queensland University (CQUniversity Australia),Australia,2021,,,,94.8,98.5,,
+591-600,Dalian University of Technology,China (Mainland),2021,,,,,,62.5,
+591-600,Jeonbuk National University,South Korea,2021,,,53.5,,,,
+591-600,Kanazawa University,Japan,2021,,,63,,,,
+591-600,Kazakh National Agrarian University KazNAU,Kazakhstan,2021,,,62,29.5,18.4,,
+591-600,Palack? University Olomouc,Czech Republic,2021,,,42.7,35.4,18.8,,
+591-600,Samara National Research University (Samara University),Russia,2021,,,80.8,,18,,
+591-600,Southern Federal University,Russia,2021,,,75.5,,24.5,,
+591-600,Universitat de Valencia,Spain,2021,28.6,,,,,23.2,
+591-600,University of Minho,Portugal,2021,,,42.6,24.5,18,,
+591-600,University of Tehran,"Iran, Islamic Republic of",2021,20.3,22.1,,,,43.6,
+601-650,American University in Dubai,United Arab Emirates,2021,,18,,100,100,,
+601-650,Ateneo de Manila University,Philippines,2021,,36.6,40.2,,,,
+601-650,Bangor University,United Kingdom,2021,,,,57.5,60.8,33.8,
+601-650,Carleton University,Canada,2021,,,,33.5,47.3,43.3,
+601-650,Chiang Mai University,Thailand,2021,30,25.9,,,,,
+601-650,Drexel University,United States,2021,,,34.1,,23.4,29.6,
+601-650,East China University of Science and Technology,China (Mainland),2021,,,,,,59.3,
+601-650,E?tv?s Lor¨¢nd University,Hungary,2021,23.4,,,,25.5,,
+601-650,Gifu University,Japan,2021,,,76.1,,,,
+601-650,Holy Spirit University of Kaslik,Lebanon,2021,,,47.7,98.7,35.1,,
+601-650,Hunan University,China (Mainland),2021,,,,,,63.6,
+601-650,Indian Institute of Technology Hyderabad,India,2021,,,31,,,54.1,
+601-650,Instituto Tecnol¨®gico de Buenos Aires (ITBA),Argentina,2021,,25.5,54.7,19.7,18.5,,
+601-650,International Islamic University Malaysia (IIUM),Malaysia,2021,18.8,,,27.2,65.6,,
+601-650,Iran University of Science and Technology,"Iran, Islamic Republic of",2021,,,,,,78.3,
+601-650,Ivane Javakhishvili Tbilisi State University,Georgia,2021,,,81.7,,,,
+601-650,Jinan University (China),China (Mainland),2021,,,,51,86.1,42.1,
+601-650,Abai Kazakh National Pedagogical University,Kazakhstan,2021,,,57.2,32,,,
+601-650,King Khalid University,Saudi Arabia,2021,,,53.2,100,,,
+601-650,Free University of Bozen-Bolzano,Italy,2021,,,,95.7,32.6,39,
+601-650,Lobachevsky University,Russia,2021,,,68.9,,19,,
+601-650,Michigan Technological University,United States,2021,,,27.4,,21.5,40.4,
+601-650,Middle East Technical University,Turkey,2021,23.3,39.3,,,,19.9,
+601-650,Missouri University of Science and Technology,United States,2021,,,,62.6,17,57.8,
+601-650,National Chung Hsing University,"Taiwan,China",2021,,,27.1,,,22.9,
+601-650,Shenzhen University,China (Mainland),2021,,,61.4,,,,
+601-650,Smith College,United States,2021,,,72.5,,23.3,,
+601-650,"Sofia University ""St. Kliment Ohridski""",Bulgaria,2021,,,53.4,,,,
+601-650,Syracuse University,United States,2021,,19.8,,,56.3,20.7,
+601-650,Taras Shevchenko National University of Kyiv,Ukraine,2021,,28.8,42.1,,,,
+601-650,Tokushima University,Japan,2021,,,70.7,,,,
+601-650,Tokyo University of Agriculture and Technology,Japan,2021,,,,,,48.8,
+601-650,Ulster University,United Kingdom,2021,,,,99.4,17.1,19.3,
+601-650,Universidad de Concepci¨®n,Chile,2021,23.1,40.8,,,,,
+601-650,University of Salamanca,Spain,2021,24.7,,,,28.1,,
+601-650,Universit¨¤ degli Studi di Pavia,Italy,2021,22.2,,,,,36.2,
+601-650,Universitat Ramon Llull,Spain,2021,,44.2,,94.3,38,,
+601-650,Universit?t Regensburg,Germany,2021,,,55.4,,,,
+601-650,Universit¨¦ de Fribourg,Switzerland,2021,,,,100,48.7,27.2,
+601-650,Universit¨¦ du Qu¨¦bec,Canada,2021,22.6,18.9,,42.9,,25.7,
+601-650,Universit¨¦ C?te d'Azur,France,2021,,,,60.8,50.8,26.4,
+601-650,University of Bradford,United Kingdom,2021,,,,46.3,79.4,23.9,
+601-650,University of Cincinnati,United States,2021,,,30.8,,,28.9,
+601-650,University of Hull,United Kingdom,2021,,,,63.2,46.1,28.1,
+601-650,University of Jordan,Jordan,2021,24.4,34.1,,22.9,32.1,,
+601-650,University of Kentucky,United States,2021,,,25.3,18,,31.9,
+601-650,University of Ljubljana,Slovenia,2021,19.7,,41.4,,,,
+601-650,University of Manitoba,Canada,2021,,,42.7,,32.3,,
+601-650,University of New Mexico,United States,2021,,,24.1,,,30.8,
+601-650,University of Oregon,United States,2021,17.3,,,,16.7,27.8,
+601-650,University of Portsmouth,United Kingdom,2021,,18.1,,76.3,74.7,,
+601-650,University of Sharjah,United Arab Emirates,2021,,,,100,100,,
+601-650,University of Vermont,United States,2021,,,65,,,21.1,
+651-700,American University,United States,2021,,18.9,36.2,,18.7,,
+651-700,Applied Science University of Bahrain,Bahrain,2021,,,30.9,100,37.6,,
+651-700,Beijing University of Technology,China (Mainland),2021,,,45.1,,,22,
+651-700,Bogazi?i ?niversitesi,Turkey,2021,18.6,37.6,,,,21.6,
+651-700,Central South University,China (Mainland),2021,,,,,,62.3,
+651-700,City University of New York,United States,2021,28.6,,,,,,
+651-700,Edith Cowan University,Australia,2021,,,,62.1,88.2,20.3,
+651-700,Howard University,United States,2021,,,66.5,,,,
+651-700,Jadavpur University,India,2021,,,,,,45.8,
+651-700,Jordan University of Science & Technology,Jordan,2021,,22.7,26.1,,36.1,,
+651-700,Kagoshima University,Japan,2021,,,71.1,,,,
+651-700,Lahore University of Management Sciences (LUMS),Pakistan,2021,,51.7,25.8,,,,
+651-700,Leibniz University Hannover,Germany,2021,20.3,19.3,,29.9,37.7,,
+651-700,National and Kapodistrian University of Athens,Greece,2021,21.5,26,,,,25.3,
+651-700,"National Technical University ""Kharkiv Polytechnic Institute""",Ukraine,2021,,,67.9,,,,
+651-700,Northumbria University at Newcastle,United Kingdom,2021,,21.9,,45.2,48.3,18.6,
+651-700,O.P. Jindal Global University,India,2021,,21.2,53.4,29.6,,,
+651-700,Osaka Prefecture University,Japan,2021,,,55.9,,,19,
+651-700,Pavol Jozef ?af¨¢rik University in Ko?ice,Slovakia,2021,,,63.2,,58.5,,
+651-700,Philipps-Universit?t Marburg,Germany,2021,,,,17.9,26.5,33.3,
+651-700,Pontif¨ªcia Universidade Cat¨®lica do Rio de Janeiro,Brazil,2021,26.2,,,,,,
+651-700,Savitribai Phule Pune University,India,2021,,,48.6,,,,
+651-700,Sejong University,South Korea,2021,,20.7,,24.3,20.1,26.5,
+651-700,Soochow University,China (Mainland),2021,,,,,,50.8,
+651-700,Tallinn University of Technology (TalTech),Estonia,2021,,,27,37.3,28,,
+651-700,Tokyo Metropolitan University,Japan,2021,,,37.8,,,19.5,
+651-700,Universidad An¨¢huac M¨¦xico,Mexico,2021,,33.1,50.9,,,,
+651-700,Universidad de Antioquia,Colombia,2021,24.9,53.3,,,,,
+651-700,Universidad ICESI,Colombia,2021,,,65.3,,,,
+651-700,Universidad Nacional de La Plata (UNLP),Argentina,2021,30,,,,,,
+651-700,Universidad Pontificia Bolivariana,Colombia,2021,,26.9,55.9,,,,
+651-700,Universidad Pontificia Comillas,Spain,2021,,43.9,38.6,17.4,,,
+651-700,Universidad Torcuato Di Tella,Argentina,2021,,30.4,24,28.7,55.6,,
+651-700,Universidade Federal de Minas Gerais,Brazil,2021,27.7,,,,,,
+651-700,University of Genoa,Italy,2021,17.3,,,,,33.7,
+651-700,University of Siena,Italy,2021,,,,,19.6,43.1,
+651-700,University of Hohenheim,Germany,2021,,,,18.9,27.4,48.7,
+651-700,Universiti Teknologi MARA - UiTM,Malaysia,2021,22.7,49.3,,,,,
+651-700,University of Denver,United States,2021,,,50.4,,,19.1,
+651-700,University of Hyderabad,India,2021,,,,,,43.1,
+651-700,University of Massachusetts Boston,United States,2021,,,,,24.2,33.7,
+651-700,University of Mons,Belgium,2021,,,,31.5,32.3,53.4,
+651-700,University of Oklahoma,United States,2021,,,26.4,26.6,,32.3,
+651-700,University of Pecs,Hungary,2021,,,38.5,,70,,
+651-700,University of Plymouth,United Kingdom,2021,,,,50.1,28.6,31.3,
+651-700,University of Westminster,United Kingdom,2021,,,,79.3,100,,
+651-700,Vilnius Gediminas Technical University,Lithuania,2021,,19.1,37.8,,18.7,,
+651-700,Virginia Commonwealth University,United States,2021,,,46.2,,,19.9,
+651-700,William & Mary,United States,2021,,,36.1,,,22,
+701-750,Abu Dhabi University,United Arab Emirates,2021,,,,100,100,,
+701-750,Ajman University,United Arab Emirates,2021,,,,100,100,,
+701-750,Brno University of Technology,Czech Republic,2021,,29.1,25.7,,63.5,,
+701-750,Charles Darwin University,Australia,2021,,,,58.9,88.9,26.7,
+701-750,China Agricultural University,China (Mainland),2021,,,25.2,,,42.1,
+701-750,Chonnam National University,South Korea,2021,,,35.5,,,22.5,
+701-750,Comenius University in Bratislava,Slovakia,2021,,,44.4,,24.5,,
+701-750,Gunma University,Japan,2021,,,61.3,,,,
+701-750,Instituto Polit¨¦cnico Nacional (IPN),Mexico,2021,18,46.8,,,,,
+701-750,Instituto Tecnol¨®gico Aut¨®nomo de M¨¦xico (ITAM),Mexico,2021,,45,,55.8,,,
+701-750,Kansas State University,United States,2021,,,,41.3,,23,
+701-750,Kaohsiung Medical University,"Taiwan,China",2021,,,42.5,,,23.8,
+701-750,Keele University,United Kingdom,2021,,,24.5,49.2,34.3,25.6,
+701-750,Lebanese University,Lebanon,2021,,30.7,,46.6,35,,
+701-750,Louisiana State University,United States,2021,,,,,,38.8,
+701-750,Macau University of Science and Technology,"Macau,China",2021,,,,100,100,19.2,
+701-750,Maynooth University,Ireland,2021,,,,83.3,19.4,18.9,
+701-750,Memorial University of Newfoundland,Canada,2021,,,,29.4,59.1,26.7,
+701-750,Mendel University in Brno,Czech Republic,2021,,,42,,50.7,,
+701-750,Middlesex University,United Kingdom,2021,,,,86.4,79.3,,
+701-750,Nanjing University of Science and Technology,China (Mainland),2021,,,,,,44.2,
+701-750,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",Ukraine,2021,,26.1,41.1,,,,
+701-750,Notre Dame University-Louaize NDU,Lebanon,2021,,23.4,26.4,84.9,25.9,,
+701-750,Riga Technical University,Latvia,2021,,19.8,28.2,17,37.5,,
+701-750,Saint Petersburg Electrotechnical University ETU-LETI,Russia,2021,,,58.6,,50.7,,
+701-750,Southern Methodist University,United States,2021,,,41.3,,27.6,,
+701-750,Stevens Institute of Technology,United States,2021,,,,42.7,95.5,32.1,
+701-750,Sumy State University,Ukraine,2021,,,55.7,,52.5,,
+701-750,Sunway University,Malaysia,2021,,28.4,36.2,42.1,23.8,,
+701-750,Temple University,United States,2021,,,,,,20.8,
+701-750,Universidad Adolfo Ib¨¤?ez,Chile,2021,,63.2,,39.8,,,
+701-750,Universidad de San Andr¨¦s - UdeSA,Argentina,2021,,25.7,54.5,,,,
+701-750,Universidad Iberoamericana IBERO,Mexico,2021,,41.7,25.4,,,,
+701-750,Universidad Peruana Cayetano Heredia (UPCH),Peru,2021,,,51.9,,,,
+701-750,Universidade de Santiago de Compostela,Spain,2021,20,,,,,22.1,
+701-750,Universidade Federal do Rio Grande Do Sul,Brazil,2021,25.5,,,,,,
+701-750,University of Trieste,Italy,2021,,,,,,41.4,
+701-750,Universit?t Rostock,Germany,2021,,,52.6,,17,,
+701-750,Universit¨¦ Claude Bernard Lyon 1,France,2021,19.6,,,,,22.5,
+701-750,Universit¨¦ de Sherbrooke,Canada,2021,,18,25.1,59.1,,19.7,
+701-750,Universiti Tenaga Nasional (UNITEN),Malaysia,2021,,,37,18.9,18.8,,
+701-750,University of Central Florida,United States,2021,,25.7,,,,26.5,
+701-750,University of Electronic Science and Technology of China,China (Mainland),2021,,,,,,58.1,
+701-750,University of Greenwich,United Kingdom,2021,,,,87.3,97.9,,
+701-750,University of Haifa,Israel,2021,,,32.3,,,,
+701-750,University of Houston,United States,2021,,,,,,37.7,
+701-750,University of Huddersfield,United Kingdom,2021,,19.8,,62.7,72.9,,
+701-750,"University of Maryland, Baltimore County",United States,2021,,,,,,36.3,
+701-750,University of Southern Queensland,Australia,2021,,,,72.6,43.4,25.3,
+701-750,Worcester Polytechnic Institute,United States,2021,,,,24.2,48.7,34.8,
+701-750,Zayed University,United Arab Emirates,2021,,,29.7,100,,,
+751-800,Beijing Jiaotong University,China (Mainland),2021,,,,,,25.7,
+751-800,Bournemouth University,United Kingdom,2021,,,,80.6,45.2,21.3,
+751-800,Chongqing University,China (Mainland),2021,,,,,,44,
+751-800,Chungnam National University,South Korea,2021,,,34.6,,,,
+751-800,Clarkson University,United States,2021,,,,29,,38.5,
+751-800,Dankook University,South Korea,2021,,,59.4,,,,
+751-800,Florida International University,United States,2021,,22,,24.5,,,
+751-800,Georgia State University,United States,2021,,19.4,,,,29.5,
+751-800,Indiana University¨CPurdue University Indianapolis,United States,2021,,,34.1,22.1,,,
+751-800,Istanbul Technical University,Turkey,2021,17.6,33.1,,,,,
+751-800,Jamia Millia Islamia,India,2021,,,49.8,,,,
+751-800,Kazakh-British Technical University,Kazakhstan,2021,,,37.8,40.8,,,
+751-800,NJSC KIMEP University,Kazakhstan,2021,,,30.7,82.9,19.9,,
+751-800,London South Bank University,United Kingdom,2021,,,,68.9,92.4,,
+751-800,"Manipal Academy of Higher Education, Manipal, Karnataka, India",India,2021,,,54.5,,,,
+751-800,New Jersey Institute of Technology (NJIT),United States,2021,,,,40.1,52.1,24.2,
+751-800,Northwest University (China),China (Mainland),2021,,,47.7,,,,
+751-800,Nottingham Trent University,United Kingdom,2021,,24.8,,52.4,49.1,,
+751-800,Oklahoma State University,United States,2021,,,,50.8,,19.7,
+751-800,Paris Lodron University of Salzburg,Austria,2021,,,,,96.8,25.3,
+751-800,Plekhanov Russian University of Economics,Russia,2021,,,45.4,,22.6,,
+751-800,Politecnico di Bari,Italy,2021,,,,,,50.8,
+751-800,Prince Mohammad Bin Fahd university,Saudi Arabia,2021,,,,100,21.1,,
+751-800,Universitat Rovira i Virgili,Spain,2021,,,23.9,,24.9,30.6,
+751-800,Rutgers University¨CNewark,United States,2021,,,,32.8,23.5,,
+751-800,Institut Teknologi Sepuluh Nopember (ITS),Indonesia,2021,,18.1,32.5,53.7,,,
+751-800,Southern Cross University,Australia,2021,,,,64.7,73.6,27.7,
+751-800,Technical University of Liberec,Czech Republic,2021,,,53.1,16.9,,,
+751-800,Tokyo University of Science,Japan,2021,,24.3,,,,23.2,
+751-800,Universidad Central de Venezuela,Venezuela,2021,17.6,46.3,,,,,
+751-800,Universidad de Guadalajara (UDG),Mexico,2021,17.1,,32.7,,,,
+751-800,Universidad de La Sabana,Colombia,2021,,47.5,,,,,
+751-800,Universidad San Francisco de Quito (USFQ),Ecuador,2021,,,30.9,64.6,,,
+751-800,University of the Basque Country,Spain,2021,16.7,,30.7,,,,
+751-800,Universidad del Rosario,Colombia,2021,,46.6,,,,,
+751-800,Ca' Foscari University of Venice,Italy,2021,18.2,20.7,,27.6,,,
+751-800,University of Modena and Reggio Emilia,Italy,2021,,,,,,50.5,
+751-800,Universit¨¤ degli Studi di Perugia,Italy,2021,,,,,,45.7,
+751-800,Universit?t Duisburg-Essen,Germany,2021,,,,35.7,47.8,20.4,
+751-800,University Duesseldorf,Germany,2021,,,30.2,,18.1,,
+751-800,Universit¨¦ de Lille,France,2021,26,,,19.6,21,,
+751-800,Universiti Malaysia Pahang,Malaysia,2021,,,,43.8,,,
+751-800,University at Albany SUNY,United States,2021,,,,,,43.2,
+751-800,University of Brescia,Italy,2021,,,,,,51.8,
+751-800,University of Patras,Greece,2021,,17.9,,,,36.3,
+751-800,University of Seoul,South Korea,2021,,,33.1,,,,
+751-800,University of Tulsa,United States,2021,,,41.2,,40.3,,
+751-800,University of Windsor,Canada,2021,,,,,44,56.6,
+801-1000,"Adam Mickiewicz University, Pozna¨½",Poland,2021,,,25.6,,,,
+801-1000,AGH University of Science and Technology,Poland,2021,,,28,,,,
+801-1000,Ain Shams University,Egypt,2021,16.8,19.7,,18.3,,,
+801-1000,Alexandria University,Egypt,2021,16.7,,,,,,
+801-1000,Aligarh Muslim University,India,2021,,,27.1,,,,
+801-1000,Amrita Vishwa Vidyapeetham,India,2021,,,31.1,41.8,,,
+801-1000,Ankara ?niversitesi,Turkey,2021,,,,,,,
+801-1000,Anna University,India,2021,,,,,,45.2,
+801-1000,Athens University of Economics and Business,Greece,2021,,32.5,,,,19.2,
+801-1000,Auburn University,United States,2021,,,,,,21.5,
+801-1000,Australian Catholic University,Australia,2021,,,,60,49,,
+801-1000,Babes-Bolyai University,Romania,2021,,,,,,,
+801-1000,Banaras Hindu University,India,2021,,,,,,,
+801-1000,Bangladesh University of Engineering and Technology,Bangladesh,2021,,22.2,,,,,
+801-1000,Baylor University,United States,2021,,,,,,,
+801-1000,Beijing Foreign Studies University,China (Mainland),2021,,,30.2,33.6,32.5,,
+801-1000,Beirut Arab University,Lebanon,2021,,,,71.8,39.8,,
+801-1000,Belarusian National Technical University (BNTU),Belarus,2021,,26.2,31.7,,,,
+801-1000,Bina Nusantara University (BINUS),Indonesia,2021,,,,,,,
+801-1000,Binghamton University SUNY,United States,2021,,,,,21.1,24.3,
+801-1000,Birmingham City University,United Kingdom,2021,,,,35.5,65.7,,
+801-1000,Budapest University of Technology and Economics,Hungary,2021,,18.9,,,18.6,,
+801-1000,Charles Sturt University,Australia,2021,,,,,87.5,,
+801-1000,Clemson University,United States,2021,,20.1,,,,27.6,
+801-1000,COMSATS University Islamabad,Pakistan,2021,,,,,,,
+801-1000,Corvinus University of Budapest,Hungary,2021,,18.6,,,33.8,,
+801-1000,Cracow University of Technology (Politechnika Krakowska),Poland,2021,,,29.3,,,,
+801-1000,Czech University of Life Sciences in Prague,Czech Republic,2021,,,,25.8,56.2,,
+801-1000,De La Salle University,Philippines,2021,16.6,26.9,,,,,
+801-1000,De Montfort University,United Kingdom,2021,,,,61.6,90.9,,
+801-1000,Edinburgh Napier University,United Kingdom,2021,,,,55.5,82.3,,
+801-1000,Escuela Polit¨¦cnica Nacional,Ecuador,2021,,,35.6,,,,
+801-1000,Fordham University,United States,2021,,,,,29.7,,
+801-1000,Gdansk University of Technology,Poland,2021,,,31.9,,,,
+801-1000,George Mason University,United States,2021,,,,,17.5,21.5,
+801-1000,German Jordanian University,Jordan,2021,,,24.2,58.2,26.2,,
+801-1000,Glasgow Caledonian University,United Kingdom,2021,,,,32.8,41.7,,
+801-1000,Gulf University for Science and Technology,Kuwait,2021,,,,100,17.9,,
+801-1000,Hacettepe University,Turkey,2021,,,,,,,
+801-1000,Harbin Engineering University,China (Mainland),2021,,,35.7,,,22.4,
+801-1000,Islamic University of Madinah,Saudi Arabia,2021,,,,97,100,,
+801-1000,Istanbul University,Turkey,2021,20.6,,,,,,
+801-1000,Karaganda State Technical University,Kazakhstan,2021,,,53.8,,,,
+801-1000,Kasetsart University,Thailand,2021,23.9,20.3,,,,,
+801-1000,Kaunas University of Technology,Lithuania,2021,,,32.2,,,,
+801-1000,Kazakh Ablai Khan University of International Relations and World Languages,Kazakhstan,2021,,,35.6,,,,
+801-1000,Kent State University,United States,2021,,,,18.7,,34.7,
+801-1000,Khon Kaen University,Thailand,2021,,,,,,,
+801-1000,King Faisal University,Saudi Arabia,2021,,,,99.6,,,
+801-1000,King Mongkut's University of Technology Thonburi,Thailand,2021,,,,,,,
+801-1000,Kuwait University,Kuwait,2021,,,,36.7,29.1,,
+801-1000,Kyoto Institute of Technology,Japan,2021,,,24.9,,,,
+801-1000,Kyushu Institute of Technology,Japan,2021,,,,,,33.5,
+801-1000,Lanzhou University,China (Mainland),2021,,,,,,34.9,
+801-1000,Liverpool John Moores University,United Kingdom,2021,,,,45.6,33.4,,
+801-1000,Lodz University of Technology,Poland,2021,,,34.8,,,,
+801-1000,London Metropolitan University,United Kingdom,2021,,,,54.6,99,,
+801-1000,Loyola University Chicago,United States,2021,,,26.7,,,,
+801-1000,Manchester Metropolitan University (MMU),United Kingdom,2021,,,,39.7,38.2,,
+801-1000,Multimedia University (MMU),Malaysia,2021,,,,19.3,23.5,,
+801-1000,Nagoya Institute of Technology (NIT),Japan,2021,,,,,,37.2,
+801-1000,National Chung Cheng University,"Taiwan,China",2021,,,,,,,
+801-1000,Lviv Polytechnic National University,Ukraine,2021,,,48.6,,,,
+801-1000,Nicolaus Copernicus University,Poland,2021,,,41.2,,,,
+801-1000,Novosibirsk State Technical University,Russia,2021,,,25.2,,53.9,,
+801-1000,Ohio University,United States,2021,,,,,,,
+801-1000,Universitas Padjadjaran,Indonesia,2021,,,27.5,,,,
+801-1000,Perm State National Research University,Russia,2021,,,51.1,,,,
+801-1000,Pontificia Universidad Cat¨®lica de Valpara¨ªso,Chile,2021,20.2,27.3,,,,,
+801-1000,Pontificia Universidad Cat¨®lica del Ecuador (PUCE),Ecuador,2021,,,,17.9,,,
+801-1000,Pontif¨ªcia Universidade Cat¨®lica de S?o Paulo,Brazil,2021,,,34.8,,,,
+801-1000,Pozna¨½ University of Technology,Poland,2021,,,25.1,,,,
+801-1000,Prince of Songkla University,Thailand,2021,17.9,,,,,,
+801-1000,Princess Nourah bint Abdulrahman University,Saudi Arabia,2021,,,,73.2,,,
+801-1000,Princess Sumaya University for Technology,Jordan,2021,,,,72.4,29.6,,
+801-1000,"Queen Margaret University , Edinburgh",United Kingdom,2021,,,,48.6,87.8,,
+801-1000,Rhodes University,South Africa,2021,,,,,41.1,23,
+801-1000,Riga Stradins University,Latvia,2021,,,,,78.5,,
+801-1000,Ritsumeikan University,Japan,2021,,48.5,,27.2,,,
+801-1000,Ryerson University,Canada,2021,,25.2,,,,36.3,
+801-1000,Saitama University,Japan,2021,,,,,,23.4,
+801-1000,San Diego State University,United States,2021,,,,,,33.6,
+801-1000,Shanghai International Studies University,China (Mainland),2021,,,26.9,46,48.9,,
+801-1000,Sheffield Hallam University,United Kingdom,2021,,21,,29.4,17.3,,
+801-1000,Shinshu University,Japan,2021,,,39.4,,,19.5,
+801-1000,Shiraz University,"Iran, Islamic Republic of",2021,,,,,,43.4,
+801-1000,Silesian University of Technology,Poland,2021,,,34.3,,,,
+801-1000,Slovak University of Technology in Bratislava,Slovakia,2021,,,41.1,,,,
+801-1000,Sophia University,Japan,2021,,18.4,,34.3,24.9,,
+801-1000,South Ural State University (National Research University),Russia,2021,,,43.4,,21.2,,
+801-1000,Szent Istvan University,Hungary,2021,,,40.5,,29.2,,
+801-1000,Tallinn University,Estonia,2021,,,,29.2,25.7,,
+801-1000,Technical University of Kosice,Slovakia,2021,,,25.3,,27.7,,
+801-1000,TU Dortmund University,Germany,2021,,,,21.1,,,
+801-1000,Technological University Dublin,Ireland,2021,,,,41,44.4,,
+801-1000,Tecnol¨®gico de Costa Rica -TEC,Costa Rica,2021,,35.7,25.3,,,,
+801-1000,Texas Tech University,United States,2021,,,,23,,19.8,
+801-1000,Robert Gordon University,United Kingdom,2021,,,,56.3,44.9,,
+801-1000,Russian Presidential Academy of National Economy and Public Administration,Russia,2021,,,53.2,,,,
+801-1000,Tokai University,Japan,2021,,,,,,,
+801-1000,Universidad Austral de Chile,Chile,2021,,,,19.2,,,
+801-1000,Universidad Aut¨®noma de Chapingo,Mexico,2021,,,59.1,,,,
+801-1000,Universidad Aut¨®noma del Estado de M¨¦xico (UAEMex),Mexico,2021,20.2,,,,,,
+801-1000,Universidad Aut¨®noma Metropolitana (UAM),Mexico,2021,21.6,,,,,,
+801-1000,Universidad Cat¨®lica Andres Bello,Venezuela,2021,18.9,46.8,,,,,
+801-1000,Universidad Cat¨®lica del Uruguay (UCU),Uruguay,2021,,,34.1,,,,
+801-1000,University of Alicante,Spain,2021,,,27.9,,,,
+801-1000,Universidad de la Rep¨²blica (Udelar),Uruguay,2021,18.1,18.5,,,,,
+801-1000,Universidad de las Am¨¦ricas Puebla (UDLAP),Mexico,2021,,18.4,28.6,40.3,,,
+801-1000,Universidad de los Andes - Chile,Chile,2021,,24.7,,,,,
+801-1000,Universidad de los Andes - (ULA) M¨¦rida,Venezuela,2021,,19,,,,,
+801-1000,University of Murcia,Spain,2021,,,29.2,,,,
+801-1000,Universidad de Oviedo,Spain,2021,,,,,,19.3,
+801-1000,Universidad del Valle,Colombia,2021,,22.4,,,,,
+801-1000,Universidad Diego Portales (UDP),Chile,2021,,30.6,,,,,
+801-1000,Universidad EAFIT,Colombia,2021,,53.9,,,,,
+801-1000,Universidad Nacional Costa Rica,Costa Rica,2021,,19.9,,18,,,
+801-1000,Universidad Nacional de C¨®rdoba - UNC,Argentina,2021,19,,,,,,
+801-1000,Universidad Nacional de Rosario (UNR),Argentina,2021,17.1,,,,,,
+801-1000,Universidad Nacional de San Luis,Argentina,2021,,,41.4,,,,
+801-1000,Universidad Nacional Mayor de San Marcos,Peru,2021,,33.8,,,,,
+801-1000,Universidad Sim¨®n Bol¨ªvar (USB),Venezuela,2021,,32,,,,,
+801-1000,Universidad T¨¦cnica Federico Santa Mar¨ªa (USM),Chile,2021,,42,,,,,
+801-1000,Universidad Tecnol¨®gica de Panam¨¢ (UTP),Panama,2021,,26.3,24.9,,,,
+801-1000,Universidad Tecnol¨®gica Nacional (UTN),Argentina,2021,,30.2,41.8,,,,
+801-1000,Universidade Cat¨®lica Portuguesa - UCP,Portugal,2021,,22.5,,,18.1,,
+801-1000,Universidade da Coru?a,Spain,2021,,,30.8,,,,
+801-1000,Universidade de Bras¨ªlia,Brazil,2021,21,,,,,,
+801-1000,Universidade Federal de Santa Catarina,Brazil,2021,17,,,,,,
+801-1000,Universidade Federal de S?o Carlos (UFSCar),Brazil,2021,,,,,,18.5,
+801-1000,Universidade Federal do Paran¨¢ - UFPR,Brazil,2021,,,,,,,
+801-1000,Universidade Federal de Pernambuco (UFPE),Brazil,2021,,,25.2,,,,
+801-1000,Catania University,Italy,2021,,,,,,33.8,
+801-1000,Universita' degli Studi di Ferrara,Italy,2021,,,,,,49.8,
+801-1000,University of Salerno,Italy,2021,,,,,,35.2,
+801-1000,Universit¨¤ degli Studi di Udine,Italy,2021,,,,,,29,
+801-1000,Universit¨¤ degli studi Roma Tre,Italy,2021,18.5,,,,,,
+801-1000,University of Calabria,Italy,2021,,,,,,32.9,
+801-1000,Universita' Politecnica delle Marche,Italy,2021,,,,,,42.1,
+801-1000,University of Palermo,Italy,2021,,,,,,28.8,
+801-1000,Bielefeld University,Germany,2021,,,,24.2,,,
+801-1000,Universit?t Potsdam,Germany,2021,,,,,21.6,,
+801-1000,Universit¨¦ de Lorraine,France,2021,,,,23.5,40.4,,
+801-1000,Universit¨¦ de Nantes,France,2021,,,,18.3,18,,
+801-1000,Universit¨¦ de Rennes 1,France,2021,,,,,,,
+801-1000,Universit¨¦ de Versailles Saint-Quentin-en-Yvelines (UVSQ),France,2021,,,,25.8,18.6,28.7,
+801-1000,Paul Val¨¦ry University Montpellier,France,2021,,,,17.1,82.9,,
+801-1000,Universit¨¦ Toulouse 1 Capitole,France,2021,,,,33.7,58,,
+801-1000,Universiti Malaysia Sarawak (UNIMAS),Malaysia,2021,,,,36.1,,,
+801-1000,Universiti Tunku Abdul Rahman (UTAR),Malaysia,2021,,27.6,,,,,
+801-1000,Universiti Malaysia Perlis,Malaysia,2021,,,46.3,,,,
+801-1000,The University of Alabama,United States,2021,,22.1,,,,,
+801-1000,University of Baghdad,Iraq,2021,,,35.2,,,,
+801-1000,University of Bahrain,Bahrain,2021,,,,98.8,29.9,,
+801-1000,University of Bari,Italy,2021,,,,,,27.1,
+801-1000,University of Brighton,United Kingdom,2021,,,,54.2,54.3,,
+801-1000,University of Bucharest,Romania,2021,,,,,,,
+801-1000,University of Calcutta,India,2021,,,,,,21.3,
+801-1000,University of Central Lancashire,United Kingdom,2021,,,,31.2,47.7,,
+801-1000,University of Crete,Greece,2021,,,,,,31.1,
+801-1000,University of Dhaka,Bangladesh,2021,,31.5,,,,,
+801-1000,University of East London,United Kingdom,2021,,,,78.3,94.5,,
+801-1000,University of Engineering & Technology (UET) Lahore,Pakistan,2021,,36.6,,,,,
+801-1000,UNIVERSITY OF GDANSK,Poland,2021,,,24.9,,,,
+801-1000,University of Hertfordshire,United Kingdom,2021,,,,53.7,86.9,,
+801-1000,University of Kufa,Iraq,2021,,,36.8,,,,
+801-1000,University of Kwazulu-Natal,South Africa,2021,,,,30.6,,19.4,
+801-1000,University of Latvia,Latvia,2021,,,,18.3,,,
+801-1000,University of Lincoln,United Kingdom,2021,,,,77.3,,,
+801-1000,University of Lodz,Poland,2021,,,32.7,,,,
+801-1000,Universiti Malaysia Sabah (UMS),Malaysia,2021,,,,21.6,,,
+801-1000,University of Malta,Malta,2021,,,44.7,17.7,,,
+801-1000,University of Maribor,Slovenia,2021,,,38.3,,,,
+801-1000,University of Miskolc,Hungary,2021,,,34.1,,,,
+801-1000,University of Mississippi,United States,2021,,,37.4,,,,
+801-1000,University of New England Australia,Australia,2021,,,,,,26.9,
+801-1000,University of New Hampshire,United States,2021,,,,,,36.8,
+801-1000,University of Pardubice,Czech Republic,2021,,,32.4,,,,
+801-1000,University of Parma,Italy,2021,,,,,,40.1,
+801-1000,University of Rijeka,Croatia,2021,,,37.6,,,,
+801-1000,University of Salford,United Kingdom,2021,,,,36,47,,
+801-1000,University of San Diego,United States,2021,,,26.2,,,,
+801-1000,University of Santo Tomas,Philippines,2021,,,,29.7,,,
+801-1000,University of the Pacific,United States,2021,,,41.8,,,,
+801-1000,University of the Punjab,Pakistan,2021,,32.2,,,,,
+801-1000,University of the West of England,United Kingdom,2021,,,,42.7,53.4,,
+801-1000,University of Wroclaw,Poland,2021,,,,,,,
+801-1000,University of Wyoming,United States,2021,,,,,,39.6,
+801-1000,University of Zagreb,Croatia,2021,,,32.3,,,,
+801-1000,Utah State University,United States,2021,,,,,,32.8,
+801-1000,Verona University,Italy,2021,,,,,,26.9,
+801-1000,Viet Nam National University Ho Chi Minh City (VNU-HCM),Vietnam,2021,20.4,,,,,,
+801-1000,"Vietnam National University, Hanoi",Vietnam,2021,,,,,,,
+801-1000,Vytautas Magnus University,Lithuania,2021,,,,27.6,18.7,,
+801-1000,Wroclaw University of Science and Technology (WRUST),Poland,2021,,,29.8,,,,
+801-1000,Wuhan University of Technology,China (Mainland),2021,,,,,,23.4,
+801-1000,Xi'an Jiaotong Liverpool University,China (Mainland),2021,,,,100,,,
+801-1000,Yamaguchi University,Japan,2021,,,48.9,,,,
+801-1000,Yeungnam University,South Korea,2021,,,,22.2,,27.5,
+801-1000,Yokohama National University,Japan,2021,,,24.6,,,,
