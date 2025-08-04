@@ -1,7 +1,8 @@
-# uni_ranking_analysis
+# uni-ranking-analysis
+
 An analysis of university ranking systems via unsupervised machine learning
 
-Data_Cleaning_QS/THE.ipynb : Data cleaning for different rankings
+Data_Cleaning_QS/THE.ipynb :  Data cleaning for different rankings
 
 Data_Imputation_RF/XGBoost/Bayes.ipynb: Data imputation using different methods
 
